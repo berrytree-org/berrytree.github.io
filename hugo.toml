@@ -6,6 +6,13 @@ theme = 'hugo-book'
 enableRobotsTXT = true
 enableGitInfo = false
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      # Allow raw HTML in markdown (needed for hero banner div, email shortcodes)
+      # SECURITY: only trusted content authors edit these files
+      unsafe = true
+
 [params]
   description = "Robert and Elizabeth Cate Berry Genealogy"
   author = "Berrytree.org"
@@ -58,6 +65,10 @@ enableGitInfo = false
     url = "/contact/"
     weight = 8
   [[menu.before]]
+    name = "Resources"
+    url = "/resources/"
+    weight = 9
+  [[menu.before]]
     name = "About"
     url = "/about/"
-    weight = 9
+    weight = 10

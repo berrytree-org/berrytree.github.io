@@ -1,0 +1,13 @@
+{{/*
+  email shortcode — Sherlock's anti-spam email obfuscation
+  Usage: {{< email address="berrytree@thgnetworks.com" label="Contact Us" >}}
+  Renders the email via JavaScript decode so bots can't harvest it from HTML source.
+  Falls back to a "enable JavaScript" message for bots/no-JS browsers.
+*/}}
+{{ $addr := .Get "address" }}
+{{ $label := .Get "label" | default (.Get "address") }}
+{{ $encoded := $addr | base64Encode }}
+<span class="email-link-wrap">
+  <a href="#" class="email-obf" data-e="{{ $encoded }}" onclick="this.href='mailto:'+atob(this.dataset.e);return true;">{{ $label }}</a>
+  <noscript><span class="email-protect">[enable JavaScript to view email]</span></noscript>
+</span>

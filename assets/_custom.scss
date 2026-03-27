@@ -268,12 +268,273 @@ hr {
   opacity: 0.5;
 }
 
-// -- Responsive: collapse to solid panel on narrow screens --
-@media (max-width: 768px) {
-  .book-menu .book-menu-content {
-    background-color: rgba(245, 240, 232, 0.96);
+// =============================================================
+// HOMEPAGE HERO BANNER — Richard's request
+// =============================================================
+
+.site-hero {
+  width: 100%;
+  margin-bottom: 1.5em;
+  position: relative;
+
+  .hero-banner {
+    width: 100%;
+    height: auto;
+    display: block;
+    border-bottom: 3px solid $forest-mid;
   }
 
+  .hero-caption {
+    background-color: rgba(29, 46, 29, 0.82);
+    padding: 0.5em 1em;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: 'Cinzel', serif;
+    color: $white-soft;
+    font-size: 0.9rem;
+    letter-spacing: 0.04em;
+    text-align: center;
+
+    .hero-sub {
+      font-size: 0.78rem;
+      font-family: 'Source Serif 4', serif;
+      font-style: italic;
+      color: rgba(248, 245, 239, 0.72);
+      margin-top: 2px;
+    }
+  }
+}
+
+// =============================================================
+// VINCENT'S IMPROVEMENT #1 — Decorative leaf dividers
+// Replace plain <hr> with a forest ornament
+// =============================================================
+
+hr {
+  border: none;
+  margin: 2em auto;
+  text-align: center;
+  overflow: visible;
+  height: 1px;
+  background: linear-gradient(to right, transparent, $forest-mid, transparent);
+
+  &::after {
+    content: "✦";
+    display: inline-block;
+    position: relative;
+    top: -0.6em;
+    padding: 0 0.5em;
+    background: transparent;
+    color: $forest-mid;
+    font-size: 0.85em;
+  }
+}
+
+// =============================================================
+// VINCENT'S IMPROVEMENT #2 — Generation badges
+// Style bold Gen-N markers in ancestor pages
+// =============================================================
+
+strong:has(+ a),
+p > strong:first-child {
+  // subtle styling hook — actual gen badges use the class below
+}
+
+.gen-badge {
+  display: inline-block;
+  background-color: $forest-dark;
+  color: $white-soft;
+  font-family: 'Cinzel', serif;
+  font-size: 0.7rem;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  padding: 1px 7px;
+  border-radius: 3px;
+  margin-right: 5px;
+  vertical-align: middle;
+  text-transform: uppercase;
+}
+
+// Auto-style "Gen N" spans inside ancestor content
+.book-article {
+  li strong:first-child,
+  p > strong:first-child {
+    &[data-gen] {
+      @extend .gen-badge;
+    }
+  }
+}
+
+// =============================================================
+// VINCENT'S IMPROVEMENT #3 — Table enhancements
+// Stripe and shade tables more elegantly; add caption style
+// =============================================================
+
+.book-article {
+  table {
+    border-left: 3px solid $forest-dark;
+    box-shadow: 2px 2px 6px rgba(0,0,0,0.08);
+
+    caption {
+      font-family: 'Cinzel', serif;
+      font-size: 0.82rem;
+      color: $forest-dark;
+      letter-spacing: 0.04em;
+      margin-bottom: 0.4em;
+      text-align: left;
+    }
+  }
+
+  // First column emphasis in data tables
+  table td:first-child {
+    font-weight: 600;
+    color: $bark-brown;
+  }
+}
+
+// =============================================================
+// SHERLOCK — Email obfuscation display helper
+// .email-protect renders via CSS, not in plain HTML source
+// =============================================================
+
+.email-protect {
+  unicode-bidi: bidi-override;
+  direction: rtl;
+  display: inline-block;
+  user-select: all;
+  letter-spacing: 0;
+}
+
+// =============================================================
+// MOBILE HAMBURGER MENU — Lila + Terry
+// Hugo Book has the checkbox toggle built in;
+// we style it properly for the forest theme.
+// =============================================================
+
+// The mobile header bar (hidden on desktop, visible on mobile)
+.book-header {
+  background-color: rgba(29, 46, 29, 0.94);
+  backdrop-filter: blur(3px);
+  -webkit-backdrop-filter: blur(3px);
+  padding: 0.6em 1em;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: 2px solid $forest-mid;
+
+  // Mobile site title in header bar
+  &::after {
+    content: "Berrytree.org";
+    font-family: 'Cinzel', serif;
+    font-size: 1rem;
+    color: $white-soft;
+    letter-spacing: 0.04em;
+    flex: 1;
+    text-align: center;
+    pointer-events: none;
+  }
+
+  // Hamburger icon labels
+  label {
+    cursor: pointer;
+    color: $white-soft;
+    padding: 6px;
+    border-radius: 4px;
+    transition: background 0.2s;
+    z-index: 10;
+
+    &:hover, &:active {
+      background-color: rgba(255,255,255,0.12);
+    }
+
+    // Style the SVG icons inside labels
+    svg {
+      fill: $white-soft;
+      width: 22px;
+      height: 22px;
+    }
+  }
+}
+
+// Sidebar slide-in on mobile
+@media (max-width: #{768px}) {
+  // Make sidebar overlay properly
+  .book-menu {
+    position: fixed;
+    top: 0;
+    left: -100%;
+    height: 100vh;
+    width: 80vw;
+    max-width: 300px;
+    z-index: 100;
+    transition: left 0.28s cubic-bezier(0.4, 0, 0.2, 1);
+    box-shadow: none;
+
+    .book-menu-content {
+      background-color: rgba(240, 234, 220, 0.98);
+      height: 100%;
+      overflow-y: auto;
+      padding-top: 1em;
+    }
+  }
+
+  // When checkbox is checked, slide sidebar in
+  #menu-control:checked ~ * .book-menu,
+  #menu-control:checked ~ .book-menu {
+    left: 0;
+    box-shadow: 4px 0 20px rgba(0,0,0,0.35);
+  }
+
+  // Overlay behind open sidebar
+  #menu-control:checked ~ .book-page .book-menu-overlay {
+    display: block;
+    position: fixed;
+    inset: 0;
+    background: rgba(0,0,0,0.45);
+    z-index: 99;
+  }
+
+  .book-page {
+    background-color: rgba(245, 240, 232, 0.97);
+    width: 100%;
+    min-height: 100vh;
+  }
+
+  // TOC collapses on mobile
+  .book-toc {
+    display: none;
+  }
+
+  // Hero banner adjustments for small screens
+  .site-hero .hero-caption {
+    font-size: 0.78rem;
+  }
+
+  // Site banner adjustments
+  .site-banner {
+    padding: 8px 12px;
+
+    img.site-logo {
+      height: 44px;
+    }
+
+    .site-title {
+      font-size: 1.1rem;
+    }
+
+    .site-subtitle {
+      font-size: 0.72rem;
+    }
+  }
+
+  .book-menu .book-menu-content {
+    background-color: rgba(245, 240, 232, 0.98);
+  }
+}
+
+// Responsive: solid panel on narrow screens (tablet/phone)
+@media (max-width: 768px) {
   .book-page {
     background-color: rgba(245, 240, 232, 0.96);
   }
