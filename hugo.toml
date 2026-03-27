@@ -57,3 +57,7 @@ enableGitInfo = false
     name = "Contact"
     url = "/contact/"
     weight = 8
+  [[menu.before]]
+    name = "About"
+    url = "/about/"
+    weight = 9
