@@ -1,0 +1,59 @@
+baseURL = 'https://berrytree.org/'
+languageCode = 'en-us'
+title = 'Berrytree.org'
+theme = 'hugo-book'
+
+enableRobotsTXT = true
+enableGitInfo = false
+
+[params]
+  description = "Robert and Elizabeth Cate Berry Genealogy"
+  author = "Berrytree.org"
+
+  # Hugo Book settings
+  BookTheme = 'light'
+  BookToC = true
+  BookSearch = true
+  BookCollapseSection = true
+  BookComments = false
+  BookPortableLinks = false
+  BookRepo = ''
+
+[taxonomies]
+  tag = "tags"
+  family = "families"
+  period = "periods"
+
+[menu]
+  [[menu.before]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.before]]
+    name = "Timelines"
+    url = "/timelines/"
+    weight = 2
+  [[menu.before]]
+    name = "Ancestors"
+    url = "/ancestors/"
+    weight = 3
+  [[menu.before]]
+    name = "DNA"
+    url = "/dna/"
+    weight = 4
+  [[menu.before]]
+    name = "Documents"
+    url = "/documents/"
+    weight = 5
+  [[menu.before]]
+    name = "Books"
+    url = "/books/"
+    weight = 6
+  [[menu.before]]
+    name = "Indexes"
+    url = "/indexes/"
+    weight = 7
+  [[menu.before]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 8

@@ -1,0 +1,45 @@
+name: Deploy Berrytree.org to GitHub Pages
+
+on:
+  push:
+    branches:
+      - master
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Hugo
+        # SECURITY: Pin to specific version. Update intentionally when upgrading Hugo.
+        # TODO: Replace @v3 tag with full commit SHA for stronger supply-chain security.
+        # Find SHA at: https://github.com/peaceiris/actions-hugo/releases
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: '0.155.2'  # pinned — do not change to 'latest'
+          extended: true           # required for SCSS processing (forest skin)
+
+      - name: Build site
+        run: hugo --minify --gc
+
+      - name: Deploy to gh-pages branch
+        # SECURITY: TODO — replace @v4 tag with full commit SHA for supply-chain security.
+        # Find SHA at: https://github.com/peaceiris/actions-gh-pages/releases
+        # ACCEPTED RISK: permissions: contents: write is required for this action to push.
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
+          publish_branch: gh-pages  # source stays on master; built output goes here
+          force_orphan: true        # gh-pages contains only the built site, no history
+          keep_files: false
+          cname: berrytree.org
