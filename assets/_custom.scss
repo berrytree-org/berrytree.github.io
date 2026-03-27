@@ -157,54 +157,6 @@ blockquote {
   color: $bark-mid;
 }
 
-// -- Site banner (logo + title) --
-.site-banner {
-  width: 100%;
-  background-color: rgba(29, 46, 29, 0.88);
-  backdrop-filter: blur(3px);
-  -webkit-backdrop-filter: blur(3px);
-  border-bottom: 3px solid $forest-mid;
-  padding: 12px 20px;
-  display: flex;
-  align-items: center;
-  gap: 16px;
-
-  img.site-logo {
-    height: 64px;
-    width: auto;
-  }
-
-  .site-title-block {
-    display: flex;
-    flex-direction: column;
-    flex: 1;              // stretch to fill banner width so centering has room to work
-    text-align: center;
-    align-items: center;
-  }
-
-  .site-title {
-    font-family: 'Cinzel', serif;
-    font-size: 1.6rem;
-    font-weight: 600;
-    color: $white-soft;
-    letter-spacing: 0.04em;
-    text-shadow: 0 1px 3px rgba(0,0,0,0.6);
-    text-decoration: none;
-
-    &:hover {
-      color: $white-soft;
-      text-decoration: none;
-    }
-  }
-
-  .site-subtitle {
-    font-family: 'Source Serif 4', serif;
-    font-size: 0.85rem;
-    color: rgba(248, 245, 239, 0.75);
-    font-style: italic;
-    margin-top: 2px;
-  }
-}
 
 // -- Footer --
 .site-license {
@@ -512,23 +464,6 @@ p > strong:first-child {
   // Hero banner adjustments for small screens
   .site-hero .hero-caption {
     font-size: 0.78rem;
-  }
-
-  // Site banner adjustments
-  .site-banner {
-    padding: 8px 12px;
-
-    img.site-logo {
-      height: 44px;
-    }
-
-    .site-title {
-      font-size: 1.1rem;
-    }
-
-    .site-subtitle {
-      font-size: 0.72rem;
-    }
   }
 
   .book-menu .book-menu-content {
