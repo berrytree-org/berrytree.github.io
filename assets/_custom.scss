@@ -177,6 +177,7 @@ blockquote {
   .site-title-block {
     display: flex;
     flex-direction: column;
+    flex: 1;              // stretch to fill banner width so centering has room to work
     text-align: center;
     align-items: center;
   }
