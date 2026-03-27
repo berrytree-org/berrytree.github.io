@@ -1,8 +1,10 @@
 ---
-title: "DNA Overview"
+title: "DNA"
 weight: 1
 ---
 
-# DNA Overview
+Here are our DNA pages
 
-*Content to be migrated from source site.*
+[DNA Information Page 1](http://dnapage/)
+
+[DNA Information Page 2](http://dnapagetwo/)
