@@ -1,0 +1,280 @@
+// =============================================================
+// Berrytree.org — Forest/Green Skin
+// Custom CSS override for Hugo Book theme
+// Owner: Lila (Chief Web Designer & Architect)
+// Preserves the original berrytree.org forest/nature aesthetic
+// =============================================================
+
+// -- Google Fonts --
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,600;0,700;1,400;1,600&family=Cinzel:wght@400;600&family=Source+Serif+4:ital,wght@0,400;0,600;1,400&display=swap');
+
+// -- Forest Color Palette --
+$forest-deep:        #1a2e1a;   // very dark green — page background fallback
+$forest-dark:        #2d4a2d;   // dark forest green — sidebar, accents
+$forest-mid:         #3d6b3d;   // medium green — borders, rules
+$forest-light:       #5a8f5a;   // lighter green — hover, secondary accents
+$bark-brown:         #4a3728;   // warm bark — headings, ink
+$bark-mid:           #6b5040;   // medium bark — secondary text
+$bark-light:         #8a6a58;   // light bark — captions, metadata
+$cream-bg:           #f5f0e8;   // warm cream — content panel background
+$cream-mid:          #ede5d5;   // slightly darker cream — panel accents
+$cream-border:       #c8b99a;   // aged border color
+$accent-gold:        #8a7040;   // autumn gold — links, accents
+$accent-gold-hover:  #a08840;   // slightly brighter gold — hover state
+$white-soft:         #f8f5ef;   // near-white — text on dark backgrounds
+
+// -- Base Page --
+body {
+  background-color: $forest-deep;                 // dark fallback while image loads
+  background-image: url('/images/forest-background.jpg');
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center center;
+  color: $bark-brown;
+  font-family: 'Source Serif 4', 'Lora', Georgia, serif;
+  font-size: 16px;
+  line-height: 1.8;
+}
+
+// -- Sidebar --
+.book-menu {
+  background-color: transparent;
+  border-right: none;
+
+  // Frosted forest panel — blurs background, keeps it visible
+  .book-menu-content {
+    background-color: rgba(245, 240, 232, 0.42);
+    backdrop-filter: blur(4px) brightness(1.06);
+    -webkit-backdrop-filter: blur(4px) brightness(1.06);
+    border-right: 2px solid $forest-mid;
+    height: 100%;
+  }
+
+  nav {
+    font-family: 'Cinzel', 'Lora', serif;
+    font-size: 0.85rem;
+  }
+
+  a {
+    color: $forest-dark;
+    font-weight: 600;
+    text-shadow: 0 0 6px rgba(245, 240, 232, 0.95),
+                 0 1px 3px rgba(245, 240, 232, 0.85);
+
+    &:hover {
+      color: $forest-light;
+      text-decoration: none;
+      text-shadow: 0 0 6px rgba(245, 240, 232, 0.95);
+    }
+
+    &.active {
+      color: $forest-light;
+      font-weight: 700;
+    }
+  }
+}
+
+// -- Headings --
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Cinzel', 'Lora', Georgia, serif;
+  color: $forest-dark;
+  letter-spacing: 0.02em;
+}
+
+h1 {
+  font-size: 2rem;
+  border-bottom: 2px solid $forest-mid;
+  padding-bottom: 0.4em;
+  margin-bottom: 0.8em;
+}
+
+h2 {
+  font-size: 1.5rem;
+  border-bottom: 1px solid $cream-border;
+  padding-bottom: 0.2em;
+}
+
+// -- Main content area --
+.book-page {
+  background-color: rgba(245, 240, 232, 0.88);
+  backdrop-filter: blur(2px);
+  -webkit-backdrop-filter: blur(2px);
+  border-left: 1px solid $cream-border;
+  border-right: 1px solid $cream-border;
+}
+
+// -- Links --
+a {
+  color: $accent-gold;
+  text-decoration: none;
+
+  &:hover {
+    color: $accent-gold-hover;
+    text-decoration: underline;
+  }
+}
+
+// -- Tables --
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 1.5em 0;
+  font-size: 0.9rem;
+
+  th {
+    background-color: $forest-dark;
+    color: $white-soft;
+    font-family: 'Cinzel', serif;
+    font-weight: 600;
+    padding: 0.6em 0.8em;
+    border: 1px solid $forest-mid;
+    letter-spacing: 0.03em;
+  }
+
+  td {
+    padding: 0.5em 0.8em;
+    border: 1px solid $cream-border;
+    color: $bark-brown;
+    background-color: rgba(255,255,255,0.5);
+  }
+
+  tr:nth-child(even) td {
+    background-color: rgba(213, 200, 180, 0.35);
+  }
+
+  tr:hover td {
+    background-color: rgba(90, 143, 90, 0.12);
+  }
+}
+
+// -- Blockquotes --
+blockquote {
+  border-left: 4px solid $forest-mid;
+  background-color: rgba(213, 200, 180, 0.3);
+  padding: 0.8em 1.2em;
+  margin: 1.5em 0;
+  font-style: italic;
+  color: $bark-mid;
+}
+
+// -- Site banner (logo + title) --
+.site-banner {
+  width: 100%;
+  background-color: rgba(29, 46, 29, 0.88);
+  backdrop-filter: blur(3px);
+  -webkit-backdrop-filter: blur(3px);
+  border-bottom: 3px solid $forest-mid;
+  padding: 12px 20px;
+  display: flex;
+  align-items: center;
+  gap: 16px;
+
+  img.site-logo {
+    height: 64px;
+    width: auto;
+  }
+
+  .site-title-block {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .site-title {
+    font-family: 'Cinzel', serif;
+    font-size: 1.6rem;
+    font-weight: 600;
+    color: $white-soft;
+    letter-spacing: 0.04em;
+    text-shadow: 0 1px 3px rgba(0,0,0,0.6);
+    text-decoration: none;
+
+    &:hover {
+      color: $white-soft;
+      text-decoration: none;
+    }
+  }
+
+  .site-subtitle {
+    font-family: 'Source Serif 4', serif;
+    font-size: 0.85rem;
+    color: rgba(248, 245, 239, 0.75);
+    font-style: italic;
+    margin-top: 2px;
+  }
+}
+
+// -- Footer --
+.site-license {
+  margin-top: 2em;
+  padding-top: 1em;
+  border-top: 1px solid $cream-border;
+  font-size: 0.8rem;
+  color: $bark-light;
+  font-style: italic;
+  text-align: center;
+
+  a {
+    color: $accent-gold;
+  }
+}
+
+// -- Table of Contents sidebar --
+.book-toc {
+  .book-toc-content {
+    background-color: rgba(245, 240, 232, 0.42);
+    backdrop-filter: blur(4px);
+    -webkit-backdrop-filter: blur(4px);
+    border-left: 2px solid $forest-mid;
+  }
+
+  nav {
+    font-size: 0.85rem;
+  }
+
+  a {
+    color: $bark-mid;
+
+    &:hover {
+      color: $forest-dark;
+    }
+  }
+}
+
+// -- Search --
+.book-search input {
+  border: 1px solid $forest-mid;
+  background-color: rgba(245, 240, 232, 0.7);
+  color: $bark-brown;
+  font-family: 'Source Serif 4', serif;
+
+  &:focus {
+    outline: 2px solid $forest-light;
+    background-color: rgba(245, 240, 232, 0.95);
+  }
+}
+
+// -- Code blocks --
+code, pre {
+  background-color: rgba(29, 46, 29, 0.08);
+  border: 1px solid $cream-border;
+  font-size: 0.88em;
+}
+
+// -- Horizontal rules --
+hr {
+  border: none;
+  border-top: 1px solid $forest-mid;
+  margin: 2em 0;
+  opacity: 0.5;
+}
+
+// -- Responsive: collapse to solid panel on narrow screens --
+@media (max-width: 768px) {
+  .book-menu .book-menu-content {
+    background-color: rgba(245, 240, 232, 0.96);
+  }
+
+  .book-page {
+    background-color: rgba(245, 240, 232, 0.96);
+  }
+}
