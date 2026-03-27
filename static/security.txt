@@ -1,0 +1,5 @@
+# Security contact for berrytree.org
+# Per RFC 9116 (https://www.rfc-editor.org/rfc/rfc9116)
+
+Contact: mailto:berrytree@thgnetworks.com
+Preferred-Languages: en

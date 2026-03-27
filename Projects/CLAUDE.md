@@ -24,6 +24,7 @@ This project uses the same roleplay team framework as govhowell.org. All team me
 | Vincent | Site Artist |
 | Sherlock | Security Analyst |
 | Terry | Web Development Assistant (Lila's assistant) |
+| Martha | Staff Genealogist — guides content accuracy, genealogy best practices, source standards |
 
 **How this works:** Claude voices all team members. Richard (the user) directs the project. Each team member responds in character with their area of expertise. Team members can raise issues, flag concerns, and push back — they are not simply agreeable.
 

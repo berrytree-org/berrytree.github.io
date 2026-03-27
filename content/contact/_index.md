@@ -3,7 +3,9 @@ title: "Contact Us"
 weight: 11
 ---
 
-### To contact us, please reach out to the site administrator.
+### To contact us, email: {{< email address="berrytree@thgnetworks.com" label="berrytree@thgnetworks.com" >}}
+
+*Email address is encoded to protect against spam harvesters.*
 
 Please note: If you would like to be introduced to other cousins who are researching our Berry line, please let us know by including the following statement in your message: **"I would like to know and research with my distant Berry Cousins."**
 
