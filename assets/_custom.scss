@@ -369,11 +369,11 @@ p > strong:first-child {
 
 // The mobile header bar (hidden on desktop, visible on mobile)
 .book-header {
+  display: none;  // hidden on desktop; enabled inside mobile media query below
   background-color: rgba(29, 46, 29, 0.94);
   backdrop-filter: blur(3px);
   -webkit-backdrop-filter: blur(3px);
   padding: 0.6em 1em;
-  display: flex;
   align-items: center;
   justify-content: space-between;
   border-bottom: 2px solid $forest-mid;
@@ -414,6 +414,10 @@ p > strong:first-child {
 
 // Sidebar slide-in on mobile
 @media (max-width: #{768px}) {
+  .book-header {
+    display: flex;
+  }
+
   // Make sidebar overlay properly
   .book-menu {
     position: fixed;
