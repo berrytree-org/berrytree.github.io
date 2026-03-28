@@ -7,7 +7,7 @@ weight: 2
 
 ### **Ancestors:**
 
-Generation 1 [Robert and Elizabeth Cate Berry](../robert-berry-oc/index.html)
+Generation 1 [Robert and Elizabeth Cate Berry](/ancestors/robert-berry-oc/)
 
 Mary Berry born cir 1760 – 1812
 Family Tree
@@ -39,17 +39,17 @@ Family Tree
 Henry Berry born cir 1776 – 1855
 Family Tree
 
-|  | [](http://mary-berry-family-line/) |
+|  | [](/family-lines/mary-berry-family-line/) |
 | --- | --- |
-|  | [](http://robert-berry-juniors-family-tree/) |
-|  | [](http://john-berry-family-tree/) |
-|  | [](http://isaac-berry-family-tree/) |
-|  | [](http://joshberrytree/) |
+|  | [](/family-lines/) |
+|  | [](/ancestors/john-berry/) |
+|  | [](/family-lines/) |
+|  | [](/ancestors/joshua-berry-ohio/) |
 |  |  |
-|  | [](http://tberrytree/) |
-|  | [](http://djbtree/) |
-|  | [](http://wbfamilytree/) |
-|  | [](http://henry-berry-tree/) |
+|  | [](/ancestors/thomas-person-berry/) |
+|  | [](/family-lines/david-j-berry-family-tree/) |
+|  | [](/family-lines/) |
+|  | [](/family-lines/henry-berry-family-tree/) |
 |  |  |
 
 ##### Last updated Jan. 26 2014

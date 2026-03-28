@@ -3,7 +3,7 @@ title: "Relationships Across Family Lines"
 weight: 1
 ---
 
-[Aldridge, Berry, Farquhar, Waggoner, Camp](../aldridge-berry-farquhar-connection/index.html)
+[Aldridge, Berry, Farquhar, Waggoner, Camp](/ancestors/aldridge-berry-farquhar-connection/)
 
 All of us know who our Parents, Grandparents, Sisters, Brothers, Uncles and Aunts are.
 

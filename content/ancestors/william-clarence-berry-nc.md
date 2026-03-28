@@ -80,7 +80,7 @@ John Robert Berry served in the Civil War and Returned to his fathers home right
 
 - **John Thomas Berry** Born July 26th 1838 Fayette County Alabama
 
-- **[Mary Jane Berry](http://mary-jane-berry-daughter-of-wc-massa-tompkins-berry/)** Born May 28 1840 Fayette County Alabama
+- **[Mary Jane Berry](/ancestors/mary-jane-berry-wc/)** Born May 28 1840 Fayette County Alabama
 
 - **Henry T. Berry** Born August 12 1843 Fayette County Alabama
 
@@ -88,7 +88,7 @@ John Robert Berry served in the Civil War and Returned to his fathers home right
 
 - **Sarah Catherine Berry** Born in 1849 Fayette County Alabama
 
-- [**Martha Minerva Berry**](http://martha-m-lockley/) Born April 29th 1851 Fayette County Alabama
+- [**Martha Minerva Berry**](/ancestors/martha-m-lockley/) Born April 29th 1851 Fayette County Alabama
 
 - **William Smith Berry** Born August 18th 1857 Fayette County Alabama
 

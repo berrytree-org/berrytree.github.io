@@ -55,26 +55,26 @@ When we went to the 2006 Berry/Nix reunion at Roswell Georgia We stayed in a Mot
 
 **Children:**
 
-1. **[Elizabeth Leathers Berry](http://elizabetheathersberrync/)** – Daughter of Mary Blalock. No marriage info.
+1. **[Elizabeth Leathers Berry](/ancestors/)** – Daughter of Mary Blalock. No marriage info.
 
-1. **[Sarah Berry](http://sarahberrycatesga/)** b. 4-4-1796 m. William Cates
+1. **[Sarah Berry](/ancestors/david-j-berry-sr/)** b. 4-4-1796 m. William Cates
 
-1. **[Winifred Berry](http://winiifredncga/)** B. abt 1800 m. Joshua Norman
+1. **[Winifred Berry](/ancestors/david-j-berry-sr/)** B. abt 1800 m. Joshua Norman
 
-1. **[David J. Berry Jr.](http://davidsodavid/)** m. Margarett Erwin 1829
+1. **[David J. Berry Jr.](/ancestors/david-j-berry-sr/)** m. Margarett Erwin 1829
 
-1. **[Mary Berry](http://maryberrybartonga/)** b. abt 1806 m. Thomas Howard Barton February 24, 1831
+1. **[Mary Berry](/ancestors/)** b. abt 1806 m. Thomas Howard Barton February 24, 1831
 
-1. **[Henry Berry](http://henrysodavid/)** b. abt 1810 m. Sarah Roberts
+1. **[Henry Berry](/ancestors/david-j-berry-sr/)** b. abt 1810 m. Sarah Roberts
 
 1. **George M. Berry** b. abt 1810 or 1811 d. 1820
 
-1. **[Robert Berry](http://robertdjberry/)** b. Aug. 2, 1812 m. Eliza Everett
+1. **[Robert Berry](/ancestors/robert-berry-jr/)** b. Aug. 2, 1812 m. Eliza Everett
 
-1. **[William G. Berry](http://williamgsodavid/)** b. 1813/14 m. Jane Beck
+1. **[William G. Berry](/ancestors/david-j-berry-sr/)** b. 1813/14 m. Jane Beck
 
-1. **[Thomas Berry](http://thomassodavid/)** b. 1820
+1. **[Thomas Berry](/ancestors/david-j-berry-sr/)** b. 1820
 
-1. **[Joshua M. Berry](http://joshuaberryga/)** b. April 13, 1824 m. Elizabeth Cates
+1. **[Joshua M. Berry](/ancestors/joshua-berry-ohio/)** b. April 13, 1824 m. Elizabeth Cates
 
 ### **Children Detail:**

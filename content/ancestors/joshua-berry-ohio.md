@@ -79,6 +79,6 @@ CENSUS INFORMATION
 
 - Anna Thorpe Berry (77 year old Widow) living with her youngest son Joseph Berry in 1880
 
-[Joshua Berry Jr, Census page](http://joshua-jr-census/)
+[Joshua Berry Jr, Census page](/ancestors/joshua-berry-ohio/)
 
 [Return to top of Page.](index.html)

@@ -23,7 +23,7 @@ weight: 4
 
 - [Abbreviations used in Berrytree.org](../wp/abbreviations.html)
 
-- [About Us](../about-us/index.html)
+- [About Us](/ancestors/about-us/)
 
 - [Ada Lee Berry NC](https://adaleeberrync/)
 
@@ -31,7 +31,7 @@ weight: 4
 
 - [Albert Edgar Berry](https://albertedgar/)
 
-- [Aldridge Berry Farquhar Waggoner Connection](../aldridge-berry-farquhar-connection/index.html)
+- [Aldridge Berry Farquhar Waggoner Connection](/ancestors/aldridge-berry-farquhar-connection/)
 
 - [Alexander Howard Berry Story](https://ahberrystory/)
 
@@ -39,19 +39,19 @@ weight: 4
 
 - [Alfred Walter Berry Ala](https://alfordwberryala/)
 
-- [Alphabetical Pages Index](../alphabetical-pages-index/index.html)
+- [Alphabetical Pages Index](/ancestors/alphabetical-pages-index/)
 
 - [Amanda Emiline Berry Ga](https://amandaemilineberryga/)
 
 - [Ann Foster PAC](https://annfosterpac/)
 
-- [Announcements](../announcements/index.html)
+- [Announcements](/ancestors/announcements/)
 
 - [Basil Manley Berry Ga](https://basilmanleyberryga/)
 
 - [Ben’s Blog](https://bens-blog/)
 
-- [Benjamin Berry Henderson Sr.](../benjamin-berry-henderson-sr/index.html)
+- [Benjamin Berry Henderson Sr.](/ancestors/benjamin-berry-henderson-sr/)
 
 - [Berry Family Name List](https://familynamelist/)
 
@@ -69,7 +69,7 @@ weight: 4
 
 - [Books](../books.html)
 
-- [By Family Line](../by-family-line/index.html)
+- [By Family Line](/ancestors/by-family-line/)
 
 - [Camp Power of Attorney](https://camppowerofattorney/)
 
@@ -81,7 +81,7 @@ weight: 4
 
 - [Census Pages](https://census-pages/)
 
-- [Contact US](../contact-us/index.html)
+- [Contact US](/ancestors/contact-us/)
 
 - [Cora and Frank Breeze’s Headstone](https://cora-and-frank-headstone/)
 
@@ -102,7 +102,7 @@ weight: 4
 
 - [David J. Berry Jr.](https://davidsodavid/)
 
-- [David J. Berry Sr.](../david-j-berry-sr/index.html)
+- [David J. Berry Sr.](/ancestors/david-j-berry-sr/)
 
 - [David J. Berry Tree](https://djbtree/)
 
@@ -120,11 +120,11 @@ weight: 4
 
 - [Descendant Book Information](https://decendantbookadd/)
 
-- [DNA](../dna/index.html)
+- [DNA](/ancestors/dna/)
 
-- [DNA Information](../dnapage/index.html)
+- [DNA Information](/ancestors/dnapage/)
 
-- [DNA Information Page 2](../dnapagetwo/index.html)
+- [DNA Information Page 2](/ancestors/dnapagetwo/)
 
 - [Dora Ellen Turley Ga](https://doraellenturleyga/)
 
@@ -154,11 +154,11 @@ weight: 4
 
 - [Ernest John Berry Tenn](https://ernesttenn/)
 
-- [Extended Site Page](../extended-site-map/index.html)
+- [Extended Site Page](/ancestors/extended-site-map/)
 
 - [Family Homes](https://familyhouses/)
 
-- [Family Tree Index](../familytreeindex/index.html)
+- [Family Tree Index](/ancestors/familytreeindex/)
 
 - [Fiddleton Cemetery](https://fiddletoncemetery/)
 
@@ -200,7 +200,7 @@ weight: 4
 
 - [Ira Berry Census Page](https://ira-berry-census-page/)
 
-- [Ira Berry Nc](../iraberrync/index.html)
+- [Ira Berry Nc](/ancestors/iraberrync/)
 
 - [Isaac A. Cates Ga](https://isaacacatesga/)
 
@@ -230,11 +230,11 @@ weight: 4
 
 - [John Allmon Berry Ga](https://johnallmonberryga/)
 
-- [John and Martha Stepp Berry](../johnberry/index.html)
+- [John and Martha Stepp Berry](/ancestors/johnberry/)
 
 - [John Berry Family Tree](https://john-berry-family-tree/)
 
-- [John Berry Tx](../johnberrytx/index.html)
+- [John Berry Tx](/ancestors/johnberrytx/)
 
 	
 - [Francis Marion Berry](https://johnberrytx/francis-marion-berry/)
@@ -263,7 +263,7 @@ weight: 4
 
 - [Joshua Berry Jr. Ga](https://joshuaberry2ga/)
 
-- [Joshua Berry Jr. Ohio](../joshuaberryohio/index.html)
+- [Joshua Berry Jr. Ohio](/ancestors/joshuaberryohio/)
 
 - [Joshua Berry NC Tree](https://joshberrytree/)
 
@@ -275,7 +275,7 @@ weight: 4
 
 - [Ken Berry](https://ken-berry/)
 
-- [Known Surnames of Berry Inlaws](../known-surnames-of-berry-inlaws/index.html)
+- [Known Surnames of Berry Inlaws](/ancestors/known-surnames-of-berry-inlaws/)
 
 - [Land Grant to Robert Berry Jr. by President Monroe](https://land-grant-to-robert-berry-jr/)
 
@@ -293,7 +293,7 @@ weight: 4
 
 - [Lookalikes](https://lookalikes/)
 
-- [Marriages](../marriages/index.html)
+- [Marriages](/ancestors/marriages/)
 
 - [Martha M. Lockley](https://martha-m-lockley/)
 
@@ -331,7 +331,7 @@ weight: 4
 
 - [Mattie Lee Strickland Ala](https://mattielstricklandala/)
 
-- [Name Index](../name-index/index.html)
+- [Name Index](/ancestors/name-index/)
 
 - [Nancy Berry Spinster Joshua’s daughter](https://nancy-berry-spinster-joshuas-daughter/)
 
@@ -343,11 +343,11 @@ weight: 4
 
 - [Orange County NC Marriage Bonds A – C](https://orange-county-nc-marriage-bonds-a-c/)
 
-- [Pages Updates](../page-updates/index.html)
+- [Pages Updates](/ancestors/page-updates/)
 
 - [Pattie S. Berry NC](https://pattiesberrync/)
 
-- [Picture Directory](../picturedirectoryt/index.html)
+- [Picture Directory](/ancestors/picturedirectoryt/)
 
 - [Political – Roots of Rebellion](https://political/)
 
@@ -373,7 +373,7 @@ weight: 4
 
 - [Robert Berry Joshua’s Son NC](https://robert-berry-joshuas-son-nc/)
 
-- [Robert Berry Jr.](../robertberryjr/index.html)
+- [Robert Berry Jr.](/ancestors/robertberryjr/)
 
 - [Robert Berry Jr. Census Page](https://robert-berry-jr-census-page/)
 
@@ -431,13 +431,13 @@ weight: 4
 
 - [Sarah Berry Tx](https://sarahberrytx/)
 
-- [Sarah Cate](../sarahcate/index.html)
+- [Sarah Cate](/ancestors/sarahcate/)
 
 - [Sarah Frances Berry Kelly GA](https://sarah-frances-berry-kelly-ga/)
 
 - [Service W A Henderson NC](https://servicewahendersonnc/)
 
-- [Shelby Dale Berry](../shelby-dale-berry/index.html)
+- [Shelby Dale Berry](/ancestors/shelby-dale-berry/)
 
 - [Site Map](../wp/site-map.html)
 
@@ -479,13 +479,13 @@ weight: 4
 
 - [Timeline Number 2](https://timelinenumber2/)
 
-- [Timelines](../timelines/index.html)
+- [Timelines](/ancestors/timelines/)
 
 - [Undeveloped Family Lines](https://undevelopedlines/)
 
 - [Unknown Pictures Page 1](https://unknown-pictures-page-1/)
 
-- [USA Conflicts](../usaconflicts/index.html)
+- [USA Conflicts](/ancestors/usaconflicts/)
 
 - [Vera Othello Maners](https://vera-othello-maners/)
 
@@ -511,7 +511,7 @@ weight: 4
 
 - [William Cate’s Estate Sale](https://william-cates-estate-sale/)
 
-- [William Clarence Berry NC, ALA, TX](../williamclarenceberrync/index.html)
+- [William Clarence Berry NC, ALA, TX](/ancestors/williamclarenceberrync/)
 
 - [William Edgar Berry Alabama](https://william-edgar-berry-alabama/)
 

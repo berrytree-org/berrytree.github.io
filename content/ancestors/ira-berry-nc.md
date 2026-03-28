@@ -51,7 +51,7 @@ In that same census it states that Nancy Winn/Winn was born in Tennessee. Ira ma
 
 ### **Census Information:**
 
-[Ira Berry’s Census Page](http://ira-berry-census-page/)
+[Ira Berry’s Census Page](/ancestors/ira-berry-nc/)
 
 > 
 

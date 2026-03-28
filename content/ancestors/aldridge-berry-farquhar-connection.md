@@ -147,7 +147,7 @@ William Author Salmon age 52 states that he descends from John Waggoner from Sou
 
 Mary Kemp Williamson was Mary Berry’s grandmother
 
-James and Mary Berry Camp had a son, Joseph Camp, who was an Attorney in Spartanburg, South Carolina.  Joseph Camp did the power of Attorney for his three brothers and his sister and hand delivered it to Uncle Henry Berry in North Carolina on December 29 1816. Mary Berry was married to George Waggoner but his will was probated in Orange County, North Carolina. See: [Mary Berry Page](http://maryberry/).
+James and Mary Berry Camp had a son, Joseph Camp, who was an Attorney in Spartanburg, South Carolina.  Joseph Camp did the power of Attorney for his three brothers and his sister and hand delivered it to Uncle Henry Berry in North Carolina on December 29 1816. Mary Berry was married to George Waggoner but his will was probated in Orange County, North Carolina. See: [Mary Berry Page](/ancestors/mary-berry/).
 
 Transcript of the document below: John Waggoner grant of land for service during the Revolution P 169 Historical Collection or the Georgia Chapter, Daughters of the American Revolution Pub in 1916 vs John P. Waggoner 1000 acres.                                                             Thomas Camp goes bond as Administrator of John Waggoner estate in 1774 Spartanburg, South Carolina, Court House, Box 21-7. In March 1818 Susan Waggoner or Wagoner In Jackson County, Georgia, gave Power of Attorney to Joseph Camp, her Son-in-Law to recover her part of the estate of George Wagoner of the York Dist. S. C.
 
@@ -205,19 +205,19 @@ Robert Berry Jr. purchased 50 acres of land on February 3rd 1812 from John Mensh
 
 Anderson Farquhar was born in North Carolina on July 29th 1809. Three of his sisters were Catherine Farquhar Berry, Wife of George Rufus Berry, Elizabeth Farquhar Berry, wife of William T. Berry, and Sarah Farquhar Traweek wife of Bailey Traweek. Anderson Farquhar married Levina Kirkland on December 4th 1828. Lavina Kirkland was born on June 10th 1810 in Tennessee. Anderson became a very successful farmer in Fayette County, Alabama.
 
-[William Clarence Berry](http://williamclarenceberrync/) was a descendant of the William and Hannah Cate Berry Family line.                                                                                                                                                       Children of William Clarence Berry and his first wife Sally Bowles:
+[William Clarence Berry](/ancestors/william-clarence-berry-nc/) was a descendant of the William and Hannah Cate Berry Family line.                                                                                                                                                       Children of William Clarence Berry and his first wife Sally Bowles:
 
-- [George Rufus Berry](http://georgerufusberrync/) married Catherine Farquhar
+- [George Rufus Berry](/ancestors/george-rufus-berry-nc/) married Catherine Farquhar
 
 - Elizabeth Jane Berry married Albert Galiton Whitson
 
-- [Roan Frances Berry ](http://roannfrances/)married Riley Aley Kizziah
+- [Roan Frances Berry ](/ancestors/roann-frances-berry/)married Riley Aley Kizziah
 
 Children of William Clarence Berry and his second wife Massa Ann Thompkins:
 
 - John Thomas Berry married Elizabeth Ann Kizziah
 
-- [Mary Jane Berry](http://mary-jane-berry-daughter-of-wc-massa-tompkins-berry/) married Enoch Jefferson Kizziah (**changed surname to Kizzire**)
+- [Mary Jane Berry](/ancestors/mary-jane-berry-wc/) married Enoch Jefferson Kizziah (**changed surname to Kizzire**)
 
 - Henry Tompkins Berry married Elizabeth Farquhar
 
@@ -225,7 +225,7 @@ Children of William Clarence Berry and his second wife Massa Ann Thompkins:
 
 - Sarah Catherine Berry married William F. Crowley
 
-- [Martha Minerva](http://martha-m-lockley/) Berry married Unknown Lockley
+- [Martha Minerva](/ancestors/martha-m-lockley/) Berry married Unknown Lockley
 
 - William Smith Berry married Fannie L. Davis 1st wife,Lillie Ann Webb 2nd wife.
 

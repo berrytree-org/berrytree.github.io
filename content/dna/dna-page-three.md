@@ -53,6 +53,6 @@ You can find your own YDNA results by clicking on this URL https://www.familyt
 
 After you receive your YDNA results from Family Tree DNA you can compare your markers to our 37 marker results above. If you match any of the SIX BROTHERS LINES listed above with the first 12 markers you are probably related to our family and need to contact us.
 
-We know that Robert T Berry who was born in Coosa Alabama in 1849 has a descendant who Matches the William Berry line by 66 out of 67 Markers but we have no idea which family line he belongs to.  This is an ongoing search.([click here](http://ydna-matching-william-berry-ydna/))
+We know that Robert T Berry who was born in Coosa Alabama in 1849 has a descendant who Matches the William Berry line by 66 out of 67 Markers but we have no idea which family line he belongs to.  This is an ongoing search.([click here](/dna/ydna-william-berry/))
 
-[Return to DNA page 1](http://dnapage/)
+[Return to DNA page 1](/dna/overview/)

@@ -65,4 +65,4 @@ Fourth                                             Fifth�
 
 ](/images/Thomas-E.-Berry-line.bmp)
 
-[Return to the top of  page](http://picturedirectoryt/)
+[Return to the top of  page](/pictures/)
