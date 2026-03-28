@@ -24,7 +24,7 @@ Thomas and Sarah had two children. David was one and Eleanor was two years old a
 
 ![](/images/eleanorreedhouse.jpg)
 
-The CABIN in the picture on the right was the home of [**Eleanor Berry Reed.**](http://?page_id=39) this cabin has been restored. This picture was taken in 2005 and the CABIN is located where it has stood for almost 200 years. Near Cypress Inn Tennessee. This site is just a short distance from the Natchez Trace, a famous old indian trail.
+The CABIN in the picture on the right was the home of [**Eleanor Berry Reed.**](/ancestors/robert-elizabeth-berrys-children/) this cabin has been restored. This picture was taken in 2005 and the CABIN is located where it has stood for almost 200 years. Near Cypress Inn Tennessee. This site is just a short distance from the Natchez Trace, a famous old indian trail.
 
 Sarah remaried on December 11 1815in Williamson County Tennessee.Sarah and John Pigg had children after they were married, she also had [
 

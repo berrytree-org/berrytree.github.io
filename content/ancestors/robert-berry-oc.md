@@ -105,7 +105,7 @@ Robert Berry (OC) 1729 – 1814 Orange County and the young son
 
 Robert Berry Jr.1760 – 1841-1849 was born in Orange County NC and died in Fayette Alabama.
 
-**Additional [Brick wall Breakthrough Evidence](http://?page_id=124)**
+**Additional [Brick wall Breakthrough Evidence](/ancestors/robert-berry-oc/)**
 
 **[Robert Berry served as a private in the North Carolina Continental Line](/images/voucher1509.jpg)**
 
@@ -201,31 +201,31 @@ Robert Berry was likely the first person to be buried in the Fiddleton Cemetery 
 
 [Robert And Elizabeth’s ten children circa 1760 -1858. ]()All 10 children were born in Orange County, North Carolina
 
-1. **[ Mary Berry](http://?page_id=107) **b.cir 1760 d. 1812**  
+1. **[ Mary Berry](/ancestors/robert-berry-oc/) **b.cir 1760 d. 1812**  
 
 **1st m. George Waggoner cir uknown – 1781  
 
 2nd m. James Kemp/Camp 1768 – 1833
 
-1. **[ Robert Berry Jr.](http://?page_id=135) ** b. cir 1762 d. 1850 m. 1778 Mary Camp**  
+1. **[ Robert Berry Jr.](/ancestors/robert-berry-jr/) ** b. cir 1762 d. 1850 m. 1778 Mary Camp**  
 
 **
 
 1. **[ John Berry](../johnberry/index.html) **b. cir 1764 d. 18o4 m Martha Stepp September 16 1793
 
-1. **[ Isaac Berry](http://?page_id=72) **b. cir 1766 d. 1840
+1. **[ Isaac Berry](/ancestors/robert-berry-oc/) **b. cir 1766 d. 1840
 
-1. **[ Joshua Berry](http://?page_id=87) **b. cir 1769 d. Oct. 8, 1838 m. 1792 Nancy Ellison
+1. **[ Joshua Berry](/ancestors/robert-berry-oc/) **b. cir 1769 d. Oct. 8, 1838 m. 1792 Nancy Ellison
 
-1. **[ Elizabeth Berry](http://?page_id=41) **b. cir 1770 d. 1826 m. never married – had daughter Mary in 1892 by William Riley 1892
+1. **[ Elizabeth Berry](/ancestors/robert-berry-oc/) **b. cir 1770 d. 1826 m. never married – had daughter Mary in 1892 by William Riley 1892
 
-1. ** [Thomas Berry](http://?page_id=155) **b. cir 1772 d. 1812 m. Aug. 12, 1800 Sarah Cate
+1. ** [Thomas Berry](/ancestors/robert-berry-oc/) **b. cir 1772 d. 1812 m. Aug. 12, 1800 Sarah Cate
 
 1. ** [David J. Berry](http://david-j-berry-sr/) **b. cir 1774 d. Oct. 3, 1837 m. 1797  Mary Blalock
 
-1. ** [William Berry](http://?page_id=183) **b. cir 1775 d. 1855 m. Aug. 11, 1799 Hannah Cate
+1. ** [William Berry](/ancestors/robert-berry-oc/) **b. cir 1775 d. 1855 m. Aug. 11, 1799 Hannah Cate
 
-1. **[ Henry Berry](http://?page_id=63) **b. cir 1776 d. 1855 m. never married
+1. **[ Henry Berry](/ancestors/robert-berry-oc/) **b. cir 1776 d. 1855 m. never married
 
 ### **Children Detail:**
 

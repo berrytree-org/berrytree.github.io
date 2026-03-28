@@ -31,7 +31,7 @@ We have no record of Anna Thorpe Berry’s death and burial. Anna Thorpe Berry w
 
 - **Harrison Berry**
 
-- [**Lewis Berry**](http://?page_id=97) Was born in Ohio in 1826.
+- [**Lewis Berry**](/ancestors/joshua-berry-ohio/) Was born in Ohio in 1826.
 
 - **Robert Berry** Was born in Ohio in 1828
 
