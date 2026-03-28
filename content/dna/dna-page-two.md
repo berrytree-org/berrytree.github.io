@@ -19,4 +19,4 @@ weight: 2
 
  
 
-[ Continue To Y-Dna Page Two](http://?page_id=37)
+[ Continue To Y-Dna Page Two](/dna/dna-page-two/)

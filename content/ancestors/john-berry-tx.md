@@ -23,7 +23,7 @@ John Berry was born in Orange or Person County, North Carolina. in 1815. We are
 
 - **Gen 6** J.H. Berry
 
-- [**Gen 6 **Sarah Berry](http://?page_id=149) married Hiram Howard and 4 others
+- [**Gen 6 **Sarah Berry](/ancestors/john-berry-tx/) married Hiram Howard and 4 others
 
 - **Gen 6 **Sanford C. Berry
 
@@ -35,7 +35,7 @@ John Berry was born in Orange or Person County, North Carolina. in 1815. We are
 
 - **Gen 6 **Robert W. Berry
 
-- [**Gen 6 **Alexander Howard Berry](http://?page_id=8) married Josephine Priscilla Gregory 1877
+- [**Gen 6 **Alexander Howard Berry](/ancestors/john-berry-tx/) married Josephine Priscilla Gregory 1877
 
 - **Gen 6 **Louisa J. Berry
 

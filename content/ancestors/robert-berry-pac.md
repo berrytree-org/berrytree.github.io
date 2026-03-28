@@ -99,6 +99,6 @@ After Robert Berry (OC) granted his Granville Land Grant, he named his new plant
 
 ### **Places Lived:**
 
-[Probable Country of Origin: Robert Berry Princess Ann County Virginia](http://?page_id=126)
+[Probable Country of Origin: Robert Berry Princess Ann County Virginia](/ancestors/robert-berry-pac/)
 
 [Return to top of Page](http://robertberrypac/)

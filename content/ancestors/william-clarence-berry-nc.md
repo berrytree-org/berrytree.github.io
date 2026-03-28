@@ -70,11 +70,11 @@ John Robert Berry served in the Civil War and Returned to his fathers home right
 
 **Children Of William And Sally Bowles Berry :**
 
-- [**George Rufus Berry**](http://?page_id=59) Born February 29th.1829 Orange Co. NC
+- [**George Rufus Berry**](/ancestors/william-clarence-berry-nc/) Born February 29th.1829 Orange Co. NC
 
 - **Elizabeth Jane Berry** Born March 17th 1831 Orange Co. NC
 
-- **[RoseAnn Frances Berry ](http://?page_id=131)** Born in 1833 Orange Co. NC
+- **[RoseAnn Frances Berry ](/ancestors/william-clarence-berry-nc/)** Born in 1833 Orange Co. NC
 
 **Children Of William And Massa Tompkins Berry :**
 
