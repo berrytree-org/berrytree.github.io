@@ -5,11 +5,11 @@ title: "Thomas Person Berry Family"
 **Ancestors:**
 
 
-- Generation- [Robert and Mary Williamson Berry](http://berrytree.org/robertberrypac/)  Princess Anne County,Virginia.
+- Generation- [Robert and Mary Williamson Berry](/ancestors/robert-berry-pac/)  Princess Anne County,Virginia.
 
-- Generation – [Robert and Elizabeth Cate Berry](http://berrytree.org/robert-berry-oc/) Orange County. North Carolina.
+- Generation – [Robert and Elizabeth Cate Berry](/ancestors/robert-berry-oc/) Orange County. North Carolina.
 
-- Generation –  [William Berry and Hannah Cate](http://berrytree.org/william/) Orange County. North Carolina.
+- Generation –  [William Berry and Hannah Cate](/ancestors/william-clarence-berry-nc/) Orange County. North Carolina.
 
 
 **THOMAS PERSON BERRY** was born on **June 1st 1808** in Orange County, North Carolina. His uncle Thomas and his father were searching for land in Tennessee when he was born. William may never have seen his baby son. Hannah and William had two other young sons. **William Clarence Berry** was born **17 Oct 1803** and **Robert C Berry** was born **14 Apr 1805**. These three boys ![thomaspberrypicture](/images/thomaspberrypicture.jpg)were all the children Hannah and William ever had. In the 1810 Orange County, North Carolina, Census. Hannah Cate Berry listed as head of household. Hannah’s sister was living with her and children from both families were listed in this census also. Thomas and Sarah had a son, David ll Berry who was age 8 and a daughter Eleanor Berry age 9. Thomas Person Berry was age 2 years. Hannah Berry was listed on the farm joining her Father in Law Robert Berry in 1810. There were several important changes made in Hannah Cate Berry’s and her, Sister Sarah Cate Berry’s, lives around the time the 1810 census was taken.
@@ -39,11 +39,11 @@ I cannot be sure where Thomas Person and Sarah Berry were living in 1833 to 183
 CHILDREN of the first Marriage
 
 
-- [William H. Berry](http://berrytree.org/williamhberrync/) b. 1836 d.1858
+- [William H. Berry](/ancestors/william-clarence-berry-nc/) b. 1836 d.1858
 
 - Willie Berry b. 1838 d. Unknown
 
-- [John Robert Berry](http://berrytree.org/john-robert-berrys-family-history/) b.25 September 1842 d.10 Oct 1917
+- [John Robert Berry](/ancestors/john-robert-berry-family-history/) b.25 September 1842 d.10 Oct 1917
 
 
 - James P. Berry b. Apr 1847 d.15 Feb 1912
@@ -136,13 +136,13 @@ Nancy Sneed Clayton was born to James Madison and Etta Emilie “Emma” Berry 
 
 Parson Berry listed in the 1840 Orange County, North Carolina Census.
 
-[Thomas P. Berry](http://berrytree.org/census-page-for-thomas-p-berry/) listed in the 1850 Orange County, North Carolina Census.
+[Thomas P. Berry](/ancestors/census-thomas-berry/) listed in the 1850 Orange County, North Carolina Census.
 
-[Thomas P. Berry](http://berrytree.org/census-page-for-thomas-p-berry/) listed in the 1860 Orange County, North Carolina Census.
+[Thomas P. Berry](/ancestors/census-thomas-berry/) listed in the 1860 Orange County, North Carolina Census.
 
-[Thomas P. Berry](http://berrytree.org/census-page-for-thomas-p-berry/) listed in the 1870 Orange County, North Carolina Census.
+[Thomas P. Berry](/ancestors/census-thomas-berry/) listed in the 1870 Orange County, North Carolina Census.
 
-[Thomas P. Berry](http://berrytree.org/census-page-for-thomas-p-berry/)listed in the 1880 Orange County, North Carolina Census.
+[Thomas P. Berry](/ancestors/census-thomas-berry/)listed in the 1880 Orange County, North Carolina Census.
 
 
 Back to Top

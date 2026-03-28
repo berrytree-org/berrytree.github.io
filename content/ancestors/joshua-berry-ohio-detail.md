@@ -32,7 +32,7 @@ We have no record of Anna Thorpe Berry’s death and burial. Anna Thorpe Berry w
 
 - **Harrison Berry**
 
-- [**Lewis Berry**](http://berrytree.org/?page_id=97) Was born in Ohio in 1826.
+- [**Lewis Berry**](/ancestors/joshua-berry-ohio/) Was born in Ohio in 1826.
 
 - **Robert Berry** Was born in Ohio in 1828
 
@@ -85,7 +85,7 @@ CENSUS INFORMATION
 - Anna Thorpe Berry (77 year old Widow) living with her youngest son Joseph Berry in 1880
 
 
-[Joshua Berry Jr, Census page](http://berrytree.org/joshua-jr-census/)
+[Joshua Berry Jr, Census page](/ancestors/joshua-berry-ohio/)
 
 
-[Return to top of Page.](http://berrytree.org/joshuaberryohio/)
+[Return to top of Page.](/ancestors/joshua-berry-ohio/)

@@ -2,13 +2,13 @@
 title: "John Robert Berry’s Family History"
 ---
 
-- Great Great Grandparents – [Robert and Mary Williamson Berry](http://berrytree.org/robertberrypac/)
+- Great Great Grandparents – [Robert and Mary Williamson Berry](/ancestors/robert-berry-pac/)
 
-- Great Grandparents – [Robert and Elizabeth Cate Berry](http://berrytree.org//)
+- Great Grandparents – [Robert and Elizabeth Cate Berry](/ancestors/robert-berry-oc/)
 
-- Grand Parents –  [William Berry and Hannah Cate](http://berrytree.org/william/)
+- Grand Parents –  [William Berry and Hannah Cate](/ancestors/william-clarence-berry-nc/)
 
-- Parents – [Thomas Person And Sarah Lunsford Berry](http://berrytree.org/thomaspersonberry/)
+- Parents – [Thomas Person And Sarah Lunsford Berry](/ancestors/thomas-person-berry/)
 
 
 John Rober[![johnrobertberrypicture](/images/johnrobertberrypicture.jpg)](/images/06/johnrobertberrypicture.jpg)t Berry enlisted in the CSA in Orange County on October 6th 1861. He was captured in the battle of Coal Harbor while serving in the 31st Regiment Co. E on May 3 1864. He spent the rest of the war in a Union Prison Camp in Elmira New York. When the war was over he had to take an oath of allegiance to the USA. After he was paroled he was returned to Hillsborough North Carolina by train.  After walking all night he arrived at his families home before day break. Being very tired he lay down and went to sleep on a log bench across the road from his home. John Robert Berry married Elizabeth Francis Bowling on the 30th of Nov 1865. and they built a  home  on land that his father, Thomas Person Ber[![jrbhouse](/images/jrbhouse.jpg)](/images/01/jrbhouse.jpg)ry, sold to him on April 15th 1869 for $1:00. John Robert  became a Farmer and then a Merchant.  He built and operated the store (shown below) to add to his income from his farming operation. He also managed to get the US Postal Service to operate the Meredith Post Office out of this Store for 16 years. The post Office was commissioned in February 1890 and closed on December 4th 1906. John Roberts land was across the road from the Original Granville Grant property.
@@ -26,7 +26,7 @@ John and Elizabeth Berry donated the land for Berrys Grove Baptist Church on Ap
 Children of John Robert and and Elizabeth Berry:
 
 
-- [Emma Greenwood Berry](http://berrytree.org/emmagberrync/)31 Oct 1866-12 Feb 1945 age 79
+- [Emma Greenwood Berry](/ancestors/emma-g-berry-nc/)31 Oct 1866-12 Feb 1945 age 79
 
 
 [![John Robert Berry and Elizabeth F. Bowling Berry's Headstone](/images/jrberrystone-e1421612437262.jpg)](/images/06/jrberrystone-e1421612437262.jpg)
@@ -35,7 +35,7 @@ John Robert Berry and Elizabeth F. Bowling Berry’s Headstone
 
 - Cora D. Berry 14 Jan 1868-18 Sept 1947 age 79
 
-- [Wiley P. Berry](http://berrytree.org/wiley-p-berry/)08 Sept 1869-08 May 1965 age 96
+- [Wiley P. Berry](/ancestors/william-clarence-berry-nc/)08 Sept 1869-08 May 1965 age 96
 
 - John W. Berry 02 Feb 1871-22 Dec 1923 age 52
 
@@ -43,14 +43,14 @@ John Robert Berry and Elizabeth F. Bowling Berry’s Headstone
 
 - Ada Lee Ann Berry 11 Jul 1875-22 Nov 1968 age 93
 
-- [Willie Adolphus Berry](http://berrytree.org/willieadolphysberrync/)03 Jun 1877-08 Jan 1964 age 87
+- [Willie Adolphus Berry](/ancestors/william-clarence-berry-nc/)03 Jun 1877-08 Jan 1964 age 87
 
-- [Thomas Ewart Berry](http://berrytree.org/thomaseuartberrync/) 25 Jan 1880-15 Dec 1960 age 80
+- [Thomas Ewart Berry](/ancestors/thomas-euart-berry-nc/) 25 Jan 1880-15 Dec 1960 age 80
 
 - Pattie S Berry 08 Aug 1886-12 Dec 1915 age 29
 
 
-[Fiddleton Map](http://berrytree.org/fiddleton-1891/)
+[Fiddleton Map](/ancestors/robert-berry-oc/)
 
 
 Left to Right: Wiley P. B![jrberrychildren640large](/images/jrberrychildren640large.jpg)erry, Ada Lee Berry Rogers, Mary Berry Webb, Willie A Berry, and Thomas Ewart Berry.

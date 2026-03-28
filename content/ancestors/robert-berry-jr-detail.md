@@ -71,13 +71,13 @@ Robert Berry Jr. and his wife named their first two children, **Catherine Berry
 When Robert Jr. registered in the 1800 Orange County Census he listed four sons who were under 15 years old. Two of them were under 10 years old and two were between 10 and 15. He also listed four daughters. Two daughters were under 10 years old, one daughter between 10 and 15 and one daughter who was over 15 but less than 25 years old. This must have been Catherine who would have been just over fifteen years old in 1800. **Catherine Berry** married **Jacob Pickle** on February 20th 1802. When Jacob and Catharine Berry Pickle listed in the 1810 census they were living next door to her uncle **David J. Berry**.
 
 
-[Deed book page 331:](http://berrytree.org/deed-book-page-331/) Land Purchase in Person County N.C.
+[Deed book page 331:](/documents/) Land Purchase in Person County N.C.
 
 
-[Deed book page 421:](http://berrytree.org/deed-book-page-421/) Land Sold in Person County N.C.
+[Deed book page 421:](/documents/) Land Sold in Person County N.C.
 
 
-[Land grant to Robert Berry Jr. and his son George Berry:](http://berrytree.org/land-grant-to-robert-berry-jr/)
+[Land grant to Robert Berry Jr. and his son George Berry:](/documents/land-grant-robert-berry-jr/)
 
 Fayette County Alabama 1824 . Grant signed by President James Monroe
 
@@ -95,9 +95,9 @@ After seeing the shape of the only headstone that was hand shaped in the picture
 ### **Children:**
 
 
-- [Cathrine Berry](http://berrytree.org/catherineberrync/) b. 1785 d. after 1850
+- [Cathrine Berry](/ancestors/) b. 1785 d. after 1850
 
-- [George Berry](http://berrytree.org/georgeberrytx/) b. cir 1790 d. after 1850
+- [George Berry](/ancestors/john-berry-tx/) b. cir 1790 d. after 1850
 
 - John Berry b. 1792 d. Unknown
 
@@ -105,9 +105,9 @@ After seeing the shape of the only headstone that was hand shaped in the picture
 
 - Susan Berry b. May 17. 1798 d. Jul. 1874 married John H. Ray
 
-- [Thompson Berry](http://berrytree.org/thompsonberryala/) b. December 18, 1801 d. January 8, 1871
+- [Thompson Berry](/ancestors/robert-c-berry-alabama/) b. December 18, 1801 d. January 8, 1871
 
-- [David Middelton Berry](http://berrytree.org/davidmiddletonberryala/) b. April 14, 1805 d. May 7, 1880
+- [David Middelton Berry](/ancestors/robert-c-berry-alabama/) b. April 14, 1805 d. May 7, 1880
 
 
 ###  **Places Lived:**
@@ -132,7 +132,7 @@ Carolina shortly after his mother died and they were in Alabama by 1822”
 ### **Census Information:**
 
 
-### [Robert Berry Jr. Census Page](http://berrytree.org/robert-berry-jr-census-page/)
+### [Robert Berry Jr. Census Page](/ancestors/robert-berry-jr/)
 
 
 ### The 1840 Census indicates that Robert Berry Jr and his wife
@@ -140,7 +140,7 @@ Carolina shortly after his mother died and they were in Alabama by 1822”
 could read and write.
 
 
-- [US Grant: Robert Berry Jr.and his son George Berry April 6, 1824](http://berrytree.org/land-grant-to-robert-berry-jr/)
+- [US Grant: Robert Berry Jr.and his son George Berry April 6, 1824](/documents/land-grant-robert-berry-jr/)
 
 - [Found in Fayette County, Alabama in the 1830 Census](/images/08/robertjr1830ala.jpg)
 

@@ -49,9 +49,9 @@ Robert Berry was listed as being between 26 and 44 and his wife was also listed 
 **Ancestors:**
 
 
-- **Generation [Robert and Mary Williamson Berry](http://berrytree.org/robertberrypac/), Princess Anne County, Virginia.**
+- **Generation [Robert and Mary Williamson Berry](/ancestors/robert-berry-pac/), Princess Anne County, Virginia.**
 
--  **Generation** **[Robert and Elizabeth Cate Berry](http://berrytree.org/robert-berry-oc/)  Orange County, North Carolina.**
+-  **Generation** **[Robert and Elizabeth Cate Berry](/ancestors/robert-berry-oc/)  Orange County, North Carolina.**
 
 
 **Gen 3 John Berry** married **Martha Stepp**  Sep. 17, 1793
@@ -258,7 +258,7 @@ Parents:
 
 Record added: Jul 17, 2008
 
-Find A Grave Memorial# 28339491**Gen 6** Ulysses Berry                                                                                                                                +Annie May Watson                                                                                                                    **Gen 7** Sherman Berry                                                                                                                 **Gen 7** Earl Berry                                                                                                                         **Gen 7** Rosco Berry                                                                                                                                   + Ida Myrle Ellis                                                                                                                           **Gen 8** [Shelby Dale Berry](http://berrytree.org/shelby-dale-berry/)                                                                                                                       +Dorothy Louis Lewis                                                                                       **Gen 7** Agnes Berry                                                                                                                     **Gen 7** Carl Berry                                                                                                                         **Gen 7** Arnell Berry                                                                                                                     **Gen 7** Hazel Berry |
+Find A Grave Memorial# 28339491**Gen 6** Ulysses Berry                                                                                                                                +Annie May Watson                                                                                                                    **Gen 7** Sherman Berry                                                                                                                 **Gen 7** Earl Berry                                                                                                                         **Gen 7** Rosco Berry                                                                                                                                   + Ida Myrle Ellis                                                                                                                           **Gen 8** [Shelby Dale Berry](/ancestors/shelby-dale-berry/)                                                                                                                       +Dorothy Louis Lewis                                                                                       **Gen 7** Agnes Berry                                                                                                                     **Gen 7** Carl Berry                                                                                                                         **Gen 7** Arnell Berry                                                                                                                     **Gen 7** Hazel Berry |
 | --- |
 
 

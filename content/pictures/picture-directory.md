@@ -55,4 +55,4 @@ Fourth                                             Fifth�
 [![Thomas E. Berry line](/images/Thomas-E.-Berry-line.bmp)](/images/03/Thomas-E.-Berry-line.bmp)
 
 
-[Return to the top of  page](http://berrytree.org/picturedirectoryt/)
+[Return to the top of  page](/pictures/)

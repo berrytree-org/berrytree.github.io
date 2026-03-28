@@ -37,7 +37,7 @@ CENSUS INFORMATION and NEIGHBORS
 ### CENSUS INFORMATION
 
 
-- [ORANGE COUNTY NORTH CAROLINA IN 1810](http://berrytree.org/1810-hannah-cate-census/)
+- [ORANGE COUNTY NORTH CAROLINA IN 1810](/ancestors/robert-berry-oc/)
 
 
  

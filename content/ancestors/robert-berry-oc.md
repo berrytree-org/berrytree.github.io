@@ -199,7 +199,7 @@ Robert Berry was likely the first person to be buried in the Fiddleton Cemetery 
 
 ### **Children:**
 
-[Robert And Elizabeth’s ten children circa 1760 -1858. ]()All 10 children were born in Orange County, North Carolina
+Robert And Elizabeth’s ten children circa 1760 -1858. All 10 children were born in Orange County, North Carolina
 
 1. **[ Mary Berry](/ancestors/robert-berry-oc/) **b.cir 1760 d. 1812**  
 
@@ -408,6 +408,6 @@ Robert Berry Sr. listed in 1790 Orange County North Carolina Census
 
 - Robert was not in a census after 1810. The two neighbors who signed his 1812 will were J (Joseph) Rountree and William Roberson Robert Berry died in 1814 and was buried at the Fiddleton Cemetery.
 
-[Back to top](../wp/robert-berry-oc.html#)
+Back to top
 
 #####  Last updated Feb. 2, 2015

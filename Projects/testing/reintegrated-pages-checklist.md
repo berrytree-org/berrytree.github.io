@@ -9,10 +9,10 @@ Use this checklist to verify each page loads correctly and content looks right.
 
 ## Ancestors (26 pages)
 
-- [ ] [Census — Thomas Berry](/ancestors/census-thomas-berry/)
-- [ ] [Eleanor Reed](/ancestors/eleanor-reed/)
-- [ ] [Emma G. Berry (NC)](/ancestors/emma-g-berry-nc/)
-- [ ] [George Rufus Berry (NC)](/ancestors/george-rufus-berry-nc/)
+- [ ] [Census — Thomas Berry](/ancestors/census-thomas-berry/) - ~~Broken Navigation Link ==> Return to top of Page~~ **FIXED**
+- [ ] [Eleanor Reed](/ancestors/eleanor-reed/) - ~~Broken Link => /1810-hannah-cate-census/~~ **FIXED → /ancestors/robert-berry-oc/**
+- [ ] [Emma G. Berry (NC)](/ancestors/emma-g-berry-nc/) - ~~Broken Navigation Link ==> Return to top of Page~~ **FIXED**
+- [ ] [George Rufus Berry (NC)](/ancestors/george-rufus-berry-nc/) - ~~Broken Navigation Link ==> Return to top of Page~~ **FIXED**
 - [ ] [Ira Berry (NC) — Detail](/ancestors/ira-berry-nc-detail/)
 - [ ] [John Berry — Detail](/ancestors/john-berry-detail/)
 - [ ] [John Berry (TX) — Detail](/ancestors/john-berry-tx-detail/)
@@ -72,8 +72,14 @@ Use this checklist to verify each page loads correctly and content looks right.
 
 | Page | Issue Found | Assigned To | Status |
 |---|---|---|---|
-| | | | |
+| census-thomas-berry | Back-to-top nav link broken | Tom/Terry | Fixed 2026-03-28 |
+| eleanor-reed | Link to /1810-hannah-cate-census/ broken | Tom/Terry | Fixed → /ancestors/robert-berry-oc/ |
+| emma-g-berry-nc | Back-to-top nav link broken | Tom/Terry | Fixed 2026-03-28 |
+| george-rufus-berry-nc | Back-to-top nav link broken | Tom/Terry | Fixed 2026-03-28 |
+| Multiple (26 files) | berrytree.org absolute URLs in content | Tom/Terry | All fixed 2026-03-28 |
+| roger-williamson-pac | web.archive.org image links | Tom/Terry | Fixed → /images/ |
+| Multiple | Empty/malformed markdown links | Tom/Terry | Fixed 2026-03-28 |
 
 ---
 
-*Total pages to check: 36*
+*Total pages to check: 36 | Known issues fixed: all resolved as of 2026-03-28*

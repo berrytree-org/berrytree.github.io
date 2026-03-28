@@ -30,4 +30,4 @@ William Berry never listed in another  Orange County, North Carolina Census.
 Hannah Cate Berry’s 1810 Census
 
 
-[Return to top of Page](http://berrytree.org/census-page-for-thomas-berry/)
+[Return to top of Page](/ancestors/census-thomas-berry/)

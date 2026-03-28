@@ -102,7 +102,7 @@ Orange County,...
 2002  Ora Mae Murray Berry died on September 21st. She was the wife of Woodrow Wilson Berry.
 2002  Hilda Elizabeth Nichols Berry died on August...
 
-### [Abbreviations used in Berrytree.org](../wp/abbreviations.html)
+### Abbreviations used in Berrytree.org
 
 	Ala. - Alabama 
 	Ga. - Georgia 
@@ -495,7 +495,7 @@ ANCESTORS
 	Generation Robert and Elizabeth Cate Berry: Orange County, North Carolina. 
 	Generation...
 
-### [Dedication Page](../wp/dedication-page.html)
+### Dedication Page
 I would like thank all of the Robert Berry relatives who have contributed to this history of our Berry Family. I would like to dedicate this Web Site to Mother Sally Malena Berry Henderson (1908 - 2002)  
 Mother is responsible for most of the pictures...
 
@@ -1602,7 +1602,7 @@ CHILDREN
 
 1....
 
-### [Robert Berry (OC)](../wp/robert-berry-oc.html)
+### Robert Berry (OC)
 Robert Berry (OC) was the son of (Robert Berry (PAC) and Mary Williamson of Princess Ann County, Va.)  and He came to Orange County North Carolina in 1751 
 Robert Berry married Elizabeth Cate in 1857
 Ancestors:  
@@ -1635,7 +1635,7 @@ Great Grandparents: Roger and Ann Foster Williamson
 
 Grandparents Richard...
 
-### [Robert Berry and Elizabeth Cate Berry's Children](../wp/genthree.html)
+### Robert Berry and Elizabeth Cate Berry's Children
 Robert And Elizabeth's ten children circa 1760 -1858  
 ANCESTORS 
 
@@ -1728,7 +1728,7 @@ A Copy of Robert Berry's Original Orange County NC 1812 will
 
  
 
-### [Robert Berry PAC](../wp/robertberrypac.html)
+### Robert Berry PAC
 Robert Berry and Mary Williamson Berry from Princess Ann County, Virgina 
 Mary Williamson's Ancestors:  
 Ann Foster
@@ -1955,7 +1955,7 @@ Ancestors:
 	Generation John and Martha Stepp Berry NC & GA. 
 	Generation William and...
 
-### [Site Map](../wp/site-map.html)
+### Site Map
  
 
 ### [Susan Berry Ala and Tx](https://susanberryalatx/)
