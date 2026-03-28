@@ -38,7 +38,7 @@ In 1870 William Clarence Berry and several of his family removed to Burnet Count
 
 ![William Clarence Berry's home in TEXAS](/images/wc-berry-home.jpg)
 
-](../wp-content/uploads/2012/03/WC-Berry-Home.jpg)
+](/images/WC-Berry-Home.jpg)
 
 William Clarence Berry’s home in TEXAS
 
@@ -47,7 +47,7 @@ William Clarence Berry died on September 8th 1798. Massa Ann Thompkins Berry die
 
 ![My Ggrandfather](/images/johnrobertberrypicture.jpg)
 
-](../wp-content/uploads/2012/03/johnrobertberrypicture.jpg)
+](/images/johnrobertberrypicture.jpg)
 
 John Robert Berry and his wife Elizabeth Frances Bowling North Carolina
 
@@ -56,7 +56,7 @@ John Robert and Elizabeth Frances Bowling Berry’s family remained in North Car
 
 ![Georgerufusberry](/images/georgerufusberry.jpg)
 
-](../wp-content/uploads/2012/03/Georgerufusberry.jpg)
+](/images/Georgerufusberry.jpg)
 
 George Rufus Berry
 

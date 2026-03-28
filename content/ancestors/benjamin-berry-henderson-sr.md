@@ -7,7 +7,7 @@ weight: 1
 
 ![](/images/ben_portrait.jpg)
 
-](../wp-content/uploads/2020/06/ben_portrait.jpg)
+](/images/ben_portrait.jpg)
 
 **Benjamin Berry Henderson Sr.**  
 
@@ -37,36 +37,36 @@ My life began on Wednesday May 28 1930. I was born in Dr. Thomas Meridith’s pl
 
 ![buck jones](/images/buck-jones.jpg)
 
-](../wp-content/uploads/2017/05/buck-jones.jpg)
+](/images/buck-jones.jpg)
 
 [
 
 ![Baby Ben](/images/baby-ben.jpg)
 
-](../wp-content/uploads/2017/05/Baby-Ben.jpg)
+](/images/Baby-Ben.jpg)
 
 [
 
 ![Ben age 2.5](/images/ben-age-2.5-.jpg)
 
-](../wp-content/uploads/2017/05/Ben-age-2.5-.jpg)
+](/images/Ben-age-2.5-.jpg)
 
 [
 
 ![Ben Age 2](/images/ben-age-2.jpg)
 
-](../wp-content/uploads/2017/05/Ben-Age-2.jpg)    [
+](/images/Ben-Age-2.jpg)    [
 
 ![Ben Age 3](/images/ben-age-3.jpg)
 
-](../wp-content/uploads/2017/05/Ben-Age-3.jpg)
+](/images/Ben-Age-3.jpg)
 
 [
 
 ![Ben Age 4](/images/ben-age-4.jpg)
 
-](../wp-content/uploads/2017/05/Ben-Age-4.jpg)  [
+](/images/Ben-Age-4.jpg)  [
 
 ![Ben Age 6](/images/ben-age-6.jpg)
 
-](../wp-content/uploads/2017/05/Ben-Age-6.jpg)
+](/images/Ben-Age-6.jpg)

@@ -81,7 +81,7 @@ After seeing the shape of the only headstone that was hand shaped in the picture
 
 ![robertand sons robert headstones](/images/robertand-sons-robert-headstones.jpg)
 
-](../wp-content/uploads/2009/08/robertand-sons-robert-headstones.jpg)There are a several other field stones being used as grave markers right next to Thompson Berry’s headstone.  It seems that this part of the Church Cemetery was the original Pleasant Hill Methodist Church Cemetery.  Robert Berry Juniors’ youngest son, Thompson Berry, and his wife are also buried there. There is an inscription on Thompson P Berry’s headstone that notes he was born in Orange County, North Carolina. All of Robert Berry Juniors children were born in North Carolina.
+](/images/robertand-sons-robert-headstones.jpg)There are a several other field stones being used as grave markers right next to Thompson Berry’s headstone.  It seems that this part of the Church Cemetery was the original Pleasant Hill Methodist Church Cemetery.  Robert Berry Juniors’ youngest son, Thompson Berry, and his wife are also buried there. There is an inscription on Thompson P Berry’s headstone that notes he was born in Orange County, North Carolina. All of Robert Berry Juniors children were born in North Carolina.
 
 ### **Children:**
 
@@ -125,13 +125,13 @@ could read and write.
 
 - [US Grant: Robert Berry Jr.and his son George Berry April 6, 1824](http://land-grant-to-robert-berry-jr/)
 
-- [Found in Fayette County, Alabama in the 1830 Census](../wp-content/uploads/2009/08/robertjr1830ala.jpg)
+- [Found in Fayette County, Alabama in the 1830 Census](/images/robertjr1830ala.jpg)
 
-- [ Slave Page in Fayette Alabama in 1830 Census](../wp-content/uploads/2009/08/robertjrslavepage1830ala.jpg)
+- [ Slave Page in Fayette Alabama in 1830 Census](/images/robertjrslavepage1830ala.jpg)
 
-- [Found In Fayette County Alabama In The 1840 Census](../wp-content/uploads/2009/08/robertjr1840ala.jpg)
+- [Found In Fayette County Alabama In The 1840 Census](/images/robertjr1840ala.jpg)
 
-- [ Slave Page in Fayette Alabama in 1840 Census](../wp-content/uploads/2009/08/robertjrslavpage1840ala.jpg)
+- [ Slave Page in Fayette Alabama in 1840 Census](/images/robertjrslavpage1840ala.jpg)
 
 - Not found in the 1850 Fayette County, Alabama Census.
 

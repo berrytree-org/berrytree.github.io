@@ -45,7 +45,7 @@ John and Ann Foster Williamson Caraway’s Children;
 
 ![Robert Berry 1730 pac will](/images/robert-berry-1730-pac-will.jpg)
 
-](../wp-content/uploads/2012/03/Robert-Berry-1730-pac-will.jpg)
+](/images/Robert-Berry-1730-pac-will.jpg)
 
 **A transcription of Robert Berry’s (PAC) 1730 Will.**
 
@@ -53,7 +53,7 @@ John and Ann Foster Williamson Caraway’s Children;
 
 ![Robert Berry transcribed will](/images/robert-berry-transcribed-will.jpg)
 
-](../wp-content/uploads/2012/03/Robert-Berry-transcribed-will.jpg)
+](/images/Robert-Berry-transcribed-will.jpg)
 
 The two witnesses to this will were Bartho (Bartholomew) Williamson and Sarah S Mathias. Bartho was Mary Williamsons brother and Sarah S Mathias was her sister. Robert Berry (PAC) and his wife Mary, his two sons Richard Berry and Robert Berry (OC), and in the 12th line he states “all my children in the estate”.
 
@@ -63,7 +63,7 @@ After Robert Berry (PAC) died his wife apparently lived until 1746 because that 
 
 ![Samuel Hollowell Church Job](/images/samuel-hollowell-church-job.jpg)
 
-](../wp-content/uploads/2012/03/Samuel-Hollowell-Church-Job.jpg)
+](/images/Samuel-Hollowell-Church-Job.jpg)
 
 For proof of the relationship of Mary Williamson Berry’s family View the will of her Father Richard Williamson.
 
@@ -71,7 +71,7 @@ For proof of the relationship of Mary Williamson Berry’s family View the will 
 
 ![Richard Williamsons Will PAC](/images/richard-williamsons-will-pac.jpg)
 
-](../wp-content/uploads/2012/03/Richard-Williamsons-Will-PAC.jpg)
+](/images/Richard-Williamsons-Will-PAC.jpg)
 
 At this time it is uncertain who Robert Berry’s (PAC) parents were but most likely Robert (PAC) was born in England. This is supported by the fact that most of the early settlers in and around Jamestown Virginia came from  England.  Most of the Scot Irish came into Maryland and into central North Carolina through the Shenandoah Valley of Virginia.
 
@@ -81,7 +81,7 @@ Robert Berry (oc) traveled from Princess Anne County Virginia  up the James Riv
 
 ![Route to NC from VA](/images/route-to-nc-from-va.jpg)
 
-](../wp-content/uploads/2012/03/Route-to-NC-from-VA.jpg)
+](/images/Route-to-NC-from-VA.jpg)
 
  
 

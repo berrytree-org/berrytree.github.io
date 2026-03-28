@@ -11,7 +11,7 @@ David J Berry is the son of Robert & Elizabeth Cate Berry from Orange County, No
 
 1. Generation Robert and Elizabeth Cate Berry, Orange County, North Carolina.
 
-**David J. Berry** was born about 1774 in Orange County, North Carolina. On February 21st 1797 he married **Mary Blalock.** Mary already had a little girl when they were married. There was a bastardy bond issued against John Leathers in Orange County, North Carolina, on the 23rd of August 1791. ([Transcript of bond](../wp-content/uploads/2015/01/maryblalockbond.jpg)). David and Mary Blalock Berry raised Elizabeth Leathers Berry as their own child. David and Mary’s first child must have been Sarah “Sally” Berry because she married William A. Cates in Orange County on February 26th 1817. Sally was probably born April 4th 1796. Winifred Berry also married Joshua Norman on September 19 1820 in North Carolina. The rest  of his children married in Georgia.
+**David J. Berry** was born about 1774 in Orange County, North Carolina. On February 21st 1797 he married **Mary Blalock.** Mary already had a little girl when they were married. There was a bastardy bond issued against John Leathers in Orange County, North Carolina, on the 23rd of August 1791. ([Transcript of bond](/images/maryblalockbond.jpg)). David and Mary Blalock Berry raised Elizabeth Leathers Berry as their own child. David and Mary’s first child must have been Sarah “Sally” Berry because she married William A. Cates in Orange County on February 26th 1817. Sally was probably born April 4th 1796. Winifred Berry also married Joshua Norman on September 19 1820 in North Carolina. The rest  of his children married in Georgia.
 
 David and his family lived in Orange County NC until after 1824.  The baby in David Berry’s family was Joshua M. Berry who was born in Orange County, North Carolina, on April 13, 1824. All of David and Mary Blalock’s children were born in North Carolina. David Berry listed in the 1800, 1810,and 1820 Orange County Census’. In September 1821 David and Henry sold a slave girl in Person County. Sometime between 1825 and 1830 David J . Berry and the rest of his family removed to Cobb County, Georgia. William A. Cates and his Wife Sarah Berry Cates had two of their children born in North Carolina and their third child was born in South Carolina in 1822.  So some of his family were already in Georgia when David arrived.
 
@@ -20,7 +20,7 @@ David had inherited a slave but none of the land that his father had owned. The 
 
 ![headstone Joshua Berry](/images/headstone-joshua-berry.jpg)
 
-](../wp-content/uploads/2012/03/headstone-Joshua-Berry.jpg)
+](/images/headstone-Joshua-Berry.jpg)
 
 Joshua Berry Headstone
 
@@ -29,7 +29,7 @@ In 1821 bounty land was being made available after the Creek Indians ceded their
 
 ![reunion2002mjl](/images/reunion2002mjl.jpg)
 
-](../wp-content/uploads/2012/03/reunion2002mjl.jpg)
+](/images/reunion2002mjl.jpg)
 
 2002 Orange County, NC Reunion
 
@@ -38,7 +38,7 @@ In 2002 Several of us distant cousins had made contact with each other. All of u
 
 ![2005 Brerry Reunion](/images/2005-brerry-reunionbw.jpg)
 
-](../wp-content/uploads/2012/03/2005-Brerry-ReunionBW.jpg)
+](/images/2005-Brerry-ReunionBW.jpg)
 
 2005 Cullman Alabama Reunion
 
@@ -47,7 +47,7 @@ This reunion was held in Cullman Alabama in 2005. We made a trip through Tennes
 
 ![2006 Reunion Roswell GA](/images/2006-reunion-roswell-ga.jpg)
 
-](../wp-content/uploads/2012/03/2006-Reunion-Roswell-GA.jpg)
+](/images/2006-Reunion-Roswell-GA.jpg)
 
 2006 Berry/Nix Reunion Rosswell, Georgia
 

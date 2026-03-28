@@ -81,13 +81,13 @@ Brick Wall Breakthrough
 
 ![fiddleton plantation Scene](/images/fiddleton-plantation-scene.jpg)
 
-](../wp-content/uploads/2012/03/fiddleton-plantation-Scene.jpg)
+](/images/fiddleton-plantation-Scene.jpg)
 
 [
 
 ![Fittleton Wiltshire County England](/images/fittleton-wiltshire-county-england.jpg)
 
-](../wp-content/uploads/2012/03/Fittleton-Wiltshire-County-England.jpg)
+](/images/Fittleton-Wiltshire-County-England.jpg)
 
  
 
@@ -107,7 +107,7 @@ Robert Berry Jr.1760 – 1841-1849 was born in Orange County NC and died in Faye
 
 **Additional [Brick wall Breakthrough Evidence](http://?page_id=124)**
 
-**[Robert Berry served as a private in the North Carolina Continental Line](../wp-content/uploads/2012/03/voucher1509.jpg)**
+**[Robert Berry served as a private in the North Carolina Continental Line](/images/voucher1509.jpg)**
 
 **Robert Berry (OC) ** Was born in Princess Ann County Virginia. His father died in 1730 when he was very young and his mother died in 1746 when he was about 17 years old. At 17 years old he had the courts indenture him to a family Member, **Samuel Hollowell** to learn the carpenter trade.
 
@@ -115,7 +115,7 @@ Robert Berry Jr.1760 – 1841-1849 was born in Orange County NC and died in Faye
 
 ![Samuel Hollowell Church Job](/images/samuel-hollowell-church-job1.jpg)
 
-](../wp-content/uploads/2012/03/Samuel-Hollowell-Church-Job1.jpg)
+](/images/Samuel-Hollowell-Church-Job1.jpg)
 
 Source: Vestry Book of Lynnhaven Parish, Princess Anne County, Virginia, page 72.
 
@@ -127,7 +127,7 @@ In 1751 Robert and his cousin Matthew Mathias and likely others decided to remov
 
 ![Route to NC from VA](/images/route-to-nc-from-va.jpg)
 
-](../wp-content/uploads/2012/03/Route-to-NC-from-VA.jpg)
+](/images/Route-to-NC-from-VA.jpg)
 
 This route was being used by fur traders for as many as 50 years befor our Robert Berry entered North Carolina. John Lawson met a pack mule train on this same trail in 1704. He was headed toward Hillsborough from the South West when he encountered them and exchanged s friendly conversation that morning. The drover allowed that he was born in England and that the land was the most beautiful that they had ever seen,
 
@@ -135,13 +135,13 @@ This route was being used by fur traders for as many as 50 years befor our Rober
 
 ![Orange County 1755 Tax List Page 6](/images/orange-county-1755-tax-list-page-6.jpg)
 
-](../wp-content/uploads/2012/03/Orange-County-1755-Tax-List-Page-6.jpg)
+](/images/Orange-County-1755-Tax-List-Page-6.jpg)
 
 **Page 5 of the 1755 Orange County, North Carolina. Tax List**
 
 Fortunately Robert had some money from the estate that his father left him. Robert located some unclaimed land just south of property owned by Thomas Bradford in Granville County. Robert built a small cabin in the north east corner of his newly claimed property. He and Mathew may have lived there for a time. After completing the cabin Robert Berry (OC) walked into the Granville Land Grant Office and made entry for a land grant on the **sixth day of February 1752.** This was the first step to becoming the proud owner of a large tract of land in Granville County. The Warrent was granted on the **20th Day of March 1753.**
 
-This was about as far into the wilderness as western man had settled at that time. Later in 1752 the government in Edenton decided to take part of western Granville County along with parts of Johnston and Bladen to form a new county of Orange. Since Robert placed his entry in Granville County and the warrant was issued there both documents were not found in the Granville County files until 2007. The Survey and Granville Land Grant documents were found many years ago in the Orange County NC files. Both Robert Berry and Mathew Mathias were listed and on the Orange County 1755 tax[ list](../wp-content/uploads/2012/03/robertberry1755taxlist.jpg) and on the same page. You will also see Henry (Gold) Gould one of Robert Berry’s survey chain carriers listed two households away from Mathew Mathias.
+This was about as far into the wilderness as western man had settled at that time. Later in 1752 the government in Edenton decided to take part of western Granville County along with parts of Johnston and Bladen to form a new county of Orange. Since Robert placed his entry in Granville County and the warrant was issued there both documents were not found in the Granville County files until 2007. The Survey and Granville Land Grant documents were found many years ago in the Orange County NC files. Both Robert Berry and Mathew Mathias were listed and on the Orange County 1755 tax[ list](/images/robertberry1755taxlist.jpg) and on the same page. You will also see Henry (Gold) Gould one of Robert Berry’s survey chain carriers listed two households away from Mathew Mathias.
 
 Richard Gibbs was sued by Robert Berry and he was also listed on the same 1755 tax page as Robert Berry.
 
@@ -153,7 +153,7 @@ Sometime soon after that **Robert Berry (OC) married Elizabeth Cate** (daughter 
 
 ![uncropped entry 1753 rotated](/images/uncropped-entry-1753-rotated.jpg)
 
-](../wp-content/uploads/2012/03/uncropped-entry-1753-rotated.jpg)
+](/images/uncropped-entry-1753-rotated.jpg)
 
 As you can see Robert Berry was listed on the back of this deed as Robert Berry Jun. This means that he had no son named Robert  in 1757 and his fathers name was Robert Berry. Once Robert and Elizabeth Cate Berry named their first son Robert Berry Jr. Robert Berry (oc) became Robert Berry Sr. All official documents that were signed after 1760 were signed by Robert as Robert Berry and he never used the Sr. or the Jr. prefix again.
 
@@ -167,7 +167,7 @@ There are many other facts that finally broke down my brick wall that have now b
 
 ![uncropped entry 1753](/images/uncropped-entry-1753.jpg)
 
-](../wp-content/uploads/2012/03/uncropped-entry-1753.jpg)
+](/images/uncropped-entry-1753.jpg)
 
 **View Warrent**
 

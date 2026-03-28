@@ -16,7 +16,7 @@ Generation 1 William Cate and Elizabeth Messersmith Cate
 
 ![William Cate inventory Sale 1803](/images/willcatesale.jpg)
 
-](../wp-content/uploads/2015/01/willcatesale.jpg)
+](/images/willcatesale.jpg)
 
 William Cate inventory Sale 1803
 
@@ -30,14 +30,14 @@ Sarah remaried on December 11 1815in Williamson County Tennessee.Sarah and John 
 
 ![Sarah Cate Berry Pigg Bond 1815](/images/sarah-cate-berry-pigg-bond-1815.jpg)
 
-](../wp-content/uploads/2012/03/Sarah-Cate-Berry-Pigg-Bond-1815.jpg)David and Eleanor to raise. There is a folklore story by the descendants who live in Tennessee today. The story states that Thomas was killed by the Indians while searching for land.
+](/images/Sarah-Cate-Berry-Pigg-Bond-1815.jpg)David and Eleanor to raise. There is a folklore story by the descendants who live in Tennessee today. The story states that Thomas was killed by the Indians while searching for land.
 
 After Sarah’s second husband died she opened up an Inn just off of the Natchez Trace This is where Cypress Inn got it’s name.
 [
 
 ![Sarah Cate Berry Pigg grave in Wayne County Tennessee](/images/sarah-piggs-new-headstone.jpg)
 
-](../wp-content/uploads/2012/04/Sarah-Piggs-new-headstone.jpg)
+](/images/Sarah-Piggs-new-headstone.jpg)
 
 Sarah Cate Berry Pigg grave in Wayne County Tennessee
 
@@ -62,7 +62,7 @@ ORANGE COUNTY NORTH CAROLINA CENSUS IN 1800
 
 ![William Berry 1800 Orange NC Census](/images/william-and-thomas-1800-census.jpg)
 
-](../wp-content/uploads/2008/10/William-and-Thomas-1800-census.jpg)
+](/images/William-and-Thomas-1800-census.jpg)
 
 William Berry 1800 Orange NC Census
 
@@ -71,7 +71,7 @@ ORANGE COUNTY NORTH CAROLINA CENSUS 1810.
 
 ![1810 oc census](/images/rb1810nc.jpg)
 
-](../wp-content/uploads/2015/01/rb1810nc.jpg)
+](/images/rb1810nc.jpg)
 
 Hannah Cate Berry’s 1810 Census
 
@@ -82,7 +82,7 @@ JOHN PIGG IS FOUND IN WAYNE COUNTY TENNESSEE IN 1830.
 
 ![John and Sarah Berry Pigg 1830 Wayne County Tennessee](/images/1830unitedstatesfederalcensus-john-pigg.jpg)
 
-](../wp-content/uploads/2012/04/1830UnitedStatesFederalCensus-john-pigg.jpg)
+](/images/1830UnitedStatesFederalCensus-john-pigg.jpg)
 
 John and Sarah Berry Pigg 1830 Wayne County Tennessee
 
@@ -93,7 +93,7 @@ SARAH PIGG IS FOUND IN WAYNE COUNTY TENNESSEE IN 1840.
 
 ![Sarah Pigg 1840 Wayne County Tennessee](/images/sarah-pigg-david-eleanor-1840.jpg)
 
-](../wp-content/uploads/2012/04/Sarah-pigg-david-eleanor-1840.jpg)
+](/images/Sarah-pigg-david-eleanor-1840.jpg)
 
 Sarah Pigg 1840 Wayne County Tennessee
 
@@ -102,7 +102,7 @@ SARAH PIGG IS FOUND IN WAYNE COUNTY TENNESSEE IN 1850.
 
 ![Sarah Pigg 1850 Census Wayne County Tennessee](/images/sarah-cate-pigg-1850-tenn.jpg)
 
-](../wp-content/uploads/2012/04/Sarah-Cate-Pigg-1850-Tenn.jpg)
+](/images/Sarah-Cate-Pigg-1850-Tenn.jpg)
 
 Sarah Pigg 1850 Census  
 Wayne County Tennessee
@@ -115,7 +115,7 @@ SARAH PIGG IS FOUND IN WAYNE COUNTY TENNESSEE IN 1860.
 
 ![Sarah Cate Pigg 1860Wayne County Tennessee](/images/sarah-pigg-1860.jpg)
 
-](../wp-content/uploads/2012/04/Sarah-Pigg-1860.jpg)
+](/images/Sarah-Pigg-1860.jpg)
 
 Sarah Cate Pigg 1860Wayne County Tennessee  
 
@@ -124,7 +124,7 @@ SARAH PIGG IS FOUND IN WAYNE COUNTY TENNESSEE IN 1870
 
 ![Sarah Cate Pigg 1870 Wayne County Tennessee](/images/sarah-pigg-1870.jpg)
 
-](../wp-content/uploads/2012/04/Sarah-Pigg-1870.jpg)
+](/images/Sarah-Pigg-1870.jpg)
 
 Sarah Cate Pigg 1870  
 Wayne County Tennessee
