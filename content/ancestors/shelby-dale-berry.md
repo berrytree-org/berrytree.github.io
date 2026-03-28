@@ -47,9 +47,9 @@ Shelby Dale and Dorothy Louise Lewis Berry in the picture on the right.
 
 ](/images/Shelby-Dale-and-Dorothy-headstone.jpg)
 
-[Shelby Dale Berry](../johnberry/index.html) descends from John and Martha Stepp Berry
+[Shelby Dale Berry](/ancestors/johnberry/) descends from John and Martha Stepp Berry
 
-Our other Berry TV Actor is [Ken Berry](http://ken-berry/) descends from the Joshua and Nancy Ellison Berry line.
+Our other Berry TV Actor is [Ken Berry](/ancestors/shelby-dale-berry/) descends from the Joshua and Nancy Ellison Berry line.
 
 [
 

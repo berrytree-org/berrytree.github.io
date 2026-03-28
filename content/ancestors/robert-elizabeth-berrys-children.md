@@ -7,9 +7,9 @@ weight: 16
 
 **ANCESTORS**
 
-Generation 1. [Robert and Mary Williamson Berry](http://robertberrypac/), Princess Anne County, Virginia.
+Generation 1. [Robert and Mary Williamson Berry](/ancestors/robert-berry-pac/), Princess Anne County, Virginia.
 
-Generation 2 [Robert and Elizabeth Cate Berry](../robert-berry-oc/index.html) all 10 Children were born in Orange County North Carolina
+Generation 2 [Robert and Elizabeth Cate Berry](/ancestors/robert-berry-oc/) all 10 Children were born in Orange County North Carolina
 
 **3. [Mary Berry](/ancestors/robert-berry-oc/) – **Born cir 1760 – 1812 Born Orange County North Carolina about 1759 **  
 
@@ -57,7 +57,7 @@ Generation 2 [Robert and Elizabeth Cate Berry](../robert-berry-oc/index.html) al
 
 9 Children with** Nancy Ellison  
 
-..4.[Robert Berry    ](http://robert-berry-joshuas-son-nc/)                                                                                                                        ..4.Dicey Berry**  
+..4.[Robert Berry    ](/ancestors/)                                                                                                                        ..4.Dicey Berry**  
 
 **..4.[James Berry  
 
@@ -81,7 +81,7 @@ Generation 2 [Robert and Elizabeth Cate Berry](../robert-berry-oc/index.html) al
 
 ..4.[Eleanor Berry ](/ancestors/robert-elizabeth-berrys-children/)**
 
-**3. [David J. Berry](http://david-j-berry-sr/) **Born Orange County North Carolina about 1774 died after 1830 in Fayette County Georgia.**  
+**3. [David J. Berry](/ancestors/david-j-berry-sr/) **Born Orange County North Carolina about 1774 died after 1830 in Fayette County Georgia.**  
 
 **11 Children with** Mary Blalock  
 
@@ -139,7 +139,7 @@ Spouse Mary Waggoner daughter of Henry Waggoner
 
 Married Martha Stepp on September 16 1893 in Person County, NC
 
-[Isaac Berry](http://isaacberry/) had a daughter by Lidia Berry It is not known if they were married.
+[Isaac Berry](/ancestors/) had a daughter by Lidia Berry It is not known if they were married.
 
 **[Joshua Berry](/ancestors/robert-berry-oc/) **married January 20th 1792
 
@@ -153,7 +153,7 @@ Never Married had a daughter in 1892 (Mary) by William Riley 1892
 
 Spouse Sarah Cate December 27 1782 – March 7 1875
 
-**[David J. Berry](http://david-j-berry-sr/)** married February 27th 1797
+**[David J. Berry](/ancestors/david-j-berry-sr/)** married February 27th 1797
 
 Spouse Mary Blalock cir 1772 – Uknown
 
@@ -161,7 +161,7 @@ Spouse Mary Blalock cir 1772 – Uknown
 
 Spouse Hannah Cate 1770 – February 25 1858
 
-**[Henry Berry](http://henryberry/) **Had a daughter by Fanny Ashley but they were never married. This is known because Fanny Ashley was living with her daughter Mary Ashley Berry King in 1850.
+**[Henry Berry](/family-lines/henry-berry-family-tree/) **Had a daughter by Fanny Ashley but they were never married. This is known because Fanny Ashley was living with her daughter Mary Ashley Berry King in 1850.
 
 Henry left the Plantation Home he had inherited to his daughter Mary Ashley Berry and her husband Thomas King in 1855
 

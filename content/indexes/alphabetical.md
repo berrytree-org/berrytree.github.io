@@ -7,13 +7,13 @@ weight: 1
 
 - A
 
-- [Ada Lee Berry’s page](http://adaleeberrync/)
+- [Ada Lee Berry’s page](/ancestors/)
 
-- [Addie Lena Berry](http://addie-lena-berry/)
+- [Addie Lena Berry](/ancestors/)
 
-- [Albert Edgar Berry](http://albertedgar/)
+- [Albert Edgar Berry](/ancestors/)
 
-- [Aldridge, Berry, Farquhar, and Waggoner](../aldridge-berry-farquhar-connection/index.html)
+- [Aldridge, Berry, Farquhar, and Waggoner](/ancestors/aldridge-berry-farquhar-connection/)
 
 - 
 
@@ -25,39 +25,39 @@ weight: 1
 
 - C
 
-- [Catherine Berry ](http://catherineberrync/)
+- [Catherine Berry ](/ancestors/)
 
-- [Cora Berry McVicker ](http://cora-berry-mcvicker/)
+- [Cora Berry McVicker ](/ancestors/)
 
 - 
 
 - D
 
-- [David Crockett Berry](http://david-crockett-berry-5/)
+- [David Crockett Berry](/ancestors/)
 
-- [David. J. Berry Sr.](http://djbtree/)
+- [David. J. Berry Sr.](/family-lines/david-j-berry-family-tree/)
 
-- [David J Berry](http://david-j-berry-sr/)
+- [David J Berry](/ancestors/david-j-berry-sr/)
 
-- **[David Lee Berry Ohio ](http://davidleeberryohio/)**
+- **[David Lee Berry Ohio ](/ancestors/joshua-berry-ohio/)**
 
 - 
 
-- [Dora Ellen Turley](http://doraellenturleyga/)
+- [Dora Ellen Turley](/ancestors/william-aaron-turley-ga/)
 
 - 
 
 - E
 
-- ** [Eli Berry’s page](http://eli-berry-nc/)**
+- ** [Eli Berry’s page](/ancestors/ira-berry-nc/)**
 
-- [Elizabeth Berry ](http://elizabeth/)
+- [Elizabeth Berry ](/ancestors/)
 
-- [Emanuel Patton Berry](http://emmanuel-patten-berry/)
+- [Emanuel Patton Berry](/ancestors/)
 
-- [Enoch M. Berry](http://enoch-m-berry-page/)
+- [Enoch M. Berry](/ancestors/)
 
-- [Estate information Page](http://nancy-berry-spinster-joshuas-daughter/).
+- [Estate information Page](/ancestors/joshua-berry-ohio/).
 
 - 
 
@@ -67,7 +67,7 @@ weight: 1
 
 - G
 
-- [George Rufus Berry’s](http://georgerufusberrync/)
+- [George Rufus Berry’s](/ancestors/george-rufus-berry-nc/)
 
 - 
 
@@ -75,41 +75,41 @@ weight: 1
 
 - H
 
-- [Hannah Cate’s Page](http://hannahcateberry/)
+- [Hannah Cate’s Page](/ancestors/)
 
-- [Hannah Cate](http://1810-hannah-cate-census/)
+- [Hannah Cate](/ancestors/robert-berry-oc/)
 
-- [Horace Prather Berry](http://horacepratherberryga/)
+- [Horace Prather Berry](/ancestors/)
 
 - 
 
 - I
 
-- [Ira Berry Census Page](http://ira-berry-census-page/)
+- [Ira Berry Census Page](/ancestors/ira-berry-nc/)
 
-- [Ira Berry](http://iraberrync/)
+- [Ira Berry](/ancestors/ira-berry-nc/)
 
 - 
 
 - J
 
-- **[ James Berry](http://jamesberrytenn/)**
+- **[ James Berry](/ancestors/)**
 
-- [John Berry](../johnberry/index.html)
+- [John Berry](/ancestors/johnberry/)
 
-- J[ohn H. Berry](http://john-h-berry-ala-tx/)
+- J[ohn H. Berry](/ancestors/john-berry-tx/)
 
-- [Jessee Lee Berry’s](http://jesseleeberry/)
+- [Jessee Lee Berry’s](/ancestors/)
 
 - John  & Marta Stepp Berry’s
 
-- [Joshua Berry Page](http://joshuaberry/),.
+- [Joshua Berry Page](/ancestors/joshua-berry-ohio/),.
 
-- [Joshua Berry Jr. ](http://joshua-jr-census/)
+- [Joshua Berry Jr. ](/ancestors/joshua-berry-ohio/)
 
-- [Joshua Berry OC Census Page](http://joshua-berry-census-page/)
+- [Joshua Berry OC Census Page](/ancestors/joshua-berry-ohio/)
 
-- [Joshua Berry OC Document Page](http://joshua-berry-oc-document-page/)
+- [Joshua Berry OC Document Page](/documents/)
 
 - 
 
@@ -119,23 +119,23 @@ weight: 1
 
 - L
 
-- [Lucy Brown Berry’s](http://thomaspersonberry/)
+- [Lucy Brown Berry’s](/ancestors/thomas-person-berry/)
 
 - 
 
 - M
 
-- [Mary Berry’s](http://maryberry/)
+- [Mary Berry’s](/ancestors/mary-berry/)
 
-- [Mary Berry](http://maryelizabethsdaughternc/),
+- [Mary Berry](/ancestors/),
 
--  [Mattie Lee Berry](http://mattielstricklandala/)
+-  [Mattie Lee Berry](/ancestors/)
 
 - 
 
 - N
 
-- [Nancy Berry Spinster](http://nancy-berry-spinster-joshuas-daughter/)
+- [Nancy Berry Spinster](/ancestors/joshua-berry-ohio/)
 
 -  Name Index Page
 
@@ -143,35 +143,35 @@ weight: 1
 
 - O
 
-- [Orange County NC Marriage Bonds A-C](http://orange-county-nc-marriage-bonds-a-c/)
+- [Orange County NC Marriage Bonds A-C](/marriages/)
 
 - 
 
 - P
 
-- [Picture Directory](http://picturedirectoryt/)
+- [Picture Directory](/pictures/)
 
 - Q
 
 - R
 
-- [Robert Berry’s OC Will](http://robert-berry-oc-will/)
+- [Robert Berry’s OC Will](/documents/)
 
-- [Robert (PAC) Origins](http://rb2sourcelist/)
+- [Robert (PAC) Origins](/ancestors/robert-berry-oc/)
 
-- [ Robert Berry](http://robertdjberry/)
+- [ Robert Berry](/ancestors/robert-berry-jr/)
 
--  [Robert Berry Juniors](../robertberryjr/index.html)
+-  [Robert Berry Juniors](/ancestors/robertberryjr/)
 
-- [Robert Berry Jr.](../robertberryjr/index.html)
+- [Robert Berry Jr.](/ancestors/robertberryjr/)
 
-- [Robert Berry Jr. Census Page](http://robert-berry-jr-census-page/)
+- [Robert Berry Jr. Census Page](/ancestors/robert-berry-jr/)
 
-- [Robert Berry (OC)](../robert-berry-oc/index.html)
+- [Robert Berry (OC)](/ancestors/robert-berry-oc/)
 
-- [Robert Berry (PAC)](http://robertberrypac/)
+- [Robert Berry (PAC)](/ancestors/robert-berry-pac/)
 
--   [Robert Pickle](http://robertpicklenc/)
+-   [Robert Pickle](/ancestors/)
 
 - 
 
@@ -179,13 +179,13 @@ weight: 1
 
 - 
 
-- [Sally Malena Berry NC](http://sallymalenaberrync/)
+- [Sally Malena Berry NC](/ancestors/)
 
-- [Sally Malena Berry](http://sallymalenaberrync/)
+- [Sally Malena Berry](/ancestors/)
 
-- [Sarah Frances Berry Kelly](http://sarah-frances-berry-kelly-ga/)
+- [Sarah Frances Berry Kelly](/ancestors/)
 
--  [Shelby Dale Berry](../shelby-dale-berry/index.html)
+-  [Shelby Dale Berry](/ancestors/shelby-dale-berry/)
 
 - 
 
@@ -197,15 +197,15 @@ weight: 1
 
 - Timelines
 
-- [Thomas Berry Family Tree](http://tberrytree/)
+- [Thomas Berry Family Tree](/ancestors/thomas-person-berry/)
 
-- [Tennessee Picture Page](http://tennesseepicturealbum/)
+- [Tennessee Picture Page](/pictures/)
 
-- [Thomas and Sarah Cate Berry NC, TN](http://by-family-line/) .
+- [Thomas and Sarah Cate Berry NC, TN](/family-lines/) .
 
-- [Thomas Person Berry Family](http://thomaspersonberry/)
+- [Thomas Person Berry Family](/ancestors/thomas-person-berry/)
 
-- [Census page for Thomas P. Berry](http://census-page-for-thomas-p-berry/)
+- [Census page for Thomas P. Berry](/ancestors/census-thomas-berry/)
 
 - 
 
@@ -231,53 +231,53 @@ weight: 1
 
 - W
 
-- [William Aaron Turley](http://williamaaronturleyga/)
+- [William Aaron Turley](/ancestors/william-aaron-turley-ga/)
 
-- [William Cate’s Estate Sale](http://william-cates-estate-sale/)
+- [William Cate’s Estate Sale](/documents/)
 
-- [ Walter Glenn Berry](http://walterglenberryga/)
+- [ Walter Glenn Berry](/ancestors/)
 
-- [Wiley Harold Berry](http://wileyharoldberrync/)
+- [Wiley Harold Berry](/ancestors/)
 
-- [Wiley P. Berry Jr. NC](http://wileypberryjrnc/)
+- [Wiley P. Berry Jr. NC](/ancestors/)
 
 - Wiley P Berry’s Children
 
-- [William Oscar Berry](http://william-oscar-berry-ga/)
+- [William Oscar Berry](/ancestors/)
 
-- [William Clarence Berry](http://williamclarenceberrync/)
+- [William Clarence Berry](/ancestors/william-clarence-berry-nc/)
 
-- [William Edgar Berry](http://william-edgar-berry-alabama/)
+- [William Edgar Berry](/ancestors/robert-c-berry-alabama/)
 
-- [William Eugene Berry](http://williameugeneberrync/)
+- [William Eugene Berry](/ancestors/william-clarence-berry-nc/)
 
-- [Willaim G Berry](http://williamgsodavid/)
+- [Willaim G Berry](/ancestors/david-j-berry-sr/)
 
-- [William H Berry](http://williamhberrync/)
+- [William H Berry](/ancestors/)
 
-- [William Henry Berry](http://william-henry-berry-ga/)
+- [William Henry Berry](/ancestors/)
 
-- [William Lamar Berry](http://williamlamar/)
+- [William Lamar Berry](/ancestors/)
 
-- [William Oscar Berry](http://william-oscar-berry-ga/)
+- [William Oscar Berry](/ancestors/)
 
-- [William Thomas Berry Jr.](http://williamtberryjrala/)
+- [William Thomas Berry Jr.](/ancestors/robert-c-berry-alabama/)
 
-- [William Thomas Berry Sr.](http://williamtberrysrala/)
+- [William Thomas Berry Sr.](/ancestors/robert-c-berry-alabama/)
 
-- [William Thomas Maners](http://william-thomas-maners/)
+- [William Thomas Maners](/ancestors/)
 
-- [Williamson deeds  and wills 1691 to 1755 PAC](http://williamson-deeds-and-wills-1691-to-1755-pac/)
+- [Williamson deeds  and wills 1691 to 1755 PAC](/documents/)
 
-- [Willie Adolphus Berry](http://willieadolphysberrync/)
+- [Willie Adolphus Berry](/ancestors/william-clarence-berry-nc/)
 
-- [Willie Howell Berry Jr. Tx](http://whowellberryjrtx/)
+- [Willie Howell Berry Jr. Tx](/ancestors/john-berry-tx/)
 
-- [Willie Howell Berry Tx](http://whowellberrytx/)
+- [Willie Howell Berry Tx](/ancestors/john-berry-tx/)
 
-- [Winifred Berry Ga](http://winiifredncga/)
+- [Winifred Berry Ga](/ancestors/david-j-berry-sr/)
 
-- [Woodrow Wilson Berry NC](http://woodrowwilsonberrync/)
+- [Woodrow Wilson Berry NC](/ancestors/)
 
 - 
 

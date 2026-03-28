@@ -116,7 +116,7 @@ Orange County,...
 
  
 
-### [About Us](../about-us/index.html)
+### [About Us](/ancestors/about-us/)
 Benjamin "Ben" Berry Henderson Sr.  has been researching his maternal Berry family for almost 20 years and has amassed a large database of family member information. Ben's first self-published book, "Our Berrys in Frontier America  " was published in...
 
 ### [Ada Lee Berry NC](https://adaleeberrync/)
@@ -142,7 +142,7 @@ Ancestors:
 	Generation Robert and Elizabeth Cate Berry, Orange County, North Carolina. 
 	David J. and...
 
-### [Aldridge Berry Farquhar Waggoner Connection](../aldridge-berry-farquhar-connection/index.html)
+### [Aldridge Berry Farquhar Waggoner Connection](/ancestors/aldridge-berry-farquhar-connection/)
 There are several marriages in different Berry Lines involving these four families
 
 From Henry Waggoners 1784 Will  (Orange County NC Deed Book A Page 231 )           Henry and Ketriana Waggoner's Children:
@@ -182,7 +182,7 @@ Ancestors:
 	Generation  Robert and Elizabeth Cate Berry  Orange County, North Carolina. 
 	Generation  Ro...
 
-### [Alphabetical Pages Index](../alphabetical-pages-index/index.html)
+### [Alphabetical Pages Index](/ancestors/alphabetical-pages-index/)
 
  	
 
@@ -222,7 +222,7 @@ Ancestors:
 Ann Foster married Roger Williamson 
 Ann Foster was born in England in 1620 and died in Princess Ann County Virginia around...
 
-### [Announcements](../announcements/index.html)
+### [Announcements](/ancestors/announcements/)
 
 ### [Basil Manley Berry Ga](https://basilmanleyberryga/)
 Basil Manley Berry, Son Of Robert And Elizabeth Everett Berry 
@@ -240,7 +240,7 @@ Basil Manley Berry ...
 
 I plan to add my thoughts to this page from time to time to keep you informed on what is new on our berrytree web page and also any news about our family. I suggest that you take a minute to check my Blog anytime you visit our Berrytree website. I ...
 
-### [Benjamin Berry Henderson Sr.](../benjamin-berry-henderson-sr/index.html)
+### [Benjamin Berry Henderson Sr.](/ancestors/benjamin-berry-henderson-sr/)
  
 
 Benjamin Berry Henderson Sr. 
@@ -339,7 +339,7 @@ Welcome to Berrytree.org. Home of the genealogical data collected and curated by
 On Lulu.com  
 This book is a result of 18 years of research ...
 
-### [By Family Line](../by-family-line/index.html)
+### [By Family Line](/ancestors/by-family-line/)
 Gen 1 Robert and Mary Williamson, Princess Anne County, Virginia. 
 
 Gen 2 Robert and Elizabeth Cate. Orange County, North Carolina. 
@@ -385,7 +385,7 @@ US Census Data for the Berry's and related familys
 
 Date Location Family Member Name Image  1800 Orange County, NC Robert Berry OC Link   1810 Orange County, NC Hannah Cate Berry Link      
 
-### [Contact US](../contact-us/index.html)
+### [Contact US](/ancestors/contact-us/)
 To contact us, please fill out the form below. 
 Please note: If you would like to be introduced to other cousins who are researching our Berry line, please let us know by including the following  "I would like to know and research with my distant...
 
@@ -446,7 +446,7 @@ Generation 2 David J. and Mary Blalock Berry
 
 David J. Berry Jr. Berry...
 
-### [David J. Berry Sr.](../david-j-berry-sr/index.html)
+### [David J. Berry Sr.](/ancestors/david-j-berry-sr/)
 David J Berry is the son of Robert & Elizabeth Cate Berry from Orange County, North Carolina.
 Ancestors : 
 
@@ -516,17 +516,17 @@ From 1620 through 1920.
 JANUARY, 2 2015 
 "SIX GENERATIONS OF ROBERT and ELIZABETH CATE BERRY'S...
 
-### [DNA](../dna/index.html)
+### [DNA](/ancestors/dna/)
 Here are our DNA pages
 
 DNA Information Page 1 
 
 DNA Information Page 2 
 
-### [DNA Information](../dnapage/index.html)
+### [DNA Information](/ancestors/dnapage/)
 It is very interesting that our family DNA has the most (20%) of the FTDNA participants originating from the island of Jersey which is just off the coast of Normandy, France.  Because of our unique first Allele we always thought we originated from France and, I gu...
 
-### [DNA Information Page 2](../dnapagetwo/index.html)
+### [DNA Information Page 2](/ancestors/dnapagetwo/)
 DNA PAGE for Descendants of Robert Berry (PAC) 
 Check your own YDNA  (see how at the bottom of this page)
 Princess Ann County Va. 
@@ -660,7 +660,7 @@ ______THOMAS PERSON HOME built in 1852_______ JOHN ROBERT BERRY HOME built about
 
 ______JOHN ROBERT BERRY'S STORE & P.O.__________B.S.&...
 
-### [Family Tree Index](../familytreeindex/index.html)
+### [Family Tree Index](/ancestors/familytreeindex/)
 Robert & Elizabeth Cate's Descendant Index 
 Ancestors:  
 Generation 1 Robert and Elizabeth Cate Berry 
@@ -851,7 +851,7 @@ Ancestors:
 	Generation Joshua and Nancy Ellison Berry, Orange County, North Carolina. 
 	Generation...
 
-### [Ira Berry Nc](../iraberrync/index.html)
+### [Ira Berry Nc](/ancestors/iraberrync/)
 Ira Berry, son of Lewis And Sally Toler Berry 
 Ancestors:  
 
@@ -1000,7 +1000,7 @@ Generation 3 Robert and Elizabeth Everitt Berry Berry
 
 JOHN ALLMON BERRY ...
 
-### [John and Martha Stepp Berry](../johnberry/index.html)
+### [John and Martha Stepp Berry](/ancestors/johnberry/)
 John Berry is the son of Robert and Elizabeth Cate Berry 
  
 JOHN BERRY  was found by a fellow researcher sometime before 2004 in a Book "GEORGIA INTESTATE RECORDS" By Jeanette Holland Auston, Genealogical Publishing Company., Inc. Baltimore 1986. In...
@@ -1015,7 +1015,7 @@ Descendants of John Berry
 
 Gen 3 John Berry 1762 - 1812 d: Bef. 16 A...
 
-### [John Berry Tx](../johnberrytx/index.html)
+### [John Berry Tx](/ancestors/johnberrytx/)
 John Berry, Son Of George Berry And Susan Berry 
 ANCESTORS
 
@@ -1173,7 +1173,7 @@ Generation 3 Joshua and Elizabeth J. Cates Berry
 
 Joshua Berry  was born...
 
-### [Joshua Berry Jr. Ohio](../joshuaberryohio/index.html)
+### [Joshua Berry Jr. Ohio](/ancestors/joshuaberryohio/)
 Joshua Berry Jr., Son Of Joshua Berry And Nancy Ellison Berry 
 ANCESTORS:
 
@@ -1232,7 +1232,7 @@ Ancestors:
 	Generation Joshua and Nancy Ellison Berry, Orange County, North Carolina. 
 	Generation L...
 
-### [Known Surnames of Berry Inlaws](../known-surnames-of-berry-inlaws/index.html)
+### [Known Surnames of Berry Inlaws](/ancestors/known-surnames-of-berry-inlaws/)
 Adams, Aldridge, Alexander, Alford, Allen, Alwin, Anderson, Ashley, Awtrey, Baker, Barbee, Barnes, Barnett, Beach, Beatty, Beck, Benham, Birdwell, Black, Blackwood, Blalock, Booher, Bowles, Bowling, Bradley, Brasher, Bratcher, Breeze, Brewer,  Brown, Buchanan, Burk, Burnette, Burton, Camp, Carr, Carter, Cassey, Ca...
 
 ### [Land Grant to Robert Berry Jr. by President Monroe](https://land-grant-to-robert-berry-jr/)
@@ -1296,7 +1296,7 @@ Look alike descendants from different son's of Robert Berry
 
  THERE  have been some interesting developments resulting from our Berry DNA project. In  picture # 1  on the left we have the young lady who descends from the William Berry line....
 
-### [Marriages](../marriages/index.html)
+### [Marriages](/ancestors/marriages/)
 Marriages Bonds from the Grooms Book of Berry Marriages 
 
 Last Name  
@@ -1475,7 +1475,7 @@ ANCESTORS
 	Generation  Robert and Elizabeth Cate Berry: Orange County, North Carolina. 
 	Generation ...
 
-### [Name Index](../name-index/index.html)
+### [Name Index](/ancestors/name-index/)
  
 
 This Page is under construction  and will never be  complete.  Names will be added alphabetically by surname as I rework berrytree web pages. Gen "X" denotes Generation of the individual starting with generation # 1 being Robert and Mary Wi...
@@ -1521,7 +1521,7 @@ File contributed for use in USGenWeb Archives by Betty Mayes
 
 Check original bonds in Archives. Some may contain more information and if you do not see your research name listed...
 
-### [Pages Updates](../page-updates/index.html)
+### [Pages Updates](/ancestors/page-updates/)
 
  	Latest  Update entries will always be at top of this list.   
  	If you have pictures and information of your family line, get in touch with us by clicking on  the CONTACT US   drop-down   button at the top of this page. I will create a page for you...
@@ -1538,7 +1538,7 @@ Generation 3 Thomas Person and Sarah Lunsford Berry
 
 Generation...
 
-### [Picture Directory](../picturedirectoryt/index.html)
+### [Picture Directory](/ancestors/picturedirectoryt/)
 Picture Albums Of The Robert And Elizabeth Cate Berry Family 
 
 	Generation Robert and Mary Williamson Berry Princess Anne County Va. 
@@ -1653,7 +1653,7 @@ ANCESTORS
 	Generation  Robert and Elizabeth Cate Berry: Orange County, North Carolina. 
 	Generation  Joshua a...
 
-### [Robert Berry Jr.](../robertberryjr/index.html)
+### [Robert Berry Jr.](/ancestors/robertberryjr/)
 Robert Berry Jr. son of Robert and Elizabeth Cate Berry 
 Ancestors:  
 
@@ -1917,7 +1917,7 @@ ANCESTORS
 	Generation  Robert and Elizabeth Cate Berry: Orange County, North Carolina. 
 	Generation  Robert Jr and M...
 
-### [Sarah Cate](../sarahcate/index.html)
+### [Sarah Cate](/ancestors/sarahcate/)
 Sarah Cate Berry Pigg daughter of William and Elizabeth Messersmith Cate, (Widow of Thomas Berry, son of Robert and Elizabeth Cate Berry.) 
 ANCESTORS
 
@@ -1947,7 +1947,7 @@ Generation 3 Thomas Person and Sarah Lunsford Berry
 
 Generation 4 John Robert...
 
-### [Shelby Dale Berry](../shelby-dale-berry/index.html)
+### [Shelby Dale Berry](/ancestors/shelby-dale-berry/)
 Ancestors: 
 
 	Generation Robert and Mary Williamson Berry. Princess Anne County, Virginia. 
@@ -2113,7 +2113,7 @@ Robert Berry Family And National Facts Indexed By Year
 TIMELINE FROM 1700 TO 1950 
 1701 1702 1703 1704 1705 1706 1707 1708 1709 1710 1711 1712 1713 1714 1715 1716 1717 1718 1719 1720 1721 1722 1723 1724 1725 1726 1727 1728 1729 1730 1731 1732 1733 1734 1735 1736 1737 1738 1739 1740 1741 1742 1743 1744 1745...
 
-### [Timelines](../timelines/index.html)
+### [Timelines](/ancestors/timelines/)
 Click this link to go to 1600-1699 Timeline 
 
 Click this link to go to 1700-1799 Timeline 
@@ -2133,7 +2133,7 @@ CATES from THE DAVID J. BERRY LINEGeneration 1 Robert and Elizabeth Cate BerryGe
 ### [Unknown Pictures Page 1](https://unknown-pictures-page-1/)
 There were several Un Identified pictures sent to me with the known pictures of Francis Marion Berry's family pictures. They could be related to our Berry's or the could be relatives of Fannie Lillie Hudspeth's. She married Francis Marion Berry and the ...
 
-### [USA Conflicts](../usaconflicts/index.html)
+### [USA Conflicts](/ancestors/usaconflicts/)
 Timeline of wars involving the USA 
 Major Wars
   
@@ -2255,7 +2255,7 @@ Blow is a list of items that Robert Berry Sen, and his family bought at William 
 
 	    ...
 
-### [William Clarence Berry NC, ALA, TX](../williamclarenceberrync/index.html)
+### [William Clarence Berry NC, ALA, TX](/ancestors/williamclarenceberrync/)
 William Clarence Berry, son of William and Hannah Cate Berry Berry 
 ANCESTORS
 

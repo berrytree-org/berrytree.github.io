@@ -11,11 +11,11 @@ Robert Berry married Elizabeth Cate in 1857
 
 **Robert Berry’s oldest known Ancestors in America:   **
 
-- **[Ann Foster ](http://annfosterpac/)was born in England in 1820  and was married before 1740 in America**
+- **[Ann Foster ](/ancestors/roger-williamson-pac/)was born in England in 1820  and was married before 1740 in America**
 
 - **George Kempe and Mary Hutchinson   were also born in England and married there before ****coming **** to America.   **
 
-**[Roger Williamson](http://rogerwilliamsonpac/) married Ann Foster **
+**[Roger Williamson](/ancestors/roger-williamson-pac/) married Ann Foster **
 
 - **They had three Children:**
 
@@ -25,7 +25,7 @@ Robert Berry married Elizabeth Cate in 1857
 
 1. **Richard Williamson born 1648**
 
-**[Richard Williamson](http://richardwilliamsonpac/) married [Mary Kempe](http://marykempepac/), ****daughter**** of George Kempe**
+**[Richard Williamson](/ancestors/roger-williamson-pac/) married [Mary Kempe](/ancestors/robert-berry-pac/), ****daughter**** of George Kempe**
 
 - **They had 6 children:**
 
@@ -53,7 +53,7 @@ Robert Berry married Elizabeth Cate in 1857
 
 Brick Wall Breakthrough
 
-****Robert******** Berry (OC) ****of Orange County, NC. was an early pioneer in North Carolina and he was our Brick Wall for about 10 years. **All of the information I have been able to find now indicates that** [Robert Berry (OC) was born in Princess Ann County Virginia](http://rb2sourcelist/) and removed to Orange County, NC. some time in 1751.
+****Robert******** Berry (OC) ****of Orange County, NC. was an early pioneer in North Carolina and he was our Brick Wall for about 10 years. **All of the information I have been able to find now indicates that** [Robert Berry (OC) was born in Princess Ann County Virginia](/ancestors/robert-berry-oc/) and removed to Orange County, NC. some time in 1751.
 
 **A few substantiating Facts:**
 
@@ -191,11 +191,11 @@ There are many other facts that finally broke down my brick wall that have now b
 
 **The location of the Plantation House,which was built in 1766, was about 200 yards from the southern boundary on the Original Grant property and about 200 yards East of Lick Creek.**
 
-Robert Berry was always very active in the local affairs. In 1756 and 1757 he was involved in a court case against Richard Gibb which I think he won. He served on a grand Jury in March 1759. He may have been in the battle of Alamance in May of 1771. He was almost certainly in the battle of Guilford Courthouse in April 1881. [View Pay Vouchers](http://robert-berrys-oc-pay-vouchers/)  Mary’s husband George Waggoner was mortally wounded in that battle.
+Robert Berry was always very active in the local affairs. In 1756 and 1757 he was involved in a court case against Richard Gibb which I think he won. He served on a grand Jury in March 1759. He may have been in the battle of Alamance in May of 1771. He was almost certainly in the battle of Guilford Courthouse in April 1881. [View Pay Vouchers](/documents/)  Mary’s husband George Waggoner was mortally wounded in that battle.
 
-Robert Berry wrote his will on April 16, 1812 Will Book D page 408. [See His Wil](http://robert-berry-oc-will/)l
+Robert Berry wrote his will on April 16, 1812 Will Book D page 408. [See His Wil](/documents/)l
 
-Robert Berry was likely the first person to be buried in the Fiddleton Cemetery which is located very near the center of his 1757 Granville Land Grant Property. There are 23 graves in this cemetery which was not discovered until 2005 To view the headstones located there [**CLICK HERE**](http://fiddletoncemetery/)
+Robert Berry was likely the first person to be buried in the Fiddleton Cemetery which is located very near the center of his 1757 Granville Land Grant Property. There are 23 graves in this cemetery which was not discovered until 2005 To view the headstones located there [**CLICK HERE**](/ancestors/robert-berry-oc/)
 
 ### **Children:**
 
@@ -211,7 +211,7 @@ Robert Berry was likely the first person to be buried in the Fiddleton Cemetery 
 
 **
 
-1. **[ John Berry](../johnberry/index.html) **b. cir 1764 d. 18o4 m Martha Stepp September 16 1793
+1. **[ John Berry](/ancestors/johnberry/) **b. cir 1764 d. 18o4 m Martha Stepp September 16 1793
 
 1. **[ Isaac Berry](/ancestors/robert-berry-oc/) **b. cir 1766 d. 1840
 
@@ -221,7 +221,7 @@ Robert Berry was likely the first person to be buried in the Fiddleton Cemetery 
 
 1. ** [Thomas Berry](/ancestors/robert-berry-oc/) **b. cir 1772 d. 1812 m. Aug. 12, 1800 Sarah Cate
 
-1. ** [David J. Berry](http://david-j-berry-sr/) **b. cir 1774 d. Oct. 3, 1837 m. 1797  Mary Blalock
+1. ** [David J. Berry](/ancestors/david-j-berry-sr/) **b. cir 1774 d. Oct. 3, 1837 m. 1797  Mary Blalock
 
 1. ** [William Berry](/ancestors/robert-berry-oc/) **b. cir 1775 d. 1855 m. Aug. 11, 1799 Hannah Cate
 
@@ -400,11 +400,11 @@ Born: Unknown Orange County NC Died: Unknown Orange NC
 
 Robert Berry Sr. listed in 1790 Orange County North Carolina Census
 
-- [us census orange county north carolina in 1790](http://1790censusindex/)
+- [us census orange county north carolina in 1790](/ancestors/robert-berry-oc/)
 
-- [us census orange county north carolina in 1800](http://1800-orange-county-nc-census/)
+- [us census orange county north carolina in 1800](/ancestors/robert-berry-oc/)
 
-- [us census orange county north carolina in 1810](http://1810-hannah-cate-census/)
+- [us census orange county north carolina in 1810](/ancestors/robert-berry-oc/)
 
 - Robert was not in a census after 1810. The two neighbors who signed his 1812 will were J (Joseph) Rountree and William Roberson Robert Berry died in 1814 and was buried at the Fiddleton Cemetery.
 
