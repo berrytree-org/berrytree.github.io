@@ -2,43 +2,31 @@
 title: "Mary Berry Family Line"
 ---
 
-Gen 1 Robert & Mary Williamson Berry, Princess Ann County, Virginia.
+**Gen 1** Robert & Mary Williamson Berry, Princess Anne County, Virginia.
 
+**Gen 2** Robert & Elizabeth Cate Berry, Orange County, North Carolina.
 
-Gen 2 Robert & Elizabeth Cate Berry, Orange County, North Carolina
+---
 
+- [Berry, Mary](/ancestors/mary-berry/) **Gen 3** — daughter of Robert and Elizabeth Cate Berry, NC
+- [Waggoner, George](/ancestors/mary-berry/) **Gen 3** — first husband of Mary Berry, NC
 
-- [Berry, Mary](http://berrytree.org/maryberry/) **Gen 3**** **daughter of Robert and Elizabeth Cate Berry NC
+**Children (1st marriage):**
 
-- [Waggoner, George](http://berrytree.org/maryberry/) **Gen 3**  First husband of Mary Berry NC
+- [Waggoner, Elizabeth](/ancestors/mary-berry/) **Gen 4** — George & Mary Berry Waggoner's daughter, NC
+- [Waggoner, Ann](/ancestors/mary-berry/) **Gen 4** — George & Mary Berry Waggoner's daughter, NC
 
+---
 
-Children:
+- [Berry, Mary](/ancestors/mary-berry/) **Gen 3** — daughter of Robert and Elizabeth Cate Berry, NC
+- [Camp, James](/ancestors/mary-berry/) **Gen 3** — second husband of Mary Berry, NC/SC
 
+**Children (2nd marriage):**
 
-- [Waggoner , Elizabeth](http://berrytree.org/maryberry/) **Gen 4 **George & Mary Berry Waggoner’s daughter NC ?
-
-- [Waggoner, Ann](http://berrytree.org/maryberry/) **Gen 4 **George & Mary Berry Waggoner’s daughter NC ?
-
-
-- [Berry, Mary](http://berrytree.org/maryberry/) **Gen 3**** **daughter of Robert and Elizabeth Cate Berry NC
-
-- [Camp, James](http://berrytree.org/maryberry/)** Gen 3** second husband of Mary Berry NC, SC.
-
-
-Children:
-
-
-- [Camp, John](http://berrytree.org/maryberry/) **Gen 4 **James and Mary Berry Camp’s son GA.
-
-- [Camp, Sarah](http://berrytree.org/maryberry/) **Gen 4 **James and Mary Berry Camp’s daughter GA
-
-- [Humphries. Shadrack](http://berrytree.org/maryberry/) **Gen 4 **Husband of Sarah Camp GA
-
-- [Camp, Robert Berry](http://berrytree.org/maryberry/) **Gen 4 **James and Mary Berry Camp’s son GA
-
-- [Bailey, D. Gillea](http://berrytree.org/maryberry/) **Gen 4 **Wife of Robert Berry Camp GA
-
-- [Camp, Starling](http://berrytree.org/maryberry/) **Gen 4 **James and Mary Berry Camp’s son GA
-
-- [Camp, Joseph](http://berrytree.org/maryberry/) **Gen 4 **James and Mary Berry Camp’s son SC
+- [Camp, John](/ancestors/mary-berry/) **Gen 4** — James and Mary Berry Camp's son, GA
+- [Camp, Sarah](/ancestors/mary-berry/) **Gen 4** — James and Mary Berry Camp's daughter, GA
+- [Humphries, Shadrack](/ancestors/mary-berry/) **Gen 4** — husband of Sarah Camp, GA
+- [Camp, Robert Berry](/ancestors/mary-berry/) **Gen 4** — James and Mary Berry Camp's son, GA
+- [Bailey, D. Gillea](/ancestors/mary-berry/) **Gen 4** — wife of Robert Berry Camp, GA
+- [Camp, Starling](/ancestors/mary-berry/) **Gen 4** — James and Mary Berry Camp's son, GA
+- [Camp, Joseph](/ancestors/mary-berry/) **Gen 4** — James and Mary Berry Camp's son, SC
