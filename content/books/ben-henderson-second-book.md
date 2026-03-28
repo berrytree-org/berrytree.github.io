@@ -7,7 +7,7 @@ weight: 2
 
 ![Front Cover for INDEX Bk](/images/front-cover-for-index-bk.jpg)
 
-](../wp-content/uploads/2015/01/Front-Cover-for-INDEX-Bk-e1443292129249.jpg)This is great news for everyone associated with the Robert and Elizabeth Cate Berry family line.
+](/images/Front-Cover-for-INDEX-Bk-e1443292129249.jpg)This is great news for everyone associated with the Robert and Elizabeth Cate Berry family line.
 
 This book is available to Everyone FREE in PDF format and can be downloaded from the BOOK PAGE  [CLICK HERE](../books.html)   
 

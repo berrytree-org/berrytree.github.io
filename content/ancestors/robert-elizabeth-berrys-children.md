@@ -117,7 +117,7 @@ Generation 2 [Robert and Elizabeth Cate Berry](../robert-berry-oc/index.html) al
 
 ![1820 map southern states](/images/1820-map-southern-states.jpg)
 
-](../wp-content/uploads/2009/12/1820-map-southern-states.jpg)
+](/images/1820-map-southern-states.jpg)
 
 ## Spouse Information
 

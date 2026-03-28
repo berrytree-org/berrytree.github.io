@@ -15,7 +15,7 @@ weight: 9
 
 ![David ll Picture line](/images/david-ll-picture-line.jpg)
 
-](../wp-content/uploads/2008/03/David-ll-Picture-line.jpg)
+](/images/David-ll-Picture-line.jpg)
 
 1. Generation Robert and Mary Williamson Berry Princess Anne County Va.
 
@@ -27,7 +27,7 @@ weight: 9
 
 ![My William Picture line](/images/my-william-picture-line.jpg)
 
-B](../wp-content/uploads/2008/03/My-William-Picture-line.jpg)orn 6/1/1808                     9/25/1842                        9/8/1869                  6/20/1908
+B](/images/My-William-Picture-line.jpg)orn 6/1/1808                     9/25/1842                        9/8/1869                  6/20/1908
 
 - Died 4/30/1884                   10/10/1917                       5/8/1965                   3/19/2002
 
@@ -37,7 +37,7 @@ B](../wp-content/uploads/2008/03/My-William-Picture-line.jpg)orn 6/1/1808    �
 
 ![Ben_Henderson1](/images/ben_henderson1.jpg)
 
-](../wp-content/uploads/2015/01/Ben_Henderson1.jpg)
+](/images/Ben_Henderson1.jpg)
 
 1. Generation Robert and Mary Williamson Berry Princess Anne County Va.
 
@@ -49,7 +49,7 @@ Fourth                                             Fifth�
 
 ![Willie Berry Line](/images/willie-berry-line.jpg)
 
-](../wp-content/uploads/2008/03/Willie-Berry-Line.jpg)
+](/images/Willie-Berry-Line.jpg)
 
 1. Generation Robert and Mary Williamson Berry Princess Anne County Va.
 
@@ -63,6 +63,6 @@ Fourth                                             Fifth�
 
 ![Thomas E. Berry line](/images/thomas-e.-berry-line.bmp)
 
-](../wp-content/uploads/2008/03/Thomas-E.-Berry-line.bmp)
+](/images/Thomas-E.-Berry-line.bmp)
 
 [Return to the top of  page](http://picturedirectoryt/)

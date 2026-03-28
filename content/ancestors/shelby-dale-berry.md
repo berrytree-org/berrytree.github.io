@@ -31,11 +31,11 @@ Dale spent his early years in the entertainment business and the central part of
 
 ![Shelby Dale Berry cowboy](/images/shelby-dale-berry-cowboy.jpg)
 
-](../wp-content/uploads/2015/11/Shelby-Dale-Berry-cowboy.jpg)Dale was associated with the Western Film Festivels and acted[
+](/images/Shelby-Dale-Berry-cowboy.jpg)Dale was associated with the Western Film Festivels and acted[
 
 ![Shelby and Dorothy](/images/shelby-and-dorothy.jpg)
 
-](../wp-content/uploads/2015/11/Shelby-and-Dorothy.jpg) in westerns with Gene Autry and several other known actors of the silver screen.  
+](/images/Shelby-and-Dorothy.jpg) in westerns with Gene Autry and several other known actors of the silver screen.  
 
 As the western movies declined, he went from playing the Cowboy to acting on other shows such as Route 66, Dallas, and Walker, Texas Ranger. Dale Berry on the left.
 
@@ -45,7 +45,7 @@ Shelby Dale and Dorothy Louise Lewis Berry in the picture on the right.
 
 ![Shelby Dale and Dorothy headstone](/images/shelby-dale-and-dorothy-headstone.jpg)
 
-](../wp-content/uploads/2015/11/Shelby-Dale-and-Dorothy-headstone.jpg)
+](/images/Shelby-Dale-and-Dorothy-headstone.jpg)
 
 [Shelby Dale Berry](../johnberry/index.html) descends from John and Martha Stepp Berry
 
@@ -55,7 +55,7 @@ Our other Berry TV Actor is [Ken Berry](http://ken-berry/) descends from the J
 
 ![Ken Berry](/images/ken-berry.jpg)
 
-](../wp-content/uploads/2015/11/Ken-Berry.jpg)
+](/images/Ken-Berry.jpg)
 
  
 
