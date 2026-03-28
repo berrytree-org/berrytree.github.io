@@ -5,7 +5,7 @@ title: "Henry Berry Tree"
 ## Henry Berry Tree
 
 
-….2. [Berry, Henry](http://berrytree.org/henryberry/) b. 1776 – Orange County N.C., d. 1855 – Orange County N.C.
+….2. [Berry, Henry](/family-lines/henry-berry-family-tree/) b. 1776 – Orange County N.C., d. 1855 – Orange County N.C.
 
 ……..sp. Ashley, Fanny
 

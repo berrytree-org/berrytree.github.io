@@ -11,16 +11,16 @@ title: "John R Berry Fiddleton Map"
 ### **Ancestors:**
 
 
-Generation 1 [Robert and Mary Williamson Berry](http://berrytree.org/robertberrypac/)
+Generation 1 [Robert and Mary Williamson Berry](/ancestors/robert-berry-pac/)
 
 
-Generation 2 [Robert and Elizabeth Cate Berry](http://berrytree.org/robert/)
+Generation 2 [Robert and Elizabeth Cate Berry](/ancestors/robert-berry-oc/)
 
 
-Generation 3 [William and Hannah Cate Berry](http://berrytree.org/william/)
+Generation 3 [William and Hannah Cate Berry](/ancestors/william-clarence-berry-nc/)
 
 
-Generation 4 [Thomas Person and Sarah Lunsford Berry](http://berrytree.org/thomaspersonberry/)
+Generation 4 [Thomas Person and Sarah Lunsford Berry](/ancestors/thomas-person-berry/)
 
 
 ![](/images/jrbstore.jpg)**John Robert Berry** was born on September 25 1842. He married **Elizabeth Frances Bowling** on November 30th 1865. **John Robert Berry **died on 10 October 1917**. **He was the third son of Thomas Person and Sarah Lunsford Berry. There is not a lot known about the period of time when Thomas Person Berry and Sarah Lunsford were married on the 28 of September 1831 and the time their first son was born in 1836 I have not found any record of children born before 1836.
@@ -50,14 +50,14 @@ John Robert and Elizabeth lived in Orange County their entire life
 
 ### 1891 Map of Berry’s Grove and Fiddleton in N. Orange County, NC
 
-[![](/images/Map_of_Orange_County__NC-Fiddleton-Circa-1890.jpg)](http://berrytree.org/fiddleton-1891/)
+[![](/images/Map_of_Orange_County__NC-Fiddleton-Circa-1890.jpg)](/ancestors/robert-berry-oc/)
 
 Fiddleton Homestead, J R Berry Home and Berry’s Grove Baptist Church circa 1891
 
 
 Why is this map with the name Fiddleton important? Robert Berry acquired his plantation in Orange County North Carolina in 1751 and apparently named his plantation Fiddleton. There is a Fittleton Wiltshire England West of London. This is a strong indication  that Robert Berry’s ancestors probably lived there.
 
-## [John Robert and Elizabeth Berry’s Family](http://berrytree.org/john-robert-berrys-family-history/)
+## [John Robert and Elizabeth Berry’s Family](/ancestors/john-robert-berry-family-history/)
 
 
 ###  **Children:**

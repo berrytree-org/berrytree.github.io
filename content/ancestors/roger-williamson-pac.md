@@ -5,7 +5,7 @@ weight: 10
 
 ## Roger Williamson from England and Princess Ann County, Virginia
 
-[ PARENTS of Roger Williamson and Ann Foster are unknown at this time.]()
+ PARENTS of Roger Williamson and Ann Foster are unknown at this time.
 
 **ROGER WILLIAMSON married ANN FOSTER**  
 
@@ -37,7 +37,7 @@ Children of John  and Ann Foster Williamson Carroway:
 
 ![Ann Fosters Will ENHANCED Black and White](/images/ann-fosters-will-enhanced-black-and-white.jpg)
 
-](https://web.archive.org/wp-content/uploads/2009/11/Ann-Fosters-Will-ENHANCED-Black-and-White.jpg)
+](/images/Ann-Fosters-Will-ENHANCED-Black-and-White.jpg)
 
  
 
@@ -45,6 +45,6 @@ Children of John  and Ann Foster Williamson Carroway:
 
 ![Anne Carraway](/images/anne-carraway.jpg)
 
-](https://web.archive.org/wp-content/uploads/2009/11/Anne-Carraway.jpg)
+](/images/Anne-Carraway.jpg)
 
-[Return to top of Page](https://web.archive.org/rogerwilliamsonpac/)
+Return to top of Page

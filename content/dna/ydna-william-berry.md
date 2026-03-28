@@ -2,7 +2,7 @@
 title: "YDNA matching William Berry YDNA"
 ---
 
-#### TO COMPARE YOUR YDNA TO OUR ROBERT BERRY FAMILY ( [CLICK HERE)](http://berrytree.org/dnapagetwo/)
+#### TO COMPARE YOUR YDNA TO OUR ROBERT BERRY FAMILY ( [CLICK HERE)](/dna/dna-page-two/)
 
 
 #### Robert T Berry has a living Descendant who’s YDNA matches our William Berry Line by 66 out of 67 Markers. The first 37 markers from the two sources are listed below.

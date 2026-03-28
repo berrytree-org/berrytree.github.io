@@ -3,7 +3,7 @@ title: "Robert & Elizabeth Cate Berry's Children"
 weight: 16
 ---
 
-## [Robert And Elizabeth’s ten children circa 1760 -1858]()
+## Robert And Elizabeth’s ten children circa 1760 -1858
 
 **ANCESTORS**
 
@@ -167,4 +167,4 @@ Henry left the Plantation Home he had inherited to his daughter Mary Ashley Berr
 
 Updated 2020-02-04 by Willliam H.
 
-[Back to Top](../wp/genthree.html#)
+Back to Top

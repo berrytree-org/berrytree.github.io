@@ -13,13 +13,13 @@ title: "David J. Berry Tree"
 - Generation Robert and Elizabeth Cate Berry,Orange County, North Carolina.
 
 
-**Gen 3** [David J. Berry](http://berrytree.org/david-j-berry-sr/) 1774 d: 03 Oct 1837 in Fayette County Georgia
+**Gen 3** [David J. Berry](/ancestors/david-j-berry-sr/) 1774 d: 03 Oct 1837 in Fayette County Georgia
 
-……….. +[Mary Blealock](http://berrytree.org/david-j-berry-sr/) 1772 – m: 21 Feb 1797 in Orange County N.C. d: in Georgia
+……….. +[Mary Blealock](/ancestors/david-j-berry-sr/) 1772 – m: 21 Feb 1797 in Orange County N.C. d: in Georgia
 
-**…..Gen 4** [Sarah Berry](http://berrytree.org/sarahberrycatesga/) b 1796 d: 04 Apr 1870 in Clayton County GA
+**…..Gen 4** [Sarah Berry](/ancestors/david-j-berry-sr/) b 1796 d: 04 Apr 1870 in Clayton County GA
 
-…………….. +[William Abraham Cates](http://berrytree.org/sarahberrycatesga/) b 1798 m: 26 Jul 1817 in Orange County N.C. d: 28 Mar 1871 in Clayton Co. Georgia
+…………….. +[William Abraham Cates](/ancestors/david-j-berry-sr/) b 1798 m: 26 Jul 1817 in Orange County N.C. d: 28 Mar 1871 in Clayton Co. Georgia
 
 …………**Gen 5** Alford Cates 1817 –
 
@@ -295,9 +295,9 @@ title: "David J. Berry Tree"
 
 …..**Gen 4** George M. Berry 1810 d: Bef. 1820 in Orange Co. NC
 
-…..**Gen 4** [Robert Berry](http://berrytree.org/robertdjberry/) 1812 d: Bef. 1892 in Milton Now Fulton GA.
+…..**Gen 4** [Robert Berry](/ancestors/robert-berry-jr/) 1812 d: Bef. 1892 in Milton Now Fulton GA.
 
-……… +[Elizabeth Everett](http://berrytree.org/robertdjberry/) 1814 m: 1833 d: 23 Apr 1891 in Rosswell, Fulton GA
+……… +[Elizabeth Everett](/ancestors/robert-berry-jr/) 1814 m: 1833 d: 23 Apr 1891 in Rosswell, Fulton GA
 
 …………**Gen 5** Isaac M. Berry 1833 d: 25 Mar 1903 in Milton GA.
 
@@ -517,7 +517,7 @@ title: "David J. Berry Tree"
 
 ……………. +Martha “Mattie” Starke 1844 m: Abt. 1870 d: 25 Jul 1928 in Vinemont, Cullman County, Alabama
 
-……………….**Gen 6** [Horace Prather](http://berrytree.org/horacepratherberryga/) Berry 1870 –
+……………….**Gen 6** [Horace Prather](/ancestors/robert-c-berry-alabama/) Berry 1870 –
 
 ………………….. +Mary Florence Johnson
 
@@ -635,7 +635,7 @@ title: "David J. Berry Tree"
 
 ……………….**Gen 6** Jason Miles Berry – 1880 d: 1880
 
-……………….**Gen 6** [Enoch Merill Berry](http://berrytree.org/enoch-m-berry-page/) 1881 -d. 1963                                                                               …………………..+[Mary Edna Stewart](http://berrytree.org/enoch-m-berry-page/)1882 d: 12 Sep 1931 in Cullman Alabama
+……………….**Gen 6** [Enoch Merill Berry](/ancestors/) 1881 -d. 1963                                                                               …………………..+[Mary Edna Stewart](/ancestors/)1882 d: 12 Sep 1931 in Cullman Alabama
 
 ………………….**Gen 7** Chester Ira Berry 1911 –
 
@@ -727,9 +727,9 @@ title: "David J. Berry Tree"
 
 …………………………+Olga Shules
 
-…………**Gen 5** [Emanuel P. Berry](http://berrytree.org/emmanuel-patten-berry/) 1848 d: 03 Feb 1938 in Baldwin Co. GA.
+…………**Gen 5** [Emanuel P. Berry](/ancestors/) 1848 d: 03 Feb 1938 in Baldwin Co. GA.
 
-…………………..+[Clara Susan Worsham](http://berrytree.org/emmanuel-patten-berry/) 1854 m: 28 Dec 1871 d. 1 Jan 1936 Milledgeville, GA
+…………………..+[Clara Susan Worsham](/ancestors/) 1854 m: 28 Dec 1871 d. 1 Jan 1936 Milledgeville, GA
 
 ……………….**Gen 6** Adolphus Bunion Berry 1874 d: 05 Nov 1975 in Milledgeville, GA
 
@@ -801,7 +801,7 @@ title: "David J. Berry Tree"
 
 ………………………….*5th Husband of Lizzie Irene Berry:
 
-………………………….+Charles H. Siebert m: 20 Mar 1978                                                       ……………….**Gen 6** [Isaac M. Berry](http://berrytree.org/emmanuel-patten-berry/) 1892 – 1980                                                                                  …………………………+ [Lizzie Lee](http://berrytree.org/emmanuel-patten-berry/) 1893-1961                                                                                          ………………..**Gen 6** Lillie M. Berry 1895 died in 1917 of typhoid fever. She is buried in Memory Hill Cemetery in Milledgeville                                                                         ……………….**Gen 6** John E Berry 1898 -died in 1980.                                                                       …………………………+ Mary Viola Anderson. He married Mary Anderson (1901-1998) and lived in Coopers until the early 40’s. He purchased an 180 farm on Harmony Church Road in  East Baldwin County and built a home. John was a carpenter and farmer.  Lena. John and Mary Berry are buried at Memory Hill Cemetery.                                                                   …………………..**Gen 7** Ruth Berry                                                                                                         …………………..**Gen 7 **Jack,Berry                                                                                                           …………………..**Gen 7 **Billy Berry                                                                                                       …………………..**Gen 7 **Lee Berry                                                                                                             …………………..**Gen 7 **Ouida Berry,                                                                                                     …………………..**Gen 7 **Malvin Berry,                                                                                                   …………**Gen 5** Jesse Lee Berry 1852 – 1924 d: 04 Apr 1924 in Columbus, Muscogee Georgia
+………………………….+Charles H. Siebert m: 20 Mar 1978                                                       ……………….**Gen 6** [Isaac M. Berry](/ancestors/) 1892 – 1980                                                                                  …………………………+ [Lizzie Lee](/ancestors/) 1893-1961                                                                                          ………………..**Gen 6** Lillie M. Berry 1895 died in 1917 of typhoid fever. She is buried in Memory Hill Cemetery in Milledgeville                                                                         ……………….**Gen 6** John E Berry 1898 -died in 1980.                                                                       …………………………+ Mary Viola Anderson. He married Mary Anderson (1901-1998) and lived in Coopers until the early 40’s. He purchased an 180 farm on Harmony Church Road in  East Baldwin County and built a home. John was a carpenter and farmer.  Lena. John and Mary Berry are buried at Memory Hill Cemetery.                                                                   …………………..**Gen 7** Ruth Berry                                                                                                         …………………..**Gen 7 **Jack,Berry                                                                                                           …………………..**Gen 7 **Billy Berry                                                                                                       …………………..**Gen 7 **Lee Berry                                                                                                             …………………..**Gen 7 **Ouida Berry,                                                                                                     …………………..**Gen 7 **Malvin Berry,                                                                                                   …………**Gen 5** Jesse Lee Berry 1852 – 1924 d: 04 Apr 1924 in Columbus, Muscogee Georgia
 
 …………………..+Nancy Ann Henry 1857  m: 16 Dec 1874 d: 24 Feb 1949 Columbus, Georgia
 
@@ -928,4 +928,4 @@ title: "David J. Berry Tree"
 …………**Gen 5**  [Joshua Berry](/images/02/berrybrothers.pdf) 1867 d: 20 Oct 1921 in Jonesboro Fulton GA
 
 
-[Return to the top of Page](http://berrytree.org/djbtree/)
+Return to the top of Page

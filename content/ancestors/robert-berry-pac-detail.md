@@ -11,7 +11,7 @@ title: "Robert Berry PAC"
 Ann Foster
 
 
-** **[Roger Williamson married  Ann Foster](http://berrytree.org/rogerwilliamsonpac/)
+** **[Roger Williamson married  Ann Foster](/ancestors/roger-williamson-pac/)
 
 
 - Their Children:
@@ -23,7 +23,7 @@ Ann Foster
 - Richard Williamson
 
 
-** **[Richard Williamson  married Mary Kempe](http://berrytree.org/richardwilliamsonpac/)Mary’s parents George and Ann  Kempe,
+** **[Richard Williamson  married Mary Kempe](/ancestors/roger-williamson-pac/)Mary’s parents George and Ann  Kempe,
 
 
 - Their Children;
@@ -63,7 +63,7 @@ John and Ann Foster Williamson Caraway’s Children;
 The two witnesses to this will were Bartho (Bartholomew) Williamson and Sarah S Mathias. Bartho was Mary Williamsons brother and Sarah S Mathias was her sister. Robert Berry (PAC) and his wife Mary, his two sons Richard Berry and Robert Berry (OC), and in the 12th line he states “all my children in the estate”.
 
 
-After Robert Berry (PAC) died his wife apparently lived until 1746 because that is when Robert Berry (OC) indentured himself to [Samuel Hollowell.](http://berrytree.org/samuel-hollowell/) Robert Berry (OC) appeared in the court of Princess Ann County Virginia on the 19th day of August 1746 to ask the court to indenture him to Samuel Hollowell to learn the carpenter trade. I think Robert had to be at least 17 years old in order to do that. Samuel Hollowell is believed to have been married into the Berry family and was most likely Robert Berry’s (OC) brother-in-law.
+After Robert Berry (PAC) died his wife apparently lived until 1746 because that is when Robert Berry (OC) indentured himself to [Samuel Hollowell.](/ancestors/robert-berry-pac/) Robert Berry (OC) appeared in the court of Princess Ann County Virginia on the 19th day of August 1746 to ask the court to indenture him to Samuel Hollowell to learn the carpenter trade. I think Robert had to be at least 17 years old in order to do that. Samuel Hollowell is believed to have been married into the Berry family and was most likely Robert Berry’s (OC) brother-in-law.
 
 
 [![Samuel Hollowell Church Job](/images/Samuel-Hollowell-Church-Job.jpg)](/images/03/Samuel-Hollowell-Church-Job.jpg)
@@ -98,7 +98,7 @@ After Robert Berry (OC) granted his Granville Land Grant, he named his new plant
 
 - Richard Berry – We think he remained in Virginia
 
-- [Robert Berry OC](http://berrytree.org/robert-berry-oc/) – B. 1729 d. 1814 married Elizabeth Cate
+- [Robert Berry OC](/ancestors/robert-berry-oc/) – B. 1729 d. 1814 married Elizabeth Cate
 
 - None of the daughters names are known at this time.
 
@@ -106,7 +106,7 @@ After Robert Berry (OC) granted his Granville Land Grant, he named his new plant
 ### **Places Lived:**
 
 
-[Probable Country of Origin: Robert Berry Princess Ann County Virginia](http://berrytree.org/?page_id=126)
+[Probable Country of Origin: Robert Berry Princess Ann County Virginia](/ancestors/robert-berry-pac/)
 
 
-[Return to top of Page](http://berrytree.org/robertberrypac/)
+[Return to top of Page](/ancestors/robert-berry-pac/)

@@ -50,11 +50,11 @@ The author of “Wagons South, Wagons West” , Victor Glenn Berry, was a dir
 I made an error In my book “OUR BERRYS IN FRONTIER AMERICA” on pages 114 to 121 I explained why I thought William Clarence Berry was one or Robert Berry Junior’s sons. This error was detected and ratified by  new Y-DNA results from a descendant of Robert C. Berry. We already had Y-DNA results from one of William Clarence Berry’s descendants but had overlooked a 100% match to two  known William Berry and Hannah Cate Berry descendants. When we got a second match from Robert C. Berry’s line it became clear that all three boys were William and Hannah Berry’s sons.
 
 
-SEE: [BERRY DNA PROJECT](http://berrytree.org/?page_id=37)
+SEE: [BERRY DNA PROJECT](/dna/dna-page-two/)
 
 With all four Y-DNA results matching and the other archival information we already knew, it became obvious that Robert C Berry and William Clarence Berry are sons of [**William and Hannah Cate Berry.
 
-**](http://berrytree.org/?page_id=183) More of this story is covered on[**William Clarence Berry’s page.**](http://berrytree.org/williamclarenceberrync/)[**
+**](/ancestors/robert-berry-oc/) More of this story is covered on[**William Clarence Berry’s page.**](/ancestors/william-clarence-berry-nc/)[**
 
 **](willianclarenceberrync.html)
 

@@ -21,7 +21,7 @@ Generation 4 Thomas Person and Sarah Lunsford Berry
 
 
 Generation 5 John Robert and Elizabeth Francis Bowling Berry
-[![Three Berry Brothers Wiley P. Berry Thomas Euart BerryWillia Adolpus Berry](/images/pwillieeuartncsmall-e1423789415391.jpg)](http://berrytree.org/9798-2/)
+[![Three Berry Brothers Wiley P. Berry Thomas Euart BerryWillia Adolpus Berry](/images/pwillieeuartncsmall-e1423789415391.jpg)](/ancestors/robert-berry-oc-9798/)
 
 Three Berry Brothers
 Wiley P. Berry

@@ -21,7 +21,7 @@ weight: 4
 
 - [2000-Present Timeline](../2000-present-timeline/index.html)
 
-- [Abbreviations used in Berrytree.org](../wp/abbreviations.html)
+- Abbreviations used in Berrytree.org
 
 - [About Us](/ancestors/about-us/)
 
@@ -112,7 +112,7 @@ weight: 4
 
 - [David Middleton Berry Ala](https://davidmiddletonberryala/)
 
-- [Dedication Page](../wp/dedication-page.html)
+- Dedication Page
 
 - [Deed Book Page 331 Land Purchase in Person County NC](https://deed-book-page-331/)
 
@@ -361,7 +361,7 @@ weight: 4
 
 - [Robert and Elizabeth Everett Berry’s Children](https://djbrbchildren/)
 
-- [Robert Berry (OC)](../wp/robert-berry-oc.html)
+- Robert Berry (OC)
 
 - [Robert Berry (OC) Character](https://robert-berry-oc-character/)
 
@@ -369,7 +369,7 @@ weight: 4
 
 - [Robert Berry Ancestors](https://robertberryancestors/)
 
-- [Robert Berry and Elizabeth Cate Berry’s Children](../wp/genthree.html)
+- Robert Berry and Elizabeth Cate Berry’s Children
 
 - [Robert Berry Joshua’s Son NC](https://robert-berry-joshuas-son-nc/)
 
@@ -387,7 +387,7 @@ weight: 4
 
 - [ROBERT BERRY OC WILL](https://robert-berry-oc-will/)
 
-- [Robert Berry PAC](../wp/robertberrypac.html)
+- Robert Berry PAC
 
 - [Robert Berry PAC 1730 Will and Transcript](https://robert-berry-pac-will-transcription/)
 
@@ -439,7 +439,7 @@ weight: 4
 
 - [Shelby Dale Berry](/ancestors/shelby-dale-berry/)
 
-- [Site Map](../wp/site-map.html)
+- Site Map
 
 - [Susan Berry Ala and Tx](https://susanberryalatx/)
 

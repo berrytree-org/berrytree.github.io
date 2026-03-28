@@ -37,7 +37,7 @@ In that same census it states that Nancy Winn/Winn was born in Tennessee. Ira ma
 ### **Children:**
 
 
-- [**Franklin Pierce Berry**](http://berrytree.org/?page_id=51)Born 1855 in Kentucky **DNA DONOR LINE**
+- [**Franklin Pierce Berry**](/ancestors/ira-berry-nc/)Born 1855 in Kentucky **DNA DONOR LINE**
 
 - **Thomas Berry** Born 1857 Kentucky
 
@@ -56,7 +56,7 @@ In that same census it states that Nancy Winn/Winn was born in Tennessee. Ira ma
 ### **Census Information:**
 
 
-[Ira Berry’s Census Page](http://berrytree.org/ira-berry-census-page/)
+[Ira Berry’s Census Page](/ancestors/ira-berry-nc/)
 
 >
 
