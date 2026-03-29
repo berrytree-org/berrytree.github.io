@@ -1,6 +1,9 @@
 # Hugo build output
-/Projects/
 /public/
+
+# Local only — not for remote
+/Projects/
+start_webserver.sh
 /resources/_gen/
 /.hugo_build.lock
 
