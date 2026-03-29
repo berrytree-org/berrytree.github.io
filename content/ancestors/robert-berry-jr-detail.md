@@ -142,13 +142,13 @@ could read and write.
 
 - [US Grant: Robert Berry Jr.and his son George Berry April 6, 1824](/documents/land-grant-robert-berry-jr/)
 
-- [Found in Fayette County, Alabama in the 1830 Census](/images/08/robertjr1830ala.jpg)
+- [Found in Fayette County, Alabama in the 1830 Census](/census/robertjr1830ala.jpg)
 
-- [Slave Page in Fayette Alabama in 1830 Census](/images/08/robertjrslavepage1830ala.jpg)
+- [Slave Page in Fayette Alabama in 1830 Census](/census/robertjrslavepage1830ala.jpg)
 
-- [Found In Fayette County Alabama In The 1840 Census](/images/08/robertjr1840ala.jpg)
+- [Found In Fayette County Alabama In The 1840 Census](/census/robertjr1840ala.jpg)
 
-- [Slave Page in Fayette Alabama in 1840 Census](/images/08/robertjrslavpage1840ala.jpg)
+- [Slave Page in Fayette Alabama in 1840 Census](/census/robertjrslavpage1840ala.jpg)
 
 - Not found in the 1850 Fayette County, Alabama Census.
 

@@ -923,9 +923,9 @@ title: "David J. Berry Tree"
 
 …………**Gen 5** Sarah R. Berry 1854 –
 
-…………**Gen 5** Anglett G. Berry 1856 –                                                                                         …………**Gen 5**  [Robert I Berry](/images/02/berrybrothers.pdf) 1857 d: 20 Oct 1921 in Jonesboro Clayton GA                 …………**Gen 5**  Mary E. Berry 1863 –
+…………**Gen 5** Anglett G. Berry 1856 –                                                                                         …………**Gen 5**  [Robert I Berry](/documents/berrybrothers.pdf) 1857 d: 20 Oct 1921 in Jonesboro Clayton GA                 …………**Gen 5**  Mary E. Berry 1863 –
 
-…………**Gen 5**  [Joshua Berry](/images/02/berrybrothers.pdf) 1867 d: 20 Oct 1921 in Jonesboro Fulton GA
+…………**Gen 5**  [Joshua Berry](/documents/berrybrothers.pdf) 1867 d: 20 Oct 1921 in Jonesboro Fulton GA
 
 
 Return to the top of Page
