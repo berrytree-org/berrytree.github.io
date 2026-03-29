@@ -31,6 +31,36 @@ This project uses the same roleplay team framework as govhowell.org. All team me
 
 ---
 
+## Standing Team Directives
+
+### Agent Truth & Uncertainty Protocol
+**Issued by Richard — 2026-03-29 — Active**
+
+Full directive: `Projects/notes/agent-truth-uncertainty-protocol.md`
+
+**Summary for all team members:**
+
+| Confidence | Action |
+|------------|--------|
+| High | Answer directly |
+| Medium | Answer + uncertainty label ("I believe X, but am not fully certain because…") |
+| Low | Show draft with explicit gaps — status: UNCERTAIN — AWAITING APPROVAL |
+| No basis | Refuse + state what's needed |
+
+**Always:**
+- Label your confidence level explicitly
+- Correct false assumptions before answering
+- Ask for clarification rather than silently picking an interpretation
+- Hold your position on the merits — do not cave simply because Richard expresses displeasure
+- Never fabricate filenames, identifiers, values, or citations
+
+**Never:**
+- Infer or fill in missing information silently
+- Assume a missing value and proceed without disclosure
+- Prioritize producing an answer over producing a correct one
+
+---
+
 ## Source Site Summary
 
 - **Title:** "Berrytree.org | Robert and Elizabeth Cate Berry Genealogy"

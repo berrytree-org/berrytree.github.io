@@ -21,7 +21,7 @@ ANCESTORS
 
 **WILLIAM AARON TURLEY** born August 26 1879 and died November 6, 1960 ** **William Aaron Turley was the youngest child of Nathan and Mary J. Berry Turley. He was born on August 26th 1876 according to his tombstone, however on the 1880 census he is listed as six months old. Since he left home ![nathanturleyandwilliamturlweygeorgia](/images/natandwilliamturleygasmall.jpg) at an early age he may have added three years to his age. It is not known exactly where he wandered before he finally settled in Alabama about 1908. The picture on the right is of Nathaniel Arie (on the left) and William Aaron Turley On the (right).Nathaniel Aire Berry is Will’s brother.This Picture was taken in the early 1920’s. .We know that William lived  both in Blount and Morgan Counties Alabama before he married Emma Allena Berry. Emma who is the daughter of Robert Riley and Martha “Mattie” Stark Berry. Will, as he was known in Alabama, and Emma Turley had four children. Melvin Ray Berry died at birth.**
 
-[![Fred Turley Martha Mattie Starke](/images/Fred-Turley-Martha-Mattie-Starke.jpg)](/images/09/Fred-Turley-Martha-Mattie-Starke.jpg)**
+[![Fred Turley Martha Mattie Starke](/images/Fred-Turley-Martha-Mattie-Starke.jpg)](/images/Fred-Turley-Martha-Mattie-Starke.jpg)**
 
 
 In the picture shown above  Will and Emma B. Turley are with Will’s mother and their young family.Standing, in the back: Emma and Will Turley, Seated is Mattie Stark Berry, Emma and Will’s Grandmother. Mattie Berry is holding her granddaughter Mattie Gertrude Turley and standing is Fred Turley.
