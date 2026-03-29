@@ -367,9 +367,9 @@ p > strong:first-child {
 // we style it properly for the forest theme.
 // =============================================================
 
-// The mobile header bar (hidden on desktop, visible on mobile)
+// The mobile header bar — theme hides it via .hidden class on desktop;
+// we style it here and reveal it at the theme's native breakpoint (56rem)
 .book-header {
-  display: none;  // hidden on desktop; enabled inside mobile media query below
   background-color: rgba(29, 46, 29, 0.94);
   backdrop-filter: blur(3px);
   -webkit-backdrop-filter: blur(3px);
@@ -412,8 +412,8 @@ p > strong:first-child {
   }
 }
 
-// Sidebar slide-in on mobile
-@media (max-width: #{768px}) {
+// Sidebar slide-in on mobile — match theme's native breakpoint (56rem ≈ 896px)
+@media (max-width: 56rem) {
   .book-header {
     display: flex;
   }
@@ -476,7 +476,7 @@ p > strong:first-child {
 }
 
 // Responsive: solid panel on narrow screens (tablet/phone)
-@media (max-width: 768px) {
+@media (max-width: 56rem) {
   .book-page {
     background-color: rgba(245, 240, 232, 0.96);
   }
