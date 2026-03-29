@@ -3,7 +3,7 @@ name: Deploy Berrytree.org to GitHub Pages
 on:
   push:
     branches:
-      - master
+      - main
   workflow_dispatch:
 
 permissions:
@@ -39,7 +39,7 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
-          publish_branch: gh-pages  # source stays on master; built output goes here
+          publish_branch: master    # source stays on main; built output goes here
           force_orphan: true        # gh-pages contains only the built site, no history
           keep_files: false
           cname: berrytree.org
