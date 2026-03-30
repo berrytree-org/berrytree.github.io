@@ -29,15 +29,15 @@ title: "Alfred Walter Berry Ala"
 <table>
 <tbody>
 <tr>
-<td><a href="/images/davidmidberry1870ala.jpg"><img class="alignnone size-thumbnail wp-image-1504" src="/images/davidmidberry1870ala-150x150.jpg" alt="davidmidberry1870ala" width="150" height="150" /></a></td>
+<td><a href="/images/davidmidberry1870ala.jpg"><img class="alignnone size-thumbnail wp-image-1504" src="/images/davidmidberry1870ala.jpg" alt="davidmidberry1870ala" width="150" height="150" /></a></td>
 <td>Alfred was listed in the 1870 Fayette County Census</td>
 </tr>
 <tr>
-<td><a href="/images/alfordeberry1880ala.jpg"><img class="alignnone size-thumbnail wp-image-1505" src="/images/alfordeberry1880ala-150x150.jpg" alt="alfordeberry1880ala" width="150" height="150" /></a></td>
+<td><a href="/images/alfordeberry1880ala.jpg"><img class="alignnone size-thumbnail wp-image-1505" src="/images/alfordeberry1880ala.jpg" alt="alfordeberry1880ala" width="150" height="150" /></a></td>
 <td>Alfred was listed in the 1880 Fayette County Census</td>
 </tr>
 <tr>
-<td><a href="/images/alfordwberry1900ala.jpg"><img class="alignnone size-thumbnail wp-image-1506" src="/images/alfordwberry1900ala-150x150.jpg" alt="alfordwberry1900ala" width="150" height="150" /></a></td>
+<td><a href="/images/alfordwberry1900ala.jpg"><img class="alignnone size-thumbnail wp-image-1506" src="/images/alfordwberry1900ala.jpg" alt="alfordwberry1900ala" width="150" height="150" /></a></td>
 <td>Alfred was in the Fayette County 1900 Census Census</td>
 </tr>
 </tbody>

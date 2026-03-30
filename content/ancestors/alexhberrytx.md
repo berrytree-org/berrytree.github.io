@@ -14,7 +14,7 @@ Generation 4 <a title="George Berry Tx" href="/ancestors/georgeberrytx/">George 
 
 Generation 5 <a title="John Berry Tx" href="/ancestors/johnberrytx/">John and Mary Howell Berry</a>
 
-<strong><a href="/images/alexhjosieberry-e1421577909136.jpg"><img class=" size-medium wp-image-201 alignleft" src="/images/alexhjosieberry-e1421577909136-203x300.jpg" alt="alexhjosieberry" width="203" height="300" /></a>Alexander Howard Berry</strong> was born on August 24th 1854 in New Danville, Rusk County Texas.
+<strong><a href="/images/alexhjosieberry-e1421577909136.jpg"><img class=" size-medium wp-image-201 alignleft" src="/images/alexhjosieberry-e1421577909136.jpg" alt="alexhjosieberry" width="203" height="300" /></a>Alexander Howard Berry</strong> was born on August 24th 1854 in New Danville, Rusk County Texas.
 
 On April 17th 1877 Alexander married Josephine Priscilla Gregory in Henrietta, Clay County Texas.
 
@@ -50,7 +50,7 @@ Josephine Precilla Gregory Berry died In Amherst, Lamb County Texas on July 9th 
 
  
 
-<a href="/images/marriageahberryjosie.jpg"><img class=" wp-image-1496 size-thumbnail alignleft" src="/images/marriageahberryjosie-150x150.jpg" alt="marriageahberryjosie" width="150" height="150" /></a>
+<a href="/images/marriageahberryjosie.jpg"><img class=" wp-image-1496 size-thumbnail alignleft" src="/images/marriageahberryjosie.jpg" alt="marriageahberryjosie" width="150" height="150" /></a>
 
 <strong>Alexander Berry And Josephine Gregory's Marriage License</strong>
 
@@ -77,19 +77,19 @@ Josephine Precilla Gregory Berry died In Amherst, Lamb County Texas on July 9th 
 <table>
 <tbody>
 <tr>
-<td><a href="/images/alexberrytx1880.jpg"><img class="alignnone wp-image-1497 size-thumbnail" src="/images/alexberrytx1880-150x150.jpg" alt="alexberrytx1880" width="150" height="150" /></a></td>
+<td><a href="/images/alexberrytx1880.jpg"><img class="alignnone wp-image-1497 size-thumbnail" src="/images/alexberrytx1880.jpg" alt="alexberrytx1880" width="150" height="150" /></a></td>
 <td>Alexander H. Berry listed in the Texas 1880 Census</td>
 </tr>
 <tr>
-<td><a href="/images/alexberrytx1900.jpg"><img class="alignnone size-thumbnail wp-image-1498" src="/images/alexberrytx1900-150x150.jpg" alt="alexberrytx1900" width="150" height="150" /></a></td>
+<td><a href="/images/alexberrytx1900.jpg"><img class="alignnone size-thumbnail wp-image-1498" src="/images/alexberrytx1900.jpg" alt="alexberrytx1900" width="150" height="150" /></a></td>
 <td>Alexander H. Berry listed in Oklahoma in the 1900</td>
 </tr>
 <tr>
-<td><a href="/images/alexberrytx1910.jpg"><img class="alignnone size-thumbnail wp-image-1499" src="/images/alexberrytx1910-150x150.jpg" alt="alexberrytx1910" width="150" height="150" /></a></td>
+<td><a href="/images/alexberrytx1910.jpg"><img class="alignnone size-thumbnail wp-image-1499" src="/images/alexberrytx1910.jpg" alt="alexberrytx1910" width="150" height="150" /></a></td>
 <td>Alexander H. Berry listed in the Texas 1910 Census</td>
 </tr>
 <tr>
-<td><a href="/images/alexberrytx1920.jpg"><img class="alignnone size-thumbnail wp-image-1500" src="/images/alexberrytx1920-150x150.jpg" alt="alexberrytx1920" width="150" height="150" /></a></td>
+<td><a href="/images/alexberrytx1920.jpg"><img class="alignnone size-thumbnail wp-image-1500" src="/images/alexberrytx1920.jpg" alt="alexberrytx1920" width="150" height="150" /></a></td>
 <td>Alexander H. Berry listed in the Texas 1920 Census</td>
 </tr>
 </tbody>

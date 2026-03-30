@@ -26,7 +26,7 @@ In 1870 William Clarence Berry and several of his family removed to Burnet Count
 
 William Clarence Berry died on September 8th 1798. Massa Ann Thompkins Berry died on January 4th 1903. They both died in Burnet County Texas and are buried there in the Cauble Cemetery. The House on the right is located in Texas and is reported to be the home of William Clarence Berry. <strong>All of William Clarence Berry and Robert C Berry's  children are much closer related to me than I first thought. They are all first cousins to my Great Grandfather John Robert Berry and all of Thomas Person Berry's children by both marriages. This is where the story came from that my Uncle Harold Berry told me.  He said some of our folks went to Texas. </strong>
 
-<figure><a href="/images/johnrobertberrypicture.jpg"><img class="size-thumbnail wp-image-2235" src="/images/johnrobertberrypicture-150x150.jpg" alt="My Ggrandfather" width="150" height="150" /></a> John Robert Berry and his wife Elizabeth Frances Bowling North Carolina</figure>
+<figure><a href="/images/johnrobertberrypicture.jpg"><img class="size-thumbnail wp-image-2235" src="/images/johnrobertberrypicture.jpg" alt="My Ggrandfather" width="150" height="150" /></a> John Robert Berry and his wife Elizabeth Frances Bowling North Carolina</figure>
 
 John Robert and Elizabeth Frances Bowling Berry's family remained in North Carolina. Most of their descendants still live in North Carolina within 50 miles of the original Granville Land Grant of Robert Berry who first settled in North Carolina in 1751.  I am sure that the story Uncle Harold heard about having relatives in Texas came indirectly from his grandfather John Robert Berry.
 

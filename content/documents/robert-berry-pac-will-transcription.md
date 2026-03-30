@@ -33,4 +33,4 @@ Sarah S Mathyas			named then the above last will and testament
 </span></pre>
 Click the image below to see the original 1730 document
 
-<a href="/images/robertberrywill1730.jpg"><img class="alignnone wp-image-1109 size-thumbnail" src="/images/robertberrywill1730-150x150.jpg" alt="robertberrywill1730" width="150" height="150" /></a>
+<a href="/images/robertberrywill1730.jpg"><img class="alignnone wp-image-1109 size-thumbnail" src="/images/robertberrywill1730.jpg" alt="robertberrywill1730" width="150" height="150" /></a>

@@ -40,11 +40,11 @@ What happened next changed all of the plans that Hannah Cate Berry's children ha
 <p>Hannah had two brothers, Benjamin Cate, and John Cate, and she had two sisters, Sarah Cate, and Charity Cate. This information was confirmed in William Cate's will that 10th of November 1775.</p>
 
 
-<figure><a href="/images/willcatesale.jpg"><img class="size-thumbnail wp-image-1075" src="/images/willcatesale-150x150.jpg" alt="William Cate inventory Sale 1803" width="150" height="150" /></a> William Cate inventory Sale 1803</figure>
+<figure><a href="/images/willcatesale.jpg"><img class="size-thumbnail wp-image-1075" src="/images/willcatesale.jpg" alt="William Cate inventory Sale 1803" width="150" height="150" /></a> William Cate inventory Sale 1803</figure>
 <p>William Cate died after 1800 because the Inventory of his Estate Sale was registered in the August 1803 Term of  Court. Hannah's Mother, Elizabeth Smith Cate bought many items at the sale. Nearly all of the Berry family bought items at the sale also. Robert Berry's wife Elizabeth Berry bought a Keller. Hannah's mother died in 1826 William Cate's farm property was then left to Hannah Cate Berry, her two brothers  and her two sisters.</p>
 
 
-<figure><a href="/images/temperancefranklinbiblepage.jpg"><img class="size-thumbnail wp-image-2075" src="/images/temperancefranklinbiblepage-150x150.jpg" alt="Temperance Jane Franklin naming her Elizabeth Berry and her father John Berry" width="150" height="150" /></a> Temperance Jane Franklin naming her Elizabeth Berry and her father John Berry</figure>
+<figure><a href="/images/temperancefranklinbiblepage.jpg"><img class="size-thumbnail wp-image-2075" src="/images/temperancefranklinbiblepage.jpg" alt="Temperance Jane Franklin naming her Elizabeth Berry and her father John Berry" width="150" height="150" /></a> Temperance Jane Franklin naming her Elizabeth Berry and her father John Berry</figure>
 
 <figure><img class="size-thumbnail wp-image-2105" src="/images/Temperance-Jane-Franklin-Davis-150x150.jpg" alt="Hannah Cate Berry's Grandaughter" width="150" height="150" /><figcaption>Hannah Cate Berry's Grandaughter</figcaption></figure>
 
@@ -56,7 +56,7 @@ Since Hannah and Sarah Cate were sisters and Thomas and William were brothers th
 
 Elizabeth Berry Franklin returned to join her children who were living in Texas after the Civil War was over. Temperance Jane Franklin had married Warren William Davis on 09 Nov 1854 in Bienville, Parrish, LA. They had 4 children. Most likely all seven of Theodrick<a href="/images/elizabeth-berry-franklin-tx-headstone.jpg"><img class="wp-image-4072 alignleft" src="/images/elizabeth-berry-franklin-tx-headstone.jpg" alt="Elizabeth Berry Franklin TX headstone" width="282" height="344" /></a>and Elizabeth Berry Franklin's children migrated to Texas before the Civil War began. Their mother was back in Orange County, North Carolina, at her half brother's house in 1860 and was trapped by the war until the Civil War ended. I have no record of when she rejoined her children.
 
-Hannah Cate Berry was born in Orange County North Carolina and died there in 1858. She is buried in a grave with an unmarked field stone as a Monument the Robert Berry Fiddleton Cemetery on the original Granville Land Grant Property. Robert and Elizabeth Cate Berry and 20 more of their descendants are buried here also. <a href="/images/closeupofcemetery.jpg"><img class="wp-image-390 alignleft" src="/images/closeupofcemetery-150x150.jpg" alt="closeupofcemetery" width="289" height="289" /></a>
+Hannah Cate Berry was born in Orange County North Carolina and died there in 1858. She is buried in a grave with an unmarked field stone as a Monument the Robert Berry Fiddleton Cemetery on the original Granville Land Grant Property. Robert and Elizabeth Cate Berry and 20 more of their descendants are buried here also. <a href="/images/closeupofcemetery.jpg"><img class="wp-image-390 alignleft" src="/images/closeupofcemetery.jpg" alt="closeupofcemetery" width="289" height="289" /></a>
 <h3></h3>
 <h3></h3>
 <h3></h3>
@@ -70,6 +70,6 @@ CENSUS INFORMATION:
  	<li>Hannah Berry Was Living With Henry Berry In 1850</li>
  	<li><strong>Click on the Icon Below</strong></li>
 </ul>
-<a href="/images/hberry1850.jpg"><img class="size-thumbnail wp-image-1966" src="/images/hberry1850-150x150.jpg" alt="Henry Berry and Hannah Berry 1850 Orange County Census" width="150" height="150" /></a>
+<a href="/images/hberry1850.jpg"><img class="size-thumbnail wp-image-1966" src="/images/hberry1850.jpg" alt="Henry Berry and Hannah Berry 1850 Orange County Census" width="150" height="150" /></a>
 
 <a href="/ancestors/hannahcateberry/">Return to top of Page</a>
