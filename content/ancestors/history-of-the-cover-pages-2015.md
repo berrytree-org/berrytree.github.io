@@ -12,7 +12,7 @@ The Chimney is all that remains of Robert and Elizabeth Cate Berry's Plantation
 
 <strong>Burning of Robert Berry's Plantation Home</strong>
 
-<a href="/images/12-by-792-Back-of-book.jpg"><img class="alignnone size-thumbnail wp-image-3016" src="/images/12-by-792-Back-of-book-150x150.jpg" alt="12 by 792 Back of book" width="150" height="150" /></a>
+<a href="/images/12-by-792-back-of-book.jpg"><img class="alignnone size-thumbnail wp-image-3016" src="/images/12-by-792-Back-of-book-150x150.jpg" alt="12 by 792 Back of book" width="150" height="150" /></a>
 
 <strong>Back Cover Picture</strong>
 

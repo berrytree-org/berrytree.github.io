@@ -11,11 +11,11 @@ Ancestors:
 	<li>Jesse Lee and Nancy Ann Henry Berry, Georgia and Alabama</li>
 	<li>Addie Lena Berry and Hampton Fantom Manners,  Spaulding GA & Guilford County, North Carolina.</li>
 </ol>
-<a href="/images/Jesse.jpg"><img class="alignnone size-full wp-image-5387" src="/images/Jesse.jpg" alt="Jesse" width="1130" height="747" /></a>
+<a href="/images/jesse.jpg"><img class="alignnone size-full wp-image-5387" src="/images/jesse.jpg" alt="Jesse" width="1130" height="747" /></a>
 
 Jesse Waldo Maners World War two Draft Registration above.
 
-<a href="/images/Jesse-Waldo-Maners-Marriage-Certificate.jpg"><img class="alignnone size-full wp-image-5417" src="/images/Jesse-Waldo-Maners-Marriage-Certificate.jpg" alt="Jesse Waldo Maners Marriage Certificate" width="991" height="771" /></a>
+<a href="/images/jesse-waldo-maners-marriage-certificate.jpg"><img class="alignnone size-full wp-image-5417" src="/images/jesse-waldo-maners-marriage-certificate.jpg" alt="Jesse Waldo Maners Marriage Certificate" width="991" height="771" /></a>
 
 Jesse Waldo and Velma Irene Morgan Maners had a son that was named Jesse Waldo Manners Jr., who was born in Asheboro North Carolina on July 8th 1842 and died on August 26 2013 in Peizer, South Carolina. He was married to Wanda Sue Holliday Maners.
 

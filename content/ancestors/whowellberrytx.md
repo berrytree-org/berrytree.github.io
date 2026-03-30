@@ -57,11 +57,11 @@ There are three known children born to this union.
 	<li>9 Generation James Edward and Velvie Mae Van Doern Berry</li>
 	<li>10 Generation Clifford Dale and Pamela J Brame Berry</li>
 </ul>
-<a href="/images/Untitled.png"><img class="alignnone size-full wp-image-8676" src="/images/Untitled.png" alt="Untitled" width="1129" height="545" /></a>
+<a href="/images/untitled.png"><img class="alignnone size-full wp-image-8676" src="/images/untitled.png" alt="Untitled" width="1129" height="545" /></a>
 
-<a href="/images/Ruby-A-Berry-Death-.jpg"><img class="alignnone size-full wp-image-8677" src="/images/Ruby-A-Berry-Death-.jpg" alt="Ruby A Berry Death" width="938" height="806" /></a>
+<a href="/images/ruby-a-berry-death-.jpg"><img class="alignnone size-full wp-image-8677" src="/images/ruby-a-berry-death-.jpg" alt="Ruby A Berry Death" width="938" height="806" /></a>
 
-<a href="/images/Alex-berry-and-second-wife-headstone.jpg"><img class="alignnone size-full wp-image-8678" src="/images/Alex-berry-and-second-wife-headstone.jpg" alt="Alex berry and second wife headstone" width="713" height="525" /></a>
+<a href="/images/alex-berry-and-second-wife-headstone.jpg"><img class="alignnone size-full wp-image-8678" src="/images/alex-berry-and-second-wife-headstone.jpg" alt="Alex berry and second wife headstone" width="713" height="525" /></a>
 
 This is the headstone of James Alexander and his second wife Latine Berry. There were no children born to this marriage
 
@@ -73,7 +73,7 @@ Hello, I have only recently begun looking into family history. What started as t
 
 <a href="/images/7-generations.jpg"><img class="alignnone size-full wp-image-8692" src="/images/7-generations.jpg" alt="7 generations" width="883" height="547" /></a>
 
-<strong><a href="/images/alexander-Howard-family.jpg"><img class="alignnone size-full wp-image-8684" src="/images/alexander-Howard-family.jpg" alt="alexander Howard family" width="1362" height="730" /></a>
+<strong><a href="/images/alexander-howard-family.jpg"><img class="alignnone size-full wp-image-8684" src="/images/alexander-howard-family.jpg" alt="alexander Howard family" width="1362" height="730" /></a>
 </strong><strong>Willie Howell Berry was born in Clay Co. Tx  1917 and died in Lamb Co. Tx. </strong>
 <h3>December 11, 2007</h3>
 CENSUS INFORMATION

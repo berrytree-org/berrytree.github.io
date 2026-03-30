@@ -72,7 +72,7 @@ At this time nothing else is known about the other children who were listed in t
 <h3><strong>James and Mary Parker Berry were born in Orange County, NC, and died in Smith County, Tennessee.</strong></h3>
 <strong>Some Central Tennessee Counties where some of our Berry Ancestors homesteaded and live today. Nashville is in Davidson County.</strong>
 
-<a href="/images/CENTRAL-TENNESSEE-COUNTIES.jpg"><img class="size-full wp-image-3290 aligncenter" src="/images/CENTRAL-TENNESSEE-COUNTIES.jpg" alt="CENTRAL TENNESSEE COUNTIES" width="752" height="462" /></a>
+<a href="/images/central-tennessee-counties.jpg"><img class="size-full wp-image-3290 aligncenter" src="/images/central-tennessee-counties.jpg" alt="CENTRAL TENNESSEE COUNTIES" width="752" height="462" /></a>
 <h3></h3>
 <h3><strong>Census information:</strong></h3>
 <blockquote>

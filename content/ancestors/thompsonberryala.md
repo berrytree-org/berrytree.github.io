@@ -21,7 +21,7 @@ In the picture on the right Thompson Berry and his wife's memoral was placed bes
 
 The Picture above is land that once belonged to Robert Berry Jr. and his oldest son, George Berry.
 
-<a href="/images/Berry-Ala-city-limit-sign.jpg"><img class="alignnone size-full wp-image-5328" src="/images/Berry-Ala-city-limit-sign.jpg" alt="Berry Ala city limit sign" width="1206" height="747" /></a>
+<a href="/images/berry-ala-city-limit-sign.jpg"><img class="alignnone size-full wp-image-5328" src="/images/berry-ala-city-limit-sign.jpg" alt="Berry Ala city limit sign" width="1206" height="747" /></a>
 
 The city of Berry Alabama was named for Thompson P. Berry, son of Robert and Mary Waggoner Berry
 

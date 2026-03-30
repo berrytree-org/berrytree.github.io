@@ -38,11 +38,11 @@ In the 1870 and 1880 Census Elizabeth was listed as Blind
 <ul>
  	<li><a title="Census Pages" href="/ancestors/1800-orange-county-nc-census/">David is the male listed under 10, Eleanor had not been born at this time Orange County North Carolina in 1800</a></li>
  	<li><a title="Census Pages" href="/ancestors/1810-hannah-cate-census/">David is one of the males under 10 listed in Hannah Berry's 1810 Census</a></li>
- 	<li><a title="Census Pages" href="/images/Sarah-pigg-david-eleanor-1840.jpg">David Berry in Tennessee 1840 Census</a></li>
- 	<li><a title="Census Pages" href="/images/MyWillaim-Berry-1850-Tennessee.png">David Berry in Tennessee 1850 Census Page 1</a></li>
- 	<li><a title="Census Pages" href="/images/Sarah-Cate-Pigg-1850-Tenn.jpg">David Berry in Tennessee 1850 Census Page 2</a></li>
- 	<li><a title="Census Pages" href="/images/Sarah-Pigg-1860.jpg">David Berry in Tennessee 1860 Census</a></li>
- 	<li><a title="Census Pages" href="/images/Sarah-Pigg-1870.jpg">David Berry in Tennessee 1870 Census</a></li>
+ 	<li><a title="Census Pages" href="/images/sarah-pigg-david-eleanor-1840.jpg">David Berry in Tennessee 1840 Census</a></li>
+ 	<li><a title="Census Pages" href="/images/mywillaim-berry-1850-tennessee.png">David Berry in Tennessee 1850 Census Page 1</a></li>
+ 	<li><a title="Census Pages" href="/images/sarah-cate-pigg-1850-tenn.jpg">David Berry in Tennessee 1850 Census Page 2</a></li>
+ 	<li><a title="Census Pages" href="/images/sarah-pigg-1860.jpg">David Berry in Tennessee 1860 Census</a></li>
+ 	<li><a title="Census Pages" href="/images/sarah-pigg-1870.jpg">David Berry in Tennessee 1870 Census</a></li>
  	<li><a title="Census Pages" href="/images/davidbtenn1880.jpg">David Berry in Tennessee 1880 Census<strong>
 </strong></a></li>
 </ul>

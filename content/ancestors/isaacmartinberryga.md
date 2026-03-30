@@ -12,7 +12,7 @@ Generation 3 Robert and Elizabeth Everitt Berry Berry
 
 <strong>Issac Martin Berry </strong>born July 22 1833 in Georgia and died on March 25th 1903. He married Mary Ellen Anderson in 1856
 
-<figure><a href="/images/Robert-and-eliza-everetts-bible-page.jpg"><img class="size-thumbnail wp-image-2436" src="/images/Robert-and-eliza-everetts-bible-page-150x150.jpg" alt="Robert & Elizabeth Everette Berry's Bible Page" width="150" height="150" /></a> Robert & Elizabeth Everette Berry's Bible Page</figure>
+<figure><a href="/images/robert-and-eliza-everetts-bible-page.jpg"><img class="size-thumbnail wp-image-2436" src="/images/Robert-and-eliza-everetts-bible-page-150x150.jpg" alt="Robert & Elizabeth Everette Berry's Bible Page" width="150" height="150" /></a> Robert & Elizabeth Everette Berry's Bible Page</figure>
 
 View Robert"S Birthday on Family Bible Page
 

@@ -13,9 +13,9 @@ Ancestors:
 	<li>Vera Othella Maners was born on September 16th 1907 & died in Rock Hill SC on June 1st 1998</li>
 </ol>
 <p><strong>Marvin Roger Snipes Draft Registration for World War ll</strong></p>
-<a href="/images/Melvin-R-Snipes-WW-Draft-Card-p1.jpg"><img class="wp-image-5547 alignleft" src="/images/Melvin-R-Snipes-WW-Draft-Card-p1.jpg" alt="Melvin R Snipes WW! Draft Card p1" width="284" height="366" /></a><a href="/images/Hampton-F-Maners-Draft-notice-page-21.jpg"><img class="alignnone wp-image-5548" src="/images/Hampton-F-Maners-Draft-notice-page-21.jpg" alt="Hampton F Maners Draft notice page 2" width="273" height="366" /></a>
+<a href="/images/melvin-r-snipes-ww-draft-card-p1.jpg"><img class="wp-image-5547 alignleft" src="/images/melvin-r-snipes-ww-draft-card-p1.jpg" alt="Melvin R Snipes WW! Draft Card p1" width="284" height="366" /></a><a href="/images/hampton-f-maners-draft-notice-page-21.jpg"><img class="alignnone wp-image-5548" src="/images/hampton-f-maners-draft-notice-page-21.jpg" alt="Hampton F Maners Draft notice page 2" width="273" height="366" /></a>
 
-<a href="/images/Vera-and-Marvin-Snipes-Marriage.jpg"><img class="alignnone size-full wp-image-5540" src="/images/Vera-and-Marvin-Snipes-Marriage.jpg" alt="Vera and Marvin Snipes Marriage" width="750" height="387" /></a>
+<a href="/images/vera-and-marvin-snipes-marriage.jpg"><img class="alignnone size-full wp-image-5540" src="/images/vera-and-marvin-snipes-marriage.jpg" alt="Vera and Marvin Snipes Marriage" width="750" height="387" /></a>
 
 <strong>Marvin Roger Snipes and Vera Othella Maners were married on November 25th 1922. </strong>Vera and Marvin made their home in High Point, North Carolina. The couple had one son, Marvin Roger Snipes Jr. who was born in 1927.
 
@@ -29,7 +29,7 @@ U.S. City Directories, 1822-1995 <span class="ng-binding" data-ng-show="personSe
 </div>
 </div>
 <div class="breadcrumbItem ng-scope" data-breadcrumb="true" data-menu-container-id="breadcrumbMenu" data-ng-repeat="item in breadcrumbItems" data-ng-hide="item.state == 'hidden'" data-ng-click="onBreadcrumbItemClicked($index)" data-tracklink="Browse-BrowseStart"></div>
-<div class="breadcrumbItem ng-scope" data-breadcrumb="true" data-menu-container-id="breadcrumbMenu" data-ng-repeat="item in breadcrumbItems" data-ng-hide="item.state == 'hidden'" data-ng-click="onBreadcrumbItemClicked($index)" data-tracklink="Browse-BrowseStart"><a href="/images/M-Snipes-City-directory.jpg"><img class="alignnone size-full wp-image-5543" src="/images/M-Snipes-City-directory.jpg" alt="M Snipes City directory" width="702" height="68" /></a></div>
+<div class="breadcrumbItem ng-scope" data-breadcrumb="true" data-menu-container-id="breadcrumbMenu" data-ng-repeat="item in breadcrumbItems" data-ng-hide="item.state == 'hidden'" data-ng-click="onBreadcrumbItemClicked($index)" data-tracklink="Browse-BrowseStart"><a href="/images/m-snipes-city-directory.jpg"><img class="alignnone size-full wp-image-5543" src="/images/m-snipes-city-directory.jpg" alt="M Snipes City directory" width="702" height="68" /></a></div>
 <div class="breadcrumbItem ng-scope" data-breadcrumb="true" data-menu-container-id="breadcrumbMenu" data-ng-repeat="item in breadcrumbItems" data-ng-hide="item.state == 'hidden'" data-ng-click="onBreadcrumbItemClicked($index)" data-tracklink="Browse-BrowseStart"></div>
 <div class="breadcrumbItem ng-scope" data-breadcrumb="true" data-menu-container-id="breadcrumbMenu" data-ng-repeat="item in breadcrumbItems" data-ng-hide="item.state == 'hidden'" data-ng-click="onBreadcrumbItemClicked($index)" data-tracklink="Browse-BrowseStart"></div>
 <div class="breadcrumbItem ng-scope" data-breadcrumb="true" data-menu-container-id="breadcrumbMenu" data-ng-repeat="item in breadcrumbItems" data-ng-hide="item.state == 'hidden'" data-ng-click="onBreadcrumbItemClicked($index)" data-tracklink="Browse-BrowseStart"></div>
@@ -37,7 +37,7 @@ U.S. City Directories, 1822-1995 <span class="ng-binding" data-ng-show="personSe
 
 Vera Othella Maners was born on September 16th 1907 & died in Rock Hill SC on June 1st 1998 Marvin Rodger Snipes was born on February 27th 1900 and died in May 1982.
 
-<a href="/images/Vera-and-Marvin-Snipes-headstone.jpg"><img class="alignnone size-full wp-image-5545" src="/images/Vera-and-Marvin-Snipes-headstone.jpg" alt="Vera and Marvin Snipes headstone" width="629" height="340" /></a>
+<a href="/images/vera-and-marvin-snipes-headstone.jpg"><img class="alignnone size-full wp-image-5545" src="/images/vera-and-marvin-snipes-headstone.jpg" alt="Vera and Marvin Snipes headstone" width="629" height="340" /></a>
 
 <a href="/ancestors/vera-othello-maners/">Return to top of Page</a>
 

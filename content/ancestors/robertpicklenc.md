@@ -51,7 +51,7 @@ The pictures of Robert Pickle and Sarah Aldridge Pickle were supplied by a desce
 	<li></li>
 	<li>William R. Pickle was born 17 September 1843 in Monroe County and died 4 November 1922 in Monroe County. He married first Mary Elizabeth Irvin 11 February 1865 in Monroe County. He married second to Mary Rebecca Irvin 3 April 1898 in Monroe County. Robert is buried in the Pickle Cemetery. Mary Elizabeth is buried in the Irvin Cemetery.</li>
 </ul>
-<a href="/images/William-R.-Pickle-and-Mary-E.-Irvin-Pickle.jpg"><img class="alignnone size-full wp-image-4480" src="/images/William-R.-Pickle-and-Mary-E.-Irvin-Pickle.jpg" alt="William R. Pickle and Mary E. Irvin Pickle" width="1410" height="983" /></a>
+<a href="/images/william-r.-pickle-and-mary-e.-irvin-pickle.jpg"><img class="alignnone size-full wp-image-4480" src="/images/william-r.-pickle-and-mary-e.-irvin-pickle.jpg" alt="William R. Pickle and Mary E. Irvin Pickle" width="1410" height="983" /></a>
 
 L. to R. Robert Pickle, Unknown Banjo Picker, Sarah Aldridge Pickle, Thomas Irvin, Mary Elizabeth Irvin, Sidney Lowery Irvin, William R. Pickle.
 

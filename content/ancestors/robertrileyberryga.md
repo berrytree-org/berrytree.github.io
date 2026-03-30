@@ -27,15 +27,15 @@ title: "Robert Riley Berry Ga"
 <!-- /wp:heading -->
 
 <!-- wp:image {"align":"left","id":15660,"width":214,"height":299,"sizeSlug":"full","linkDestination":"none"} -->
-<div class="wp-block-image"><figure class="alignleft size-full is-resized"><img src="/images/Robert-Riley-Berry.jpg" alt="" class="wp-image-15660" width="214" height="299"/><figcaption>Robert Riley Berry</figcaption></figure></div>
+<div class="wp-block-image"><figure class="alignleft size-full is-resized"><img src="/images/robert-riley-berry.jpg" alt="" class="wp-image-15660" width="214" height="299"/><figcaption>Robert Riley Berry</figcaption></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:image {"align":"right","id":15669,"width":165,"height":304,"sizeSlug":"full","linkDestination":"none"} -->
-<div class="wp-block-image"><figure class="alignright size-full is-resized"><img src="/images/Mattie_Starke_Berry-1.jpg" alt="" class="wp-image-15669" width="165" height="304"/><figcaption><meta charset="utf-8">Martha "Mattie" Stark </figcaption></figure></div>
+<div class="wp-block-image"><figure class="alignright size-full is-resized"><img src="/images/mattie_starke_berry-1.jpg" alt="" class="wp-image-15669" width="165" height="304"/><figcaption><meta charset="utf-8">Martha "Mattie" Stark </figcaption></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"align":"justify","dropCap":true} -->
-<p class="has-drop-cap has-text-align-justify"><strong>ROBERT RILEY BERRY</strong> was born June 10,1840 in Fayette County Georgia. <strong><a rel="noreferrer noopener" href="/images/Robert-and-eliza-everetts-bible-page.jpg" target="_blank">View Roberts birthday entry in the family bible page</a></strong>. Robert Riley Berry grew up in the Roswell Georgia area of Milton County Georgia. In 1930 Milton County Georgia was renamed Fulton County Georgia. Robert Riley and two of his brothers married three sisters. The young ladies were the daughters of Jonas and Averella Kent Stark. Robert Riley married Martha "Mattie" Stark <strong>The picture on the left is of Robert Riley and Mattie Stark Berry. Click on the picture to view a larger image.</strong> The other two brothers were William H. Berry who married Matilda Stark and John Allmon Berry who married Sarah "Sally" Stark. Robert died on March 31, 1909 in Vinemont, Cullman County, Alabama, USA[efn_note]<a href="https://www.findagrave.com/memorial/71518968/robert-riley-berry">Find A Grave profile for <strong>Robert Riley Berry</strong></a>[/efn_note].</p>
+<p class="has-drop-cap has-text-align-justify"><strong>ROBERT RILEY BERRY</strong> was born June 10,1840 in Fayette County Georgia. <strong><a rel="noreferrer noopener" href="/images/robert-and-eliza-everetts-bible-page.jpg" target="_blank">View Roberts birthday entry in the family bible page</a></strong>. Robert Riley Berry grew up in the Roswell Georgia area of Milton County Georgia. In 1930 Milton County Georgia was renamed Fulton County Georgia. Robert Riley and two of his brothers married three sisters. The young ladies were the daughters of Jonas and Averella Kent Stark. Robert Riley married Martha "Mattie" Stark <strong>The picture on the left is of Robert Riley and Mattie Stark Berry. Click on the picture to view a larger image.</strong> The other two brothers were William H. Berry who married Matilda Stark and John Allmon Berry who married Sarah "Sally" Stark. Robert died on March 31, 1909 in Vinemont, Cullman County, Alabama, USA[efn_note]<a href="https://www.findagrave.com/memorial/71518968/robert-riley-berry">Find A Grave profile for <strong>Robert Riley Berry</strong></a>[/efn_note].</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -51,11 +51,11 @@ title: "Robert Riley Berry Ga"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"center","id":15639,"width":371,"height":276,"linkDestination":"media"} -->
-<div class="wp-block-image"><figure class="aligncenter is-resized"><a href="/images/Letter-to-Riley-Berry-Front.jpg"><img src="/images/Letter-to-Riley-Berry-Front.jpg" alt="" class="wp-image-15639" width="371" height="276"/></a><figcaption>Front</figcaption></figure></div>
+<div class="wp-block-image"><figure class="aligncenter is-resized"><a href="/images/letter-to-riley-berry-front.jpg"><img src="/images/letter-to-riley-berry-front.jpg" alt="" class="wp-image-15639" width="371" height="276"/></a><figcaption>Front</figcaption></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:image {"align":"center","id":15643,"width":375,"height":276,"linkDestination":"media"} -->
-<div class="wp-block-image"><figure class="aligncenter is-resized"><a href="/images/Letter-to-Riley-Berry-back.jpg"><img src="/images/Letter-to-Riley-Berry-back.jpg" alt="" class="wp-image-15643" width="375" height="276"/></a><figcaption>Back</figcaption></figure></div>
+<div class="wp-block-image"><figure class="aligncenter is-resized"><a href="/images/letter-to-riley-berry-back.jpg"><img src="/images/letter-to-riley-berry-back.jpg" alt="" class="wp-image-15643" width="375" height="276"/></a><figcaption>Back</figcaption></figure></div>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -67,7 +67,7 @@ title: "Robert Riley Berry Ga"
 <!-- /wp:heading -->
 
 <!-- wp:list -->
-<ul><li>1850 Cobb, Roswell Georgia  US Census - Robert R. Berry 10 Years old[efn_note]<a rel="noreferrer noopener" href="/images/1850-Census-Robert-Riley-Berry_age10-scaled.jpeg" target="_blank">1850 Cobb County US Census - Robert R. Berry 10 Years old</a>[/efn_note]</li><li>1880 Crossville, Milton, Georgia  US Census - Robert R. Berry 36 Years old[efn_note]<a rel="noreferrer noopener" href="/images/1850-Census-Robert-Riley-Berry_age10-scaled.jpeg" target="_blank">1880 Crossville, Multon Georgia US </a><a href="/images/1880-Census-Robert_Berry-Milton-Ga-scaled.jpg" data-type="URL" data-id="/images/1880-Census-Robert_Berry-Milton-Ga-scaled.jpg" target="_blank" rel="noreferrer noopener">Census</a><a rel="noreferrer noopener" href="/images/1850-Census-Robert-Riley-Berry_age10-scaled.jpeg" target="_blank"> - Robert R. Berry 36 Years old</a>[/efn_note]</li></ul>
+<ul><li>1850 Cobb, Roswell Georgia  US Census - Robert R. Berry 10 Years old[efn_note]<a rel="noreferrer noopener" href="/images/1850-census-robert-riley-berry_age10-scaled.jpeg" target="_blank">1850 Cobb County US Census - Robert R. Berry 10 Years old</a>[/efn_note]</li><li>1880 Crossville, Milton, Georgia  US Census - Robert R. Berry 36 Years old[efn_note]<a rel="noreferrer noopener" href="/images/1850-census-robert-riley-berry_age10-scaled.jpeg" target="_blank">1880 Crossville, Multon Georgia US </a><a href="/images/1880-census-robert_berry-milton-ga-scaled.jpg" data-type="URL" data-id="/images/1880-census-robert_berry-milton-ga-scaled.jpg" target="_blank" rel="noreferrer noopener">Census</a><a rel="noreferrer noopener" href="/images/1850-census-robert-riley-berry_age10-scaled.jpeg" target="_blank"> - Robert R. Berry 36 Years old</a>[/efn_note]</li></ul>
 <!-- /wp:list -->
 
 <!-- wp:heading {"level":3} -->

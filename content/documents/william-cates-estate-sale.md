@@ -39,7 +39,7 @@ Blow is a list of items that Robert Berry Sen, and his family bought at William 
 	<li>...1 Hide                            o  10     1</li>
 	<li>...1 Cow & Calf                 4  19    8</li>
 </ul>
-<a href="/images/John-Allen-with-Cards-2005.jpg"><img class="alignnone size-full wp-image-4917" src="/images/John-Allen-with-Cards-2005.jpg" alt="John Allen with Cards 2005" width="2048" height="1536" /></a> This picture was taken in 2005 when My wife and I visited  John Allen and his wife on our way down to Cullman  to the 2005 Berry Nix reunion. John Allen Berry  is a descendant of Thomas and Sarah Cate Berry and these cards were handed down through the family. John also bought these Cards from a Berry Estate sale . Are they the same cards that Thomas Berry bought at his father-in-law's estate sale in 1803 for two shillings, 1 pence?
+<a href="/images/john-allen-with-cards-2005.jpg"><img class="alignnone size-full wp-image-4917" src="/images/john-allen-with-cards-2005.jpg" alt="John Allen with Cards 2005" width="2048" height="1536" /></a> This picture was taken in 2005 when My wife and I visited  John Allen and his wife on our way down to Cullman  to the 2005 Berry Nix reunion. John Allen Berry  is a descendant of Thomas and Sarah Cate Berry and these cards were handed down through the family. John also bought these Cards from a Berry Estate sale . Are they the same cards that Thomas Berry bought at his father-in-law's estate sale in 1803 for two shillings, 1 pence?
 
 <a href="/documents/william-cates-estate-sale/">Return to the top of Page</a>
 

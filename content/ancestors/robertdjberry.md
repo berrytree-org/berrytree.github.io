@@ -12,9 +12,9 @@ ANCESTORS
 
 Eliza Everett was born on May 30th 1814 in Georgia and died on April 23rd 1891 in Milton County Georgia. Robert was about thirty one years old when he married Eliza Everett on the 16th of June 1833. Eliza Everette was about 29 years old when she married.
 <p><strong>Robert Berry and Eliza Everett's Marriage bond</strong></p>
-<a href="/images/Robert-and-Eliza-Berry-wedding-bond-GA.jpg"><img class="alignnone size-full wp-image-5840" src="/images/Robert-and-Eliza-Berry-wedding-bond-GA.jpg" alt="Robert and Eliza Berry wedding bond GA" width="874" height="594" /></a>
+<a href="/images/robert-and-eliza-berry-wedding-bond-ga.jpg"><img class="alignnone size-full wp-image-5840" src="/images/robert-and-eliza-berry-wedding-bond-ga.jpg" alt="Robert and Eliza Berry wedding bond GA" width="874" height="594" /></a>
 
-<figure><a href="/images/Robert-and-eliza-everetts-bible-page.jpg"><img class="size-thumbnail wp-image-2436" src="/images/Robert-and-eliza-everetts-bible-page-150x150.jpg" alt="Robert & Elizabeth Everette Berry's Bible Page" width="150" height="150" /></a> Robert & Elizabeth Everette Berry's Bible Page</figure>
+<figure><a href="/images/robert-and-eliza-everetts-bible-page.jpg"><img class="size-thumbnail wp-image-2436" src="/images/Robert-and-eliza-everetts-bible-page-150x150.jpg" alt="Robert & Elizabeth Everette Berry's Bible Page" width="150" height="150" /></a> Robert & Elizabeth Everette Berry's Bible Page</figure>
 
 <a>Robert & Eliza Everette Berry's Children</a>
 

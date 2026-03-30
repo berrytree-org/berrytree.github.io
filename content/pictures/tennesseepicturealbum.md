@@ -25,7 +25,7 @@ There are six generations of the David Berry family buried in the Jackson Cemete
 <p><strong>JIM DAVE BERRY</strong></p>
 <p>. <img src="/images/jimdavheadstoneberry.jpg" alt="" /></p>
 <p><strong>JIM DAVE BERRY'S HOME</strong></p>
-<p><a href="/images/Jim-Dave-Berrys-home.jpg"><img class="alignnone size-full wp-image-4992" src="/images/Jim-Dave-Berrys-home.jpg" alt="Jim Dave Berry's home" width="1250" height="806" /></a></p>
+<p><a href="/images/jim-dave-berrys-home.jpg"><img class="alignnone size-full wp-image-4992" src="/images/jim-dave-berrys-home.jpg" alt="Jim Dave Berry's home" width="1250" height="806" /></a></p>
 <p>L to R Farm hand, Robert Benson, Ode Berry, Ernest John Berry, Thelma Berry (baby), Emma Lee Stults, Obie Berry, Jim Dave Berry, and Cove Berry</p>
 <p><a href="/images/jimdaveshousetoday.jpg"><img class="alignnone size-full wp-image-4996" src="/images/jimdaveshousetoday.jpg" alt="jimdaveshousetoday" width="2048" height="1536" /></a></p>
 <p><strong>This picture was taken by me in 2005 of the Jim Dave Berry's Home Place</strong></p>
@@ -39,6 +39,6 @@ They all lived their lives there and most of them died there. One of the remarka
 
 Ernest John Berry was the oldest son of Ode and Emma Berry He was born on November 25 1911 in Wayne County Tennessee. He had six brothers and sisters. Ernest John grew up and remained in Cypress Inn just like all the rest of his ancestors. On December the 24th 1936 he married Roxie Berry who was born March 5th 1917 in Wayne County Tennessee.. Roxie Berry was no relation to the Thomas Berry family who lived in the same County. At the age of 66 years old Ernest John Berry died on November 14, 1977. Roxie lived for another thirty years and just died March 1st, 2007. She had lived for ninety years in Cypress Inn Tennessee.
 
-<a href="/images/John-Allen-Berry-and-Roxie-Berry-2005.jpg"><img class="alignnone size-full wp-image-4999" src="/images/John-Allen-Berry-and-Roxie-Berry-2005.jpg" alt="John Allen Berry and Roxie Berry 2005" width="2048" height="1536" /></a>
+<a href="/images/john-allen-berry-and-roxie-berry-2005.jpg"><img class="alignnone size-full wp-image-4999" src="/images/john-allen-berry-and-roxie-berry-2005.jpg" alt="John Allen Berry and Roxie Berry 2005" width="2048" height="1536" /></a>
 
 John Allen Berry and his mother Roxie Berry 2005

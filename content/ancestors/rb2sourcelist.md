@@ -3,15 +3,15 @@ title: "Robert Berry (PAC) Origins"
 ---
 
 <p><strong>Likely Source of Robert Berry (PAC) and Mary Williamson's Relatives in England</strong></p>
-<p><a href="/images/ST-BOTOLPH-CHURCH1.jpg"><img class="alignnone size-full wp-image-6179" src="/images/ST-BOTOLPH-CHURCH1.jpg" alt="ST BOTOLPH CHURCH" width="524" height="370" /></a></p>
+<p><a href="/images/st-botolph-church1.jpg"><img class="alignnone size-full wp-image-6179" src="/images/st-botolph-church1.jpg" alt="ST BOTOLPH CHURCH" width="524" height="370" /></a></p>
 
 <p><strong>St. Botolph Church is located on Aldersgate street in London England </strong></p>
 <p><strong>Aug 22 1663</strong></p>
-<a href="/images/Richard-Williamson-England.jpg"><img class="alignnone size-full wp-image-5849" src="/images/Richard-Williamson-England.jpg" alt="Richard Williamson England" width="669" height="539" /></a>
+<a href="/images/richard-williamson-england.jpg"><img class="alignnone size-full wp-image-5849" src="/images/richard-williamson-england.jpg" alt="Richard Williamson England" width="669" height="539" /></a>
 
 <strong>Mary Williamson's Grandfather, Roger Williamson, and  Ann Foster, were  in America by 1840 so the Richard Williamson father and son listed in the 1663 ST BOTOLPH Baptisms above could be Rodger Williamson's ggg grand father. Roger Williamson was likely born around 1700 which would be 4 generations later. Roger and Ann Foster Williamson did name their  first son Richard Williamson. Robert and Mary Williamson Berry also named their first son Richard Berry. Mary Williamson's father was Richard Williamson, son of Roger and Ann Foster Williamson.</strong>
 
-<a href="/images/St-Botolph-Katherine-Berry-1669-England.jpg"><img class="alignnone size-full wp-image-6162" src="/images/St-Botolph-Katherine-Berry-1669-England.jpg" alt="St Botolph Katherine-Berry-1669-England" width="1282" height="694" /></a>
+<a href="/images/st-botolph-katherine-berry-1669-england.jpg"><img class="alignnone size-full wp-image-6162" src="/images/st-botolph-katherine-berry-1669-england.jpg" alt="St Botolph Katherine-Berry-1669-England" width="1282" height="694" /></a>
 
  
 
@@ -37,7 +37,7 @@ Berry, Robert Apprentices of Virginia Master: Hollowell, Samuel Apprentices of V
 
 A Thomas Hollowell had a son Samuel born 1727 in Norfolk, VA died after 1751 in Princess Anne, VA. A will in Norfolk Co, VA in 1762 deeded land from Thomas Hollowell to John Hollowell in Northampton, NC.
 
-<a href="/images/Samuel-Holowell-work.jpg"><img class="alignnone size-full wp-image-4680" src="/images/Samuel-Holowell-work.jpg" alt="Samuel Holowell work" width="1213" height="523" /></a>
+<a href="/images/samuel-holowell-work.jpg"><img class="alignnone size-full wp-image-4680" src="/images/samuel-holowell-work.jpg" alt="Samuel Holowell work" width="1213" height="523" /></a>
 
 <strong>Source:</strong> Vestry Book, Lynnhaven Virginia.
 
@@ -45,13 +45,13 @@ Our Robert Berry (oc) would have been 19 years old and working as an apprentice 
 
 Below is the route that fur traders used many years before Robert Berry (OC) came to North Carolina. Traveling up the James River to a point where Petersburg is located today they encountered the old Indian Trail that had been used by Native Indians for centuries. This trail traversed south to the Occaneechi Indian village which is located in the area where  Hillsborough, North Carolina  is located today. The trail continued South into the area that is now occupied by State of Georgia.   John Lawson used part of this trail when he journeyed from Charleston, South Carolina, to New Bern, North Carolina in 1704. John passed right through the Occoneechee Village and down the Neuse River. He described part of the Old Indian Trail between Haw River and Hillsborough. He met some traders going South the day he left Haw River. In his book, " A New Voyage to Carolina" he describes this incident. This was nearly 50 years before Robert Berry made his trip as shown in the map below.
 
-<a href="/images/Route-to-NC-from-VA.jpg"><img class="alignnone size-full wp-image-5501" src="/images/Route-to-NC-from-VA.jpg" alt="Route to NC from VA" width="1375" height="930" /></a>
+<a href="/images/route-to-nc-from-va.jpg"><img class="alignnone size-full wp-image-5501" src="/images/route-to-nc-from-va.jpg" alt="Route to NC from VA" width="1375" height="930" /></a>
 
 Robert Berry (OC) inherited the family home in Princess Anne County, Virginia and a sale of that property would have provided ample money for him to accomplish the incredible rapid progress he made in establishing a huge plantation in the short time he did. Robert Berry (OC) arrived in Orange County, North Carolina, early in 1751 and in 1766 he built the Fiddleton Plantation Home shown below.
 
-<a href="/images/fiddleton-plantation-Scene.jpg"><img class="alignnone size-full wp-image-5552" src="/images/fiddleton-plantation-Scene.jpg" alt="fiddleton plantation Scene" width="1500" height="1114" /></a>
+<a href="/images/fiddleton-plantation-scene.jpg"><img class="alignnone size-full wp-image-5552" src="/images/fiddleton-plantation-scene.jpg" alt="fiddleton plantation Scene" width="1500" height="1114" /></a>
 <p><strong>Model of the 1766 Fiddleton Plantation Home</strong></p>
-<a href="/images/Fittleton-Wiltshire-County-England.jpg"><img class="size-full wp-image-5511 alignleft" src="/images/Fittleton-Wiltshire-County-England.jpg" alt="Fittleton Wiltshire County England" width="423" height="571" /></a>
+<a href="/images/fittleton-wiltshire-county-england.jpg"><img class="size-full wp-image-5511 alignleft" src="/images/fittleton-wiltshire-county-england.jpg" alt="Fittleton Wiltshire County England" width="423" height="571" /></a>
 
 At this time I think Robert Berry who came to Orange County, North Carolina, from Princess Anne County, Virginia in 1751 had ancestors who had lived in Fittleton Wiltshire County, England. It seems perfectly logical that  he would name his Granville Land Grant plantation Fittleton. The name Fittleton was probably changed by  colloquial translation.
 

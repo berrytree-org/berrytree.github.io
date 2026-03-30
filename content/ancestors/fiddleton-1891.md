@@ -3,7 +3,7 @@ title: "Fiddleton-1891"
 ---
 
 <!-- wp:image {"id":9704,"sizeSlug":"large","linkDestination":"custom"} -->
-<figure class="wp-block-image size-large"><a href="/images/Map_of_Orange_County__NC-Circa-1890-scaled.jpg"><img src="/images/Map_of_Orange_County__NC-Fiddleton-Circa-1890-1024x980.jpg" alt="" class="wp-image-9704"/></a><figcaption>Fiddleton Homestead, J R Berry Home and Berry's Grove Baptist Church circa 1891</figcaption></figure>
+<figure class="wp-block-image size-large"><a href="/images/map_of_orange_county__nc-circa-1890-scaled.jpg"><img src="/images/Map_of_Orange_County__NC-Fiddleton-Circa-1890-1024x980.jpg" alt="" class="wp-image-9704"/></a><figcaption>Fiddleton Homestead, J R Berry Home and Berry's Grove Baptist Church circa 1891</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -47,7 +47,7 @@ title: "Fiddleton-1891"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":9520,"sizeSlug":"large","linkDestination":"custom"} -->
-<figure class="wp-block-image size-large"><a href="/images/NC_Caldwell_161993_1997_24000-scaled.jpg" target="_blank" rel="noreferrer noopener"><img src="/images/1997-Topo-Berrys_grove.jpg" alt="" class="wp-image-9520"/></a><figcaption>1997 USGS Topo Map of Berry's Grove</figcaption></figure>
+<figure class="wp-block-image size-large"><a href="/images/nc_caldwell_161993_1997_24000-scaled.jpg" target="_blank" rel="noreferrer noopener"><img src="/images/1997-topo-berrys_grove.jpg" alt="" class="wp-image-9520"/></a><figcaption>1997 USGS Topo Map of Berry's Grove</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

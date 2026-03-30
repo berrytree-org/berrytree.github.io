@@ -21,7 +21,7 @@ ANCESTORS
 	<li><strong>Gen 5</strong> Robert Burgman Frauleing Berry, b. August 16th, 1848, Fayette County Alabama, d. February 4th, 1916, Travis Texas</li>
 </ul>
 </ul>
-<a href="/images/John-H.-Berry-and-wife.jpg"><img class="size-full wp-image-5279 alignleft" src="/images/John-H.-Berry-and-wife.jpg" alt="John H. Berry and wife" width="313" height="402" /></a>
+<a href="/images/john-h.-berry-and-wife.jpg"><img class="size-full wp-image-5279 alignleft" src="/images/john-h.-berry-and-wife.jpg" alt="John H. Berry and wife" width="313" height="402" /></a>
 
  
 

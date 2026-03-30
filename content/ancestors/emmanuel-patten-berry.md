@@ -9,7 +9,7 @@ Ancestors:
 	<li>Generation David J. and Mary Blalock Berry, Orange County, North Carolina, and Georgia</li>
 	<li>Generation Robert and Elizabeth Everett Berry, Georgia.</li>
 </ol>
-<a href="/images/manuea-and-Clara-Berry.jpg"><img class="alignnone size-full wp-image-5156" src="/images/manuea-and-Clara-Berry.jpg" alt="manuea and Clara Berry" width="455" height="312" /></a>
+<a href="/images/manuea-and-clara-berry.jpg"><img class="alignnone size-full wp-image-5156" src="/images/manuea-and-clara-berry.jpg" alt="manuea and Clara Berry" width="455" height="312" /></a>
 
 <strong>GEN 5</strong> Emanuel Patton  and Clara Susan Worsham Berry
 
@@ -24,7 +24,7 @@ Ancestors:
 	<li>Virginia Worsham                F    age 10</li>
 	<li>James Worsham                   M   age 4</li>
 </ul>
-<a href="/images/Emanuel-P-Berry-marriage-License.jpg"><img class="alignnone size-full wp-image-5195" src="/images/Emanuel-P-Berry-marriage-License.jpg" alt="Emanuel P Berry marriage License" width="832" height="675" /></a>
+<a href="/images/emanuel-p-berry-marriage-license.jpg"><img class="alignnone size-full wp-image-5195" src="/images/emanuel-p-berry-marriage-license.jpg" alt="Emanuel P Berry marriage License" width="832" height="675" /></a>
 
 <strong>Children of Emanuel Berry and Clara Worsham:</strong>
 <ul>
@@ -36,13 +36,13 @@ Ancestors:
 	<li><strong>Gen 6 </strong>IDA EUGENIA BERRY, b. April 04, 1885, Baldwin County, Georgia; d. December 17, 1981, Macon, Georgia, Bibb County.</li>
 </ul>
 <ul>
-	<li> <strong>Gen 6 </strong>ISAAC MARION BUD BERRY, In 1900 Issac was 8 years old and his parents were living in Gladesville, Jasper, Georgia. In the 1920 his family had moved to Coopers, Baldwin, Georgia and Isaac was listed as 18 years old.were living with his parents.  <a href="/images/Isaac-M-Berry-1892-Coopers-Georgia.jpg"><img class="size-full wp-image-5175 alignleft" src="/images/Isaac-M-Berry-1892-Coopers-Georgia.jpg" alt="Isaac M Berry 1892 Coopers Georgia" width="330" height="319" /></a> On August 28, 1919 Isaac M. Berry married LIZZIE JANE LEE and in the 1920 census listed by Isaac's father, Emanuel Patton Berry, the young married couple were living with Isaac's parents. In 1830 Isaac age 38 and Lizzie age 32 were living in a rented house in Coopers, Baldwin County, Georgia. Isaac M. Berry made his living as a Truck Farmer and finally owned his own home. The couple never had children and when Isaac died he left his home and land to the William Babb family. Isaac was born July 11, 1891, Baldwin Co., GA; d. July 17, 1980, Baldwin Co., GA. LIZZIE JANE LEE, was born on July 26, 1893; d. August 1961, Baldwin Co., GA.   Isaac and Lizzie Berry are buried in the Cooperville Church Cemetery.</li>
+	<li> <strong>Gen 6 </strong>ISAAC MARION BUD BERRY, In 1900 Issac was 8 years old and his parents were living in Gladesville, Jasper, Georgia. In the 1920 his family had moved to Coopers, Baldwin, Georgia and Isaac was listed as 18 years old.were living with his parents.  <a href="/images/isaac-m-berry-1892-coopers-georgia.jpg"><img class="size-full wp-image-5175 alignleft" src="/images/isaac-m-berry-1892-coopers-georgia.jpg" alt="Isaac M Berry 1892 Coopers Georgia" width="330" height="319" /></a> On August 28, 1919 Isaac M. Berry married LIZZIE JANE LEE and in the 1920 census listed by Isaac's father, Emanuel Patton Berry, the young married couple were living with Isaac's parents. In 1830 Isaac age 38 and Lizzie age 32 were living in a rented house in Coopers, Baldwin County, Georgia. Isaac M. Berry made his living as a Truck Farmer and finally owned his own home. The couple never had children and when Isaac died he left his home and land to the William Babb family. Isaac was born July 11, 1891, Baldwin Co., GA; d. July 17, 1980, Baldwin Co., GA. LIZZIE JANE LEE, was born on July 26, 1893; d. August 1961, Baldwin Co., GA.   Isaac and Lizzie Berry are buried in the Cooperville Church Cemetery.</li>
 </ul>
 <ul>
 	<li><strong>Gen 6 </strong>LILLIE MAE BERRY, b. September 14, 1894, Baldwin Co., GA; d. October 22, 1917, Baldwin Co., GA.</li>
 	<li><strong>Gen 6 </strong>JOHN EMANUEL BERRY, b. August 07, 1897; d. October 27, 1980, Baldwin Co., GA.</li>
 </ul>
-<a href="/images/Emmanuel-P.-Berry-hradstone.jpg"><img class="size-full wp-image-5180 alignleft" src="/images/Emmanuel-P.-Berry-hradstone.jpg" alt="Emmanuel P. Berry hradstone" width="281" height="212" /></a><a href="/images/Clara-W-Berry-headstone.jpg"><img class="size-full wp-image-5181 alignnone" src="/images/Clara-W-Berry-headstone.jpg" alt="Clara W Berry headstone" width="274" height="208" /></a>
+<a href="/images/emmanuel-p.-berry-hradstone.jpg"><img class="size-full wp-image-5180 alignleft" src="/images/emmanuel-p.-berry-hradstone.jpg" alt="Emmanuel P. Berry hradstone" width="281" height="212" /></a><a href="/images/clara-w-berry-headstone.jpg"><img class="size-full wp-image-5181 alignnone" src="/images/clara-w-berry-headstone.jpg" alt="Clara W Berry headstone" width="274" height="208" /></a>
 
 Emanuel P. Berry and Clara Susan Worsham Berry are buried at the Memory Hill Cemetery in Milledgeville, Baldwin County, Georgia.
 

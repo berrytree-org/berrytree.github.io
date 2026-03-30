@@ -3,7 +3,7 @@ title: "John and Martha Stepp Berry"
 ---
 
 <h2>John Berry is the son of Robert and Elizabeth Cate Berry</h2>
-<a href="/images/John-Berry-Martha-Stepp.jpg"><img class="alignright wp-image-1652 size-medium" src="/images/John-Berry-Martha-Stepp-300x290.jpg" alt="John Berry Martha Stepp" width="300" height="290" /></a>
+<a href="/images/john-berry-martha-stepp.jpg"><img class="alignright wp-image-1652 size-medium" src="/images/John-Berry-Martha-Stepp-300x290.jpg" alt="John Berry Martha Stepp" width="300" height="290" /></a>
 <p><strong>JOHN BERRY</strong> was found by a fellow researcher sometime before 2004 in a Book "GEORGIA INTESTATE RECORDS" By Jeanette Holland Auston, Genealogical Publishing Company., Inc. Baltimore 1986. In this publication it states that John Berry left 5 orphan children by the names of Joshua, Robert, Polly (Mary), Betsie (Elizabeth), and William Berry. . Polly is a nickname for Mary and Betsy is a nickname for Elizabeth. John Berry had five siblings with the same identical names which led us to believe that John was the son of Robert and Elizabeth Cate Berry from Orange County. North Carolina. All of our family  researchers at the time felt that this was a true fact. It might have been simpler if another family had not already claimed that John and Martha Berry were from their clan of Berry's. I even located one of the descendants in their line about this. She assured me that her information was correct. It was not until I located the Marriage Bond shown above in some Person County, North Carolina  Records that I knew for sure we had been correct all along. The marriage bond in Person County had misspelled John's surname. Robert and Elizabeth Cate Berry's Homestead is less than a mile from the Person County line and Elizabeth Cate's father had a plantation in that county.</p>
 <p>Additional Proof: Joshua Stepp listed as head of household in the 1800 Person County, North Carolina, census. There were nine members of the Stepp remaining at home.</p>
 <p> John and Martha Stepp Berry named their first two sons Joshua after her father and Robert after John's father.</p>
@@ -12,12 +12,12 @@ title: "John and Martha Stepp Berry"
 <h3><strong>Census Information:                                                                                                             </strong>We have no known census information for John Berry in Georgia.                                        Birth:Jan., 1862 Death:Dec. 21, 1803</h3>
 Benjamin Camp was appointed Guardian of John and Martha Stepp Berry's five orphan children by the Jackson County, Georgia court. Apparently Benjamin Camp died between the time he appointed Guardian and  when his wife Mary Camp listed as head of household in the 1820 Jackson County, Georgia Census shown below.
 <p><strong>August 7 1820 Jackson County, Georgia, Mary Camp Head of household  </strong></p>
-<a href="/images/Mary-Camps-1820-census_edited-1.jpg"><img class="alignnone size-full wp-image-5822" src="/images/Mary-Camps-1820-census_edited-1.jpg" alt="Mary Camps 1820 census_edited-1" width="1032" height="138" /></a>
+<a href="/images/mary-camps-1820-census_edited-1.jpg"><img class="alignnone size-full wp-image-5822" src="/images/mary-camps-1820-census_edited-1.jpg" alt="Mary Camps 1820 census_edited-1" width="1032" height="138" /></a>
 
 Mary Camps Listing:1 male 10 -15 (William age 11) 1 male 16 - 26 (Joshua age 23) 2 females between 16 - 26 ( Polly and Betsy) 1 female over 45 (Mary Camp)
 <p><strong>August 7 1820 Jones County, Georgia, Capt Philips District</strong></p>
 <p><strong>Robert M. Berry</strong></p>
-<a href="/images/Robert-Berry-1820-Jones-County-GA.jpg"><img class="alignnone size-full wp-image-5824" src="/images/Robert-Berry-1820-Jones-County-GA.jpg" alt="Robert Berry 1820 Jones County GA" width="1506" height="146" /></a>
+<a href="/images/robert-berry-1820-jones-county-ga.jpg"><img class="alignnone size-full wp-image-5824" src="/images/robert-berry-1820-jones-county-ga.jpg" alt="Robert Berry 1820 Jones County GA" width="1506" height="146" /></a>
 
 Robert Berry was listed as being between 26 and 44 and his wife was also listed between 26 and 44. They  had two daughters under 10 years old. Robert Berry may be the male missing in Mary Camps 1820 Jackson County Census. John and Martha Berry had a son named Robert Berry would have been about 22 or 23 years old in 1820
 

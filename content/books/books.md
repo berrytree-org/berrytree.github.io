@@ -13,8 +13,8 @@ title: "Books"
 <p><a href="https://www.lulu.com/content/e-book/our-berrys-in-frontier-america/17317864" target="_blank" rel="noopener noreferrer">On Lulu.com</a></p>
 <p>This book is Identical to the Paperback Book and should serve your purpose for researching our Berry Family.  The aim of this book is to provide a reliable resource for the future generations of our Robert Berry Family.</p>
 <hr />
-<p><a href="/images/SEVEN-GENERATION-BOOK-SECOND-EDITION-for-eBook.pdf"><img class="alignleft wp-image-3107 size-medium" src="/images/Front-Cover-for-INDEX-Bk-227x300.jpg" alt="Front Cover for INDEX Bk" width="227" height="300" /></a>"<a href="/images/SEVEN-GENERATION-BOOK-SECOND-EDITION-for-eBook.pdf"><strong>Robert Berry Family Tree Index</strong></a>"<br />300 Years and Seven Generations<br />2nd Edition September 2015</p>
-<form action="/images/SEVEN-GENERATION-BOOK-SECOND-EDITION-for-eBook.pdf"><input type="submit" value="Click Here to download Free eBook" />
+<p><a href="/images/seven-generation-book-second-edition-for-ebook.pdf"><img class="alignleft wp-image-3107 size-medium" src="/images/Front-Cover-for-INDEX-Bk-227x300.jpg" alt="Front Cover for INDEX Bk" width="227" height="300" /></a>"<a href="/images/seven-generation-book-second-edition-for-ebook.pdf"><strong>Robert Berry Family Tree Index</strong></a>"<br />300 Years and Seven Generations<br />2nd Edition September 2015</p>
+<form action="/images/seven-generation-book-second-edition-for-ebook.pdf"><input type="submit" value="Click Here to download Free eBook" />
 
 <p>We are making this <strong>Second Edition</strong> available to  downloaded as a <span><strong>Free PDF file </strong></span>because it is an ongoing project that is intended to improve the quality and accuracy of  subsequent books. The more cousins we can reach, the more information we can add to the <strong>Third Edition</strong> of "ROBERT BERRY FAMILY TREE INDEX" which will be available at an undetermined date in the future. Any new cousin who finds that they are descended from this line of Berrys should feedback their known ancestral information on berrytree.org. This can be done on any page on our website. The cycle can be repeated as many times as necessary to create the most valuable reference available for future generations of our Berry family.</p>
 <p>Any male Berry who would like to know if he is related to our Berry Family can find out by taking a simple saliva Y-DNA test. Since we already have 14 participants  we have an excellent base to compare with. If you desire to take this test Click the Y-DNA                         project button located in the right panel. We are the <strong><span>Orange County NC Berrys</span></strong> in this Project. Contact Jim Berry who is the Project Coordinator of The Berry Y-DNA Project.</p>
@@ -24,7 +24,7 @@ title: "Books"
 <p>This book has been superseded by the release of "Robert Berry Family Tree Index" 2nd edition.</p>
 
 <hr />
-<p><a href="/images/Our_Berrys_In_Frontier_America_cover-small.jpg"><img class=" wp-image-1407 size-full alignleft" src="/images/Our_Berrys_In_Frontier_America_cover-small.jpg" alt="" width="245" height="320" /></a>"<strong>Our Berrys In Frontier America</strong>"<br />1st Edition 2012<br />This 1st Edition is out of print.</p>
+<p><a href="/images/our_berrys_in_frontier_america_cover-small.jpg"><img class=" wp-image-1407 size-full alignleft" src="/images/our_berrys_in_frontier_america_cover-small.jpg" alt="" width="245" height="320" /></a>"<strong>Our Berrys In Frontier America</strong>"<br />1st Edition 2012<br />This 1st Edition is out of print.</p>
 
 <hr />
 <p><a href="/images/addendumformybook_cover.png"><img class="frame wp-image-1410 alignleft" src="/images/addendumformybook_cover.png" alt="" width="245" height="317" /></a>If you purchased the 1st Edition of the<br />hardcover book<br />"<strong>Our Berrys In Frontier America</strong>"</p>
