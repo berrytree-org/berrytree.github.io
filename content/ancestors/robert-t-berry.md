@@ -51,7 +51,7 @@ In 1920 Robert T Berrys wife was listed as Mary Ann. This led to speculation th
 
 <a href="/images/Dorothy-Ann-Berry-chart.jpg"><img class="alignnone size-full wp-image-8876" src="/images/Dorothy-Ann-Berry-chart.jpg" alt="Dorothy Ann Berry chart" width="1025" height="561" /></a>
 
-<a href="/images/Robert-T-BerryFind-a-Grave.jpg"><img class="alignnone size-full wp-image-8817" src="/images/Robert-T-BerryFind-a-Grave.jpg" alt="Robert T BerryFind a Grave" width="1094" height="639" /></a>
+<a href="/images/robert-t-berryfind-a-grave.jpg"><img class="alignnone size-full wp-image-8817" src="/images/robert-t-berryfind-a-grave.jpg" alt="Robert T BerryFind a Grave" width="1094" height="639" /></a>
 
  
 

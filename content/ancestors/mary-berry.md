@@ -27,7 +27,7 @@ Mary Berry married James Camp – 1781
 
 Mary apparently married James Kemp/Camp sometime between April 1781 and early 1782. The will was registered or probated in August of 1781.
 
-[![1872 Waggoner records](/images/1872-Waggoner-records.jpg)](/images/1872-Waggoner-records.jpg)
+[![1872 Waggoner records](/images/1872-waggoner-records.jpg)](/images/1872-waggoner-records.jpg)
 
 [![Annie Naomi tombstone](/images/annienaomitombstone1.jpg)](/images/annienaomitombstone1.jpg)
 
@@ -43,7 +43,7 @@ Until recently not much more information was known about Mary's life after she l
 
 The Affidavit stated that all of Mary Berry Camp's children were born in North Carolina. Southern Rutherford County is 180 miles from Hillsborough, North Carolina today and very close to the South Carolina line. According to Annie Naomi Hill, James and Mary Berry Camp moved from Rutherford County NC to South Carolina the next day after Starling Camp was born on the 22 October 1793 — about a 70-mile journey. This move may have caused Mary Berry Camp to die of complications resulting from the birth of her son Starling Camp. James Camp listed himself, two males under 10, two males under 16 and a female under 16 in the 1800 Laurens County, South Carolina census. This would mean that Mary Berry Camp died between 1793 and 1800. In her father's will written in 1812 Robert Berry listed his daughter as deceased.
 
-[![Joseph Camp Power of Attorney to Uncle Henry Berry in Orange County NC 1816](/images/Henry-Berry-signature-1816.jpg)](/images/Henry-Berry-signature-1816.jpg)
+[![Joseph Camp Power of Attorney to Uncle Henry Berry in Orange County NC 1816](/images/henry-berry-signature-1816.jpg)](/images/henry-berry-signature-1816.jpg)
 
 *Joseph Camp delivered the Power of Attorney to Uncle Henry Berry in Orange County NC 1816, Thomas Rountree witness.*
 

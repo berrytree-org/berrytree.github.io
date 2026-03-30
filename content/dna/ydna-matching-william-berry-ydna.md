@@ -20,7 +20,7 @@ Robert T Berry was born in Alabama(Coosa) Hatchet Creek in 1849 and has a living
 
 In the 1850 census of Robert Roberson there is a 20 year old Robert Berry living with  a next Farm from the Blankenship  family. We believe this Robert Berry is the Father of the Robert Roberson who is three months old. We believe Robert Robertson is really Robert T Berry. Robert T Berry said his mother was Susan Roberson who was living next door to Robert Berry in Ruben Blankenship's' listing. Robert Berry was 20 and was born in South Carolina about 1830 and Susan Roberson was 22. and born in Alabama about 1828.
 
-<a href="/images/1850-Susan-Roberson-coosa-county-ALA.png"><img class="alignnone size-full wp-image-7934" src="/images/1850-Susan-Roberson-coosa-county-ALA.png" alt="1850 Susan Roberson coosa county ALA" width="1019" height="549" /></a>
+<a href="/images/1850-susan-roberson-coosa-county-ala.png"><img class="alignnone size-full wp-image-7934" src="/images/1850-susan-roberson-coosa-county-ala.png" alt="1850 Susan Roberson coosa county ALA" width="1019" height="549" /></a>
 
  
 
@@ -66,8 +66,8 @@ Residence: Sylacauga, Coosa, Alabama
 Mother Birth Place: Coosa County, Alabama
 Spouse Name: Dartha Ann Thomas
 
-<a href="/images/RT-BERRY-marriage-record-B.png"><img class="alignnone size-full wp-image-8820" src="/images/RT-BERRY-marriage-record-B.png" alt="RT BERRY marriage record B" width="1436" height="603" /></a>
+<a href="/images/rt-berry-marriage-record-b.png"><img class="alignnone size-full wp-image-8820" src="/images/rt-berry-marriage-record-b.png" alt="RT BERRY marriage record B" width="1436" height="603" /></a>
 
  
 
-<a href="/images/Robert-T-BerryFind-a-Grave.jpg"><img class="alignnone size-full wp-image-8817" src="/images/Robert-T-BerryFind-a-Grave.jpg" alt="Robert T BerryFind a Grave" width="1094" height="639" /></a>
+<a href="/images/robert-t-berryfind-a-grave.jpg"><img class="alignnone size-full wp-image-8817" src="/images/robert-t-berryfind-a-grave.jpg" alt="Robert T BerryFind a Grave" width="1094" height="639" /></a>
