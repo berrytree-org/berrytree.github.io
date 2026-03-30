@@ -25,7 +25,7 @@ title: "Sally Malena Berry NC"
 there was not a nail in the house. It was Built with pegs. Jessie Clyde and Malena Berry Henderson were listed as a married couple in  the 1930 Wake County Census. The census was taken April and I was born in May.  Clyde and Malena moved from the Barrow farm in 1936 and in 1938 they built their first home pictured on the right.</p>
 
 
-<figure><a href="/images/J-C-Henderson.jpg" target="_blank" rel="/images/J-C-Henderson.jpg"><img class="wp-image-2825 size-thumbnail" src="/images/J-C-Henderson-150x150.jpg" alt="Jesse Clyde Henderson behind the first house he built 1n 1937 with our animals" width="150" height="150" /></a> Jesse Clyde Henderson behind the first house he built 1n 1937 with our animals</figure>
+<figure><a href="/images/j-c-henderson.jpg" target="_blank" rel="/images/j-c-henderson.jpg"><img class="wp-image-2825 size-thumbnail" src="/images/j-c-henderson-150x150.jpg" alt="Jesse Clyde Henderson behind the first house he built 1n 1937 with our animals" width="150" height="150" /></a> Jesse Clyde Henderson behind the first house he built 1n 1937 with our animals</figure>
 <p>Click On the 1948 English Ford on the left to VI<img class=" alignleft" src="/images/englishfordsmall.jpg" alt="english ford" />EW a larger image. This was Clyde and Malena's first new Car. Jessie Clyde and Sally Malena Henderson lived a very interesting and varied life. Clyde Henderson worked as Caretaker of the Barrow Farm, Refrigerator Repairman for Pine State Creamery, Large appliance repairman for a Montgomery Ward, framing carpenter, Self contacted several houses, Caretaker of a Mary Atkinson Girl scout Camp in Clayton, and Caretaker for The Richardson Estate in Greensboro.</p>
 <p>Malena could manage money better than almost anyone I have ever known. Jessie Clyde Henderson died in Forsyth County, NC on June 11th 1984. Malena lived another 18 years and died in Wake County on March 19th 2002. She lived by herself up until the last 15 months of her life and up until that time always managed her own affairs. She would have been 94 years old if she had lived three more months.</p>
 
@@ -43,7 +43,7 @@ Three of the six children of Wiley P. and Ida Ann Wilson Berry and eight of th
 
 This picture was taken at Mary Atkinson Girl Scout Camp in 1962. Jesse Clyde Henderson was caretaker of this camp at the time.
 
-<a href="/images/Henderson-Berry-gathering-Girl-Scout-Camp.jpg"><img class="size-full wp-image-5314 alignnone" src="/images/Henderson-Berry-gathering-Girl-Scout-Camp.jpg" alt="Henderson Berry gathering Girl Scout Camp" width="2856" height="1858" /></a>
+<a href="/images/henderson-berry-gathering-girl-scout-camp.jpg"><img class="size-full wp-image-5314 alignnone" src="/images/henderson-berry-gathering-girl-scout-camp.jpg" alt="Henderson Berry gathering Girl Scout Camp" width="2856" height="1858" /></a>
 
 Left to Right back row: Jesse Clyde Henderson holding William Aaron Henderson, Thelma Guest (Bill) Henderson Uncle Bryant's wife, Dorothy Laryce ( Pete) Henderson McDonald,  Eugene James  (Jimmy) McDonald Sr. Virginia Lee Henderson Carroll, Joe Watson Carroll, Enos Brown Henderson, Dorothy Alice Padgett Henderson, Patricia Sue Arnette Henderson, William Jennings Bryan Henderson, Benjamin Berry Henderson Sr.  Pattie Alma McAdams Berry, William Eugene Berry.
 

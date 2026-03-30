@@ -16,7 +16,7 @@ ANCESTORS
 
 <strong>L-R Sally Malena, Mary Elizabeth, Woodrow Wilson, William Eugene, Wiley Harold, Mother: Ida Ann Willson Berry, Wiley P. Berry Jr, and Father: Wiley P. Berry Sr. </strong>
 
-<a href="/images/WPBF-1925.jpg"><img class="size-full wp-image-3530 aligncenter" src="/images/WPBF-1925.jpg" alt="WPBF 1925" width="1913" height="1257" /></a>
+<a href="/images/wpbf-1925.jpg"><img class="size-full wp-image-3530 aligncenter" src="/images/wpbf-1925.jpg" alt="WPBF 1925" width="1913" height="1257" /></a>
 
  
 

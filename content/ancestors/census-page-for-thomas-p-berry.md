@@ -27,7 +27,7 @@ Hannah Cate listed as head of Household in this 1810 census.
 Hannah, Sarah, and their 5 children were living in the Patric Rutherford House that Robert Berry bought in 1787.
 <p><strong>There was a 1840 Orange County, North Carolina Census for Parson Berry but I am not completely sure it is Thomas Person Berry.</strong></p>
 <p><strong>1850 Orange County, North Carolina Census</strong></p>
-<a href="/images/1850-Thomas-P-Berry-OrangeCo-NC.jpg"><img class="alignnone size-full wp-image-4846" src="/images/1850-Thomas-P-Berry-OrangeCo-NC.jpg" alt="1850-Thomas-P-Berry-OrangeCo-NC" width="3326" height="4291" /></a>
+<a href="/images/1850-thomas-p-berry-orangeco-nc.jpg"><img class="alignnone size-full wp-image-4846" src="/images/1850-thomas-p-berry-orangeco-nc.jpg" alt="1850-Thomas-P-Berry-OrangeCo-NC" width="3326" height="4291" /></a>
 
 This is a complete listing of Thomas Person and Sarah Lunsford Berry's children:
 <ul>
@@ -40,7 +40,7 @@ This is a complete listing of Thomas Person and Sarah Lunsford Berry's children:
 </ul>
 Living on the  farm listed next to Thomas P. Berry was the Thomas King family. Mary Ashley Berry King age 41 was Henry Berry's daughter by Fanny Ashley. They were living in the old Robert Berry Plantation home that Robert and Elizabeth Cate Berry  raised their 10 children in. Henry Berry willed this property to his daughter in his 1855 Will. Fanny Ashley age 70 was living with her daughter and son-in-law when this 1850 census was taken. Sarah King age 12 would grow up and marry her cousin William H. Berry. After William died from the flu in 1858 Sarah married Hezekiah Terry on 07 Jun 1860.
 <p><strong>1860 Orange County, North Carolina Census</strong></p>
-<a href="/images/TPB-1860.jpg"><img class="alignnone size-full wp-image-4852" src="/images/TPB-1860.jpg" alt="TPB 1860" width="1342" height="1656" /></a>
+<a href="/images/tpb-1860.jpg"><img class="alignnone size-full wp-image-4852" src="/images/tpb-1860.jpg" alt="TPB 1860" width="1342" height="1656" /></a>
 
 In the 1860 census William H Berry was living elsewhere and  no information has been found on Willie Berry. The household consisted of the following people.
 <ul>
@@ -53,7 +53,7 @@ In the 1860 census William H Berry was living elsewhere and  no information has
 </ul>
 Elizabeth Berry Franklin was Thomas Person Berry's half sister. Hannah Cate Berry who was Thomas and Elizabeth's mother had died in 1858 from the flu.Elizabeth's husband Theodric Franklin had also died in 1858 from the flu. Hannah Cate came from a wealthy family and I am sure that Elizabeth Berry Franklin thought she had inherited some money from her mother. Thomas Person Berry was appointed administrator of his mothers estate which, on paper, was meager. It is not known what Elizabeth Berry Franklin received from her mothers estate. Elizabeth Franklin was trapped in Orange County when the Civil War broke out and probably rejoined her children in Texas after 1865. Jesse Blalock was the son of Sarah Lunsford Berry's sister. Angeline Lunsford married William Blalock on 09 Dec 1835 and Jesse Lyse Blalock was their oldest son.
 <p><strong>1870 Orange County, North Carolina Census</strong></p>
-<a href="/images/Thomas-Person-Berry-OC-1870.jpg"><img class="alignnone size-full wp-image-4848" src="/images/Thomas-Person-Berry-OC-1870.jpg" alt="Thomas Person Berry OC 1870" width="621" height="889" /></a>
+<a href="/images/thomas-person-berry-oc-1870.jpg"><img class="alignnone size-full wp-image-4848" src="/images/thomas-person-berry-oc-1870.jpg" alt="Thomas Person Berry OC 1870" width="621" height="889" /></a>
 
 Alfred and Martha Brown lived on the farm adjoining Thomas Person Berry. They listed a daughter, Lucy Brown age 22 in 1870. <strong>(SEE the Red Arrow) </strong>After Thomas Person Berry's first wife, Sarah Lunsford Berry died on   27 Dec 1870 he married Lucy A. Brown on  24 Aug 1871.  Thomas and Lucy Berry had five children and  between 1871 and 1881. Twenty Six days after Daniel R Berry was born on 23 Dec 1880 Lucy Brown Berry died on 08 Jan 1881. She was only 34 years old and i feel sure here death resulted form complications of childbirth.
 

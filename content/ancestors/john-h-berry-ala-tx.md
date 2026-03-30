@@ -10,7 +10,7 @@ Ancestors
 	<li>Generation David Middleton and Didama Box Berry Fayette County Alabama.</li>
 	<li>Generation John H. and Catherine Dennis Berry  Alabama and Texas</li>
 </ol>
-<a href="/images/John-H.-Berry-and-wife.jpg"><img class="size-full wp-image-5279 alignleft" src="/images/John-H.-Berry-and-wife.jpg" alt="John H. Berry and wife" width="313" height="402" /></a>
+<a href="/images/john-h.-berry-and-wife.jpg"><img class="size-full wp-image-5279 alignleft" src="/images/john-h.-berry-and-wife.jpg" alt="John H. Berry and wife" width="313" height="402" /></a>
 
 <strong>JOHN H. BERRY</strong> born September 29, 1827, Fayette Co., AL, m. July 1848 in Fayette Co., AL, <u>ELIZA CATHERINE DENNIS</u>, b. January 21, 1828, AL (daughter of  Benjamin DENNIS and Elizabeth BERRY), d. July 21, 1913, bur. Cauble Cemetery, Burnet Co., TX.  John died October 07, 1904, Burnet Co., TX, bur. Cauble Cemetery
 
@@ -35,7 +35,7 @@ He was married to Eliza Dennis in July 1848. She still survives. Eight children 
 <strong>Gen 6 SUSSAN PALESTINE BERRY</strong> b. December 01, 1866.
 <strong>Gen 6 ALFRED NORTON BERRY</strong> b. May 21, 1872.
 
-<a href="/images/Alfred-N-Berry.jpg"><img class="alignnone size-full wp-image-5293" src="/images/Alfred-N-Berry.jpg" alt="Alfred N Berry" width="626" height="619" /></a>
+<a href="/images/alfred-n-berry.jpg"><img class="alignnone size-full wp-image-5293" src="/images/alfred-n-berry.jpg" alt="Alfred N Berry" width="626" height="619" /></a>
 
  
 

@@ -33,11 +33,11 @@ Ancestors:
 	<li>Winifred Berry     age 9 (Shorty)</li>
 	<li>Claude Berry         age 6</li>
 </ul>
-<a href="/images/Enoch-M.-Berry-family-pic.jpg"><img class="alignnone size-full wp-image-5013" src="/images/Enoch-M.-Berry-family-pic.jpg" alt="Enoch M. Berry family pic" width="924" height="654" /></a>
+<a href="/images/enoch-m.-berry-family-pic.jpg"><img class="alignnone size-full wp-image-5013" src="/images/enoch-m.-berry-family-pic.jpg" alt="Enoch M. Berry family pic" width="924" height="654" /></a>
 
 L-R: Chester Berry,Enoch Merrill Berry, Winfred (Shorty) Berry, Lewis Berry, Buel Berry, Mary Edna Stuart Berry,Claude Berry, Ester Berry.
 <p><strong>1900 United States Federal Census Cullman. Cullman County, Alabama.</strong></p>
-<a href="/images/Mary-Edna-Stuart-1900Cullman-Ala.jpg"><img class="alignnone size-full wp-image-5067" src="/images/Mary-Edna-Stuart-1900Cullman-Ala.jpg" alt="Mary Edna Stuart 1900Cullman Ala" width="1533" height="466" /></a>
+<a href="/images/mary-edna-stuart-1900cullman-ala.jpg"><img class="alignnone size-full wp-image-5067" src="/images/mary-edna-stuart-1900cullman-ala.jpg" alt="Mary Edna Stuart 1900Cullman Ala" width="1533" height="466" /></a>
 <p><strong>Jasper B. Stuart Family 1900 Cullman </strong><span><b>Alabama</b></span></p>
 
 <ul>
@@ -53,15 +53,15 @@ L-R: Chester Berry,Enoch Merrill Berry, Winfred (Shorty) Berry, Lewis Berry, Bue
 	<li>Jennie Stuart            F     W   Age 7      July 1892</li>
 	<li>Arvil O. Stuart        M    W   Age 6     April 1895</li>
 </ul>
-<a href="/images/Enoch-and-children-at-Edna-Berrys-funeral.jpg"><img class="alignnone wp-image-5019" src="/images/Enoch-and-children-at-Edna-Berrys-funeral.jpg" alt="Enoch and children at Edna Berrys funeral" width="644" height="400" /></a>
+<a href="/images/enoch-and-children-at-edna-berrys-funeral.jpg"><img class="alignnone wp-image-5019" src="/images/enoch-and-children-at-edna-berrys-funeral.jpg" alt="Enoch and children at Edna Berrys funeral" width="644" height="400" /></a>
 
 Enoch M. Berry with his children at their mother, Mary Edna Stuart Berry's, Funeral in 1931. She is buried at  Flint Creek Baptist Church Cemetery in Cullman. Cullman County Alabama. L-R  Enoch Berry,Claude Berry, Lewis Berry, Winfred (Shorty) Berry, Ester Berry Sloan,Chester Berry.
 
-<a href="/images/Funera-pic-2-Black-and-white.jpg"><img class="wp-image-5025 aligncenter" src="/images/Funera-pic-2-Black-and-white.jpg" alt="Funera pic 2 Black and white" width="635" height="393" /></a>
+<a href="/images/funera-pic-2-black-and-white.jpg"><img class="wp-image-5025 aligncenter" src="/images/funera-pic-2-black-and-white.jpg" alt="Funera pic 2 Black and white" width="635" height="393" /></a>
 
 L- R Lewis Berry, Ester Berry, Chester Berry, Enoch Berry, Buell Berry, Winifred Berry, and Claude Berry at Mary Edna Stuart Berry's, Grave in 1931
 <p><strong>1940 Cullman, Cullman County Alabama Census</strong></p>
-<a href="/images/Freda-Mae-Kennedy-1940-Cullman-Ala.jpg"><img class="alignnone size-full wp-image-5062" src="/images/Freda-Mae-Kennedy-1940-Cullman-Ala.jpg" alt="Freda Mae Kennedy 1940 Cullman Ala" width="1596" height="579" /></a>
+<a href="/images/freda-mae-kennedy-1940-cullman-ala.jpg"><img class="alignnone size-full wp-image-5062" src="/images/freda-mae-kennedy-1940-cullman-ala.jpg" alt="Freda Mae Kennedy 1940 Cullman Ala" width="1596" height="579" /></a>
 <ul>
 	<li>Thomas Kennedy               M     W      Age 53</li>
 	<li>Annie Lue  Kennedy          F       W    Age 43</li>
@@ -74,7 +74,7 @@ L- R Lewis Berry, Ester Berry, Chester Berry, Enoch Berry, Buell Berry, Winifred
 </ul>
 Anne Lue Kennedy was Annie Lue Parsons before she married Thomas G. Kennedy
 
-<a href="/images/Top-Right.jpg"><img class="alignnone size-full wp-image-5027" src="/images/Top-Right.jpg" alt="Top Right" width="177" height="325" /></a>
+<a href="/images/top-right.jpg"><img class="alignnone size-full wp-image-5027" src="/images/top-right.jpg" alt="Top Right" width="177" height="325" /></a>
 
 Claude H. and Freda M. Kennedy Berry on their Wedding day.                                                 Standing on the Left of Freda is her brother, Leldon Kennedy.
 
@@ -106,7 +106,7 @@ Claude and Freda Kennedy Berry with Claudia A Berry 1947 or 1948
 
 Freda M Kennedy Berry with her Grandmother
 
-<a href="/images/Claude-USAForce.jpg"><img class="alignnone size-full wp-image-5054" src="/images/Claude-USAForce.jpg" alt="Claude USAForce" width="466" height="761" /></a>
+<a href="/images/claude-usaforce.jpg"><img class="alignnone size-full wp-image-5054" src="/images/claude-usaforce.jpg" alt="Claude USAForce" width="466" height="761" /></a>
 
 Claude Berry as he was entering the United States Army Air Force in World War ll
 
@@ -116,9 +116,9 @@ More Pictures
 
  
 
-<a href="/images/Enoch-Berry-grave.jpg"><img class="size-full wp-image-5222 alignleft" src="/images/Enoch-Berry-grave.jpg" alt="Enoch Berry grave" width="278" height="209" /></a>
+<a href="/images/enoch-berry-grave.jpg"><img class="size-full wp-image-5222 alignleft" src="/images/enoch-berry-grave.jpg" alt="Enoch Berry grave" width="278" height="209" /></a>
 
-<a href="/images/Flint-Creek-Cemetery.jpg"><img class="alignnone size-full wp-image-5223" src="/images/Flint-Creek-Cemetery.jpg" alt="Flint Creek Cemetery" width="275" height="207" /></a>
+<a href="/images/flint-creek-cemetery.jpg"><img class="alignnone size-full wp-image-5223" src="/images/flint-creek-cemetery.jpg" alt="Flint Creek Cemetery" width="275" height="207" /></a>
 
 Photo Source: Find A Grave
 

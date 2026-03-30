@@ -23,17 +23,17 @@ Susanna also inherited some property from her father in 1814. (see the estate re
 
 Estate Record of Peter Aldridge naming George and Susanna Berry
 
-<a href="/images/Peter-Aldridge-estate-settlement-Person-county-1816.jpg"><img class="alignnone size-full wp-image-4449" src="/images/Peter-Aldridge-estate-settlement-Person-county-1816.jpg" alt="Peter Aldridge estate settlement Person county 1816" width="911" height="133" /></a>
+<a href="/images/peter-aldridge-estate-settlement-person-county-1816.jpg"><img class="alignnone size-full wp-image-4449" src="/images/peter-aldridge-estate-settlement-person-county-1816.jpg" alt="Peter Aldridge estate settlement Person county 1816" width="911" height="133" /></a>
 
 Susanna Aldridge Berry's parents were Peter & Judith Waggoner Aldridge
 
 Estate Sale of James Farquhar In Person County
 
-<a href="/images/James-Farquhar-Estate-sale-1814.jpg"><img class="alignnone size-full wp-image-4451" src="/images/James-Farquhar-Estate-sale-1814.jpg" alt="James Farquhar Estate sale 1814" width="841" height="473" /></a>
+<a href="/images/james-farquhar-estate-sale-1814.jpg"><img class="alignnone size-full wp-image-4451" src="/images/james-farquhar-estate-sale-1814.jpg" alt="James Farquhar Estate sale 1814" width="841" height="473" /></a>
 
 Aldridge to Farquhar Land Sale in Person County, NC.
 
-<a href="/images/Aldridge-to-Farquhar-1817.jpg"><img class="alignnone size-full wp-image-4453" src="/images/Aldridge-to-Farquhar-1817.jpg" alt="Aldridge to Farquhar 1817" width="1361" height="107" /></a>
+<a href="/images/aldridge-to-farquhar-1817.jpg"><img class="alignnone size-full wp-image-4453" src="/images/aldridge-to-farquhar-1817.jpg" alt="Aldridge to Farquhar 1817" width="1361" height="107" /></a>
 
 George Berr'ys Record of Service in the War of 1812
 

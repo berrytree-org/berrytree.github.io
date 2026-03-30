@@ -14,7 +14,7 @@ Nancy Berry's Nephew Eli D. Berry was appointed Administrator of Nancy Berry's E
 
 Nancy Berry's Estate Settlement March 6 1883
 
-<a href="/images/Nancy-Berry-estate-settlement.jpg"><img class="alignnone size-full wp-image-4028" src="/images/Nancy-Berry-estate-settlement.jpg" alt="Nancy Berry estate settlement" width="1710" height="1387" /></a>
+<a href="/images/nancy-berry-estate-settlement.jpg"><img class="alignnone size-full wp-image-4028" src="/images/nancy-berry-estate-settlement.jpg" alt="Nancy Berry estate settlement" width="1710" height="1387" /></a>
 
 Heirs of Nancy Berry from the Estate Settlement
 <ul>

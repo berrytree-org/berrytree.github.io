@@ -39,7 +39,7 @@ title: "Berrytree Home"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":8126,"width":"269px","height":"54px","linkDestination":"custom","align":"center"} -->
-<figure class="wp-block-image aligncenter is-resized"><a href="/dna/dnapagetwo/"><img src="/images/YDNA-3.png" alt="YDNA 3" class="wp-image-8126"/></a></figure>
+<figure class="wp-block-image aligncenter is-resized"><a href="/dna/dnapagetwo/"><img src="/images/ydna-3.png" alt="YDNA 3" class="wp-image-8126"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -47,15 +47,15 @@ title: "Berrytree Home"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":8114,"linkDestination":"custom","align":"center"} -->
-<figure class="wp-block-image aligncenter"><a href="/ancestors/robertberrypac/"><img src="/images/NUMBER-ONE-GEN-A-e1556578111518.png" alt="NUMBER ONE GEN A" class="wp-image-8114"/></a></figure>
+<figure class="wp-block-image aligncenter"><a href="/ancestors/robertberrypac/"><img src="/images/number-one-gen-a-e1556578111518.png" alt="NUMBER ONE GEN A" class="wp-image-8114"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":8116,"linkDestination":"custom","align":"left"} -->
-<figure class="wp-block-image alignleft"><a href="/ancestors/robert-berry-oc/"><img src="/images/NUMBER-TWO-GEN-B-e1556578367426.png" alt="NUMBER TWO GEN B" class="wp-image-8116"/></a></figure>
+<figure class="wp-block-image alignleft"><a href="/ancestors/robert-berry-oc/"><img src="/images/number-two-gen-b-e1556578367426.png" alt="NUMBER TWO GEN B" class="wp-image-8116"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":8118,"align":"right"} -->
-<figure class="wp-block-image alignright"><a href="/ancestors/genthree/"><img src="/images/THIRD-TRY-GEN-C-e1556578663425.png" alt="THIRD TRY GEN C" class="wp-image-8118"/></a></figure>
+<figure class="wp-block-image alignright"><a href="/ancestors/genthree/"><img src="/images/third-try-gen-c-e1556578663425.png" alt="THIRD TRY GEN C" class="wp-image-8118"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -86,16 +86,16 @@ title: "Berrytree Home"
 <table>
 <tbody>
 <tr>
-<td><a href="/images/fiddleton-plantation-Scene.jpg"><img class="alignnone wp-image-5552" src="/images/fiddleton-plantation-Scene.jpg" alt="fiddleton plantation Scene" width="196" height="146" /></a></td>
+<td><a href="/images/fiddleton-plantation-scene.jpg"><img class="alignnone wp-image-5552" src="/images/fiddleton-plantation-scene.jpg" alt="fiddleton plantation Scene" width="196" height="146" /></a></td>
 <td><a href="/images/rberryhome.jpg"><img class="alignnone wp-image-257 size-thumbnail" src="/images/rberryhome-150x150.jpg" alt="rberryhome" width="150" height="150" /></a></td>
 <td><a href="/images/fiddletonburns.jpg"><img class="alignnone wp-image-259 size-thumbnail" src="/images/fiddletonburns-150x150.jpg" alt="fiddletonburns" width="150" height="150" /></a>
-<p><a href="/images/Robert_Berry_Homestead.jpeg"><img class="alignleft wp-image-9748 size-medium" src="/images/Robert_Berry_Homestead-300x224.jpeg" alt="" width="300" height="224" /></a></p>
+<p><a href="/images/robert_berry_homestead.jpeg"><img class="alignleft wp-image-9748 size-medium" src="/images/Robert_Berry_Homestead-300x224.jpeg" alt="" width="300" height="224" /></a></p>
 </td>
 </tr>
 </tbody>
 </table>
 <p>On the left above is a picture of a scale model that Benjamin Berry Henderson built from measurements taken from the other two pictures of Robert Berry's plantation home at Fiddleton, Orange County, North Carolina. <strong>Robert Berry built this home only 15 years after he settled in the wilderness of North Carolina in 1751 and ten years before the Declaration of Independence was signed in 1776.</strong> The square footage was about three times that of an average settlers cabin at that time. The Plantation home also had wood floors and glass panes in the windows. Glass panes had to be transported by horseback from Jamestown,Virginia where Glass was being made at that time in our history or imported from England. Most of his neighbors had wooden shutters and no windows.</p>
-<p><a href="/images/Chimney-picture-fo-home-page.jpg"><img class="alignnone size-full wp-image-5615" src="/images/Chimney-picture-fo-home-page.jpg" alt="Chimney picture fo home page" width="4000" height="3000" /></a></p>
+<p><a href="/images/chimney-picture-fo-home-page.jpg"><img class="alignnone size-full wp-image-5615" src="/images/chimney-picture-fo-home-page.jpg" alt="Chimney picture fo home page" width="4000" height="3000" /></a></p>
 <p><strong>All that Remains of the Robert and Elizabeth Cate Plantation Home built in 1766</strong></p>
 <p><a href="/images/paragraph-sparator-three.png"><img class=" size-medium wp-image-161 aligncenter" src="/images/paragraph-sparator-three.png" alt="paragraph-sparator-three" width="300" height="13" /></a></p>
 <p><strong>Some Surnames Associated with our Berry Family:</strong></p>

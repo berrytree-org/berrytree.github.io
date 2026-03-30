@@ -38,11 +38,11 @@ title: "David Crockett Berry"
 	<li>.……………..<span><strong>Gen 6</strong> <em><strong>David Crockett Berry</strong></em> 1871 – 1946 d: 17 Jan 1946</span></li>
 	<li><span>…………………..+Mary Jane Hayes 1876 – 1963 m: 28 Apr 1897- d: 14 Dec 1963</span></li>
 </ul>
-<a href="/images/David-Crocket-Berry.jpg"><img class="alignnone size-full wp-image-6342" src="/images/David-Crocket-Berry.jpg" alt="David Crocket Berry" width="576" height="433" /></a>
+<a href="/images/david-crocket-berry.jpg"><img class="alignnone size-full wp-image-6342" src="/images/david-crocket-berry.jpg" alt="David Crocket Berry" width="576" height="433" /></a>
 
 The two children must have been Elsie Berry on her dads lap and Marvin Berry standing beside his grandmother, David Crockett Berry's mother
 
-<a href="/images/John-Berry-copy-son-of-Davidll.jpg"><img class="alignnone wp-image-6364" src="/images/John-Berry-copy-son-of-Davidll.jpg" alt="John Berry copy son of Davidll" width="575" height="431" /></a>
+<a href="/images/john-berry-copy-son-of-davidll.jpg"><img class="alignnone wp-image-6364" src="/images/john-berry-copy-son-of-davidll.jpg" alt="John Berry copy son of Davidll" width="575" height="431" /></a>
 <p><strong><span>JOHN AND SUSAN BERRY'S CHILDREN</span></strong></p>
 <p>…………………..<strong>Gen 7</strong> T.Marvin Berry 1898 –
 ……………………<strong>Gen 7</strong> Elsie Berry Nov. 28 1899 – Sept. 4 1901
@@ -52,11 +52,11 @@ The two children must have been Elsie Berry on her dads lap and Marvin Berry sta
 ……………………<strong>Gen 7</strong> Raymond Berry May 1909 – Oct. 26 1981
 ……………………<strong>Gen 7</strong> Jacob N Berry May 19 1912 –
 ……………………<strong>Gen 7</strong> David A. Berry Aug. 3 1916 – Aug 26 18916</p>
-<p><a href="/images/David-Crockett-Berry-and-sons.jpg"><img class="alignnone size-full wp-image-6347" src="/images/David-Crockett-Berry-and-sons.jpg" alt="David Crockett Berry and sons" width="642" height="481" /></a></p>
-<p><a href="/images/Grandmother-and-aunt-Ruby.jpg"><img class="alignnone size-full wp-image-6353" src="/images/Grandmother-and-aunt-Ruby.jpg" alt="Grandmother and aunt Ruby" width="430" height="707" /></a></p>
-<p><a href="/images/LucyEllem-Berry.jpg"><img class="alignnone size-full wp-image-6344" src="/images/LucyEllem-Berry.jpg" alt="LucyEllem Berry" width="385" height="469" /></a></p>
+<p><a href="/images/david-crockett-berry-and-sons.jpg"><img class="alignnone size-full wp-image-6347" src="/images/david-crockett-berry-and-sons.jpg" alt="David Crockett Berry and sons" width="642" height="481" /></a></p>
+<p><a href="/images/grandmother-and-aunt-ruby.jpg"><img class="alignnone size-full wp-image-6353" src="/images/grandmother-and-aunt-ruby.jpg" alt="Grandmother and aunt Ruby" width="430" height="707" /></a></p>
+<p><a href="/images/lucyellem-berry.jpg"><img class="alignnone size-full wp-image-6344" src="/images/lucyellem-berry.jpg" alt="LucyEllem Berry" width="385" height="469" /></a></p>
 <p>Lucy Ellen Berry pictured below</p>
-<p><a href="/images/Lucy-Ellen-Berry-Roberts.jpg"><img class="alignnone size-full wp-image-6350" src="/images/Lucy-Ellen-Berry-Roberts.jpg" alt="Lucy Ellen Berry Roberts" width="427" height="605" /></a></p>
+<p><a href="/images/lucy-ellen-berry-roberts.jpg"><img class="alignnone size-full wp-image-6350" src="/images/lucy-ellen-berry-roberts.jpg" alt="Lucy Ellen Berry Roberts" width="427" height="605" /></a></p>
 <p>…………………….....<strong>Gen 7</strong> <span>Lucy Ellen Berry  married John Henry Roberts </span></p>
 <p><strong><span>JOHN AND LUCY BERRY ROBERTS CHILDREN</span></strong></p>
 

@@ -21,6 +21,6 @@ title: "Richard Williamson PAC"
 </ul>
 Richard Williamson's Will
 
-<a href="/images/Richard-Williamsons-Will-PAC.jpg"><img class="wp-image-5500 alignleft" src="/images/Richard-Williamsons-Will-PAC.jpg" alt="Richard Williamsons Will PAC" width="225" height="254" /></a>
+<a href="/images/richard-williamsons-will-pac.jpg"><img class="wp-image-5500 alignleft" src="/images/richard-williamsons-will-pac.jpg" alt="Richard Williamsons Will PAC" width="225" height="254" /></a>
 
 Richard Williamson also mentions his grandaughter Mary Williamson (daughter of George Williamson) and his Grandson Calob Whitehurst (son of Hugh and Anne Whitehurst). There is no mention of any other grandchildren in the will. I suspect all of the other grandchildren were grown and married in 1721 when Richard wrote this will. We know that Robert and Mary Williamson Berry had other children but they may have all been born after Richard Williamson died. With the seven children Richard and Mary Kempe Williamson had there must have been other grandchildren. From Anne Foster Williamson Caroway's Will we know that Richards Williamson's father Roger Wulliamson was dead by 1650. Therefore Richard Williamson must have been at least 71 years old in 1721.

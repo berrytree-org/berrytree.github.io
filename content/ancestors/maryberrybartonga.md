@@ -20,7 +20,7 @@ Thomas H. Barton Who married Mary Berry was  born  in Orange County North Caro
 <strong>Thomas H. Barton most likely migrated to Georgia in the same Wagon train that Mary Berry and her family were in
 Mary Berry Barton and Thomas Howard Barton are both buried at Tanners Baptist Church Cemetery, Clayton County Georgia.</strong>
 
-<a href="/images/Mary-Berry-Barton-headstone.jpg"><img class="alignnone size-full wp-image-8802" src="/images/Mary-Berry-Barton-headstone.jpg" alt="Mary Berry Barton headstone" width="1077" height="558" /></a>
+<a href="/images/mary-berry-barton-headstone.jpg"><img class="alignnone size-full wp-image-8802" src="/images/mary-berry-barton-headstone.jpg" alt="Mary Berry Barton headstone" width="1077" height="558" /></a>
 
 <strong>CHILDREN :</strong>
 
@@ -55,7 +55,7 @@ Private in Company I, 30th Regiment of the Georgia Infantry.</li>
 <ul>
 	<li>Thomas H. Barton Henry County Georgia in 1850</li>
 </ul>
-<a href="/images/1850-Census-T-H-Barton.jpg"><img class="alignnone size-full wp-image-8806" src="/images/1850-Census-T-H-Barton.jpg" alt="1850 Census T H Barton" width="1339" height="710" /></a>
+<a href="/images/1850-census-t-h-barton.jpg"><img class="alignnone size-full wp-image-8806" src="/images/1850-census-t-h-barton.jpg" alt="1850 Census T H Barton" width="1339" height="710" /></a>
 <ul>
 	<li>Thomas H. Barton in Clayton County in 1860</li>
 </ul>

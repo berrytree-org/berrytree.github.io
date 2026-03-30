@@ -22,7 +22,7 @@ We located a Richard Berry who died in Chatham County, North Carolina in 1774 bu
 
 The document listed below proves that Richard Berry was still in Princess Anne County Virginia on February 17 1756.
 
-<a href="/images/Richard-R.-Berry-1756-PAC.png"><img class="wp-image-8195 aligncenter" src="/images/Richard-R.-Berry-1756-PAC.png" alt="Richard R. Berry 1756 PAC" width="593" height="294" /></a>
+<a href="/images/richard-r.-berry-1756-pac.png"><img class="wp-image-8195 aligncenter" src="/images/richard-r.-berry-1756-pac.png" alt="Richard R. Berry 1756 PAC" width="593" height="294" /></a>
 
 BERRY, Richard and his wife Catherine to Tully Barnes, dated 10 August 1786; for £18, 15 acres adjoining lands of George Batten and Tully Moseley; [only page one of deed available both in clerk’s copy and on microfilm; page two overlaid with second page of deed of Jesse and Mary Hill]; DB20: 172 [228].
 
@@ -30,4 +30,4 @@ BERRY, Willoughby and his wife Mary to William Capps, dated
 
 Here is a possible Richard Berry Ancestor in England. Berry twins born on August 22 1669. This Richard Berry would be about four generations before our Richard Berry was born. If he is our ancestor he could Robert Berry"s (PAC) grandfather or Great Great grand Father.
 
-<a href="/images/Berrys-in-England1.png"><img class="wp-image-8199 alignnone" src="/images/Berrys-in-England1.png" alt="Berrys in England" width="590" height="390" /></a>
+<a href="/images/berrys-in-england1.png"><img class="wp-image-8199 alignnone" src="/images/berrys-in-england1.png" alt="Berrys in England" width="590" height="390" /></a>
