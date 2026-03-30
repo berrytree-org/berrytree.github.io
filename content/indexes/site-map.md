@@ -39,7 +39,7 @@ weight: 4
 
 - [Alfred Walter Berry Ala](https://alfordwberryala/)
 
-- [Alphabetical Pages Index](/ancestors/alphabetical-pages-index/)
+- [Alphabetical Pages Index](/indexes/alphabetical-pages-index/)
 
 - [Amanda Emiline Berry Ga](https://amandaemilineberryga/)
 
@@ -69,7 +69,7 @@ weight: 4
 
 - [Books](../books.html)
 
-- [By Family Line](/ancestors/by-family-line/)
+- [By Family Line](/family-lines/by-family-line/)
 
 - [Camp Power of Attorney](https://camppowerofattorney/)
 
@@ -120,11 +120,11 @@ weight: 4
 
 - [Descendant Book Information](https://decendantbookadd/)
 
-- [DNA](/ancestors/dna/)
+- [DNA](/dna/dna/)
 
-- [DNA Information](/ancestors/dnapage/)
+- [DNA Information](/dna/dnapage/)
 
-- [DNA Information Page 2](/ancestors/dnapagetwo/)
+- [DNA Information Page 2](/dna/dnapagetwo/)
 
 - [Dora Ellen Turley Ga](https://doraellenturleyga/)
 
@@ -154,11 +154,11 @@ weight: 4
 
 - [Ernest John Berry Tenn](https://ernesttenn/)
 
-- [Extended Site Page](/ancestors/extended-site-map/)
+- [Extended Site Page](/indexes/extended-site-map/)
 
 - [Family Homes](https://familyhouses/)
 
-- [Family Tree Index](/ancestors/familytreeindex/)
+- [Family Tree Index](/indexes/familytreeindex/)
 
 - [Fiddleton Cemetery](https://fiddletoncemetery/)
 
@@ -331,7 +331,7 @@ weight: 4
 
 - [Mattie Lee Strickland Ala](https://mattielstricklandala/)
 
-- [Name Index](/ancestors/name-index/)
+- [Name Index](/indexes/name-index/)
 
 - [Nancy Berry Spinster Joshua’s daughter](https://nancy-berry-spinster-joshuas-daughter/)
 
@@ -347,7 +347,7 @@ weight: 4
 
 - [Pattie S. Berry NC](https://pattiesberrync/)
 
-- [Picture Directory](/ancestors/picturedirectoryt/)
+- [Picture Directory](/pictures/picturedirectoryt/)
 
 - [Political – Roots of Rebellion](https://political/)
 
@@ -479,7 +479,7 @@ weight: 4
 
 - [Timeline Number 2](https://timelinenumber2/)
 
-- [Timelines](/ancestors/timelines/)
+- [Timelines](/timelines/timelines/)
 
 - [Undeveloped Family Lines](https://undevelopedlines/)
 
@@ -511,7 +511,7 @@ weight: 4
 
 - [William Cate’s Estate Sale](https://william-cates-estate-sale/)
 
-- [William Clarence Berry NC, ALA, TX](/ancestors/williamclarenceberrync/)
+- [William Clarence Berry NC, ALA, TX](/documents/williamclarenceberrync/)
 
 - [William Edgar Berry Alabama](https://william-edgar-berry-alabama/)
 

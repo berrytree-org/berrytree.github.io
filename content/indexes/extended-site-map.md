@@ -182,7 +182,7 @@ Ancestors:
 	Generation  Robert and Elizabeth Cate Berry  Orange County, North Carolina. 
 	Generation  Ro...
 
-### [Alphabetical Pages Index](/ancestors/alphabetical-pages-index/)
+### [Alphabetical Pages Index](/indexes/alphabetical-pages-index/)
 
  	
 
@@ -339,7 +339,7 @@ Welcome to Berrytree.org. Home of the genealogical data collected and curated by
 On Lulu.com  
 This book is a result of 18 years of research ...
 
-### [By Family Line](/ancestors/by-family-line/)
+### [By Family Line](/family-lines/by-family-line/)
 Gen 1 Robert and Mary Williamson, Princess Anne County, Virginia. 
 
 Gen 2 Robert and Elizabeth Cate. Orange County, North Carolina. 
@@ -516,17 +516,17 @@ From 1620 through 1920.
 JANUARY, 2 2015 
 "SIX GENERATIONS OF ROBERT and ELIZABETH CATE BERRY'S...
 
-### [DNA](/ancestors/dna/)
+### [DNA](/dna/dna/)
 Here are our DNA pages
 
 DNA Information Page 1 
 
 DNA Information Page 2 
 
-### [DNA Information](/ancestors/dnapage/)
+### [DNA Information](/dna/dnapage/)
 It is very interesting that our family DNA has the most (20%) of the FTDNA participants originating from the island of Jersey which is just off the coast of Normandy, France.  Because of our unique first Allele we always thought we originated from France and, I gu...
 
-### [DNA Information Page 2](/ancestors/dnapagetwo/)
+### [DNA Information Page 2](/dna/dnapagetwo/)
 DNA PAGE for Descendants of Robert Berry (PAC) 
 Check your own YDNA  (see how at the bottom of this page)
 Princess Ann County Va. 
@@ -660,7 +660,7 @@ ______THOMAS PERSON HOME built in 1852_______ JOHN ROBERT BERRY HOME built about
 
 ______JOHN ROBERT BERRY'S STORE & P.O.__________B.S.&...
 
-### [Family Tree Index](/ancestors/familytreeindex/)
+### [Family Tree Index](/indexes/familytreeindex/)
 Robert & Elizabeth Cate's Descendant Index 
 Ancestors:  
 Generation 1 Robert and Elizabeth Cate Berry 
@@ -1475,7 +1475,7 @@ ANCESTORS
 	Generation  Robert and Elizabeth Cate Berry: Orange County, North Carolina. 
 	Generation ...
 
-### [Name Index](/ancestors/name-index/)
+### [Name Index](/indexes/name-index/)
  
 
 This Page is under construction  and will never be  complete.  Names will be added alphabetically by surname as I rework berrytree web pages. Gen "X" denotes Generation of the individual starting with generation # 1 being Robert and Mary Wi...
@@ -1538,7 +1538,7 @@ Generation 3 Thomas Person and Sarah Lunsford Berry
 
 Generation...
 
-### [Picture Directory](/ancestors/picturedirectoryt/)
+### [Picture Directory](/pictures/picturedirectoryt/)
 Picture Albums Of The Robert And Elizabeth Cate Berry Family 
 
 	Generation Robert and Mary Williamson Berry Princess Anne County Va. 
@@ -2113,7 +2113,7 @@ Robert Berry Family And National Facts Indexed By Year
 TIMELINE FROM 1700 TO 1950 
 1701 1702 1703 1704 1705 1706 1707 1708 1709 1710 1711 1712 1713 1714 1715 1716 1717 1718 1719 1720 1721 1722 1723 1724 1725 1726 1727 1728 1729 1730 1731 1732 1733 1734 1735 1736 1737 1738 1739 1740 1741 1742 1743 1744 1745...
 
-### [Timelines](/ancestors/timelines/)
+### [Timelines](/timelines/timelines/)
 Click this link to go to 1600-1699 Timeline 
 
 Click this link to go to 1700-1799 Timeline 
@@ -2255,7 +2255,7 @@ Blow is a list of items that Robert Berry Sen, and his family bought at William 
 
 	    ...
 
-### [William Clarence Berry NC, ALA, TX](/ancestors/williamclarenceberrync/)
+### [William Clarence Berry NC, ALA, TX](/documents/williamclarenceberrync/)
 William Clarence Berry, son of William and Hannah Cate Berry Berry 
 ANCESTORS
 
