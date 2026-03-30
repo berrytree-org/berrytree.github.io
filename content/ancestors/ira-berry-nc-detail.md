@@ -29,7 +29,7 @@ Sally (Sarah Tolar Berry) was living with her daughter Nancy E Waggoner in Kentu
 In the 1860 Union County Kentucky Census Ira’s oldest son is Franklin who is 4 years old and born in Kentucky. This would mean that Ira and his wife Nancy Wynn/Winn Berry had been in Kentucky since at least 1856.
 
 
-1860 Morganfield, Union County, Kentucky Census Transcription[![Ira Berry 1860 KY censuis](/images/ira-berry-1860-ky-censuis.jpg)](/images/06/Ira-Berry-1860-KY-censuis.jpg)
+1860 Morganfield, Union County, Kentucky Census Transcription[![Ira Berry 1860 KY censuis](/images/ira-berry-1860-ky-censuis.jpg)](/images/ira-berry-1860-ky-censuis.jpg)
 
 
 In that same census it states that Nancy Winn/Winn was born in Tennessee. Ira may have met her in Smith County Tennessee where his Uncle James Berry was living. It would be reasonable for Ira to spend some time there on his way to Kentucky. Smith County Tennessee would not be out of the way if a person was comming from North Carolins to Kentucky. All of this part of this writing is purely speculation however. James Berry did live in Smith County Tennessee from sometime in the mid 1830’s. He is in the 1840 and 1850 Census there.

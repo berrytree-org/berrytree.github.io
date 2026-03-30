@@ -81,13 +81,13 @@ Brick Wall Breakthrough
 
 ![fiddleton plantation Scene](/images/fiddleton-plantation-scene.jpg)
 
-](/images/fiddleton-plantation-Scene.jpg)
+](/images/fiddleton-plantation-scene.jpg)
 
 [
 
 ![Fittleton Wiltshire County England](/images/fittleton-wiltshire-county-england.jpg)
 
-](/images/Fittleton-Wiltshire-County-England.jpg)
+](/images/fittleton-wiltshire-county-england.jpg)
 
  
 
@@ -115,7 +115,7 @@ Robert Berry Jr.1760 – 1841-1849 was born in Orange County NC and died in Faye
 
 ![Samuel Hollowell Church Job](/images/samuel-hollowell-church-job1.jpg)
 
-](/images/Samuel-Hollowell-Church-Job1.jpg)
+](/images/samuel-hollowell-church-job1.jpg)
 
 Source: Vestry Book of Lynnhaven Parish, Princess Anne County, Virginia, page 72.
 
@@ -127,7 +127,7 @@ In 1751 Robert and his cousin Matthew Mathias and likely others decided to remov
 
 ![Route to NC from VA](/images/route-to-nc-from-va.jpg)
 
-](/images/Route-to-NC-from-VA.jpg)
+](/images/route-to-nc-from-va.jpg)
 
 This route was being used by fur traders for as many as 50 years befor our Robert Berry entered North Carolina. John Lawson met a pack mule train on this same trail in 1704. He was headed toward Hillsborough from the South West when he encountered them and exchanged s friendly conversation that morning. The drover allowed that he was born in England and that the land was the most beautiful that they had ever seen,
 
@@ -135,7 +135,7 @@ This route was being used by fur traders for as many as 50 years befor our Rober
 
 ![Orange County 1755 Tax List Page 6](/images/orange-county-1755-tax-list-page-6.jpg)
 
-](/images/Orange-County-1755-Tax-List-Page-6.jpg)
+](/images/orange-county-1755-tax-list-page-6.jpg)
 
 **Page 5 of the 1755 Orange County, North Carolina. Tax List**
 

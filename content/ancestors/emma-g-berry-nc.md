@@ -37,7 +37,7 @@ Emma G. Berry was 18 years old when she married John Sanders Berry on October 15
 
 
 **Generation 5 John Saunders Berry **was born January 1  1859  and died in Orange County, North Carolina, of  March 1 1938.
-[![John Saunders Berry Emma G. Berry Walnut Grove Cemetery](/images/emmaberryheadstone.jpg)](/images/06/emmaberryheadstone.jpg)
+[![John Saunders Berry Emma G. Berry Walnut Grove Cemetery](/images/emmaberryheadstone.jpg)](/images/emmaberryheadstone.jpg)
 
 John Saunders Berry
 Emma G. Berry

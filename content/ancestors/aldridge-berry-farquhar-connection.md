@@ -39,7 +39,7 @@ NOTE: **Uncertain of birth order  **
 
 ![1800 Waggoner Children Person County](/images/1800-waggoner-children-person-county.jpg)
 
-](/images/1800-Waggoner-Children-Person-County.jpg)    **
+](/images/1800-waggoner-children-person-county.jpg)    **
 
 **1810 Person County, North Carolina Census **
 
@@ -47,7 +47,7 @@ NOTE: **Uncertain of birth order  **
 
 ![P County 1810 Waggoners](/images/p-county-1810-waggoners.jpg)
 
-](/images/P-County-1810-Waggoners.jpg)**
+](/images/p-county-1810-waggoners.jpg)**
 
 In Henry Waggoner’s will he listed his daughter as 1. **Susanna Smith**, 2. **John**, 3. **Henry**, 4. **George Waggner  **(Dec)  as his sons.  **Catherine Waggoner** in the census above was married to James Waggoner who was not listed as one of his sons. However the fact that all four of the families are living so close to each other indicates that they are related to each other. We know that 5. **Judith Waggoner** married Peter Aldridge and 6. **Mary Waggoner** married Robert Berry Jr.** **This accounts for 6 of Henry Sr.and Ketriana Waggoner’s 11 Children named in his 1784 will.**  All five of the living children named above were living in Person County in 1810                               **
 
@@ -99,13 +99,13 @@ Person County, North Carolina. 1810 Census Below.
 
 ![RBJ 1810 Person County](/images/rbj-1810-person-county.jpg)
 
-](/images/RBJ-1810-Person-County.jpg)
+](/images/rbj-1810-person-county.jpg)
 
 [
 
 ![SAR APP PAGE 1 John Waggoner](/images/sar-app-page-1-john-waggoner.jpg)
 
-](/images/SAR-APP-PAGE-1-John-Waggoner.jpg)
+](/images/sar-app-page-1-john-waggoner.jpg)
 
 Transcript of the Application for the SAR shown above.
 
@@ -161,7 +161,7 @@ Thomas Camp was Mary Berry Camps brother in Law. He was James Camps brother and 
 
 ![SAR APP PAGE 2 John Waggoner](/images/sar-app-page-2-john-waggoner.jpg)
 
-](/images/SAR-APP-PAGE-2-John-Waggoner.jpg)
+](/images/sar-app-page-2-john-waggoner.jpg)
 
 Farquhar Family:
 
@@ -169,19 +169,19 @@ Farquhar Family:
 
 ![James Farquhar Estate](/images/james-farquhar-estate.jpg)
 
-](/images/James-Farquhar-Estate.jpg)
+](/images/james-farquhar-estate.jpg)
 
 [
 
 ![Aldridge to Farquhar 1817](/images/aldridge-to-farquhar-1817.jpg)
 
-](/images/Aldridge-to-Farquhar-1817.jpg)
+](/images/aldridge-to-farquhar-1817.jpg)
 
 [
 
 ![Peter Aldridge estate settlement Person county 1816](/images/peter-aldridge-estate-settlement-person-county-1816.jpg)
 
-](/images/Peter-Aldridge-estate-settlement-Person-county-1816.jpg)
+](/images/peter-aldridge-estate-settlement-person-county-1816.jpg)
 
 On June 13th 1777 George Smith of Caswell County, North Carolina sold to John Cate Sr. of the same county for 105 Pounds, 76 acres on Flat River adjoining John Cates own line. Witnessed: Elizabeth C. Berry. (John Cate’s daughter and Robert Berry’s wife), Robert Smith, John Cate Sr. (Caswell County Deed Book A Page 43)
 
@@ -195,13 +195,13 @@ Robert Berry Jr. purchased 50 acres of land on February 3rd 1812 from John Mensh
 
 ![Sale of land in Person County 1812 - Copy](/images/sale-of-land-in-person-county-1812-copy.jpg)
 
-](/images/Sale-of-land-in-Person-County-1812-Copy.jpg)
+](/images/sale-of-land-in-person-county-1812-copy.jpg)
 
 [
 
 ![James Farquhar land purchace 1819](/images/james-farquhar-land-purchace-1819.jpg)
 
-](/images/James-Farquhar-land-purchace-1819.jpg)
+](/images/james-farquhar-land-purchace-1819.jpg)
 
 Anderson Farquhar was born in North Carolina on July 29th 1809. Three of his sisters were Catherine Farquhar Berry, Wife of George Rufus Berry, Elizabeth Farquhar Berry, wife of William T. Berry, and Sarah Farquhar Traweek wife of Bailey Traweek. Anderson Farquhar married Levina Kirkland on December 4th 1828. Lavina Kirkland was born on June 10th 1810 in Tennessee. Anderson became a very successful farmer in Fayette County, Alabama.
 
@@ -251,7 +251,7 @@ The pioneers decided to make another move to Burnet County. The men went to sele
 
 ![Anderson Farquhar headstone Cauble Cemetery](/images/anderson-farquhar-headstone-cauble-cemetery.jpg)
 
-](/images/Anderson-Farquhar-headstone-Cauble-Cemetery.jpg)Both are buried  
+](/images/anderson-farquhar-headstone-cauble-cemetery.jpg)Both are buried  
 
 Cauble Cemetery  
 
@@ -319,13 +319,13 @@ December 30, 1851-September 9,1926
 
 ![Martha A Berry and David Jackson Farquhar](/images/martha-a-berry-and-david-jackson-farquhar.jpg)
 
-](/images/Martha-A-Berry-and-David-Jackson-Farquhar.jpg)
+](/images/martha-a-berry-and-david-jackson-farquhar.jpg)
 
 [
 
 ![Martha A](/images/martha-a.jpg)
 
-](/images/Martha-A.jpg)
+](/images/martha-a.jpg)
 
  
 

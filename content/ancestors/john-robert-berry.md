@@ -31,7 +31,7 @@ Generation 4 [Thomas Person and Sarah Lunsford Berry](/ancestors/thomas-person-b
 There was a great deal of things that happened between the 1850 census and the 1860 census. John Robert amd his younger brother James P. Berry were the only two boys living at home in 1860.The two other people listed in the 1860 census besides John Robert’s mother and father were Jesse Blalock and Elizabeth Berry Franklin. John Robert’s brother William H Berry had died in 1858, His Grandmother Hannah Berry had also died the same year. Theodrick Franklin and Lewis Berry had also died that same year. There was a world wide flu epidemic in 1858/1859
 
 
-![](/images/jrberrystone.jpg)[![](/images/john_robert_berry_confederate_headstone.jpg)](/images/02/john_robert_berry_confederate_headstone.jpg)
+![](/images/jrberrystone.jpg)[![](/images/john_robert_berry_confederate_headstone.jpg)](/images/john_robert_berry_confederate_headstone.jpg)
 
 
 The Civil War was about to begin and John Robert Berry enlisted as a private in the  **Confederate Army on October 6 1861**. He was placed in **Company 31st Regiment, North Carolina**. He was only 19 years old at the time. Jesse Blalock Robert’s first cousin, William A. Blalock, and William H. Blalock, were 19 years old and they enlisted on the same day. Jesse Blalock died on June 27th 1863 with typhoid fever. William H. Blalock died on May 28,1863 of disease, most likely typhoid fever. There are no records to indicate what happened to William A. Blalock. John Robert returned home from the war and married **Elizabeth Frances Bowling** on November 30th 1865. They raised a family of nine children.
@@ -40,10 +40,10 @@ The Civil War was about to begin and John Robert Berry enlisted as a private in 
 ** John Robert and ****Elizabeth Frances Berry** donated the land for **Berry’s Grove Baptist Church **and the church is named for them. **John Robert and ****Elizabeth Frances Bowling Berry** are buried at the church. There are many more members of his family and descendants buried at Berry’s Grove cemetery also.
 
 
-**[![jrbtochurchdeed](/images/jrbtochurchdeed.jpg)](/images/06/jrbtochurchdeed.jpg)****Berry’s Grove Baptist Church Deed**
+**[![jrbtochurchdeed](/images/jrbtochurchdeed.jpg)](/images/jrbtochurchdeed.jpg)****Berry’s Grove Baptist Church Deed**
 
 
-On April 15, 1868 John Robert Berry’s father Thomas Person Berry sold him 117 and 1/4 Acres for **$1.00. (Deed Book 50 Page 56)[View Deed.](/images/06/jrbtochurchdeed.jpg)**There is a story told to me by my mother that said John Robert Berry had a very bad temper. One bright moonlit night John and Elizabeth had a very heated rgument. The story goes that he went out to the wood shed and got his ax and choped down trees and cleared new ground all night long. It has also been told to me that John Robert Berry was very good friends with U.S.Senator Wiley Person Mangum. Aunt Maye Berry Carr always said that is where Wiley P. Berry (John Robert’s oldest son) got his name. This may be true but there was always controversy about what the P. stood for. I will go into this on my grandfather Wiley P. Berry’s page.
+On April 15, 1868 John Robert Berry’s father Thomas Person Berry sold him 117 and 1/4 Acres for **$1.00. (Deed Book 50 Page 56)[View Deed.](/images/jrbtochurchdeed.jpg)**There is a story told to me by my mother that said John Robert Berry had a very bad temper. One bright moonlit night John and Elizabeth had a very heated rgument. The story goes that he went out to the wood shed and got his ax and choped down trees and cleared new ground all night long. It has also been told to me that John Robert Berry was very good friends with U.S.Senator Wiley Person Mangum. Aunt Maye Berry Carr always said that is where Wiley P. Berry (John Robert’s oldest son) got his name. This may be true but there was always controversy about what the P. stood for. I will go into this on my grandfather Wiley P. Berry’s page.
 
 
 John Robert and Elizabeth lived in Orange County their entire life
@@ -91,13 +91,13 @@ Why is this map with the name Fiddleton important? Robert Berry acquired his pla
 “John Robert Berry was listed in the 1870, 1880, 1900, and 1910 Orange County Census ”
 
 
-| [![jrb1870census](/images/jrb1870census.jpg)](/images/06/jrb1870census.jpg) | 1870 census |
+| [![jrb1870census](/images/jrb1870census.jpg)](/images/jrb1870census.jpg) | 1870 census |
 | --- | --- |
-| [![jrb1880census](/images/jrb1880census.jpg)](/images/06/jrb1880census.jpg) | 1880 census |
-| [![jrb1880censust](/images/jrb1880censust.jpg)](/images/06/jrb1880censust.jpg) | 1880 census transcribe |
-| [![jrb1900censusp1](/images/jrb1900censusp1.jpg)](/images/06/jrb1900censusp1.jpg) | 1900 census bottom of page |
-| [![jrb1900censusp2](/images/jrb1900censusp2.jpg)](/images/06/jrb1900censusp2.jpg) | 1900 census top of next page |
-| [![jrb1910](/images/jrb1910.jpg)](/images/06/jrb1910.jpg) | 1910 census |
+| [![jrb1880census](/images/jrb1880census.jpg)](/images/jrb1880census.jpg) | 1880 census |
+| [![jrb1880censust](/images/jrb1880censust.jpg)](/images/jrb1880censust.jpg) | 1880 census transcribe |
+| [![jrb1900censusp1](/images/jrb1900censusp1.jpg)](/images/jrb1900censusp1.jpg) | 1900 census bottom of page |
+| [![jrb1900censusp2](/images/jrb1900censusp2.jpg)](/images/jrb1900censusp2.jpg) | 1900 census top of next page |
+| [![jrb1910](/images/jrb1910.jpg)](/images/jrb1910.jpg) | 1910 census |
 
 
 Last Updated 2020-02-10 William H.

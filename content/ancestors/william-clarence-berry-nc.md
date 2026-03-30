@@ -38,7 +38,7 @@ In 1870 William Clarence Berry and several of his family removed to Burnet Count
 
 ![William Clarence Berry's home in TEXAS](/images/wc-berry-home.jpg)
 
-](/images/WC-Berry-Home.jpg)
+](/images/wc-berry-home.jpg)
 
 William Clarence Berry’s home in TEXAS
 
@@ -56,7 +56,7 @@ John Robert and Elizabeth Frances Bowling Berry’s family remained in North Car
 
 ![Georgerufusberry](/images/georgerufusberry.jpg)
 
-](/images/Georgerufusberry.jpg)
+](/images/georgerufusberry.jpg)
 
 George Rufus Berry
 
