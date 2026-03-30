@@ -21,7 +21,7 @@ title: "Martha M. Lockley"
 
 
 Martha Minerva Berry was born on the 29th  April 1851 in Fayette County, Alabama, and died in San Saba County, Texas, on July 3rd 1922. No information has been found that will tell exactly when Martha M. Berry went to Texas. She was 19 years old when her father
-[![Martha Minerva Berry Lockey](/images/Minny-Lockley.jpg)](/images/02/Minny-Lockley.jpg)
+[![Martha Minerva Berry Lockey](/images/minny-lockley.jpg)](/images/02/minny-lockley.jpg)
 
 Martha Minerva Berry Lockey
 

@@ -31,7 +31,7 @@ Generation 4 [Thomas Person and Sarah Lunsford Berry](/ancestors/thomas-person-b
 There was a great deal of things that happened between the 1850 census and the 1860 census. John Robert amd his younger brother James P. Berry were the only two boys living at home in 1860.The two other people listed in the 1860 census besides John Robert’s mother and father were Jesse Blalock and Elizabeth Berry Franklin. John Robert’s brother William H Berry had died in 1858, His Grandmother Hannah Berry had also died the same year. Theodrick Franklin and Lewis Berry had also died that same year. There was a world wide flu epidemic in 1858/1859
 
 
-![](/images/jrberrystone.jpg)[![](/images/John_Robert_Berry_Confederate_Headstone.jpg)](/images/02/John_Robert_Berry_Confederate_Headstone.jpg)
+![](/images/jrberrystone.jpg)[![](/images/john_robert_berry_confederate_headstone.jpg)](/images/02/john_robert_berry_confederate_headstone.jpg)
 
 
 The Civil War was about to begin and John Robert Berry enlisted as a private in the  **Confederate Army on October 6 1861**. He was placed in **Company 31st Regiment, North Carolina**. He was only 19 years old at the time. Jesse Blalock Robert’s first cousin, William A. Blalock, and William H. Blalock, were 19 years old and they enlisted on the same day. Jesse Blalock died on June 27th 1863 with typhoid fever. William H. Blalock died on May 28,1863 of disease, most likely typhoid fever. There are no records to indicate what happened to William A. Blalock. John Robert returned home from the war and married **Elizabeth Frances Bowling** on November 30th 1865. They raised a family of nine children.
@@ -50,7 +50,7 @@ John Robert and Elizabeth lived in Orange County their entire life
 
 ### 1891 Map of Berry’s Grove and Fiddleton in N. Orange County, NC
 
-[![](/images/Map_of_Orange_County__NC-Fiddleton-Circa-1890.jpg)](/ancestors/robert-berry-oc/)
+[![](/images/map_of_orange_county__nc-fiddleton-circa-1890.jpg)](/ancestors/robert-berry-oc/)
 
 Fiddleton Homestead, J R Berry Home and Berry’s Grove Baptist Church circa 1891
 

@@ -37,7 +37,7 @@ Robert T Berry was born in Alabama(Coosa) Hatchet Creek in 1849 and has a living
 In the 1850 census of Robert Roberson there is a 20 year old Robert Berry living with  a next Farm from the Blankenship  family. We believe this Robert Berry is the Father of the Robert Roberson who is three months old. We believe Robert Robertson is really Robert T Berry. Robert T Berry said his mother was Susan Roberson who was living next door to Robert Berry in Ruben Blankenship’s’ listing. Robert Berry was 20 and was born in South Carolina about 1830 and Susan Roberson was 22. and born in Alabama about 1828.
 
 
-[![1850 Susan Roberson coosa county ALA](/images/1850-Susan-Roberson-coosa-county-ALA.png)](/images/04/1850-Susan-Roberson-coosa-county-ALA.png)
+[![1850 Susan Roberson coosa county ALA](/images/1850-susan-roberson-coosa-county-ala.png)](/images/04/1850-susan-roberson-coosa-county-ala.png)
 
 
  
@@ -120,10 +120,10 @@ Mother Birth Place: Coosa County, Alabama
 Spouse Name: Dartha Ann Thomas
 
 
-[![RT BERRY marriage record B](/images/RT-BERRY-marriage-record-B.png)](/images/04/RT-BERRY-marriage-record-B.png)
+[![RT BERRY marriage record B](/images/rt-berry-marriage-record-b.png)](/images/04/rt-berry-marriage-record-b.png)
 
 
  
 
 
-[![Robert T BerryFind a Grave](/images/Robert-T-BerryFind-a-Grave.jpg)](/images/04/Robert-T-BerryFind-a-Grave.jpg)
+[![Robert T BerryFind a Grave](/images/robert-t-berryfind-a-grave.jpg)](/images/04/robert-t-berryfind-a-grave.jpg)
