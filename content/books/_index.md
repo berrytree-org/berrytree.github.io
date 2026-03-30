@@ -19,9 +19,9 @@ This book is a result of 18 years of research by the author and countless years 
 
 ## Our Berrys in Frontier America — Free PDF
 
-[![Our Berrys in Frontier America cover](/images/front_page_art.jpg)](/documents/Our_Berrys_In_Frontier_America.pdf)
+[![Our Berrys in Frontier America cover](/images/front_page_art.jpg)](https://drive.google.com/file/d/1A25Er9VwJTwuqRt6M7bOXWgKeh0UNW95/view?usp=sharing)
 
-**[Our Berrys in Frontier America — Free PDF Download](/documents/Our_Berrys_In_Frontier_America.pdf)**
+**[Our Berrys in Frontier America — Free PDF Download](https://drive.google.com/file/d/1A25Er9VwJTwuqRt6M7bOXWgKeh0UNW95/view?usp=sharing)**
 Identical to the paperback. 360 Pages. **FREE PDF FILE.**
 
 [Also available as eBook on Lulu.com](https://www.lulu.com/content/e-book/our-berrys-in-frontier-america/17317864)
@@ -30,7 +30,7 @@ Identical to the paperback. 360 Pages. **FREE PDF FILE.**
 
 ## Robert Berry Family Tree Index — 2nd Edition (Free PDF)
 
-[![Robert Berry Family Tree Index cover](/images/front-cover-for-index-bk.jpg)](/documents/Wagons_South_Wagons_West.pdf)
+[![Robert Berry Family Tree Index cover](/images/front-cover-for-index-bk.jpg)](https://drive.google.com/file/d/1tBL7Vs3vCsNEV36atecIqZ12jAmfVBrz/view?usp=share_link)
 
 **Robert Berry Family Tree Index** — 300 Years and Seven Generations, 2nd Edition September 2015
 
