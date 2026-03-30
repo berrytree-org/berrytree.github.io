@@ -89,7 +89,7 @@ title: "Berrytree Home"
 <td><a href="/images/fiddleton-plantation-scene.jpg"><img class="alignnone wp-image-5552" src="/images/fiddleton-plantation-scene.jpg" alt="fiddleton plantation Scene" width="196" height="146" /></a></td>
 <td><a href="/images/rberryhome.jpg"><img class="alignnone wp-image-257 size-thumbnail" src="/images/rberryhome.jpg" alt="rberryhome" width="150" height="150" /></a></td>
 <td><a href="/images/fiddletonburns.jpg"><img class="alignnone wp-image-259 size-thumbnail" src="/images/fiddletonburns.jpg" alt="fiddletonburns" width="150" height="150" /></a>
-<p><a href="/images/robert_berry_homestead.jpeg"><img class="alignleft wp-image-9748 size-medium" src="/images/Robert_Berry_Homestead-300x224.jpeg" alt="" width="300" height="224" /></a></p>
+<p><a href="/images/robert_berry_homestead.jpeg"><img class="alignleft wp-image-9748 size-medium" src="/images/robert_berry_homestead.jpeg" alt="" width="300" height="224" /></a></p>
 </td>
 </tr>
 </tbody>

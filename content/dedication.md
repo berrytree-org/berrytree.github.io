@@ -60,6 +60,6 @@ Oh the memories that must be there
 
 
 MOTHER (1908 – 2002)
-[![smbh](/images/smbh.jpg)](/images/01/smbh.jpg)
+[![smbh](/images/smbh.jpg)](/images/smbh.jpg)
 
 Sally Malena Berry Henderson

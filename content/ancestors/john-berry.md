@@ -9,7 +9,7 @@ weight: 4
 
 ![John Berry Martha Stepp](/images/john-berry-martha-stepp.jpg)
 
-](/images/John-Berry-Martha-Stepp.jpg)
+](/images/john-berry-martha-stepp.jpg)
 
 **JOHN BERRY** was found by a fellow researcher sometime before 2004 in a Book “GEORGIA INTESTATE RECORDS” By Jeanette Holland Auston, Genealogical Publishing Company., Inc. Baltimore 1986. In this publication it states that John Berry left 5 orphan children by the names of Joshua, Robert, Polly (Mary), Betsie (Elizabeth), and William Berry. . Polly is a nickname for Mary and Betsy is a nickname for Elizabeth. John Berry had five siblings with the same identical names which led us to believe that John was the son of Robert and Elizabeth Cate Berry from Orange County. North Carolina. All of our family  researchers at the time felt that this was a true fact. It might have been simpler if another family had not already claimed that John and Martha Berry were from their clan of Berry’s. I even located one of the descendants in their line about this. She assured me that her information was correct. It was not until I located the Marriage Bond shown above in some Person County, North Carolina  Records that I knew for sure we had been correct all along. The marriage bond in Person County had misspelled John’s surname. Robert and Elizabeth Cate Berry’s Homestead is less than a mile from the Person County line and Elizabeth Cate’s father had a plantation in that county.
 
@@ -29,7 +29,7 @@ Benjamin Camp was appointed Guardian of John and Martha Stepp Berry’s five orp
 
 ![Mary Camps 1820 census_edited-1](/images/mary-camps-1820-census_edited-1.jpg)
 
-](/images/Mary-Camps-1820-census_edited-1.jpg)
+](/images/mary-camps-1820-census_edited-1.jpg)
 
 Mary Camps Listing:1 male 10 -15 (William age 11) 1 male 16 – 26 (Joshua age 23) 2 females between 16 – 26 ( Polly and Betsy) 1 female over 45 (Mary Camp)
 
@@ -41,7 +41,7 @@ Mary Camps Listing:1 male 10 -15 (William age 11) 1 male 16 – 26 (Joshua age 2
 
 ![Robert Berry 1820 Jones County GA](/images/robert-berry-1820-jones-county-ga.jpg)
 
-](/images/Robert-Berry-1820-Jones-County-GA.jpg)
+](/images/robert-berry-1820-jones-county-ga.jpg)
 
 Robert Berry was listed as being between 26 and 44 and his wife was also listed between 26 and 44. They  had two daughters under 10 years old. Robert Berry may be the male missing in Mary Camps 1820 Jackson County Census. John and Martha Berry had a son named Robert Berry would have been about 22 or 23 years old in 1820
 

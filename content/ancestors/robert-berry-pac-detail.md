@@ -51,13 +51,13 @@ John and Ann Foster Williamson Caraway’s Children;
 ### **Robert Berry(PAC)  (South Norfolk County, Virginia) **married **Mary Williamson **and established a home in **Princess Ann County, Virginia,** which is now known as Virginia Beach, Virginia. Robert and Mary had two sons. The oldest was Richard Berry and the baby was **Robert Berry** “**Orange County, NC” (OC)** who was born about 1729. Robert Berry (PAC) wrote his will in 1730 and died shortly after Robert Berry (Orange County, NC) was born.
 
 
-[![Robert Berry 1730 pac will](/images/robert-berry-1730-pac-will.jpg)](/images/03/Robert-Berry-1730-pac-will.jpg)
+[![Robert Berry 1730 pac will](/images/robert-berry-1730-pac-will.jpg)](/images/robert-berry-1730-pac-will.jpg)
 
 
 **A transcription of Robert Berry’s (PAC) 1730 Will.**
 
 
-[![Robert Berry transcribed will](/images/robert-berry-transcribed-will.jpg)](/images/03/Robert-Berry-transcribed-will.jpg)
+[![Robert Berry transcribed will](/images/robert-berry-transcribed-will.jpg)](/images/robert-berry-transcribed-will.jpg)
 
 
 The two witnesses to this will were Bartho (Bartholomew) Williamson and Sarah S Mathias. Bartho was Mary Williamsons brother and Sarah S Mathias was her sister. Robert Berry (PAC) and his wife Mary, his two sons Richard Berry and Robert Berry (OC), and in the 12th line he states “all my children in the estate”.
@@ -66,13 +66,13 @@ The two witnesses to this will were Bartho (Bartholomew) Williamson and Sarah S 
 After Robert Berry (PAC) died his wife apparently lived until 1746 because that is when Robert Berry (OC) indentured himself to [Samuel Hollowell.](/ancestors/robert-berry-pac/) Robert Berry (OC) appeared in the court of Princess Ann County Virginia on the 19th day of August 1746 to ask the court to indenture him to Samuel Hollowell to learn the carpenter trade. I think Robert had to be at least 17 years old in order to do that. Samuel Hollowell is believed to have been married into the Berry family and was most likely Robert Berry’s (OC) brother-in-law.
 
 
-[![Samuel Hollowell Church Job](/images/samuel-hollowell-church-job.jpg)](/images/03/Samuel-Hollowell-Church-Job.jpg)
+[![Samuel Hollowell Church Job](/images/samuel-hollowell-church-job.jpg)](/images/samuel-hollowell-church-job.jpg)
 
 
 For proof of the relationship of Mary Williamson Berry’s family View the will of her Father Richard Williamson.
 
 
-[![Richard Williamsons Will PAC](/images/richard-williamsons-will-pac.jpg)](/images/03/Richard-Williamsons-Will-PAC.jpg)
+[![Richard Williamsons Will PAC](/images/richard-williamsons-will-pac.jpg)](/images/richard-williamsons-will-pac.jpg)
 
 
 At this time it is uncertain who Robert Berry’s (PAC) parents were but most likely Robert (PAC) was born in England. This is supported by the fact that most of the early settlers in and around Jamestown Virginia came from  England.  Most of the Scot Irish came into Maryland and into central North Carolina through the Shenandoah Valley of Virginia.
@@ -81,7 +81,7 @@ At this time it is uncertain who Robert Berry’s (PAC) parents were but most li
 Robert Berry (oc) traveled from Princess Anne County Virginia  up the James River and  to Petersburg Virginia. This is where he followed the old indian trail that ran form Virginia into Georgia. When Robert Berry (OC) crossed the Flatt River he headed north until he reached the west branch which traversed into the area that is now in Person County near the Orange County Line. Robert Berry’s Granville Land Grant is about a mile south of this boundary line.
 
 
-[![Route to NC from VA](/images/route-to-nc-from-va.jpg)](/images/03/Route-to-NC-from-VA.jpg)
+[![Route to NC from VA](/images/route-to-nc-from-va.jpg)](/images/route-to-nc-from-va.jpg)
 
 
  

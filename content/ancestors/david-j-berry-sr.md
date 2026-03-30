@@ -20,7 +20,7 @@ David had inherited a slave but none of the land that his father had owned. The 
 
 ![headstone Joshua Berry](/images/headstone-joshua-berry.jpg)
 
-](/images/headstone-Joshua-Berry.jpg)
+](/images/headstone-joshua-berry.jpg)
 
 Joshua Berry Headstone
 
@@ -38,7 +38,7 @@ In 2002 Several of us distant cousins had made contact with each other. All of u
 
 ![2005 Brerry Reunion](/images/2005-brerry-reunionbw.jpg)
 
-](/images/2005-Brerry-ReunionBW.jpg)
+](/images/2005-brerry-reunionbw.jpg)
 
 2005 Cullman Alabama Reunion
 
@@ -47,7 +47,7 @@ This reunion was held in Cullman Alabama in 2005. We made a trip through Tennes
 
 ![2006 Reunion Roswell GA](/images/2006-reunion-roswell-ga.jpg)
 
-](/images/2006-Reunion-Roswell-GA.jpg)
+](/images/2006-reunion-roswell-ga.jpg)
 
 2006 Berry/Nix Reunion Rosswell, Georgia
 

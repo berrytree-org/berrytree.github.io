@@ -43,30 +43,30 @@ My life began on Wednesday May 28 1930. I was born in Dr. Thomas Meridith’s pl
 
 ![Baby Ben](/images/baby-ben.jpg)
 
-](/images/Baby-Ben.jpg)
+](/images/baby-ben.jpg)
 
 [
 
 ![Ben age 2.5](/images/ben-age-2.5-.jpg)
 
-](/images/Ben-age-2.5-.jpg)
+](/images/ben-age-2.5-.jpg)
 
 [
 
 ![Ben Age 2](/images/ben-age-2.jpg)
 
-](/images/Ben-Age-2.jpg)    [
+](/images/ben-age-2.jpg)    [
 
 ![Ben Age 3](/images/ben-age-3.jpg)
 
-](/images/Ben-Age-3.jpg)
+](/images/ben-age-3.jpg)
 
 [
 
 ![Ben Age 4](/images/ben-age-4.jpg)
 
-](/images/Ben-Age-4.jpg)  [
+](/images/ben-age-4.jpg)  [
 
 ![Ben Age 6](/images/ben-age-6.jpg)
 
-](/images/Ben-Age-6.jpg)
+](/images/ben-age-6.jpg)

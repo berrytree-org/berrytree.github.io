@@ -30,7 +30,7 @@ William Clarence Berry died on September 8th 1798. Massa Ann Thompkins Berry die
 
 John Robert and Elizabeth Frances Bowling Berry's family remained in North Carolina. Most of their descendants still live in North Carolina within 50 miles of the original Granville Land Grant of Robert Berry who first settled in North Carolina in 1751.  I am sure that the story Uncle Harold heard about having relatives in Texas came indirectly from his grandfather John Robert Berry.
 
-<figure><a href="/images/georgerufusberry.jpg"><img class="wp-image-2238 size-medium" src="/images/Georgerufusberry-210x300.jpg" alt="Georgerufusberry" width="210" height="300" /></a> George Rufus Berry</figure>
+<figure><a href="/images/georgerufusberry.jpg"><img class="wp-image-2238 size-medium" src="/images/georgerufusberry.jpg" alt="Georgerufusberry" width="210" height="300" /></a> George Rufus Berry</figure>
 
 John Robert Berry served in the Civil War and Returned to his fathers home right after the War was over. George Rufus Berry his first cousin was discharged from the CSA army in Greensboro North Carolina which is about 40 miles from where he was born. The picture on the right is a picture of George Rufus Berry.
 

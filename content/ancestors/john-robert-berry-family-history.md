@@ -11,10 +11,10 @@ title: "John Robert Berry’s Family History"
 - Parents – [Thomas Person And Sarah Lunsford Berry](/ancestors/thomas-person-berry/)
 
 
-John Rober[![johnrobertberrypicture](/images/johnrobertberrypicture.jpg)](/images/06/johnrobertberrypicture.jpg)t Berry enlisted in the CSA in Orange County on October 6th 1861. He was captured in the battle of Coal Harbor while serving in the 31st Regiment Co. E on May 3 1864. He spent the rest of the war in a Union Prison Camp in Elmira New York. When the war was over he had to take an oath of allegiance to the USA. After he was paroled he was returned to Hillsborough North Carolina by train.  After walking all night he arrived at his families home before day break. Being very tired he lay down and went to sleep on a log bench across the road from his home. John Robert Berry married Elizabeth Francis Bowling on the 30th of Nov 1865. and they built a  home  on land that his father, Thomas Person Ber[![jrbhouse](/images/jrbhouse.jpg)](/images/01/jrbhouse.jpg)ry, sold to him on April 15th 1869 for $1:00. John Robert  became a Farmer and then a Merchant.  He built and operated the store (shown below) to add to his income from his farming operation. He also managed to get the US Postal Service to operate the Meredith Post Office out of this Store for 16 years. The post Office was commissioned in February 1890 and closed on December 4th 1906. John Roberts land was across the road from the Original Granville Grant property.
+John Rober[![johnrobertberrypicture](/images/johnrobertberrypicture.jpg)](/images/johnrobertberrypicture.jpg)t Berry enlisted in the CSA in Orange County on October 6th 1861. He was captured in the battle of Coal Harbor while serving in the 31st Regiment Co. E on May 3 1864. He spent the rest of the war in a Union Prison Camp in Elmira New York. When the war was over he had to take an oath of allegiance to the USA. After he was paroled he was returned to Hillsborough North Carolina by train.  After walking all night he arrived at his families home before day break. Being very tired he lay down and went to sleep on a log bench across the road from his home. John Robert Berry married Elizabeth Francis Bowling on the 30th of Nov 1865. and they built a  home  on land that his father, Thomas Person Ber[![jrbhouse](/images/jrbhouse.jpg)](/images/jrbhouse.jpg)ry, sold to him on April 15th 1869 for $1:00. John Robert  became a Farmer and then a Merchant.  He built and operated the store (shown below) to add to his income from his farming operation. He also managed to get the US Postal Service to operate the Meredith Post Office out of this Store for 16 years. The post Office was commissioned in February 1890 and closed on December 4th 1906. John Roberts land was across the road from the Original Granville Grant property.
 
 
-[![](/images/jrbstore-e1421608960195.jpg)](/images/06/jrbstore-e1421608960195.jpg)The store building is still standing in Orange County,North Carolina near the Person County, North Carolina, line. This building was moved about one hundred yards to the east of it’s original location when the State Highway 157 was improved .
+[![](/images/jrbstore-e1421608960195.jpg)](/images/jrbstore-e1421608960195.jpg)The store building is still standing in Orange County,North Carolina near the Person County, North Carolina, line. This building was moved about one hundred yards to the east of it’s original location when the State Highway 157 was improved .
 
 
 ![bgbchurch](/images/bgbchurch-e1421608609942.jpg)
@@ -29,7 +29,7 @@ Children of John Robert and and Elizabeth Berry:
 - [Emma Greenwood Berry](/ancestors/emma-g-berry-nc/)31 Oct 1866-12 Feb 1945 age 79
 
 
-[![John Robert Berry and Elizabeth F. Bowling Berry's Headstone](/images/jrberrystone-e1421612437262.jpg)](/images/06/jrberrystone-e1421612437262.jpg)
+[![John Robert Berry and Elizabeth F. Bowling Berry's Headstone](/images/jrberrystone-e1421612437262.jpg)](/images/jrberrystone-e1421612437262.jpg)
 
 John Robert Berry and Elizabeth F. Bowling Berry’s Headstone
 
