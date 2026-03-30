@@ -16,7 +16,7 @@ Generation 5 John Robert and Elizabeth Francis Bowling Berry
 <p><strong>           Cora Dena Berry </strong>.
 <img class=" alignleft" src="/images/auntcorabreeze2.jpg" alt="" />
 On June 26th 1889 she married Asahel Frank Breeze. This Couple lived in Orange County , North Carolina and had nine children.</p>
-<p><strong><strong><a href="/images/frankandcorahs.jpg"><img class="  wp-image-1067 alignright" src="/images/frankandcorahs-150x150.jpg" alt="frankandcorahs" width="150" height="150" /></a>    Cora and Frank's Headstone</strong></strong></p>
+<p><strong><strong><a href="/images/frankandcorahs.jpg"><img class="  wp-image-1067 alignright" src="/images/frankandcorahs.jpg" alt="frankandcorahs" width="150" height="150" /></a>    Cora and Frank's Headstone</strong></strong></p>
 <p>Asahel Frank Breeze and Cora D. Berry are buried at Berrys Grove Baptist Church Cemetery in, Orange  County, North Carolina. Cora' Berry's Father and Mother donated the land for the church. Frank Breeze was born on September 5th 1860 and he died on  June 26th 1950. Cora Berry Breeze was born on January 14th 1868 and she died on  September 18th, 1947.</p>
 <strong>Frank and Cora had nine children. Seven of the children lived to adulthood. Their twin daughters lived less than a year. </strong>
 <h3><strong>Children:
@@ -25,7 +25,7 @@ On June 26th 1889 she married Asahel Frank Breeze. This Couple lived in Orange 
 	<li>Bertha Breeze (Toler) b April 14 1890 buried Walnut Grove Church Cemetery(Source Family records d. Jan 2 1968 Source #2 death Certificate.)</li>
 	<li>Mary Frances Breeze b May 27th 1891 d February 11 1984</li>
 	<li>Robert H. Breeze b June 29th 1892 d March 27th 1953 <strong>
-</strong><a href="/images/roberthbreezencheadstone.jpg"><img class=" size-thumbnail wp-image-1071 aligncenter" src="/images/roberthbreezencheadstone-150x150.jpg" alt="roberthbreezencheadstone" width="150" height="150" /></a></li>
+</strong><a href="/images/roberthbreezencheadstone.jpg"><img class=" size-thumbnail wp-image-1071 aligncenter" src="/images/roberthbreezencheadstone.jpg" alt="roberthbreezencheadstone" width="150" height="150" /></a></li>
 	<li>Sallie L. Breeze (Umstead) b November 18 1893 d Dec. 17 1972
 (Source death Certificate)</li>
 	<li>Luna Breeze b May 23rd 1895 d February 15 1970 married David T. Chandler in 1930.</li>

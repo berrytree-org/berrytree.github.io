@@ -18,7 +18,7 @@ Children of John Robert and and Elizabeth Berry:
 <ul>
  	<li><a title="Emma G. Berry NC" href="/ancestors/emmagberrync/" target="_blank" rel="noopener noreferrer">Emma Greenwood Berry </a>31 Oct 1866-12 Feb 1945 age 79
 
-<figure><a href="/images/jrberrystone-e1421612437262.jpg"><img class="size-thumbnail wp-image-374" src="/images/jrberrystone-e1421612437262-150x150.jpg" alt="John Robert Berry and Elizabeth F. Bowling Berry's Headstone" width="150" height="150" /></a> John Robert Berry and Elizabeth F. Bowling Berry's Headstone</figure></li>
+<figure><a href="/images/jrberrystone-e1421612437262.jpg"><img class="size-thumbnail wp-image-374" src="/images/jrberrystone-e1421612437262.jpg" alt="John Robert Berry and Elizabeth F. Bowling Berry's Headstone" width="150" height="150" /></a> John Robert Berry and Elizabeth F. Bowling Berry's Headstone</figure></li>
  	<li>Cora D. Berry 14 Jan 1868-18 Sept 1947 age 79</li>
  	<li><a title="Thomas and Sarah Lunsford Berry" href="/ancestors/wiley-p-berry/">Wiley P. Berry </a>08 Sept 1869-08 May 1965 age 96</li>
  	<li>John W. Berry 02 Feb 1871-22 Dec 1923 age 52</li>
@@ -30,7 +30,7 @@ Children of John Robert and and Elizabeth Berry:
 </ul>
 <a href="/ancestors/fiddleton-1891/">Fiddleton Map</a>
 
-Left to Right: Wiley P. B<img class="  wp-image-1471 alignleft" src="/images/jrberrychildren640large-227x300.jpg" alt="jrberrychildren640large" width="319" height="421" />erry, Ada Lee Berry Rogers, Mary Berry Webb, Willie A Berry, and Thomas Ewart Berry.
+Left to Right: Wiley P. B<img class="  wp-image-1471 alignleft" src="/images/jrberrychildren640large.jpg" alt="jrberrychildren640large" width="319" height="421" />erry, Ada Lee Berry Rogers, Mary Berry Webb, Willie A Berry, and Thomas Ewart Berry.
 
 This picture was taken before 1963 at Berrys Grove Baptist Church These were five of the nine children of John  Robert and Elizabeth Frances Bowling Berry.
 

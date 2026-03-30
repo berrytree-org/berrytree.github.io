@@ -14,7 +14,7 @@ title: "John R Berry Fiddleton Map"
 <p><a><img src="/images/jrberrystone.jpg" alt="" /></a><a href="/images/john_robert_berry_confederate_headstone.jpg"><img class="alignnone  wp-image-9898" src="/images/John_Robert_Berry_Confederate_Headstone-300x197.jpg" alt="" width="306" height="201" /></a></p>
 <p>The Civil War was about to begin and John Robert Berry enlisted as a private in the  <strong>Confederate Army on October 6 1861</strong>. He was placed in <strong>Company 31st Regiment, North Carolina</strong>. He was only 19 years old at the time. Jesse Blalock Robert's first cousin, William A. Blalock, and William H. Blalock, were 19 years old and they enlisted on the same day. Jesse Blalock died on June 27th 1863 with typhoid fever. William H. Blalock died on May 28,1863 of disease, most likely typhoid fever. There are no records to indicate what happened to William A. Blalock. John Robert returned home from the war and married <strong>Elizabeth Frances Bowling</strong> on November 30th 1865. They raised a family of nine children.</p>
 <p><a><strong> John Robert and </strong></a><strong><a>Elizabeth Frances Berry</a></strong> donated the land for <strong>Berry's Grove Baptist Church </strong>and the church is named for them. <a><strong>John Robert and </strong></a><strong><a>Elizabeth Frances Bowling Berry</a></strong> are buried at the church. There are many more members of his family and descendants buried at Berry's Grove cemetery also.</p>
-<p><strong><a href="/images/jrbtochurchdeed.jpg"><img class=" size-thumbnail wp-image-1560 alignleft" src="/images/jrbtochurchdeed-150x150.jpg" alt="jrbtochurchdeed" width="150" height="150" /></a></strong><strong>Berry's Grove Baptist Church Deed</strong></p>
+<p><strong><a href="/images/jrbtochurchdeed.jpg"><img class=" size-thumbnail wp-image-1560 alignleft" src="/images/jrbtochurchdeed.jpg" alt="jrbtochurchdeed" width="150" height="150" /></a></strong><strong>Berry's Grove Baptist Church Deed</strong></p>
 <p>On April 15, 1868 John Robert Berry's father Thomas Person Berry sold him 117 and 1/4 Acres for <strong>$1.00. (Deed Book 50 Page 56)<a href="/images/jrbtochurchdeed.jpg"> View Deed.</a></strong>There is a story told to me by my mother that said John Robert Berry had a very bad temper. One bright moonlit night John and Elizabeth had a very heated rgument. The story goes that he went out to the wood shed and got his ax and choped down trees and cleared new ground all night long. It has also been told to me that John Robert Berry was very good friends with U.S.Senator Wiley Person Mangum. Aunt Maye Berry Carr always said that is where Wiley P. Berry (John Robert's oldest son) got his name. This may be true but there was always controversy about what the P. stood for. I will go into this on my grandfather Wiley P. Berry's page.</p>
 <p>John Robert and Elizabeth lived in Orange County their entire life</p>
 <h3>1891 Map of Berry's Grove and Fiddleton in N. Orange County, NC</h3>
@@ -40,27 +40,27 @@ title: "John R Berry Fiddleton Map"
 <table>
 <tbody>
 <tr>
-<td><a href="/images/jrb1870census.jpg"><img class="alignnone size-thumbnail wp-image-1561" src="/images/jrb1870census-150x150.jpg" alt="jrb1870census" width="150" height="150" /></a></td>
+<td><a href="/images/jrb1870census.jpg"><img class="alignnone size-thumbnail wp-image-1561" src="/images/jrb1870census.jpg" alt="jrb1870census" width="150" height="150" /></a></td>
 <td>1870 census</td>
 </tr>
 <tr>
-<td><a href="/images/jrb1880census.jpg"><img class="alignnone size-thumbnail wp-image-1562" src="/images/jrb1880census-150x150.jpg" alt="jrb1880census" width="150" height="150" /></a></td>
+<td><a href="/images/jrb1880census.jpg"><img class="alignnone size-thumbnail wp-image-1562" src="/images/jrb1880census.jpg" alt="jrb1880census" width="150" height="150" /></a></td>
 <td>1880 census</td>
 </tr>
 <tr>
-<td><a href="/images/jrb1880censust.jpg"><img class="alignnone size-thumbnail wp-image-1563" src="/images/jrb1880censust-150x150.jpg" alt="jrb1880censust" width="150" height="150" /></a></td>
+<td><a href="/images/jrb1880censust.jpg"><img class="alignnone size-thumbnail wp-image-1563" src="/images/jrb1880censust.jpg" alt="jrb1880censust" width="150" height="150" /></a></td>
 <td>1880 census transcribe</td>
 </tr>
 <tr>
-<td><a href="/images/jrb1900censusp1.jpg"><img class="alignnone size-thumbnail wp-image-1564" src="/images/jrb1900censusp1-150x150.jpg" alt="jrb1900censusp1" width="150" height="150" /></a></td>
+<td><a href="/images/jrb1900censusp1.jpg"><img class="alignnone size-thumbnail wp-image-1564" src="/images/jrb1900censusp1.jpg" alt="jrb1900censusp1" width="150" height="150" /></a></td>
 <td>1900 census bottom of page</td>
 </tr>
 <tr>
-<td><a href="/images/jrb1900censusp2.jpg"><img class="alignnone size-thumbnail wp-image-1565" src="/images/jrb1900censusp2-150x150.jpg" alt="jrb1900censusp2" width="150" height="150" /></a></td>
+<td><a href="/images/jrb1900censusp2.jpg"><img class="alignnone size-thumbnail wp-image-1565" src="/images/jrb1900censusp2.jpg" alt="jrb1900censusp2" width="150" height="150" /></a></td>
 <td>1900 census top of next page</td>
 </tr>
 <tr>
-<td><a href="/images/jrb1910.jpg"><img class="alignnone size-thumbnail wp-image-1566" src="/images/jrb1910-150x150.jpg" alt="jrb1910" width="150" height="150" /></a></td>
+<td><a href="/images/jrb1910.jpg"><img class="alignnone size-thumbnail wp-image-1566" src="/images/jrb1910.jpg" alt="jrb1910" width="150" height="150" /></a></td>
 <td>1910 census</td>
 </tr>
 </tbody>
