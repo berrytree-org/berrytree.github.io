@@ -1,0 +1,634 @@
+{{/* Berry Family Timeline — Wagon Wheel layout
+     Overrides Book theme sidebar and TOC; renders full-width wheel page.
+     Event data injected from data/timeline_data.json via Hugo data pipeline.
+*/}}
+{{ define "menu-container" }}{{ end }}
+{{ define "toc-container" }}{{ end }}
+
+{{ define "main" }}
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  .wheel-page {
+    font-family: Georgia, 'Times New Roman', serif;
+    background: #1a2e1a;
+    color: #f0e8d0;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    width: 100%;
+  }
+
+  .wheel-page h1 {
+    font-size: 1.6rem;
+    color: #c8a84b;
+    text-align: center;
+    margin-bottom: 4px;
+    letter-spacing: 0.05em;
+  }
+
+  .wheel-subtitle {
+    font-size: 0.9rem;
+    color: #8faf6f;
+    text-align: center;
+    margin-bottom: 30px;
+    font-style: italic;
+  }
+
+  /* ── Wheel ── */
+  .wheel-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 30px;
+  }
+
+  .pointer-wrap {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 0;
+  }
+
+  .pointer {
+    width: 0;
+    height: 0;
+    border-left: 12px solid transparent;
+    border-right: 12px solid transparent;
+    border-top: 22px solid #c8a84b;
+    filter: drop-shadow(0 2px 4px rgba(0,0,0,0.5));
+    z-index: 10;
+  }
+
+  .wheel-container {
+    position: relative;
+    width: 320px;
+    height: 320px;
+    cursor: grab;
+    user-select: none;
+  }
+
+  .wheel-container:active { cursor: grabbing; }
+
+  #wheel-svg {
+    width: 100%;
+    height: 100%;
+  }
+
+  /* wheelGroup rotation driven by SVG transform attribute via JS */
+
+  .century-label {
+    font-family: Georgia, serif;
+    font-size: 13px;
+    fill: #f0e8d0;
+    font-weight: bold;
+    text-anchor: middle;
+    dominant-baseline: middle;
+    pointer-events: all;
+    cursor: pointer;
+  }
+
+  .selected-century {
+    font-size: 1.1rem;
+    color: #c8a84b;
+    text-align: center;
+    margin-top: 12px;
+    min-height: 1.5em;
+    letter-spacing: 0.08em;
+  }
+
+  /* ── Filters ── */
+  .whl-filters {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+    justify-content: center;
+    margin-bottom: 24px;
+    width: 100%;
+    max-width: 700px;
+  }
+
+  .whl-filters label {
+    font-size: 0.8rem;
+    color: #8faf6f;
+    display: block;
+    margin-bottom: 4px;
+  }
+
+  .whl-filters select {
+    background: #2a3e2a;
+    color: #f0e8d0;
+    border: 1px solid #4a6a4a;
+    border-radius: 4px;
+    padding: 6px 10px;
+    font-size: 0.9rem;
+    font-family: Georgia, serif;
+    cursor: pointer;
+    min-width: 180px;
+  }
+
+  .whl-filters select:focus { outline: none; border-color: #c8a84b; }
+
+  .category-toggles {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    align-items: flex-end;
+  }
+
+  .cat-btn {
+    padding: 5px 10px;
+    border-radius: 12px;
+    border: 1px solid #4a6a4a;
+    background: #2a3e2a;
+    color: #8faf6f;
+    font-size: 0.75rem;
+    cursor: pointer;
+    font-family: Georgia, serif;
+    transition: all 0.2s;
+  }
+
+  .cat-btn.active {
+    background: #4a6a4a;
+    color: #f0e8d0;
+    border-color: #c8a84b;
+  }
+
+  /* ── Decade nav ── */
+  .decade-nav {
+    display: flex;
+    gap: 8px;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-bottom: 16px;
+    max-width: 700px;
+  }
+
+  .decade-btn {
+    padding: 4px 12px;
+    background: #2a3e2a;
+    border: 1px solid #4a6a4a;
+    color: #8faf6f;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 0.8rem;
+    font-family: Georgia, serif;
+    transition: all 0.2s;
+  }
+
+  .decade-btn.active, .decade-btn:hover {
+    background: #4a6a4a;
+    color: #f0e8d0;
+    border-color: #c8a84b;
+  }
+
+  /* ── Events ── */
+  .events-section {
+    width: 100%;
+    max-width: 700px;
+  }
+
+  .events-header {
+    font-size: 1rem;
+    color: #c8a84b;
+    border-bottom: 1px solid #4a6a4a;
+    padding-bottom: 8px;
+    margin-bottom: 16px;
+  }
+
+  .event-count {
+    font-size: 0.8rem;
+    color: #6a8a6a;
+    margin-left: 8px;
+  }
+
+  .event-list {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+  }
+
+  .event-card {
+    background: #243424;
+    border: 1px solid #3a5a3a;
+    border-left: 4px solid #4a6a4a;
+    border-radius: 4px;
+    padding: 12px 16px;
+    transition: border-left-color 0.2s;
+  }
+
+  .event-card:hover { border-left-color: #c8a84b; }
+
+  .event-year {
+    font-size: 1rem;
+    color: #c8a84b;
+    font-weight: bold;
+    margin-bottom: 4px;
+  }
+
+  .event-text {
+    font-size: 0.9rem;
+    line-height: 1.5;
+    color: #d8c8a0;
+  }
+
+  .event-meta {
+    margin-top: 6px;
+    display: flex;
+    gap: 8px;
+    flex-wrap: wrap;
+  }
+
+  .badge {
+    font-size: 0.7rem;
+    padding: 2px 8px;
+    border-radius: 10px;
+    font-family: sans-serif;
+  }
+
+  .badge-line     { background: #2a4a2a; color: #8faf6f; border: 1px solid #3a6a3a; }
+  .badge-cat      { background: #3a3a1a; color: #c8a84b; border: 1px solid #5a5a2a; }
+  .badge-uncertain{ background: #3a2a1a; color: #c87a4b; border: 1px solid #6a4a2a; font-style: italic; }
+
+  .no-events {
+    text-align: center;
+    color: #5a7a5a;
+    font-style: italic;
+    padding: 30px;
+  }
+
+  /* Category left-border colors */
+  .event-card[data-cat="birth"]       { border-left-color: #4a8a6a; }
+  .event-card[data-cat="death"]       { border-left-color: #8a4a4a; }
+  .event-card[data-cat="marriage"]    { border-left-color: #8a6a4a; }
+  .event-card[data-cat="military"]    { border-left-color: #6a4a8a; }
+  .event-card[data-cat="land"]        { border-left-color: #6a8a4a; }
+  .event-card[data-cat="court"]       { border-left-color: #4a6a8a; }
+  .event-card[data-cat="historical"]  { border-left-color: #5a5a5a; }
+  .event-card[data-cat="migration"]   { border-left-color: #8a8a4a; }
+  .event-card[data-cat="census"]      { border-left-color: #4a8a8a; }
+  .event-card[data-cat="will_estate"] { border-left-color: #8a4a8a; }
+  .event-card[data-cat="church"]      { border-left-color: #c8a84b; }
+
+  .wheel-footer {
+    margin-top: 40px;
+    font-size: 0.75rem;
+    color: #3a5a3a;
+    text-align: center;
+    font-style: italic;
+  }
+</style>
+
+<div class="wheel-page">
+
+<h1>Wheel of Time</h1>
+<p class="wheel-subtitle">Robert &amp; Elizabeth Cate Berry — Orange County, NC — 1757</p>
+
+<!-- WHEEL -->
+<div class="wheel-section">
+  <div class="pointer-wrap"><div class="pointer"></div></div>
+  <div class="wheel-container" id="wheelContainer">
+    <svg id="wheel-svg" viewBox="0 0 320 320" xmlns="http://www.w3.org/2000/svg">
+      <g id="wheelGroup">
+        <circle cx="160" cy="160" r="148" fill="#2a1a0a" stroke="#8a6a2a" stroke-width="10"/>
+        <circle cx="160" cy="160" r="120" fill="none" stroke="#6a4a1a" stroke-width="2"/>
+        <circle cx="160" cy="160" r="38" fill="#3a2a0a" stroke="#c8a84b" stroke-width="3"/>
+        <text x="160" y="155" font-family="Georgia,serif" font-size="8.5" fill="#c8a84b"
+              text-anchor="middle" dominant-baseline="middle">Robert &amp; Elizabeth</text>
+        <text x="160" y="166" font-family="Georgia,serif" font-size="8.5" fill="#c8a84b"
+              text-anchor="middle" dominant-baseline="middle">Cate Berry</text>
+        <text x="160" y="177" font-family="Georgia,serif" font-size="7.5" fill="#8a6a2a"
+              text-anchor="middle" dominant-baseline="middle">est. 1757</text>
+        <!-- Spokes: CCW from top — 1600s:-90° | 1700s:-162° | 1800s:126° | 1900s:54° | 2000s:-18° -->
+        <line x1="160"   y1="118" x2="160"  y2="17"   stroke="#6a4a1a" stroke-width="3"/>
+        <line x1="120.1" y1="147" x2="24.0" y2="115.8" stroke="#6a4a1a" stroke-width="3"/>
+        <line x1="135.3" y1="194" x2="75.9" y2="275.7" stroke="#6a4a1a" stroke-width="3"/>
+        <line x1="184.7" y1="194" x2="244.1" y2="275.7" stroke="#6a4a1a" stroke-width="3"/>
+        <line x1="199.9" y1="147" x2="296.0" y2="115.8" stroke="#6a4a1a" stroke-width="3"/>
+        <!-- Rim bolts (r=152) -->
+        <circle cx="160"   cy="8"   r="5" fill="#c8a84b"/>
+        <circle cx="15.4"  cy="113" r="5" fill="#c8a84b"/>
+        <circle cx="70.7"  cy="283" r="5" fill="#c8a84b"/>
+        <circle cx="249.3" cy="283" r="5" fill="#c8a84b"/>
+        <circle cx="304.6" cy="113" r="5" fill="#c8a84b"/>
+        <!-- Labels inside wheelGroup — SVG counter-rotation keeps them upright -->
+        <g id="label-0"><text class="century-label" x="160"   y="32"   >1600s</text></g>
+        <g id="label-1"><text class="century-label" x="38.3"  y="120.4">1700s</text></g>
+        <g id="label-2"><text class="century-label" x="84.8"  y="263.6">1800s</text></g>
+        <g id="label-3"><text class="century-label" x="235.2" y="263.6">1900s</text></g>
+        <g id="label-4"><text class="century-label" x="281.7" y="120.4">2000s</text></g>
+      </g>
+    </svg>
+  </div>
+  <div class="selected-century" id="selectedCentury">— Spin the wheel to select a century —</div>
+</div>
+
+<!-- FILTERS -->
+<div class="whl-filters">
+  <div>
+    <label for="lineFilter">Family Line</label>
+    <select id="lineFilter">
+      <option value="all">All Family Lines</option>
+    </select>
+  </div>
+  <div>
+    <label>Category</label>
+    <div class="category-toggles" id="catToggles"></div>
+  </div>
+</div>
+
+<!-- DECADE NAV -->
+<div class="decade-nav" id="decadeNav"></div>
+
+<!-- EVENTS -->
+<div class="events-section">
+  <div class="events-header">
+    Events <span class="event-count" id="eventCount"></span>
+  </div>
+  <div class="event-list" id="eventList">
+    <div class="no-events">Spin the wheel to explore the Berry family story.</div>
+  </div>
+</div>
+
+<div class="wheel-footer">berrytree.org &mdash; Berry Family Timeline</div>
+
+</div><!-- /.wheel-page -->
+
+<script>
+// ── Event data ────────────────────────────────────────────────────
+// os.ReadFile outputs the raw JSON array directly — avoids Hugo's double-encoding
+// that occurs when jsonify is applied to data-pipeline values.
+const EVENTS = {{ os.ReadFile "data/timeline_events.json" | safeJS }};
+
+// ── State ──────────────────────────────────────────────────────────
+const CENTURIES = [
+  { label: '1600s', min: 1600, max: 1699 },
+  { label: '1700s', min: 1700, max: 1799 },
+  { label: '1800s', min: 1800, max: 1899 },
+  { label: '1900s', min: 1900, max: 1999 },
+  { label: '2000s', min: 2000, max: 2099 }
+];
+
+// CCW label arrangement: SNAP_ANGLES[i] = CSS rotation to bring century i to the pointer
+const SNAP_ANGLES = [0, 72, 144, 216, 288];
+
+let currentRotation = 0;
+let selectedCentury = null;
+let selectedDecade  = null;
+let selectedLine    = 'all';
+let activeCategories = new Set(['birth','death','marriage','military','land','court','historical','migration','census','will_estate','church']);
+
+// ── Family line dropdown ───────────────────────────────────────────
+const lines = [...new Set(EVENTS.map(e => e.family_line).filter(Boolean))].sort();
+const lineSelect = document.getElementById('lineFilter');
+lines.forEach(l => {
+  const opt = document.createElement('option');
+  opt.value = l; opt.textContent = l;
+  lineSelect.appendChild(opt);
+});
+lineSelect.addEventListener('change', e => {
+  selectedLine = e.target.value;
+  renderEvents();
+});
+
+// ── Category toggles ───────────────────────────────────────────────
+const CATS = {
+  birth:'Birth', death:'Death', marriage:'Marriage', military:'Military',
+  land:'Land', court:'Court', historical:'Historical', migration:'Migration',
+  census:'Census', will_estate:'Will/Estate', church:'Church'
+};
+
+const catContainer = document.getElementById('catToggles');
+Object.entries(CATS).forEach(([key, label]) => {
+  const btn = document.createElement('button');
+  btn.className = 'cat-btn active';
+  btn.dataset.cat = key;
+  btn.textContent = label;
+  btn.addEventListener('click', () => {
+    if (activeCategories.has(key)) {
+      activeCategories.delete(key);
+      btn.classList.remove('active');
+    } else {
+      activeCategories.add(key);
+      btn.classList.add('active');
+    }
+    renderEvents();
+  });
+  catContainer.appendChild(btn);
+});
+
+// ── Wheel ──────────────────────────────────────────────────────────
+const wheelContainer = document.getElementById('wheelContainer');
+const wheelGroup     = document.getElementById('wheelGroup');
+const centLabel      = document.getElementById('selectedCentury');
+
+// Label positions in SVG space — match <text x y> above
+const LABEL_POS = [
+  { x: 160,   y: 32    },
+  { x: 38.3,  y: 120.4 },
+  { x: 84.8,  y: 263.6 },
+  { x: 235.2, y: 263.6 },
+  { x: 281.7, y: 120.4 },
+];
+
+// Rotate wheelGroup via SVG transform; counter-rotate each label to stay upright.
+// Both transforms are in the same SVG coordinate space — the math cancels correctly.
+function setWheelAngle(deg) {
+  wheelGroup.setAttribute('transform', `rotate(${deg}, 160, 160)`);
+  LABEL_POS.forEach((pos, i) => {
+    const g = document.getElementById(`label-${i}`);
+    if (g) g.setAttribute('transform', `rotate(${-deg}, ${pos.x}, ${pos.y})`);
+  });
+}
+
+// Smooth snap animation (ease-out cubic via requestAnimationFrame)
+let snapAnim = null;
+function animateSnap(from, to) {
+  if (snapAnim) { cancelAnimationFrame(snapAnim); snapAnim = null; }
+  const duration = 380;
+  const startTime = performance.now();
+  function step(now) {
+    const t = Math.min((now - startTime) / duration, 1);
+    const eased = 1 - Math.pow(1 - t, 3);
+    setWheelAngle(from + (to - from) * eased);
+    if (t < 1) snapAnim = requestAnimationFrame(step);
+    else currentRotation = to;
+  }
+  snapAnim = requestAnimationFrame(step);
+}
+
+let isDragging = false, startAngle = 0, startRotation = 0;
+
+function getAngle(e) {
+  const rect = wheelContainer.getBoundingClientRect();
+  const cx = rect.left + rect.width  / 2;
+  const cy = rect.top  + rect.height / 2;
+  const x  = (e.touches ? e.touches[0].clientX : e.clientX) - cx;
+  const y  = (e.touches ? e.touches[0].clientY : e.clientY) - cy;
+  return Math.atan2(y, x) * (180 / Math.PI);
+}
+
+function snapToNearest(rot) {
+  let norm = ((rot % 360) + 360) % 360;
+  let best = 0, bestDist = Infinity;
+  SNAP_ANGLES.forEach((snap, i) => {
+    let d = Math.abs(norm - snap);
+    if (d > 180) d = 360 - d;
+    if (d < bestDist) { bestDist = d; best = i; }
+  });
+  return best;
+}
+
+function doSnap() {
+  const idx = snapToNearest(currentRotation);
+  const snapRot = SNAP_ANGLES[idx];
+  let norm = ((currentRotation % 360) + 360) % 360;
+  let diff = snapRot - norm;
+  if (diff >  180) diff -= 360;
+  if (diff < -180) diff += 360;
+  const target = currentRotation + diff;
+  animateSnap(currentRotation, target);
+  currentRotation = target;
+  selectedCentury = CENTURIES[idx];
+  centLabel.textContent = `— ${selectedCentury.label} —`;
+  buildDecadeNav();
+  renderEvents();
+}
+
+wheelContainer.addEventListener('mousedown', e => {
+  if (snapAnim) { cancelAnimationFrame(snapAnim); snapAnim = null; }
+  isDragging = true;
+  startAngle = getAngle(e);
+  startRotation = currentRotation;
+  e.preventDefault();
+});
+
+document.addEventListener('mousemove', e => {
+  if (!isDragging) return;
+  currentRotation = startRotation + (getAngle(e) - startAngle);
+  setWheelAngle(currentRotation);
+});
+
+document.addEventListener('mouseup', () => {
+  if (!isDragging) return;
+  isDragging = false;
+  doSnap();
+});
+
+// Double-click a century label to snap it to the pointer
+wheelContainer.addEventListener('dblclick', e => {
+  const labelEl = e.target.closest('[id^="label-"]');
+  if (!labelEl) return;
+  const idx = parseInt(labelEl.id.replace('label-', ''), 10);
+  if (isNaN(idx) || idx < 0 || idx > 4) return;
+  const snapRot = SNAP_ANGLES[idx];
+  let norm = ((currentRotation % 360) + 360) % 360;
+  let diff = snapRot - norm;
+  if (diff >  180) diff -= 360;
+  if (diff < -180) diff += 360;
+  const target = currentRotation + diff;
+  animateSnap(currentRotation, target);
+  currentRotation = target;
+  selectedCentury = CENTURIES[idx];
+  centLabel.textContent = `— ${selectedCentury.label} —`;
+  buildDecadeNav();
+  renderEvents();
+});
+
+// Touch support
+wheelContainer.addEventListener('touchstart', e => {
+  if (snapAnim) { cancelAnimationFrame(snapAnim); snapAnim = null; }
+  isDragging = true;
+  startAngle = getAngle(e);
+  startRotation = currentRotation;
+}, { passive: true });
+
+document.addEventListener('touchmove', e => {
+  if (!isDragging) return;
+  currentRotation = startRotation + (getAngle(e) - startAngle);
+  setWheelAngle(currentRotation);
+}, { passive: true });
+
+document.addEventListener('touchend', () => {
+  if (!isDragging) return;
+  isDragging = false;
+  doSnap();
+});
+
+// ── Decade nav ─────────────────────────────────────────────────────
+function buildDecadeNav() {
+  const nav = document.getElementById('decadeNav');
+  nav.innerHTML = '';
+  if (!selectedCentury) return;
+  selectedDecade = null;
+  const allBtn = document.createElement('button');
+  allBtn.className = 'decade-btn active';
+  allBtn.textContent = 'All';
+  allBtn.addEventListener('click', () => {
+    selectedDecade = null;
+    nav.querySelectorAll('.decade-btn').forEach(b => b.classList.remove('active'));
+    allBtn.classList.add('active');
+    renderEvents();
+  });
+  nav.appendChild(allBtn);
+  for (let d = selectedCentury.min; d < selectedCentury.max; d += 10) {
+    const btn = document.createElement('button');
+    btn.className = 'decade-btn';
+    btn.textContent = `${d}s`;
+    btn.dataset.decade = d;
+    btn.addEventListener('click', () => {
+      selectedDecade = d;
+      nav.querySelectorAll('.decade-btn').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      renderEvents();
+    });
+    nav.appendChild(btn);
+  }
+}
+
+// ── Render events ──────────────────────────────────────────────────
+function renderEvents() {
+  const list  = document.getElementById('eventList');
+  const count = document.getElementById('eventCount');
+  if (!selectedCentury) {
+    list.innerHTML = '<div class="no-events">Spin the wheel to explore the Berry family story.</div>';
+    count.textContent = '';
+    return;
+  }
+  let filtered = EVENTS.filter(e => {
+    if (e.year < selectedCentury.min || e.year > selectedCentury.max) return false;
+    if (selectedDecade !== null && (e.year < selectedDecade || e.year >= selectedDecade + 10)) return false;
+    if (selectedLine !== 'all' && e.family_line !== selectedLine) return false;
+    if (!activeCategories.has(e.category)) return false;
+    return true;
+  });
+  filtered.sort((a, b) => a.year - b.year);
+  count.textContent = `(${filtered.length} event${filtered.length !== 1 ? 's' : ''})`;
+  if (filtered.length === 0) {
+    list.innerHTML = '<div class="no-events">No events match the current filters.</div>';
+    return;
+  }
+  list.innerHTML = filtered.map(e => `
+    <div class="event-card" data-cat="${e.category}">
+      <div class="event-year">${e.year_display}</div>
+      <div class="event-text">${e.event}</div>
+      <div class="event-meta">
+        ${e.family_line ? `<span class="badge badge-line">${e.family_line}</span>` : ''}
+        <span class="badge badge-cat">${CATS[e.category] || e.category}</span>
+        ${e.uncertain ? '<span class="badge badge-uncertain">uncertain</span>' : ''}
+      </div>
+    </div>
+  `).join('');
+}
+
+// ── Init: open on 1700s ────────────────────────────────────────────
+currentRotation = SNAP_ANGLES[1];
+setWheelAngle(currentRotation);
+selectedCentury = CENTURIES[1];
+centLabel.textContent = `— ${selectedCentury.label} —`;
+buildDecadeNav();
+renderEvents();
+</script>
+{{ end }}
