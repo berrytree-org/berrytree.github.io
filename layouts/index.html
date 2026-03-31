@@ -8,10 +8,148 @@
 
 {{ define "main" }}
 <style>
-  /* ── Reset for full-bleed home page ── */
-  .book-page {
+  /* ── Hamburger menu ── */
+  .hb-btn {
+    position: fixed;
+    top: 18px;
+    left: 18px;
+    z-index: 1000;
+    width: 42px;
+    height: 42px;
+    background: transparent;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+    padding: 0;
+    transition: opacity 0.2s;
+  }
+
+  .hb-btn:hover { opacity: 0.75; }
+
+  .hb-btn span {
+    display: block;
+    width: 20px;
+    height: 2px;
+    background: #c8a84b;
+    border-radius: 2px;
+    transition: transform 0.3s ease, opacity 0.3s ease;
+  }
+
+  /* Animate to X when open */
+  body.nav-open .hb-btn span:nth-child(1) { transform: translateY(7px) rotate(45deg); }
+  body.nav-open .hb-btn span:nth-child(2) { opacity: 0; }
+  body.nav-open .hb-btn span:nth-child(3) { transform: translateY(-7px) rotate(-45deg); }
+
+  /* Overlay */
+  .hb-overlay {
+    position: fixed;
+    inset: 0;
+    background: rgba(0,0,0,0.5);
+    z-index: 900;
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.3s ease;
+  }
+
+  body.nav-open .hb-overlay {
+    opacity: 1;
+    pointer-events: all;
+  }
+
+  /* Slide-in panel */
+  .hb-panel {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 280px;
+    height: 100vh;
+    background: #0e1e0e;
+    border-right: 1px solid #2a4a2a;
+    z-index: 950;
+    transform: translateX(-100%);
+    transition: transform 0.32s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+    display: flex;
+    flex-direction: column;
+    overflow-y: auto;
+  }
+
+  body.nav-open .hb-panel { transform: translateX(0); }
+
+  .hb-panel__logo {
+    padding: 28px 24px 20px;
+    border-bottom: 1px solid #1e3a1e;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+  }
+
+  .hb-panel__logo img {
+    width: 38px;
+    height: auto;
+  }
+
+  .hb-panel__logo span {
+    font-family: Georgia, serif;
+    font-size: 0.85rem;
+    color: #8faf6f;
+    letter-spacing: 0.05em;
+    line-height: 1.3;
+  }
+
+  .hb-nav {
+    list-style: none;
+    padding: 16px 0;
+    margin: 0;
+    flex: 1;
+  }
+
+  .hb-nav li a {
+    display: block;
+    padding: 11px 28px;
+    font-family: Georgia, serif;
+    font-size: 0.95rem;
+    color: #d8c8a0;
+    text-decoration: none;
+    letter-spacing: 0.03em;
+    transition: color 0.2s, padding-left 0.2s;
+    border-left: 2px solid transparent;
+  }
+
+  .hb-nav li a:hover {
+    color: #c8a84b;
+    padding-left: 36px;
+    border-left-color: #c8a84b;
+  }
+
+  .hb-panel__footer {
+    padding: 16px 24px;
+    border-top: 1px solid #1e3a1e;
+    font-size: 0.7rem;
+    color: #3a5a3a;
+    font-style: italic;
+  }
+
+  /* ── Home page: suppress Book theme chrome, go full-bleed ── */
+  body.book-kind-home .book-menu,
+  body.book-kind-home .book-toc,
+  body.book-kind-home .book-header,
+  body.book-kind-home .book-menu-overlay {
+    display: none !important;
+  }
+
+  body.book-kind-home .container.flex {
+    display: block !important;
+  }
+
+  body.book-kind-home .book-page {
     padding: 0 !important;
     max-width: 100% !important;
+    min-width: 0 !important;
   }
 
   /* ── Hero ── */
@@ -294,6 +432,36 @@
   .home-card:nth-child(6) { transition-delay: 0.40s; }
 </style>
 
+<!-- ── HAMBURGER BUTTON ── -->
+<button class="hb-btn" id="hbBtn" aria-label="Open navigation">
+  <span></span><span></span><span></span>
+</button>
+
+<!-- ── NAV OVERLAY ── -->
+<div class="hb-overlay" id="hbOverlay"></div>
+
+<!-- ── SLIDE-IN PANEL ── -->
+<nav class="hb-panel" id="hbPanel" aria-label="Site navigation">
+  <div class="hb-panel__logo">
+    <img src="/images/berrytree_logo_gold.png" alt="BerryTree">
+    <span>Robert &amp; Elizabeth<br>Cate Berry</span>
+  </div>
+  <ul class="hb-nav">
+    <li><a href="/ancestors/">Ancestors</a></li>
+    <li><a href="/timelines/">Wheel of Time</a></li>
+    <li><a href="/dna/">DNA Research</a></li>
+    <li><a href="/documents/">Documents</a></li>
+    <li><a href="/books/">Books</a></li>
+    <li><a href="/marriages/">Marriages</a></li>
+    <li><a href="/indexes/">Indexes</a></li>
+    <li><a href="/family-lines/">Family Lines</a></li>
+    <li><a href="/pictures/">Pictures</a></li>
+    <li><a href="/contact/">Contact</a></li>
+    <li><a href="/about/">About</a></li>
+  </ul>
+  <div class="hb-panel__footer">berrytree.org &nbsp;·&nbsp; est. 1757</div>
+</nav>
+
 <!-- ── HERO ── -->
 <section class="home-hero">
   <img class="home-hero__img"
@@ -429,6 +597,19 @@
 </footer>
 
 <script>
+// ── Hamburger menu ────────────────────────────────────────────────
+const hbBtn     = document.getElementById('hbBtn');
+const hbOverlay = document.getElementById('hbOverlay');
+
+function openNav()  { document.body.classList.add('nav-open');    hbBtn.setAttribute('aria-expanded', 'true');  }
+function closeNav() { document.body.classList.remove('nav-open'); hbBtn.setAttribute('aria-expanded', 'false'); }
+
+hbBtn.addEventListener('click', () =>
+  document.body.classList.contains('nav-open') ? closeNav() : openNav()
+);
+hbOverlay.addEventListener('click', closeNav);
+document.addEventListener('keydown', e => { if (e.key === 'Escape') closeNav(); });
+
 // ── Hero elements fade in on load ─────────────────────────────────
 window.addEventListener('load', () => {
   document.querySelectorAll('.js-hero-el').forEach(el => {

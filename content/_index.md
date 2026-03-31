@@ -1,6 +1,7 @@
 ---
 title: "Berrytree.org"
 description: "Robert and Elizabeth Cate Berry Genealogy"
+bookToc: false
 ---
 
 <div class="site-hero">
