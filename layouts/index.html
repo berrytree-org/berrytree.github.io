@@ -1,0 +1,473 @@
+{{/* berrytree.org — Home Page
+     Full custom layout. No sidebar, no TOC.
+     Hero: Robert Berry homestead render, full viewport.
+     Scroll animations via IntersectionObserver.
+*/}}
+{{ define "menu-container" }}{{ end }}
+{{ define "toc-container" }}{{ end }}
+
+{{ define "main" }}
+<style>
+  /* ── Reset for full-bleed home page ── */
+  .book-page {
+    padding: 0 !important;
+    max-width: 100% !important;
+  }
+
+  /* ── Hero ── */
+  .home-hero {
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    min-height: 500px;
+    overflow: hidden;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+  }
+
+  .home-hero__img {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center 60%;
+  }
+
+  /* Gradient only on the bottom third — image breathes above */
+  .home-hero__gradient {
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(
+      to bottom,
+      transparent 40%,
+      rgba(8, 20, 8, 0.55) 70%,
+      rgba(8, 20, 8, 0.92) 100%
+    );
+  }
+
+  .home-hero__content {
+    position: relative;
+    z-index: 2;
+    text-align: center;
+    padding: 0 20px calc(60px + 15vh);
+    width: 100%;
+    max-width: 700px;
+  }
+
+  .home-hero__logo {
+    width: 110px;
+    height: auto;
+    margin-bottom: 18px;
+    opacity: 0;
+    transform: translateY(-16px);
+    transition: opacity 1.2s ease 0.3s, transform 1.2s ease 0.3s;
+  }
+
+  .home-hero__logo.visible {
+    opacity: 1;
+    transform: none;
+  }
+
+  .home-hero__title {
+    font-family: Georgia, 'Times New Roman', serif;
+    font-size: clamp(1.8rem, 5vw, 3rem);
+    color: #f0e8d0;
+    font-weight: normal;
+    letter-spacing: 0.04em;
+    margin: 0 0 10px;
+    opacity: 0;
+    transform: translateY(16px);
+    transition: opacity 1s ease 0.6s, transform 1s ease 0.6s;
+  }
+
+  .home-hero__title.visible {
+    opacity: 1;
+    transform: none;
+  }
+
+  .home-hero__sub {
+    font-family: Georgia, serif;
+    font-size: clamp(0.9rem, 2vw, 1.1rem);
+    color: #c8a84b;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    margin: 0 0 28px;
+    opacity: 0;
+    transition: opacity 1s ease 0.9s;
+  }
+
+  .home-hero__sub.visible { opacity: 1; }
+
+  .home-hero__caret {
+    display: block;
+    margin: 0 auto;
+    color: #c8a84b;
+    font-size: 1.6rem;
+    opacity: 0;
+    animation: caretPulse 2.4s ease-in-out infinite;
+    transition: opacity 1s ease 1.4s;
+  }
+
+  .home-hero__caret.visible { opacity: 0.8; }
+
+  @keyframes caretPulse {
+    0%, 100% { transform: translateY(0); }
+    50%       { transform: translateY(8px); }
+  }
+
+  /* ── Base for all scroll sections ── */
+  .home-section {
+    background: #1a2e1a;
+    color: #f0e8d0;
+    font-family: Georgia, 'Times New Roman', serif;
+  }
+
+  /* ── Stats band ── */
+  .home-stats {
+    padding: 60px 20px;
+    border-bottom: 1px solid #2a4a2a;
+  }
+
+  .home-stats__row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 48px;
+    max-width: 800px;
+    margin: 0 auto;
+  }
+
+  .home-stat {
+    text-align: center;
+    opacity: 0;
+    transform: translateY(24px);
+    transition: opacity 0.7s ease, transform 0.7s ease;
+  }
+
+  .home-stat.visible {
+    opacity: 1;
+    transform: none;
+  }
+
+  .home-stat__num {
+    display: block;
+    font-size: clamp(2.4rem, 6vw, 3.6rem);
+    color: #c8a84b;
+    font-weight: normal;
+    line-height: 1;
+    margin-bottom: 6px;
+  }
+
+  .home-stat__label {
+    font-size: 0.8rem;
+    color: #8faf6f;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+  }
+
+  /* ── Explore cards ── */
+  .home-explore {
+    padding: 70px 20px;
+  }
+
+  .home-explore__heading {
+    text-align: center;
+    font-size: clamp(1.2rem, 3vw, 1.6rem);
+    color: #c8a84b;
+    font-weight: normal;
+    letter-spacing: 0.06em;
+    margin-bottom: 48px;
+    opacity: 0;
+    transform: translateY(20px);
+    transition: opacity 0.7s ease, transform 0.7s ease;
+  }
+
+  .home-explore__heading.visible {
+    opacity: 1;
+    transform: none;
+  }
+
+  .home-cards {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 20px;
+    max-width: 900px;
+    margin: 0 auto;
+  }
+
+  .home-card {
+    background: #243424;
+    border: 1px solid #3a5a3a;
+    border-radius: 4px;
+    padding: 28px 20px 24px;
+    text-align: center;
+    text-decoration: none;
+    color: #f0e8d0;
+    display: block;
+    transition: border-color 0.25s, transform 0.25s, background 0.25s;
+    opacity: 0;
+    transform: translateY(28px);
+  }
+
+  .home-card.visible {
+    opacity: 1;
+    transform: none;
+  }
+
+  .home-card:hover {
+    border-color: #c8a84b;
+    background: #2e4a2e;
+    transform: translateY(-4px);
+    text-decoration: none;
+    color: #f0e8d0;
+  }
+
+  .home-card__icon {
+    display: block;
+    width: 48px;
+    height: 48px;
+    margin: 0 auto 14px;
+    opacity: 0.85;
+  }
+
+  .home-card__title {
+    font-size: 1rem;
+    color: #c8a84b;
+    margin-bottom: 6px;
+    letter-spacing: 0.04em;
+  }
+
+  .home-card__desc {
+    font-size: 0.78rem;
+    color: #8faf6f;
+    line-height: 1.5;
+  }
+
+  /* ── Homestead band ── */
+  .home-homestead {
+    position: relative;
+    height: 320px;
+    overflow: hidden;
+    opacity: 0;
+    transition: opacity 1s ease;
+  }
+
+  .home-homestead.visible { opacity: 1; }
+
+  .home-homestead__img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center 55%;
+    filter: brightness(0.75) sepia(0.15);
+  }
+
+  .home-homestead__caption {
+    position: absolute;
+    bottom: 18px;
+    right: 24px;
+    font-size: 0.75rem;
+    color: #c8a84b;
+    font-style: italic;
+    letter-spacing: 0.05em;
+    text-shadow: 0 1px 4px rgba(0,0,0,0.8);
+  }
+
+  /* ── Footer ── */
+  .home-footer {
+    padding: 30px 20px;
+    text-align: center;
+    font-size: 0.75rem;
+    color: #3a5a3a;
+    font-style: italic;
+    border-top: 1px solid #2a4a2a;
+  }
+
+  /* ── Stagger delays for cards ── */
+  .home-card:nth-child(1) { transition-delay: 0s;    }
+  .home-card:nth-child(2) { transition-delay: 0.08s; }
+  .home-card:nth-child(3) { transition-delay: 0.16s; }
+  .home-card:nth-child(4) { transition-delay: 0.24s; }
+  .home-card:nth-child(5) { transition-delay: 0.32s; }
+  .home-card:nth-child(6) { transition-delay: 0.40s; }
+</style>
+
+<!-- ── HERO ── -->
+<section class="home-hero">
+  <img class="home-hero__img"
+       src="/images/robert_berry_homestead_my_render.png"
+       alt="The Robert Berry homestead, Orange County, North Carolina">
+  <div class="home-hero__gradient"></div>
+  <div class="home-hero__content">
+    <img class="home-hero__logo js-hero-el"
+         src="/images/berrytree_logo_gold.png"
+         alt="BerryTree">
+    <h1 class="home-hero__title js-hero-el">Robert &amp; Elizabeth Cate Berry</h1>
+    <p class="home-hero__sub js-hero-el">Orange County, North Carolina &nbsp;·&nbsp; 1757</p>
+    <span class="home-hero__caret js-hero-el">&#8964;</span>
+  </div>
+</section>
+
+<!-- ── STATS ── -->
+<section class="home-section home-stats">
+  <div class="home-stats__row">
+    <div class="home-stat js-scroll">
+      <span class="home-stat__num js-count" data-target="285">0</span>
+      <span class="home-stat__label">Documented Events</span>
+    </div>
+    <div class="home-stat js-scroll" style="transition-delay:0.12s">
+      <span class="home-stat__num js-count" data-target="243">0</span>
+      <span class="home-stat__label">Ancestor Profiles</span>
+    </div>
+    <div class="home-stat js-scroll" style="transition-delay:0.24s">
+      <span class="home-stat__num js-count" data-target="4">0</span>
+      <span class="home-stat__label">Centuries of History</span>
+    </div>
+    <div class="home-stat js-scroll" style="transition-delay:0.36s">
+      <span class="home-stat__num js-count" data-target="11">0</span>
+      <span class="home-stat__label">Family Lines</span>
+    </div>
+  </div>
+</section>
+
+<!-- ── EXPLORE ── -->
+<section class="home-section home-explore">
+  <h2 class="home-explore__heading js-scroll">Explore the Archive</h2>
+  <div class="home-cards">
+
+    <a class="home-card js-scroll" href="/ancestors/">
+      <svg class="home-card__icon" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <circle cx="24" cy="13" r="7" stroke="#c8a84b" stroke-width="2"/>
+        <circle cx="10" cy="36" r="5" stroke="#8faf6f" stroke-width="1.5"/>
+        <circle cx="38" cy="36" r="5" stroke="#8faf6f" stroke-width="1.5"/>
+        <line x1="24" y1="20" x2="24" y2="28" stroke="#c8a84b" stroke-width="1.5"/>
+        <line x1="24" y1="28" x2="10" y2="31" stroke="#8faf6f" stroke-width="1.5"/>
+        <line x1="24" y1="28" x2="38" y2="31" stroke="#8faf6f" stroke-width="1.5"/>
+      </svg>
+      <div class="home-card__title">Ancestors</div>
+      <div class="home-card__desc">243 individual profiles across seven generations</div>
+    </a>
+
+    <a class="home-card js-scroll" href="/timelines/">
+      <svg class="home-card__icon" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <circle cx="24" cy="24" r="18" stroke="#c8a84b" stroke-width="2"/>
+        <circle cx="24" cy="24" r="4" fill="#c8a84b"/>
+        <line x1="24" y1="6"  x2="24" y2="14" stroke="#8faf6f" stroke-width="1.5"/>
+        <line x1="24" y1="34" x2="24" y2="42" stroke="#8faf6f" stroke-width="1.5"/>
+        <line x1="6"  y1="24" x2="14" y2="24" stroke="#8faf6f" stroke-width="1.5"/>
+        <line x1="34" y1="24" x2="42" y2="24" stroke="#8faf6f" stroke-width="1.5"/>
+        <line x1="24" y1="20" x2="24" y2="14" stroke="#c8a84b" stroke-width="2"/>
+        <line x1="24" y1="24" x2="30" y2="24" stroke="#c8a84b" stroke-width="2"/>
+      </svg>
+      <div class="home-card__title">Wheel of Time</div>
+      <div class="home-card__desc">285 events across four centuries — spin to explore</div>
+    </a>
+
+    <a class="home-card js-scroll" href="/dna/">
+      <svg class="home-card__icon" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path d="M18 6 C18 16 30 16 30 24 C30 32 18 32 18 42" stroke="#c8a84b" stroke-width="2" fill="none"/>
+        <path d="M30 6 C30 16 18 16 18 24 C18 32 30 32 30 42" stroke="#8faf6f" stroke-width="2" fill="none"/>
+        <line x1="18" y1="15" x2="30" y2="15" stroke="#c8a84b" stroke-width="1.5"/>
+        <line x1="18" y1="24" x2="30" y2="24" stroke="#c8a84b" stroke-width="1.5"/>
+        <line x1="18" y1="33" x2="30" y2="33" stroke="#c8a84b" stroke-width="1.5"/>
+      </svg>
+      <div class="home-card__title">DNA Research</div>
+      <div class="home-card__desc">Genetic genealogy connecting Berry descendants</div>
+    </a>
+
+    <a class="home-card js-scroll" href="/documents/">
+      <svg class="home-card__icon" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <rect x="10" y="4" width="28" height="40" rx="2" stroke="#c8a84b" stroke-width="2"/>
+        <line x1="16" y1="14" x2="32" y2="14" stroke="#8faf6f" stroke-width="1.5"/>
+        <line x1="16" y1="21" x2="32" y2="21" stroke="#8faf6f" stroke-width="1.5"/>
+        <line x1="16" y1="28" x2="26" y2="28" stroke="#8faf6f" stroke-width="1.5"/>
+        <path d="M28 36 L34 30 L38 34 L32 40 L28 36Z" fill="#c8a84b" opacity="0.7"/>
+      </svg>
+      <div class="home-card__title">Documents</div>
+      <div class="home-card__desc">Land records, wills, estate papers &amp; census scans</div>
+    </a>
+
+    <a class="home-card js-scroll" href="/books/">
+      <svg class="home-card__icon" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <rect x="8"  y="6" width="14" height="36" rx="1" stroke="#c8a84b" stroke-width="2"/>
+        <rect x="26" y="6" width="14" height="36" rx="1" stroke="#8faf6f" stroke-width="1.5"/>
+        <line x1="8"  y1="6" x2="22" y2="6"  stroke="#c8a84b" stroke-width="2"/>
+        <line x1="8"  y1="42" x2="22" y2="42" stroke="#c8a84b" stroke-width="2"/>
+        <line x1="11" y1="14" x2="19" y2="14" stroke="#8faf6f" stroke-width="1"/>
+        <line x1="11" y1="20" x2="19" y2="20" stroke="#8faf6f" stroke-width="1"/>
+      </svg>
+      <div class="home-card__title">Books</div>
+      <div class="home-card__desc">Published Berry family genealogy volumes</div>
+    </a>
+
+    <a class="home-card js-scroll" href="/pictures/">
+      <svg class="home-card__icon" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <rect x="4" y="8" width="40" height="32" rx="2" stroke="#c8a84b" stroke-width="2"/>
+        <circle cx="16" cy="20" r="4" stroke="#8faf6f" stroke-width="1.5"/>
+        <path d="M4 34 L14 24 L22 32 L30 24 L44 34" stroke="#c8a84b" stroke-width="1.5" fill="none"/>
+      </svg>
+      <div class="home-card__title">Pictures</div>
+      <div class="home-card__desc">Family photographs spanning three centuries</div>
+    </a>
+
+  </div>
+</section>
+
+<!-- ── HOMESTEAD IMAGE BAND ── -->
+<div class="home-homestead js-scroll">
+  <img class="home-homestead__img"
+       src="/images/robert_berry_homestead.jpeg"
+       alt="Robert Berry homestead, Orange County, North Carolina">
+  <span class="home-homestead__caption">Robert Berry Homestead — Orange County, North Carolina</span>
+</div>
+
+<!-- ── FOOTER ── -->
+<footer class="home-section home-footer">
+  berrytree.org &nbsp;·&nbsp; Robert &amp; Elizabeth Cate Berry &nbsp;·&nbsp; Orange County, NC &nbsp;·&nbsp; est. 1757
+</footer>
+
+<script>
+// ── Hero elements fade in on load ─────────────────────────────────
+window.addEventListener('load', () => {
+  document.querySelectorAll('.js-hero-el').forEach(el => {
+    el.classList.add('visible');
+  });
+});
+
+// ── Scroll animations via IntersectionObserver ────────────────────
+const scrollObserver = new IntersectionObserver((entries) => {
+  entries.forEach(entry => {
+    if (entry.isIntersecting) {
+      entry.target.classList.add('visible');
+      scrollObserver.unobserve(entry.target);
+    }
+  });
+}, { threshold: 0.15 });
+
+document.querySelectorAll('.js-scroll').forEach(el => scrollObserver.observe(el));
+
+// ── Stat counters: count up when visible ─────────────────────────
+const countObserver = new IntersectionObserver((entries) => {
+  entries.forEach(entry => {
+    if (!entry.isIntersecting) return;
+    const el = entry.target.querySelector('.js-count');
+    if (!el) return;
+    const target = parseInt(el.dataset.target, 10);
+    const duration = 1400;
+    const start = performance.now();
+    function step(now) {
+      const t = Math.min((now - start) / duration, 1);
+      const eased = 1 - Math.pow(1 - t, 3);
+      el.textContent = Math.round(eased * target);
+      if (t < 1) requestAnimationFrame(step);
+    }
+    requestAnimationFrame(step);
+    countObserver.unobserve(entry.target);
+  });
+}, { threshold: 0.4 });
+
+document.querySelectorAll('.home-stat').forEach(el => countObserver.observe(el));
+</script>
+{{ end }}
