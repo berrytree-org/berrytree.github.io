@@ -1,0 +1,2014 @@
+[
+  {
+    "year": 1612,
+    "year_display": "1612",
+    "event": "George Kemp was born.",
+    "category": "birth",
+    "family_line": "Ancestor"
+  },
+  {
+    "year": 1620,
+    "year_display": "1620",
+    "event": "Ann Foster was born in England.",
+    "category": "birth",
+    "family_line": "Ancestor"
+  },
+  {
+    "year": 1620,
+    "year_display": "1620",
+    "event": "Mary Hutchinson was born in England.",
+    "category": "birth",
+    "family_line": "Ancestor"
+  },
+  {
+    "year": 1646,
+    "year_display": "1646",
+    "event": "Roger Williamson and Ann Foster were married.",
+    "category": "marriage",
+    "family_line": "Ancestor"
+  },
+  {
+    "year": 1646,
+    "year_display": "1646–1650",
+    "event": "Richard, Bartholomew, and Sarah Williamson were born.",
+    "category": "birth",
+    "family_line": "Ancestor"
+  },
+  {
+    "year": 1650,
+    "year_display": "1650",
+    "event": "Roger Williamson died.",
+    "category": "death",
+    "family_line": "Ancestor"
+  },
+  {
+    "year": 1651,
+    "year_display": "1651",
+    "event": "Ann Foster Williamson married John Carraway. They had three children: Mary, Elizabeth, and John Carraway.",
+    "category": "marriage",
+    "family_line": "Ancestor"
+  },
+  {
+    "year": 1670,
+    "year_display": "1670",
+    "event": "Richard Williamson married Mary Kemp.",
+    "category": "marriage",
+    "family_line": "Ancestor"
+  },
+  {
+    "year": 1670,
+    "year_display": "1670–1680",
+    "event": "Richard and Mary Williamson's 7 children were born.",
+    "category": "birth",
+    "family_line": "Ancestor"
+  },
+  {
+    "year": 1680,
+    "year_display": "1680",
+    "event": "John Carraway married Ann Kemp.",
+    "category": "marriage",
+    "family_line": "Ancestor"
+  },
+  {
+    "year": 1690,
+    "year_display": "1690",
+    "event": "Mary Williamson and Robert Berry (PAC) married.",
+    "category": "marriage",
+    "family_line": "Robert Berry PAC"
+  },
+  {
+    "year": 1692,
+    "year_display": "1692",
+    "event": "Ann Foster Williamson Carraway died.",
+    "category": "death",
+    "family_line": "Ancestor"
+  },
+  {
+    "year": 1704,
+    "year_display": "1704",
+    "event": "Robert Berry listed on the Virginia Rent Rolls in Norfolk.",
+    "category": "historical",
+    "family_line": "Robert Berry PAC"
+  },
+  {
+    "year": 1704,
+    "year_display": "1704",
+    "event": "John Lawson describes conditions at the Occaneechi Village on the Eno where Hillsborough would eventually be established.",
+    "category": "historical",
+    "family_line": null
+  },
+  {
+    "year": 1728,
+    "year_display": "1728/29",
+    "event": "Robert Berry (OC) was born in Princess Anne County, Virginia.",
+    "category": "birth",
+    "family_line": "Robert Berry OC"
+  },
+  {
+    "year": 1730,
+    "year_display": "1730",
+    "event": "Robert Berry (PAC) wrote his will and died.",
+    "category": "death",
+    "family_line": "Robert Berry PAC"
+  },
+  {
+    "year": 1730,
+    "year_display": "1730",
+    "event": "Robert Berry may have been born this year in England. (alternate origin theory)",
+    "category": "birth",
+    "uncertain": true,
+    "family_line": "Robert Berry OC"
+  },
+  {
+    "year": 1735,
+    "year_display": "1735",
+    "event": "Elizabeth Cate's parents were John and Margery Lawrence Cate. John Cate had property on the Flat River in what is now Person County, NC.",
+    "category": "historical",
+    "family_line": "Robert Berry OC"
+  },
+  {
+    "year": 1744,
+    "year_display": "1744",
+    "event": "Robert Berry emigrated to America as a bonded passenger. Source: Coldham, Bonded Passengers to America, Vol. 5. If this is our Robert Berry he would have been about 14 years old.",
+    "category": "migration",
+    "uncertain": true,
+    "family_line": "Robert Berry OC"
+  },
+  {
+    "year": 1746,
+    "year_display": "1746",
+    "event": "West portion of Edgecombe County was used to create Granville County.",
+    "category": "historical",
+    "family_line": null
+  },
+  {
+    "year": 1751,
+    "year_display": "1751",
+    "event": "First newspaper in the colony, The North Carolina Gazette, was printed at New Bern by James Davis.",
+    "category": "historical",
+    "family_line": null
+  },
+  {
+    "year": 1752,
+    "year_display": "1752",
+    "event": "Robert Berry entered in the office of the Earl of Granville on February 6. Entry made while property was still in Granville County before Orange County was formed.",
+    "category": "land",
+    "family_line": "Robert Berry OC"
+  },
+  {
+    "year": 1752,
+    "year_display": "1752",
+    "event": "Orange County formed from parts of Johnston, Bladen, and Granville Counties. Named in honor of the infant William V of Orange. First courthouse authorized in 1754. Childsburg established 1759, renamed Hillsborough 1766.",
+    "category": "historical",
+    "family_line": null
+  },
+  {
+    "year": 1752,
+    "year_display": "1752",
+    "event": "Corbin Town incorporated; William Churton was the surveyor and designed the city map.",
+    "category": "historical",
+    "family_line": null
+  },
+  {
+    "year": 1753,
+    "year_display": "1753",
+    "event": "Warrant for Robert Berry's Granville Grant filed March 20. SCC Henry Gold, Thomas Cate, W Churton surveyor Dec 3, 1753. Plat reads surveyed for Robert Berry Jr. Patent Book 14:334.",
+    "category": "land",
+    "family_line": "Robert Berry OC"
+  },
+  {
+    "year": 1753,
+    "year_display": "1753",
+    "event": "Survey for John Cate done December 4, the day after Robert Berry's survey.",
+    "category": "land",
+    "family_line": null
+  },
+  {
+    "year": 1754,
+    "year_display": "1754",
+    "event": "Corbin Town renamed Childsburg.",
+    "category": "historical",
+    "family_line": null
+  },
+  {
+    "year": 1754,
+    "year_display": "1754",
+    "event": "The Great War for Empire (French and Indian War) broke out.",
+    "category": "military",
+    "family_line": null
+  },
+  {
+    "year": 1755,
+    "year_display": "1755",
+    "event": "Robert Berry was on the Orange County Tax List.",
+    "category": "census",
+    "family_line": "Robert Berry OC"
+  },
+  {
+    "year": 1756,
+    "year_display": "1756",
+    "event": "Childsburg renamed Hillsborough, North Carolina.",
+    "category": "historical",
+    "family_line": null
+  },
+  {
+    "year": 1756,
+    "year_display": "1756",
+    "event": "December Orange NC Court Minutes: Robert Berry vs Richard Gibbs. Court Minutes [187]-94bk1 p56.",
+    "category": "court",
+    "family_line": "Robert Berry OC"
+  },
+  {
+    "year": 1757,
+    "year_display": "1757",
+    "event": "Robert Berry granted a Granville Land Grant on May 12. Court Minutes 14:244/344.",
+    "category": "land",
+    "family_line": "Robert Berry OC"
+  },
+  {
+    "year": 1757,
+    "year_display": "1757",
+    "event": "March Orange NC Court Minutes: Berry vs Gibbs case. Jury found for plaintiff. Damages: four shillings and nine pence. Judgement L-: 4:9, Clerk 3:9:11.",
+    "category": "court",
+    "family_line": "Robert Berry OC"
+  },
+  {
+    "year": 1758,
+    "year_display": "1758",
+    "event": "September Orange NC Court Minutes: Deed of sale from Earl of Granville to Robert Berry for 260 acres proved in open court by oath of William Churton and ordered to be registered.",
+    "category": "land",
+    "family_line": "Robert Berry OC"
+  },
+  {
+    "year": 1759,
+    "year_display": "1759",
+    "event": "Robert Berry (OC) age 29 and Elizabeth Cate age 20 may have married this year in Orange County, NC.",
+    "category": "marriage",
+    "uncertain": true,
+    "family_line": "Robert Berry OC"
+  },
+  {
+    "year": 1759,
+    "year_display": "1759",
+    "event": "March Orange NC Court Minutes: Robert Berry sworn as Grand Juror.",
+    "category": "court",
+    "family_line": "Robert Berry OC"
+  },
+  {
+    "year": 1759,
+    "year_display": "1759",
+    "event": "Mary Berry most likely born in Orange County, NC. Parents: Robert and Elizabeth Cate Berry.",
+    "category": "birth",
+    "uncertain": true,
+    "family_line": "Robert Berry OC"
+  },
+  {
+    "year": 1759,
+    "year_display": "1759",
+    "event": "December Term: Robert Berry served as Juror. Court Minutes [351]-176 bk1 p99.",
+    "category": "court",
+    "family_line": "Robert Berry OC"
+  },
+  {
+    "year": 1760,
+    "year_display": "1760",
+    "event": "July 15: Robert Berry SCC in survey for Walton Land Grant 12:55.",
+    "category": "land",
+    "family_line": "Robert Berry OC"
+  },
+  {
+    "year": 1760,
+    "year_display": "1760",
+    "event": "Robert Berry Jr. most likely born in Orange County, NC. Parents: Robert and Elizabeth Cate Berry.",
+    "category": "birth",
+    "uncertain": true,
+    "family_line": "Robert Berry Jr."
+  },
+  {
+    "year": 1762,
+    "year_display": "1762",
+    "event": "November 26: Robert Berry CC James Murdock Land Grant 12:1.",
+    "category": "land",
+    "family_line": "Robert Berry OC"
+  },
+  {
+    "year": 1763,
+    "year_display": "1763",
+    "event": "Treaty of Paris concluded the Great War for Empire. Britain inaugurated its New Colonial Policy, including taxation of the colonies.",
+    "category": "historical",
+    "family_line": null
+  },
+  {
+    "year": 1763,
+    "year_display": "1763",
+    "event": "John Berry most likely born in Orange County, NC. Parents: Robert and Elizabeth Cate Berry.",
+    "category": "birth",
+    "uncertain": true,
+    "family_line": "Robert Berry OC"
+  },
+  {
+    "year": 1764,
+    "year_display": "1764",
+    "event": "Mary Camp born in Rutherford Co NC. She would later marry Robert Berry Jr.",
+    "category": "birth",
+    "family_line": "Robert Berry Jr."
+  },
+  {
+    "year": 1765,
+    "year_display": "1765",
+    "event": "Parliament passed the Stamp Act. Protests in Wilmington and other places.",
+    "category": "historical",
+    "family_line": null
+  },
+  {
+    "year": 1766,
+    "year_display": "1766",
+    "event": "North Carolina Sons of Liberty offered armed resistance to the Stamp Act at Brunswick. The Stamp Act was repealed by Parliament.",
+    "category": "historical",
+    "family_line": null
+  },
+  {
+    "year": 1766,
+    "year_display": "1766",
+    "event": "Robert Berry (OC) built his Plantation House at Fiddleton. The chimney was still standing in 2009, 243 years later.",
+    "category": "historical",
+    "family_line": "Robert Berry OC"
+  },
+  {
+    "year": 1766,
+    "year_display": "1766",
+    "event": "Joshua Berry may have been born in Orange County, NC. Parents: Robert and Elizabeth Cate Berry.",
+    "category": "birth",
+    "uncertain": true,
+    "family_line": "Joshua Berry"
+  },
+  {
+    "year": 1766,
+    "year_display": "1766",
+    "event": "Jacob Pickle born in NC. Would grow up to marry Catherine Berry, daughter of Robert Jr. and Mary Camp Berry.",
+    "category": "birth",
+    "family_line": "Robert Berry Jr."
+  },
+  {
+    "year": 1767,
+    "year_display": "1767",
+    "event": "David Caldwell opened his Log College in Guilford County.",
+    "category": "historical",
+    "family_line": null
+  },
+  {
+    "year": 1768,
+    "year_display": "1768",
+    "event": "Farmers of Orange County organized the Regulator Association. Movement spread to other counties in the backcountry.",
+    "category": "historical",
+    "family_line": null
+  },
+  {
+    "year": 1768,
+    "year_display": "1768",
+    "event": "Isaac Berry may have been born in Orange County, NC. Parents: Robert and Elizabeth Cate Berry.",
+    "category": "birth",
+    "uncertain": true,
+    "family_line": "Robert Berry OC"
+  },
+  {
+    "year": 1769,
+    "year_display": "1769",
+    "event": "Joshua Berry estimated to have been born in Orange County, NC. Parents: Robert and Elizabeth Cate Berry. (Note: 1766 given in some sources.)",
+    "category": "birth",
+    "uncertain": true,
+    "family_line": "Joshua Berry"
+  },
+  {
+    "year": 1770,
+    "year_display": "1770",
+    "event": "Elizabeth Berry may have been born in Orange County, NC. Parents: Robert and Elizabeth Cate Berry.",
+    "category": "birth",
+    "uncertain": true,
+    "family_line": "Robert Berry OC"
+  },
+  {
+    "year": 1770,
+    "year_display": "1770",
+    "event": "Hannah Cate born in Orange Co NC. Parents: William Cate and Elizabeth Messersmith. Would marry William Berry.",
+    "category": "birth",
+    "family_line": "William Berry"
+  },
+  {
+    "year": 1770,
+    "year_display": "1770",
+    "event": "Tryon Palace, colonial capital at New Bern, was completed.",
+    "category": "historical",
+    "family_line": null
+  },
+  {
+    "year": 1770,
+    "year_display": "1770",
+    "event": "Parts of Orange County used to form Guilford, Randolph, Rockingham, Wake, and Chatham Counties.",
+    "category": "historical",
+    "family_line": null
+  },
+  {
+    "year": 1771,
+    "year_display": "1771",
+    "event": "May 16: Regulators defeated at Battle of Alamance by NC militiamen led by William Tryon.",
+    "category": "historical",
+    "family_line": null
+  },
+  {
+    "year": 1771,
+    "year_display": "1771",
+    "event": "Caswell County was formed in the northwest corner of Orange County.",
+    "category": "historical",
+    "family_line": null
+  },
+  {
+    "year": 1772,
+    "year_display": "1772",
+    "event": "Thomas Berry born to Robert (age 44) and Elizabeth Cate Berry (age 39).",
+    "category": "birth",
+    "family_line": "Thomas Berry"
+  },
+  {
+    "year": 1774,
+    "year_display": "1774",
+    "event": "David J. Berry born to Robert (age 46) and Elizabeth Cate Berry (age 41).",
+    "category": "birth",
+    "family_line": "David J. Berry"
+  },
+  {
+    "year": 1774,
+    "year_display": "1774",
+    "event": "August: First Provincial Congress met at New Bern. Delegates chosen to First Continental Congress. October 25th: Edenton Tea Party.",
+    "category": "historical",
+    "family_line": null
+  },
+  {
+    "year": 1775,
+    "year_display": "1775",
+    "event": "William Berry may have been born in Orange County, NC. Parents: Robert and Elizabeth Cate Berry.",
+    "category": "birth",
+    "uncertain": true,
+    "family_line": "William Berry"
+  },
+  {
+    "year": 1775,
+    "year_display": "1775",
+    "event": "Mary Blalock born in Orange Co NC. Would grow up to marry David J. Berry.",
+    "category": "birth",
+    "family_line": "David J. Berry"
+  },
+  {
+    "year": 1775,
+    "year_display": "1775",
+    "event": "April 19: American Revolution began at Lexington and Concord. May 20: Mecklenburg Declaration of Independence. Provincial Congress at Hillsborough put NC on war footing.",
+    "category": "military",
+    "family_line": null
+  },
+  {
+    "year": 1776,
+    "year_display": "1776",
+    "event": "Henry Berry born in Orange County, NC. Parents: Robert and Elizabeth Cate Berry.",
+    "category": "birth",
+    "family_line": "Henry Berry"
+  },
+  {
+    "year": 1776,
+    "year_display": "1776",
+    "event": "Winifred Mattox born in Greenville NC. Would grow up to marry John Camp, son of James and Mary Berry Camp.",
+    "category": "birth",
+    "family_line": "Mary Berry Camp"
+  },
+  {
+    "year": 1776,
+    "year_display": "1776",
+    "event": "Feb 27: Tories defeated at Moores Creek Bridge. Apr 12: NC authorized delegates to concur independence. Aug 2: NC delegates signed Declaration of Independence. Dec 18: Bill of Rights and Constitution adopted. Richard Caswell chosen Governor.",
+    "category": "military",
+    "family_line": null
+  },
+  {
+    "year": 1777,
+    "year_display": "1777",
+    "event": "November: Robert Berry ordered to work on road. Orange NC Court Minutes [1088]-20-folio 10 bk3 p11.",
+    "category": "court",
+    "family_line": "Robert Berry OC"
+  },
+  {
+    "year": 1777,
+    "year_display": "1777–1779",
+    "event": "State Legislature passed laws confiscating Tory property.",
+    "category": "historical",
+    "family_line": null
+  },
+  {
+    "year": 1778,
+    "year_display": "1778",
+    "event": "Articles of Confederation ratified by North Carolina.",
+    "category": "historical",
+    "family_line": null
+  },
+  {
+    "year": 1778,
+    "year_display": "1778",
+    "event": "February Orange NC Court Minutes: Robert Berry empanelled as Grand Juror with Henry Waggoner and others. Court Minutes [1107]-bk 3.",
+    "category": "court",
+    "family_line": "Robert Berry OC"
+  },
+  {
+    "year": 1778,
+    "year_display": "1778",
+    "event": "Ann Waggoner possibly born in Orange Co NC. Parents: George Waggoner and Mary Berry. (Uncertain.)",
+    "category": "birth",
+    "uncertain": true,
+    "family_line": "Robert Berry OC"
+  },
+  {
+    "year": 1780,
+    "year_display": "1780",
+    "event": "March 13: Robert Berry Scc for Wilson Land Grant 21:411. Robert Berry granted 293 acres from state joining east boundary of 1757 Granville Grant, between Quarrel Creek and Lick Creek. Deed Book 42 Page 19.",
+    "category": "land",
+    "family_line": "Robert Berry OC"
+  },
+  {
+    "year": 1780,
+    "year_display": "1780",
+    "event": "October 7: Decisive American victory at Battle of Kings Mountain.",
+    "category": "military",
+    "family_line": null
+  },
+  {
+    "year": 1780,
+    "year_display": "1780",
+    "event": "Elizabeth Waggoner possibly born in Orange Co NC. Parents: George Waggoner and Mary Berry. (Uncertain.)",
+    "category": "birth",
+    "uncertain": true,
+    "family_line": "Robert Berry OC"
+  },
+  {
+    "year": 1781,
+    "year_display": "1781",
+    "event": "March 15: Cornwallis won technical victory at Battle of Guilford Courthouse but began retreat. September 12: Tories captured Governor Thomas Burke at Hillsborough. October 19: Cornwallis surrendered at Yorktown.",
+    "category": "military",
+    "family_line": null
+  },
+  {
+    "year": 1781,
+    "year_display": "1781",
+    "event": "April 2: George Waggoner wrote his will, appointing Robert Berry and Elizabeth Berry Waggoner as executor and executrix. George likely died from wounds at Guilford Courthouse 18 days earlier.",
+    "category": "will_estate",
+    "family_line": "Robert Berry OC"
+  },
+  {
+    "year": 1781,
+    "year_display": "1781",
+    "event": "June 2: Alexander Mebane purchased 200 pounds of beef from Robert Berry for the State of North Carolina for eleven Spanish milled dollars on credit at 6%.",
+    "category": "historical",
+    "family_line": "Robert Berry OC"
+  },
+  {
+    "year": 1781,
+    "year_display": "1781",
+    "event": "June: Sale of estate of John Cate, Caswell County. Robert Berry among buyers.",
+    "category": "will_estate",
+    "family_line": "Robert Berry OC"
+  },
+  {
+    "year": 1781,
+    "year_display": "1781",
+    "event": "November Orange NC Court Minutes: Last Will of George Waggoner proven. Mary Waggoner and Robert Berry qualified as Executor and Executrix. Court Minutes [1263]-108 folio 54 bk 3 p55.",
+    "category": "will_estate",
+    "family_line": "Robert Berry OC"
+  },
+  {
+    "year": 1781,
+    "year_display": "1781",
+    "event": "Mary Berry Waggoner married James Kemp/Camp in Orange County NC, December. Bride's Parents: Robert and Elizabeth Cates Berry. Groom's Parents: Thomas Camp and Winifred Starling.",
+    "category": "marriage",
+    "family_line": "Mary Berry Camp"
+  },
+  {
+    "year": 1781,
+    "year_display": "1781",
+    "event": "Sarah Cates born December 22 in Orange Co NC. Parents: William Cates and Elizabeth Messersmith.",
+    "category": "birth",
+    "family_line": "Thomas Berry"
+  },
+  {
+    "year": 1782,
+    "year_display": "1782",
+    "event": "February Orange NC Court Minutes: Inventory of Estate of George Waggoner returned on oath by Robert Berry and Mary Kemp. Court Minutes [1273]-113-folio 56 bk 3 p 58.",
+    "category": "will_estate",
+    "family_line": "Robert Berry OC"
+  },
+  {
+    "year": 1782,
+    "year_display": "1782",
+    "event": "May Orange NC Court Minutes: Robert Berry excused from jury duty. Note: Was he serving in the Continental Army at this time? Court Minutes [1277]-115-folio-57 bk 3 p 59.",
+    "category": "court",
+    "family_line": "Robert Berry OC"
+  },
+  {
+    "year": 1782,
+    "year_display": "1782",
+    "event": "August 7: Auditor's Office, State of NC, Hillsborough District, paid Robert Berry nine pounds four shillings on his claim.",
+    "category": "military",
+    "family_line": "Robert Berry OC"
+  },
+  {
+    "year": 1783,
+    "year_display": "1783",
+    "event": "Treaty of Paris between England and the United States. Official end of the Revolutionary War.",
+    "category": "historical",
+    "family_line": null
+  },
+  {
+    "year": 1784,
+    "year_display": "1784",
+    "event": "Robert Berry Jr. married Mary Camp about this time.",
+    "category": "marriage",
+    "uncertain": true,
+    "family_line": "Robert Berry Jr."
+  },
+  {
+    "year": 1784,
+    "year_display": "1784",
+    "event": "May Orange NC Court Minutes: Robert Berry appointed Overseer of the Road in the Room of James Murdock. Court Minutes [1429]-190-folio 37 bk 3 p90.",
+    "category": "court",
+    "family_line": "Robert Berry OC"
+  },
+  {
+    "year": 1784,
+    "year_display": "1784",
+    "event": "John Camp born in Rutherford County, NC. First son of James and Mary Berry Camp.",
+    "category": "birth",
+    "family_line": "Mary Berry Camp"
+  },
+  {
+    "year": 1785,
+    "year_display": "1785",
+    "event": "Sarah Camp born November 9 in Rutherford County, NC. Only known daughter of James and Mary Berry Camp.",
+    "category": "birth",
+    "family_line": "Mary Berry Camp"
+  },
+  {
+    "year": 1785,
+    "year_display": "1785",
+    "event": "Catherine Berry born in Orange County, NC. Parents: Robert Berry Jr. and Mary Camp Berry.",
+    "category": "birth",
+    "family_line": "Robert Berry Jr."
+  },
+  {
+    "year": 1785,
+    "year_display": "1785",
+    "event": "Robert Berry received one fourth of his pay for serving as a private in the NC Continental Line: twenty-three pounds, nine shillings and six pence.",
+    "category": "military",
+    "family_line": "Robert Berry OC"
+  },
+  {
+    "year": 1786,
+    "year_display": "1786",
+    "event": "August Orange NC Court Minutes: Michael Robinson appointed Overseer of Road in the room of Robert Berry from Caswell Line to South Fork of Little River. Court Minutes [1667]-309-folio 38 bk 3 p138.",
+    "category": "court",
+    "family_line": "Robert Berry OC"
+  },
+  {
+    "year": 1787,
+    "year_display": "1787",
+    "event": "US Constitution drawn up at Philadelphia. Signed for NC by William Blount, Richard Dobbs Spaight, and Hugh Williamson.",
+    "category": "historical",
+    "family_line": null
+  },
+  {
+    "year": 1787,
+    "year_display": "1787",
+    "event": "March 2: Robert Berry (OC) bought the Patrick Rutherford Plantation from Rutherford's three sons after Rutherford's death.",
+    "category": "land",
+    "family_line": "Robert Berry OC"
+  },
+  {
+    "year": 1787,
+    "year_display": "1787",
+    "event": "Robert Berry Camp born March 30 in Rutherford NC. Parents: Mary Berry and James Camp.",
+    "category": "birth",
+    "family_line": "Mary Berry Camp"
+  },
+  {
+    "year": 1787,
+    "year_display": "1787",
+    "event": "John Berry born in NC. Parents: Robert Berry Jr. and Mary Camp.",
+    "category": "birth",
+    "family_line": "Robert Berry Jr."
+  },
+  {
+    "year": 1788,
+    "year_display": "1788",
+    "event": "Convention at Hillsborough refused to ratify US Constitution but suggested amendments. Convention voted to locate permanent capital within ten miles of Isaac Hunter's Tavern, Raleigh.",
+    "category": "historical",
+    "family_line": null
+  },
+  {
+    "year": 1789,
+    "year_display": "1789",
+    "event": "August Orange NC Court Minutes: Robert Berry appointed overseer of road in Room of T Bowles. Court Minutes [1780]-236 bk 4 p77.",
+    "category": "court",
+    "family_line": "Robert Berry OC"
+  },
+  {
+    "year": 1789,
+    "year_display": "1789",
+    "event": "University of North Carolina chartered. General Thomas Person, for whom Person County was named, contributed 1000 Spanish milled dollars.",
+    "category": "historical",
+    "family_line": null
+  },
+  {
+    "year": 1789,
+    "year_display": "1789",
+    "event": "Merritt Camp born in Rutherford NC. Parents: Mary Berry and James Camp.",
+    "category": "birth",
+    "family_line": "Mary Berry Camp"
+  },
+  {
+    "year": 1789,
+    "year_display": "1789",
+    "event": "Thomas Berry born in Orange Co NC. Parents: unknown (possibly Thomas and Sarah Cate Berry).",
+    "category": "birth",
+    "uncertain": true,
+    "family_line": "Thomas Berry"
+  },
+  {
+    "year": 1790,
+    "year_display": "1790",
+    "event": "First United States Census.",
+    "category": "census",
+    "family_line": null
+  },
+  {
+    "year": 1790,
+    "year_display": "1790",
+    "event": "Henry Berry born in Orange Co NC. Parents: Robert Berry Jr. and Mary Camp. Spouse: Lucy Weaver.",
+    "category": "birth",
+    "family_line": "Robert Berry Jr."
+  },
+  {
+    "year": 1791,
+    "year_display": "1791",
+    "event": "Person County formed in northeast corner of Orange County.",
+    "category": "historical",
+    "family_line": null
+  },
+  {
+    "year": 1791,
+    "year_display": "1791–1792",
+    "event": "Bastardy Bond issued to William Riley for Elizabeth Berry, a single woman pregnant with his child. The child was named Mary Berry; Robert Berry named her in his will.",
+    "category": "court",
+    "family_line": "Robert Berry OC"
+  },
+  {
+    "year": 1791,
+    "year_display": "1791",
+    "event": "Joseph Camp born in Georgia. Parents: Mary Berry and James Camp.",
+    "category": "birth",
+    "family_line": "Mary Berry Camp"
+  },
+  {
+    "year": 1791,
+    "year_display": "1791",
+    "event": "George Washington made his famous southern tour.",
+    "category": "historical",
+    "family_line": null
+  },
+  {
+    "year": 1791,
+    "year_display": "1791",
+    "event": "Robert Berry released from overseer of road.",
+    "category": "court",
+    "family_line": "Robert Berry OC"
+  },
+  {
+    "year": 1791,
+    "year_display": "1791",
+    "event": "May Orange NC Court Minutes: Wm. Jamison vs Robert Berry, Certiorari. Jury found for Plaintiff. Court Minutes [2092]-54. bk 4 p 106.",
+    "category": "court",
+    "family_line": "Robert Berry OC"
+  },
+  {
+    "year": 1791,
+    "year_display": "1791",
+    "event": "November Orange NC Court Minutes: Administration of estate of James Waggoner granted to Catherine Waggoner. Robert Berry Jun. as security in sum of L 50. Court Minutes bk 4 p114.",
+    "category": "will_estate",
+    "family_line": "Robert Berry Jr."
+  },
+  {
+    "year": 1792,
+    "year_display": "1792",
+    "event": "Joshua Berry (age 26) and Nancy Ellison (age 17) married January 28 in Orange County, NC.",
+    "category": "marriage",
+    "family_line": "Joshua Berry"
+  },
+  {
+    "year": 1792,
+    "year_display": "1792",
+    "event": "State of NC paid Robert Berry 53 pounds, 8 shillings, 1 pence for service in the NC Continental Line. Paid May 7. Robert Berry was age 62.",
+    "category": "military",
+    "family_line": "Robert Berry OC"
+  },
+  {
+    "year": 1792,
+    "year_display": "1792",
+    "event": "Robert Berry probably born. Parents: Joshua and Nancy Ellison Berry.",
+    "category": "birth",
+    "uncertain": true,
+    "family_line": "Joshua Berry"
+  },
+  {
+    "year": 1792,
+    "year_display": "1792",
+    "event": "Mary Berry born in Orange County NC. Parents: Elizabeth Berry and William Riley. Grandparents: Robert and Elizabeth Cates Berry.",
+    "category": "birth",
+    "family_line": "Robert Berry OC"
+  },
+  {
+    "year": 1793,
+    "year_display": "1793",
+    "event": "Starling Camp born October 22 in Rutherford County, NC. Parents: Mary Berry and James Camp.",
+    "category": "birth",
+    "family_line": "Mary Berry Camp"
+  },
+  {
+    "year": 1795,
+    "year_display": "1795",
+    "event": "Crossroad communities started to develop in Orange County: Caldwell, Cedar Grove, Oaks, and White Cross.",
+    "category": "historical",
+    "family_line": null
+  },
+  {
+    "year": 1797,
+    "year_display": "1797",
+    "event": "David J. Berry and Mary Blalock married February 21 in Orange County, NC.",
+    "category": "marriage",
+    "family_line": "David J. Berry"
+  },
+  {
+    "year": 1797,
+    "year_display": "1797",
+    "event": "James Berry born August 15 in Orange County, NC. Parents: Joshua Berry and Nancy Ellison.",
+    "category": "birth",
+    "family_line": "Joshua Berry"
+  },
+  {
+    "year": 1798,
+    "year_display": "1798",
+    "event": "Dicey Berry born in Orange County, NC. Parents: Joshua and Nancy Ellison Berry. Married Andrew Murdock December 16, 1824.",
+    "category": "birth",
+    "family_line": "Joshua Berry"
+  },
+  {
+    "year": 1798,
+    "year_display": "1798",
+    "event": "Sarah Berry born April 4 in Orange County, NC. Parents: David J. and Mary Blalock Berry.",
+    "category": "birth",
+    "family_line": "David J. Berry"
+  },
+  {
+    "year": 1799,
+    "year_display": "1799",
+    "event": "Winifred Berry born in Orange County, NC. Parents: David J. and Mary Blalock Berry.",
+    "category": "birth",
+    "family_line": "David J. Berry"
+  },
+  {
+    "year": 1799,
+    "year_display": "1799",
+    "event": "William Berry (age 24) and Hannah Cate Berry (age 29) married August 12 in Orange County, NC. Hannah and Sarah Cate were sisters who married Berry brothers William and Thomas.",
+    "category": "marriage",
+    "family_line": "William Berry"
+  },
+  {
+    "year": 1799,
+    "year_display": "1799",
+    "event": "James Berry born in Orange County, NC, died in Smith County, Tennessee. Parents: Joshua and Nancy Ellison Berry.",
+    "category": "birth",
+    "family_line": "Joshua Berry"
+  },
+  {
+    "year": 1800,
+    "year_display": "1800",
+    "event": "Second United States Census taken in Orange County.",
+    "category": "census",
+    "family_line": null
+  },
+  {
+    "year": 1800,
+    "year_display": "1800",
+    "event": "October 14: Robert Berry sold 200 acres of land to neighbor William Armstrong. (DB 13:330)",
+    "category": "land",
+    "family_line": "Robert Berry OC"
+  },
+  {
+    "year": 1800,
+    "year_display": "1800",
+    "event": "Thomas Berry married Sarah Cate on August 11 in Orange County, NC. Sisters Hannah and Sarah Cate married Berry brothers William and Thomas.",
+    "category": "marriage",
+    "family_line": "Thomas Berry"
+  },
+  {
+    "year": 1800,
+    "year_display": "1800",
+    "event": "David J. Berry Jr. born in Orange County, NC. Parents: David J. and Mary Blalock Berry.",
+    "category": "birth",
+    "family_line": "David J. Berry"
+  },
+  {
+    "year": 1801,
+    "year_display": "1801",
+    "event": "Eleanor Berry born in Orange Co NC. Parents: Thomas and Sarah Cate Berry. Married John Reed; died in Cypress Inn, Tennessee.",
+    "category": "birth",
+    "family_line": "Thomas Berry"
+  },
+  {
+    "year": 1801,
+    "year_display": "1801",
+    "event": "Thompson Berry born December 18 in Orange County, NC. Third son of Robert Berry Jr. and Mary Camp Berry. Married Rosanna Gutman in Fayette Co AL on June 6, 1824.",
+    "category": "birth",
+    "family_line": "Robert Berry Jr."
+  },
+  {
+    "year": 1801,
+    "year_display": "1801",
+    "event": "Joshua Berry Jr. born April 15. Parents: Joshua and Nancy Ellison Berry.",
+    "category": "birth",
+    "family_line": "Joshua Berry"
+  },
+  {
+    "year": 1802,
+    "year_display": "1802",
+    "event": "David Berry (David Berry II) born in Orange County, NC. Son of Thomas and Sarah Cate Berry. Moved to Tennessee; married Elizabeth Shipman.",
+    "category": "birth",
+    "family_line": "Thomas Berry"
+  },
+  {
+    "year": 1802,
+    "year_display": "1802",
+    "event": "Delilah Berry born estimated in Orange County, NC. Parents: Joshua and Nancy Berry.",
+    "category": "birth",
+    "uncertain": true,
+    "family_line": "Joshua Berry"
+  },
+  {
+    "year": 1802,
+    "year_display": "1802",
+    "event": "Catherine Berry married Jacob Pickle on February 20. Catherine's parents: Robert Berry Jr. and Mary Camp Berry.",
+    "category": "marriage",
+    "family_line": "Robert Berry Jr."
+  },
+  {
+    "year": 1803,
+    "year_display": "1803",
+    "event": "William Cate's estate sale. Hannah Cate Berry and Sarah Cate Berry among attendees with other Berry family members.",
+    "category": "will_estate",
+    "family_line": null
+  },
+  {
+    "year": 1803,
+    "year_display": "1803",
+    "event": "William Clarence Berry born October 17 in Orange County, NC. Parents: Robert Berry Jr. and Mary Camp Berry.",
+    "category": "birth",
+    "family_line": "Robert Berry Jr."
+  },
+  {
+    "year": 1805,
+    "year_display": "1805",
+    "event": "David Middleton Berry born April 14 in Orange County, NC. Fifth son of Robert Berry Jr. and Mary Camp Berry. (Twin with Robert Cates Berry.) Married Didama Box about 1827.",
+    "category": "birth",
+    "family_line": "Robert Berry Jr."
+  },
+  {
+    "year": 1805,
+    "year_display": "1805",
+    "event": "Robert C. Berry born April 14 in Orange County, NC. Son of William and Hannah Cate Berry.",
+    "category": "birth",
+    "family_line": "William Berry"
+  },
+  {
+    "year": 1805,
+    "year_display": "1805",
+    "event": "Lewis Berry born to Joshua and Nancy Ellison Berry.",
+    "category": "birth",
+    "family_line": "Joshua Berry"
+  },
+  {
+    "year": 1805,
+    "year_display": "1805",
+    "event": "Mary Berry born April 14 in Orange County, NC. Parents: David J. Berry and Mary Blalock.",
+    "category": "birth",
+    "family_line": "David J. Berry"
+  },
+  {
+    "year": 1806,
+    "year_display": "1806",
+    "event": "Thomas Berry sold 200 acres to James Miller for 125 pounds. Sold in preparation for westward journey. Thomas never returned; believed killed by Indians in Tennessee.",
+    "category": "land",
+    "family_line": "Thomas Berry"
+  },
+  {
+    "year": 1807,
+    "year_display": "1807",
+    "event": "Mary Berry born in Orange County. Parents: David J. and Mary Blalock Berry.",
+    "category": "birth",
+    "family_line": "David J. Berry"
+  },
+  {
+    "year": 1807,
+    "year_display": "1807",
+    "event": "Robert Berry Sr. sold 200 acres to William Stagg for 150 Pounds. Deed Bk. 39 Page 396. William Stagg married Utley Waggoner in 1805.",
+    "category": "land",
+    "family_line": "Robert Berry OC"
+  },
+  {
+    "year": 1808,
+    "year_display": "1808",
+    "event": "Thomas Person Berry born June 1 in Orange County, NC. Parents: William and Hannah Cate Berry.",
+    "category": "birth",
+    "family_line": "William Berry"
+  },
+  {
+    "year": 1809,
+    "year_display": "1809",
+    "event": "Mary Berry married Thomas Berry (unidentified family member) March 7 in Orange County, NC. Bride's Parents: William Riley and Elizabeth Berry. Bondsman: Henry Berry, bride's uncle.",
+    "category": "marriage",
+    "family_line": "Robert Berry OC"
+  },
+  {
+    "year": 1810,
+    "year_display": "1810",
+    "event": "Robert Berry Jr. listed in Person County, NC Census. He and his family later removed to Fayette County, Alabama.",
+    "category": "census",
+    "family_line": "Robert Berry Jr."
+  },
+  {
+    "year": 1810,
+    "year_display": "1810",
+    "event": "Hannah Cate Berry listed head of household in Orange County, NC Census. Sisters Hannah and Sarah Berry were living together with children while husbands Thomas and William Berry were seeking land in Tennessee.",
+    "category": "census",
+    "family_line": "William Berry"
+  },
+  {
+    "year": 1810,
+    "year_display": "1810",
+    "event": "Nancy Berry born to Joshua and Nancy Ellison Berry, Orange County, NC.",
+    "category": "birth",
+    "family_line": "Joshua Berry"
+  },
+  {
+    "year": 1810,
+    "year_display": "1810",
+    "event": "Henry Berry born in Orange County, NC. Parents: David J. and Mary Blalock Berry.",
+    "category": "birth",
+    "family_line": "David J. Berry"
+  },
+  {
+    "year": 1811,
+    "year_display": "1811",
+    "event": "George N. Berry born in Orange County, NC. Parents: David J. and Mary Blalock Berry.",
+    "category": "birth",
+    "family_line": "David J. Berry"
+  },
+  {
+    "year": 1811,
+    "year_display": "1811",
+    "event": "Robert Berry sold land west of Lick Creek to son Joshua Berry. February 24. Deed Bk. 14 Page 57, Orange County, NC.",
+    "category": "land",
+    "family_line": "Robert Berry OC"
+  },
+  {
+    "year": 1812,
+    "year_display": "1812",
+    "event": "Elizabeth Berry born in Orange County, NC. Mother: Hannah Cate Berry. Father: John Berry (unidentified).",
+    "category": "birth",
+    "family_line": "William Berry"
+  },
+  {
+    "year": 1812,
+    "year_display": "1812",
+    "event": "Robert Berry born in Orange County, NC. Parents: David J. and Mary Blalock Berry.",
+    "category": "birth",
+    "family_line": "David J. Berry"
+  },
+  {
+    "year": 1812,
+    "year_display": "1812",
+    "event": "Robert Berry wrote his will April 16. Will Book D Page 408 Orange County, NC.",
+    "category": "will_estate",
+    "family_line": "Robert Berry OC"
+  },
+  {
+    "year": 1813,
+    "year_display": "1813",
+    "event": "Charlotte Berry born in Orange County, NC. Parents: Joshua and Nancy Ellison Berry.",
+    "category": "birth",
+    "family_line": "Joshua Berry"
+  },
+  {
+    "year": 1814,
+    "year_display": "1814",
+    "event": "Robert Berry died at age 84. Buried on the Fiddleton Plantation approximately 300 yards from the cabin he built when he first married in 1758. Cemetery: N 36 14' 07.3\" W 79 01' 30.8\".",
+    "category": "death",
+    "family_line": "Robert Berry OC"
+  },
+  {
+    "year": 1814,
+    "year_display": "1814",
+    "event": "Robert Berry's will probated by son Henry Berry and wife Elizabeth Cate Berry. Henry inherited Fiddleton plantation per will dated April 15, 1812.",
+    "category": "will_estate",
+    "family_line": "Robert Berry OC"
+  },
+  {
+    "year": 1815,
+    "year_display": "1815",
+    "event": "John Berry born. Parents: George and Susanna Aldridge Berry. Grandparents: Robert Berry Jr. and Mary Camp. DNA descendant matches 36 out of 37 markers to William Berry descendants from Orange County, NC.",
+    "category": "birth",
+    "family_line": "Robert Berry Jr."
+  },
+  {
+    "year": 1815,
+    "year_display": "1815",
+    "event": "Lydia Berry born in Orange County, NC. Daughter of Isaac Berry.",
+    "category": "birth",
+    "family_line": "Robert Berry OC"
+  },
+  {
+    "year": 1816,
+    "year_display": "1816",
+    "event": "Elizabeth Cate Berry died at about age 86. Buried beside her husband of 63 years, Robert Berry, on the Fiddleton Plantation. N 36 14' 07.3\" W 79 01' 30.8\".",
+    "category": "death",
+    "family_line": "Robert Berry OC"
+  },
+  {
+    "year": 1817,
+    "year_display": "1817",
+    "event": "Sarah Berry married William A. Cates on July 24 in Person County, NC. Bride's parents: David J. and Mary Blalock Berry. Groom's father: Robert Cates.",
+    "category": "marriage",
+    "family_line": "David J. Berry"
+  },
+  {
+    "year": 1817,
+    "year_display": "1817",
+    "event": "Alfred Cates born November 24 in Orange County, NC. Parents: Sarah Berry Cates and William A. Cates.",
+    "category": "birth",
+    "family_line": "David J. Berry"
+  },
+  {
+    "year": 1819,
+    "year_display": "1819",
+    "event": "Chapel Hill, North Carolina, established.",
+    "category": "historical",
+    "family_line": null
+  },
+  {
+    "year": 1819,
+    "year_display": "1819",
+    "event": "Romulus Saunders Cates born September in Orange County, NC. Parents: Sarah Berry Cates and William A. Cates.",
+    "category": "birth",
+    "family_line": "David J. Berry"
+  },
+  {
+    "year": 1819,
+    "year_display": "1819",
+    "event": "George N. Berry died in Orange County, NC, sometime before 1820. Parents: David J. and Mary Blalock Berry.",
+    "category": "death",
+    "family_line": "David J. Berry"
+  },
+  {
+    "year": 1819,
+    "year_display": "1819",
+    "event": "Mary Howell born in Fayette County, Alabama. Would grow up to marry John Berry.",
+    "category": "birth",
+    "family_line": "Robert Berry Jr."
+  },
+  {
+    "year": 1820,
+    "year_display": "1820",
+    "event": "Joshua Berry Jr. and Anna Thorpe married in Ohio or NC.",
+    "category": "marriage",
+    "family_line": "Joshua Berry"
+  },
+  {
+    "year": 1820,
+    "year_display": "1820",
+    "event": "Cynthia Berry born March 29 in Ohio. Parents: Joshua and Anna Thorpe Berry Jr.",
+    "category": "birth",
+    "family_line": "Joshua Berry"
+  },
+  {
+    "year": 1820,
+    "year_display": "1820",
+    "event": "Winifred Berry married Joshua Norman September 19 in Orange County, NC. Parents: David J. and Mary Blalock Berry.",
+    "category": "marriage",
+    "family_line": "David J. Berry"
+  },
+  {
+    "year": 1820,
+    "year_display": "1820",
+    "event": "Martha Cates born May 20 to Sarah Berry Cates and William A. Cates.",
+    "category": "birth",
+    "family_line": "David J. Berry"
+  },
+  {
+    "year": 1821,
+    "year_display": "1821",
+    "event": "Henry and David Berry of Orange County sold a slave girl named Amy to William McKissack Sr. of Person County for $350.",
+    "category": "historical",
+    "family_line": "David J. Berry"
+  },
+  {
+    "year": 1821,
+    "year_display": "1821",
+    "event": "David Norman born October 14 in Orange County, NC. Parents: Winifred Berry and Joshua Norman.",
+    "category": "birth",
+    "family_line": "David J. Berry"
+  },
+  {
+    "year": 1821,
+    "year_display": "1821",
+    "event": "Eli Berry born October 10 in Orange County, NC. Parents: Joshua and Nancy Ellison Berry.",
+    "category": "birth",
+    "family_line": "Joshua Berry"
+  },
+  {
+    "year": 1822,
+    "year_display": "1822",
+    "event": "Mary Polly Cates born January 10 in South Carolina. Granddaughter of David J. and Mary Blalock Berry. Her birthplace in SC proves family was traveling toward Georgia.",
+    "category": "birth",
+    "family_line": "David J. Berry"
+  },
+  {
+    "year": 1822,
+    "year_display": "1822",
+    "event": "David J. Berry removed to Georgia with his entire family.",
+    "category": "migration",
+    "family_line": "David J. Berry"
+  },
+  {
+    "year": 1823,
+    "year_display": "1823",
+    "event": "Isaac Cates born December 27 in Georgia. Parents: Sarah Berry Cates and William A. Cates.",
+    "category": "birth",
+    "family_line": "David J. Berry"
+  },
+  {
+    "year": 1823,
+    "year_display": "1823",
+    "event": "Lucinda Norman born. Parents: Winifred Berry and Joshua Norman.",
+    "category": "birth",
+    "family_line": "David J. Berry"
+  },
+  {
+    "year": 1824,
+    "year_display": "1824",
+    "event": "Joshua P. Berry born April 13 in Orange County, NC. Parents: David J. and Mary Blalock Berry.",
+    "category": "birth",
+    "family_line": "David J. Berry"
+  },
+  {
+    "year": 1824,
+    "year_display": "1824",
+    "event": "Harrison Berry born July 7 in Ohio. Parents: Joshua and Anna Thorpe Berry Jr.",
+    "category": "birth",
+    "family_line": "Joshua Berry"
+  },
+  {
+    "year": 1824,
+    "year_display": "1824",
+    "event": "Robert Berry Jr. and son George Berry granted land April 20 in Fayette County, Alabama. Grant signed by President James Monroe.",
+    "category": "land",
+    "family_line": "Robert Berry Jr."
+  },
+  {
+    "year": 1825,
+    "year_display": "1825",
+    "event": "John Morgan Cates died October 11, 1825. He was a veteran of the War of 1812.",
+    "category": "death",
+    "family_line": "David J. Berry"
+  },
+  {
+    "year": 1826,
+    "year_display": "1826",
+    "event": "Lewis E. Berry born April 27 in Ohio. Parents: Joshua and Anna Thorpe Berry Jr.",
+    "category": "birth",
+    "family_line": "Joshua Berry"
+  },
+  {
+    "year": 1826,
+    "year_display": "1826",
+    "event": "William Clarence Berry married Sally Bowles November 20. Parents: Robert Jr. and Mary Camp Berry.",
+    "category": "marriage",
+    "family_line": "Robert Berry Jr."
+  },
+  {
+    "year": 1826,
+    "year_display": "1826",
+    "event": "Elizabeth J. Cates born December in Georgia. Parents: Sarah Berry Cates and William A. Cates.",
+    "category": "birth",
+    "family_line": "David J. Berry"
+  },
+  {
+    "year": 1826,
+    "year_display": "1826",
+    "event": "Robert Berry born December 30 in Ohio. Parents: Joshua and Anna Thorpe Berry Jr.",
+    "category": "birth",
+    "family_line": "Joshua Berry"
+  },
+  {
+    "year": 1827,
+    "year_display": "1827",
+    "event": "Hannah Cates of Pullen's District, Newton Co., Georgia, granted 202.5 acres on May 13 in Georgia Cherokee Land Lottery.",
+    "category": "land",
+    "family_line": "David J. Berry"
+  },
+  {
+    "year": 1828,
+    "year_display": "1828",
+    "event": "Nancy Ellison Berry born in Orange County, NC. Parents: Lewis and Sally Tolar Berry.",
+    "category": "birth",
+    "family_line": "Joshua Berry"
+  },
+  {
+    "year": 1829,
+    "year_display": "1829",
+    "event": "Wealthy Berry born to Joshua and Anna Thorpe Berry Jr., Ohio.",
+    "category": "birth",
+    "family_line": "Joshua Berry"
+  },
+  {
+    "year": 1829,
+    "year_display": "1829",
+    "event": "David Berry Jr. married Margaret Erwin September 25. Parents: David J. and Mary Blalock Berry.",
+    "category": "marriage",
+    "family_line": "David J. Berry"
+  },
+  {
+    "year": 1829,
+    "year_display": "1829",
+    "event": "George Rufus Berry born February 28 in Orange County, NC. Parents: William C. and Sally Bowles Berry.",
+    "category": "birth",
+    "family_line": "Robert Berry Jr."
+  },
+  {
+    "year": 1829,
+    "year_display": "1829",
+    "event": "David J. Berry removed to Georgia to join his children there.",
+    "category": "migration",
+    "family_line": "David J. Berry"
+  },
+  {
+    "year": 1829,
+    "year_display": "1829",
+    "event": "Eleander Cates born November 26 to Sarah Berry Cates and William A. Cates, Georgia.",
+    "category": "birth",
+    "family_line": "David J. Berry"
+  },
+  {
+    "year": 1829,
+    "year_display": "1829",
+    "event": "Henry Berry married Sarah Roberts April 27 in Henry County, Georgia. Parents: David J. and Mary Blalock Berry.",
+    "category": "marriage",
+    "family_line": "David J. Berry"
+  },
+  {
+    "year": 1830,
+    "year_display": "1830",
+    "event": "Jacob Berry born in Big Cypress, Tennessee. Parents: David II Berry and Elizabeth Shipman Berry.",
+    "category": "birth",
+    "family_line": "Thomas Berry"
+  },
+  {
+    "year": 1830,
+    "year_display": "1830",
+    "event": "Robert Berry age 60-70 and wife listed in Fayette County, Alabama, 1830 Census Roll 3 Page 209.",
+    "category": "census",
+    "family_line": "Robert Berry Jr."
+  },
+  {
+    "year": 1830,
+    "year_display": "1830",
+    "event": "Thomas Person Berry and William Berry bought land from Henry Berry. Deed Bk 24 Page 228. Sold September 19, 1833, to Samuel Wilson and Felix Wilson. Deed Bk 25 Page 431 Orange County.",
+    "category": "land",
+    "family_line": "William Berry"
+  },
+  {
+    "year": 1831,
+    "year_display": "1831",
+    "event": "Thomas Person Berry married Sarah Lunsford September 28 in Orange County, NC. Bondsman: Henry Berry, groom's uncle.",
+    "category": "marriage",
+    "family_line": "William Berry"
+  },
+  {
+    "year": 1831,
+    "year_display": "1831",
+    "event": "Mary Berry married Thomas Howard Barton February 24 in Fayette County, Georgia. Bride's Parents: David J. and Mary Blalock Berry.",
+    "category": "marriage",
+    "family_line": "David J. Berry"
+  },
+  {
+    "year": 1831,
+    "year_display": "1831",
+    "event": "John Berry born to David II Berry and Elizabeth Shipman Berry, Tennessee.",
+    "category": "birth",
+    "family_line": "Thomas Berry"
+  },
+  {
+    "year": 1831,
+    "year_display": "1831",
+    "event": "Elizabeth Jane Berry born March 17 to William C. and Sally Bowles Berry, Orange County, NC.",
+    "category": "birth",
+    "family_line": "Robert Berry Jr."
+  },
+  {
+    "year": 1832,
+    "year_display": "1832",
+    "event": "James H. Berry born to Lewis and Sally Tolar Berry, Orange County, NC.",
+    "category": "birth",
+    "family_line": "Joshua Berry"
+  },
+  {
+    "year": 1832,
+    "year_display": "1832",
+    "event": "Elizabeth Berry married Theodrick Franklin in Orange County, NC. Bride's mother: Hannah Cate Berry. Bondsman: half-brother Thomas Person Berry.",
+    "category": "marriage",
+    "family_line": "William Berry"
+  },
+  {
+    "year": 1832,
+    "year_display": "1832",
+    "event": "Temperance Jane Franklin born to Elizabeth Berry and Theodrick Franklin, Orange County, NC.",
+    "category": "birth",
+    "family_line": "William Berry"
+  },
+  {
+    "year": 1832,
+    "year_display": "1832",
+    "event": "Elsie Berry born to Joshua and Anna Thorpe Berry Jr. in Ohio.",
+    "category": "birth",
+    "family_line": "Joshua Berry"
+  },
+  {
+    "year": 1833,
+    "year_display": "1833",
+    "event": "Ira Berry born to Lewis and Sally Tolar Berry in NC.",
+    "category": "birth",
+    "family_line": "Joshua Berry"
+  },
+  {
+    "year": 1833,
+    "year_display": "1833",
+    "event": "Migration: Several Berry families moved from Orange County NC to Georgia and Alabama. Included Elizabeth Berry Franklin, John Berry (b.1815), Thomas Person Berry, William Berry, and others.",
+    "category": "migration",
+    "family_line": "Multiple"
+  },
+  {
+    "year": 1836,
+    "year_display": "1836",
+    "event": "William H. Berry born in Orange County, NC. Parents: Thomas Person and Sarah Lunsford Berry.",
+    "category": "birth",
+    "family_line": "William Berry"
+  },
+  {
+    "year": 1838,
+    "year_display": "1838",
+    "event": "John Berry married Mary Howell. Grooms parents: George Berry and Susan Berry. DNA: descendant matches Robert Berry DNA by 36 out of 37 markers.",
+    "category": "marriage",
+    "family_line": "Robert Berry Jr."
+  },
+  {
+    "year": 1838,
+    "year_display": "1838",
+    "event": "October 8: Joshua Berry, son of Robert and Elizabeth Cates Berry, was killed in a grog shop in Hillsborough by Martin Armstrong, who threw Joshua to the floor breaking his neck after Joshua refused to serve him more whiskey.",
+    "category": "death",
+    "family_line": "Joshua Berry"
+  },
+  {
+    "year": 1842,
+    "year_display": "1842",
+    "event": "John Robert Berry born September 25 in Orange County, NC. Parents: Thomas Person and Sarah Lunsford Berry.",
+    "category": "birth",
+    "family_line": "William Berry"
+  },
+  {
+    "year": 1846,
+    "year_display": "1846",
+    "event": "Eli Berry married Judy Betsie Taylor December 21 in Orange County, NC. Groom's parents: Joshua and Nancy Ellison Berry.",
+    "category": "marriage",
+    "family_line": "Joshua Berry"
+  },
+  {
+    "year": 1846,
+    "year_display": "1846–1848",
+    "event": "Mexican War.",
+    "category": "military",
+    "family_line": null
+  },
+  {
+    "year": 1849,
+    "year_display": "1849",
+    "event": "Alamance County formed from the west part of Orange County.",
+    "category": "historical",
+    "family_line": null
+  },
+  {
+    "year": 1853,
+    "year_display": "1853",
+    "event": "First North Carolina State Fair held in Raleigh, October 18-21.",
+    "category": "historical",
+    "family_line": null
+  },
+  {
+    "year": 1853,
+    "year_display": "1853",
+    "event": "Hiram Howard married Sarah Berry November 24 in Rusk County, Texas. Bride's parents: John and Mary Howell Berry.",
+    "category": "marriage",
+    "family_line": "Robert Berry Jr."
+  },
+  {
+    "year": 1856,
+    "year_display": "1856",
+    "event": "North Carolina Railroad completed from Goldsboro to Charlotte.",
+    "category": "historical",
+    "family_line": null
+  },
+  {
+    "year": 1857,
+    "year_display": "1857",
+    "event": "William H. Berry married Sarah Frances King August 6 in Orange County, NC. Groom's parents: Thomas Person and Sarah Lunsford Berry.",
+    "category": "marriage",
+    "family_line": "William Berry"
+  },
+  {
+    "year": 1857,
+    "year_display": "1857–1859",
+    "event": "Worldwide influenza epidemic. Known Berry family deaths in this period: Hannah Cate Berry, William H. Berry, Lewis Berry, and Theodrick Franklin. Likely many more.",
+    "category": "death",
+    "family_line": "Multiple"
+  },
+  {
+    "year": 1858,
+    "year_display": "1858",
+    "event": "William H. Berry died in Orange County, NC. Parents: Thomas Person and Sarah Lunsford Berry.",
+    "category": "death",
+    "family_line": "William Berry"
+  },
+  {
+    "year": 1858,
+    "year_display": "1858",
+    "event": "Hannah Cate Berry died in Orange County, NC. Daughter of William and Elizabeth Cate. Ex-wife of William Berry. Mother of Thomas Person Berry and Elizabeth Berry Franklin.",
+    "category": "death",
+    "family_line": "William Berry"
+  },
+  {
+    "year": 1858,
+    "year_display": "1858",
+    "event": "Lewis Berry died of flu in Orange County, NC. Parents: Joshua and Nancy Ellison Berry.",
+    "category": "death",
+    "family_line": "Joshua Berry"
+  },
+  {
+    "year": 1858,
+    "year_display": "1858",
+    "event": "Theodrick Franklin died in Georgia. Husband of Elizabeth Berry Franklin.",
+    "category": "death",
+    "family_line": "William Berry"
+  },
+  {
+    "year": 1859,
+    "year_display": "1859",
+    "event": "John Saunders Berry born January 6 in Orange County, NC. Parents: Eli and Judy Betsie Taylor Berry.",
+    "category": "birth",
+    "family_line": "Joshua Berry"
+  },
+  {
+    "year": 1861,
+    "year_display": "1861",
+    "event": "Eli D. Berry born May 3 in Orange County, NC. Parents: Eli and Judy Betsie Taylor Berry.",
+    "category": "birth",
+    "family_line": "Joshua Berry"
+  },
+  {
+    "year": 1861,
+    "year_display": "1861",
+    "event": "May 20: NC Convention at Raleigh adopted ordinance of secession. August 29: Forts Hatteras and Clark captured by Federal forces.",
+    "category": "military",
+    "family_line": null
+  },
+  {
+    "year": 1861,
+    "year_display": "1861",
+    "event": "John Robert Berry enlisted October 6 in Co. E, 31st Regiment, NC, age 19. Captured at Roanoke Island February 8, 1862. Wounded in right hand and shoulder. Captured at Cold Harbor May 31/June 1, 1864. Held at Elmira NY. Released June 23, 1865 after oath of allegiance.",
+    "category": "military",
+    "family_line": "William Berry"
+  },
+  {
+    "year": 1862,
+    "year_display": "1862",
+    "event": "Federal forces captured Roanoke Island (Feb 8), New Bern (March 14), Washington NC (March 21), Fort Macon (April 26), and Plymouth (Dec 13).",
+    "category": "military",
+    "family_line": null
+  },
+  {
+    "year": 1865,
+    "year_display": "1865",
+    "event": "April 14: Abraham Lincoln assassinated by John Wilkes Booth.",
+    "category": "historical",
+    "family_line": null
+  },
+  {
+    "year": 1865,
+    "year_display": "1865",
+    "event": "April 26: General Johnston negotiated surrender at Bennett House near Durham while staying at home of Alexander and Elizabeth Wilson Dixon in Hillsborough. The Dixons were GG Aunt and Uncle of Ida Ann Wilson who married Wiley P. Berry.",
+    "category": "historical",
+    "family_line": "William Berry"
+  },
+  {
+    "year": 1865,
+    "year_display": "1865",
+    "event": "John Robert Berry married Elizabeth Francis Bowling November 30 in Orange County, NC.",
+    "category": "marriage",
+    "family_line": "William Berry"
+  },
+  {
+    "year": 1866,
+    "year_display": "1866",
+    "event": "Emma G. Berry born in Orange County, NC. Parents: John Robert and Elizabeth Frances Bowling Berry.",
+    "category": "birth",
+    "family_line": "William Berry"
+  },
+  {
+    "year": 1868,
+    "year_display": "1868",
+    "event": "Cora D. Berry born in Orange County, NC. Parents: John Robert and Elizabeth Frances Bowling Berry.",
+    "category": "birth",
+    "family_line": "William Berry"
+  },
+  {
+    "year": 1869,
+    "year_display": "1869",
+    "event": "Wiley P. Berry born in Orange County, NC. Parents: John Robert and Elizabeth Frances Bowling Berry.",
+    "category": "birth",
+    "family_line": "William Berry"
+  },
+  {
+    "year": 1870,
+    "year_display": "1870",
+    "event": "Sarah Lunsford Berry died December 27 in Orange County, NC. Wife of Thomas Person Berry. Grave found May 20, 2006, on original Robert Berry land grant property.",
+    "category": "death",
+    "family_line": "William Berry"
+  },
+  {
+    "year": 1871,
+    "year_display": "1871",
+    "event": "Thomas Person Berry married second wife Lucy A. Brown August 24 in Orange County, NC.",
+    "category": "marriage",
+    "family_line": "William Berry"
+  },
+  {
+    "year": 1871,
+    "year_display": "1871",
+    "event": "James P. Berry married Artelia Wedding September 11 in Orange County, NC.",
+    "category": "marriage",
+    "family_line": "William Berry"
+  },
+  {
+    "year": 1876,
+    "year_display": "1876",
+    "event": "Ida Ann Wilson born September 30 in Orange County, NC. Parents: Eli and Mary Jane Coleman Wilson. Would marry Wiley P. Berry.",
+    "category": "birth",
+    "family_line": "William Berry"
+  },
+  {
+    "year": 1880,
+    "year_display": "1880",
+    "event": "Thomas Euart Berry born in Orange County, NC. Parents: John Robert and Elizabeth Frances Bowling Berry.",
+    "category": "birth",
+    "family_line": "William Berry"
+  },
+  {
+    "year": 1881,
+    "year_display": "1881",
+    "event": "Durham County was the last county formed from the east part of Orange County, leaving Orange County's boundaries as they are today.",
+    "category": "historical",
+    "family_line": null
+  },
+  {
+    "year": 1883,
+    "year_display": "1883",
+    "event": "Thomas Person Berry married Elizabeth Peed Bowles December 6, his third wife, in Orange County, NC.",
+    "category": "marriage",
+    "family_line": "William Berry"
+  },
+  {
+    "year": 1884,
+    "year_display": "1884",
+    "event": "Emma G. Berry married John Saunders Berry October 15 in Orange County, NC. Two Berry branches united: William Berry Line and Joshua Berry Line.",
+    "category": "marriage",
+    "family_line": "William Berry"
+  },
+  {
+    "year": 1886,
+    "year_display": "1886",
+    "event": "Annie E. Berry born July 22 in Orange County, NC. Parents: John Saunders and Emma Berry.",
+    "category": "birth",
+    "family_line": "William Berry"
+  },
+  {
+    "year": 1888,
+    "year_display": "1888",
+    "event": "April 16: John Robert and Elizabeth Frances Berry gave the property for Berry's Grove Baptist Church in Orange County, near the Person County line.",
+    "category": "church",
+    "family_line": "William Berry"
+  },
+  {
+    "year": 1889,
+    "year_display": "1889",
+    "event": "Jerome Grandon Berry born June 11 in Orange County, NC. Parents: John Saunders and Emma Berry.",
+    "category": "birth",
+    "family_line": "William Berry"
+  },
+  {
+    "year": 1889,
+    "year_display": "1889",
+    "event": "Cora D. Berry married Asahel Frank Breeze June 26 in Orange County, NC. Parents: John Robert and Elizabeth Frances Bowling Berry.",
+    "category": "marriage",
+    "family_line": "William Berry"
+  },
+  {
+    "year": 1895,
+    "year_display": "1895",
+    "event": "Wiley P. Berry married Ida Ann Wilson in Orange County, NC.",
+    "category": "marriage",
+    "family_line": "William Berry"
+  },
+  {
+    "year": 1900,
+    "year_display": "1900",
+    "event": "Cora S. Berry born May 26 in Orange County, NC. Parents: John Saunders and Emma Berry.",
+    "category": "birth",
+    "family_line": "William Berry"
+  },
+  {
+    "year": 1900,
+    "year_display": "1900",
+    "event": "Willie Adolphus Berry married Fannie Bennett Hall June 3 in Orange County, NC. Parents: John Robert and Elizabeth Frances Bowling Berry.",
+    "category": "marriage",
+    "family_line": "William Berry"
+  },
+  {
+    "year": 1901,
+    "year_display": "1901",
+    "event": "Clyde Hall Berry born March 30 in Orange County, NC. Parents: Willie Adolphus and Fannie Bennett Hall Berry.",
+    "category": "birth",
+    "family_line": "William Berry"
+  },
+  {
+    "year": 1902,
+    "year_display": "1902",
+    "event": "Anne Belle Berry died October 31 and is buried in the Fiddleton cemetery. Parents: James P. and Artelia Wedding Berry.",
+    "category": "death",
+    "family_line": "William Berry"
+  },
+  {
+    "year": 1903,
+    "year_display": "1903",
+    "event": "Thomas Young Berry born May 11 in Orange County, NC. Parents: Wiley P. and Ida Ann Wilson Berry.",
+    "category": "birth",
+    "family_line": "William Berry"
+  },
+  {
+    "year": 1903,
+    "year_display": "1903",
+    "event": "Thomas Ewart Berry married Mary Ella Tilley in Orange County, NC. Parents: John Robert and Elizabeth Frances Bowling Berry.",
+    "category": "marriage",
+    "family_line": "William Berry"
+  },
+  {
+    "year": 1904,
+    "year_display": "1904",
+    "event": "Elizabeth Frances Bowling Berry, wife of John Robert Berry, died August 11 in Orange County, NC. Buried at Berry's Grove Baptist Church. She and her husband donated the land for the Church in 1888.",
+    "category": "death",
+    "family_line": "William Berry"
+  },
+  {
+    "year": 1908,
+    "year_display": "1908",
+    "event": "Sally Malena Berry born July 20 in Orange County, NC. Parents: Wiley P. and Ida Ann Wilson Berry. Married Jesse Clyde Henderson. Named Sally for great-grandmother Sarah Lunsford and Malena for great-grandmother Malena Barbary Brown.",
+    "category": "birth",
+    "family_line": "William Berry"
+  },
+  {
+    "year": 1909,
+    "year_display": "1909",
+    "event": "George Rufus Berry died December 25 in Burnet County, Texas. Born in Orange County, NC.",
+    "category": "death",
+    "family_line": "Robert Berry Jr."
+  },
+  {
+    "year": 1912,
+    "year_display": "1912",
+    "event": "Woodrow Wilson Berry born April 3 in Orange County, NC. Parents: Wiley P. and Ida Ann Wilson Berry.",
+    "category": "birth",
+    "family_line": "William Berry"
+  },
+  {
+    "year": 1914,
+    "year_display": "1914",
+    "event": "Wiley Harold Berry born March 9 in Orange County, NC. Parents: Wiley P. and Ida Ann Wilson Berry.",
+    "category": "birth",
+    "family_line": "William Berry"
+  },
+  {
+    "year": 1917,
+    "year_display": "1917",
+    "event": "John Robert Berry died October 10 in Orange County, NC. Husband of Elizabeth Frances Bowling. Son of Thomas Person and Sarah Lunsford Berry. Buried at Berry's Grove Baptist Church.",
+    "category": "death",
+    "family_line": "William Berry"
+  },
+  {
+    "year": 1919,
+    "year_display": "1919",
+    "event": "Wiley P. Berry Jr. born September 1 in Orange County, NC. Parents: Wiley P. and Ida Ann Wilson Berry.",
+    "category": "birth",
+    "family_line": "William Berry"
+  },
+  {
+    "year": 1921,
+    "year_display": "1921",
+    "event": "William Eugene Berry married Pattie Alma McAdams June 6 in Orange County, NC.",
+    "category": "marriage",
+    "family_line": "William Berry"
+  },
+  {
+    "year": 1921,
+    "year_display": "1921",
+    "event": "October 20: Joshua and brother Robert I. Berry killed in Jonesboro, Georgia, when a train struck their truck loaded with produce. Grandsons of David J. and Mary Blalock Berry.",
+    "category": "death",
+    "family_line": "David J. Berry"
+  },
+  {
+    "year": 1925,
+    "year_display": "1925",
+    "event": "Brodie Shakespeare Carr married Mary Ethel Berry September 17 in Hillsborough, NC. Bride's parents: Wiley P. and Ida Ann Berry.",
+    "category": "marriage",
+    "family_line": "William Berry"
+  },
+  {
+    "year": 1925,
+    "year_display": "1925",
+    "event": "Thomas Young Berry died June 8 of typhoid fever. Son of W.P. Berry Sr. and Ida Ann Wilson Berry.",
+    "category": "death",
+    "family_line": "William Berry"
+  },
+  {
+    "year": 1928,
+    "year_display": "1928",
+    "event": "September 22: Jesse Clyde Henderson married Sally Malena Berry in Wilson, NC. Groom's parents: William Jackson and Mary Jane Horne Henderson of Gaffney, SC.",
+    "category": "marriage",
+    "family_line": "William Berry"
+  },
+  {
+    "year": 1932,
+    "year_display": "1932",
+    "event": "Wiley P. Berry elected Orange County Commissioner, serving 1932–1936.",
+    "category": "historical",
+    "family_line": "William Berry"
+  },
+  {
+    "year": 1935,
+    "year_display": "1935",
+    "event": "Wiley Harold Berry married Hilda Elizabeth Nichols. Parents: Wiley P. and Ida Ann Berry.",
+    "category": "marriage",
+    "family_line": "William Berry"
+  },
+  {
+    "year": 1936,
+    "year_display": "1936",
+    "event": "Woodrow Wilson Berry married Ora Mae Murray July 7 in Jacksonville, Craven County, NC.",
+    "category": "marriage",
+    "family_line": "William Berry"
+  },
+  {
+    "year": 1941,
+    "year_display": "1941",
+    "event": "May 4: Ida Ann Wilson Berry struck and killed by an automobile in Mebane, Alamance County, NC. Buried at Berry's Grove Baptist Church in Orange County.",
+    "category": "death",
+    "family_line": "William Berry"
+  },
+  {
+    "year": 1941,
+    "year_display": "1941",
+    "event": "December 7: Japanese bombed Pearl Harbor, Oahu, Hawaii.",
+    "category": "historical",
+    "family_line": null
+  },
+  {
+    "year": 1945,
+    "year_display": "1945",
+    "event": "Emma G. Berry died February 12. Daughter of John Robert and Elizabeth F. Bowling Berry.",
+    "category": "death",
+    "family_line": "William Berry"
+  },
+  {
+    "year": 1947,
+    "year_display": "1947",
+    "event": "Cora D. Berry Breeze died September 18 in Person County, NC. Daughter of John Robert and Elizabeth F. Bowling Berry.",
+    "category": "death",
+    "family_line": "William Berry"
+  },
+  {
+    "year": 1949,
+    "year_display": "1949",
+    "event": "Wiley P. Berry Jr. married Mary Berry.",
+    "category": "marriage",
+    "family_line": "William Berry"
+  },
+  {
+    "year": 1960,
+    "year_display": "1960",
+    "event": "Thomas Ewart Berry died December 15 in Durham County, NC. Son of John Robert and Elizabeth Bowling Berry.",
+    "category": "death",
+    "family_line": "William Berry"
+  },
+  {
+    "year": 1964,
+    "year_display": "1964",
+    "event": "Willie Adolphus Berry died January 8 in Orange County, NC. Son of John Robert and Elizabeth Bowling Berry.",
+    "category": "death",
+    "family_line": "William Berry"
+  },
+  {
+    "year": 1965,
+    "year_display": "1965",
+    "event": "Wiley P. Berry died May 8 in Mebane, Alamance County, NC, at the home of son William Eugene Berry. Son of John Robert and Elizabeth Bowling Berry.",
+    "category": "death",
+    "family_line": "William Berry"
+  },
+  {
+    "year": 1984,
+    "year_display": "1984",
+    "event": "Jesse Clyde Henderson died June 11. Husband of Sally Malena Berry Henderson.",
+    "category": "death",
+    "family_line": "William Berry"
+  },
+  {
+    "year": 1984,
+    "year_display": "1984",
+    "event": "William Eugene Berry died September 30. Son of W.P. Berry Sr. and Ida Ann Wilson Berry.",
+    "category": "death",
+    "family_line": "William Berry"
+  },
+  {
+    "year": 1989,
+    "year_display": "1989",
+    "event": "Woodrow Wilson Berry died May 3. Son of W.P. Berry Sr. and Ida Ann Wilson Berry.",
+    "category": "death",
+    "family_line": "William Berry"
+  },
+  {
+    "year": 1993,
+    "year_display": "1993",
+    "event": "Pattie Alma McAdams Berry died April 16. Wife of William Eugene Berry.",
+    "category": "death",
+    "family_line": "William Berry"
+  },
+  {
+    "year": 2002,
+    "year_display": "2002",
+    "event": "Sally Malena Berry died March 19. Daughter of W.P. Berry Sr. and Ida Ann Wilson Berry.",
+    "category": "death",
+    "family_line": "William Berry"
+  },
+  {
+    "year": 2002,
+    "year_display": "2002",
+    "event": "Ora Mae Murray Berry died September 21. Wife of Woodrow Wilson Berry.",
+    "category": "death",
+    "family_line": "William Berry"
+  },
+  {
+    "year": 2002,
+    "year_display": "2002",
+    "event": "Hilda Elizabeth Nichols Berry died August 7. Wife of Wiley Harold Berry.",
+    "category": "death",
+    "family_line": "William Berry"
+  },
+  {
+    "year": 2006,
+    "year_display": "2006",
+    "event": "Wiley Harold Berry died June 24. Son of W.P. Berry Sr. and Ida Ann Wilson Berry.",
+    "category": "death",
+    "family_line": "William Berry"
+  },
+  {
+    "year": 2007,
+    "year_display": "2007",
+    "event": "Wiley P. Berry Jr. died August 18. Son of W.P. Berry Sr. and Ida Ann Wilson Berry.",
+    "category": "death",
+    "family_line": "William Berry"
+  }
+]
