@@ -1,0 +1,57 @@
+{{/*
+  ancestor-profile shortcode
+  Renders a structured vital statistics header for ancestor pages.
+  Designed for accessibility: large text, clear labels, high contrast.
+
+  Parameters:
+    name       (string) — Full name
+    gen        (string) — Generation number, e.g. "3"
+    born       (string) — Birth info, e.g. "c. 1774, Orange County, North Carolina"
+    died       (string) — Death info, e.g. "after 1830, Fayette County, Georgia"
+    spouse     (string) — Spouse name and marriage info
+    parents    (string) — Parent names
+    image      (string) — optional portrait/hero image path
+    caption    (string) — optional image caption
+*/}}
+<div class="ancestor-profile">
+  {{- if .Get "image" }}
+  <div class="profile-image">
+    <img src="{{ .Get "image" }}" alt="{{ .Get "caption" | default (.Get "name") }}" loading="lazy" />
+    {{- if .Get "caption" }}
+    <div class="profile-caption">{{ .Get "caption" }}</div>
+    {{- end }}
+  </div>
+  {{- end }}
+  <div class="profile-details">
+    <h1 class="profile-name">
+      {{- if .Get "gen" }}<span class="profile-gen">Generation {{ .Get "gen" }}</span>{{ end }}
+      {{ .Get "name" }}
+    </h1>
+    <dl class="vital-stats">
+      {{- if .Get "born" }}
+      <div class="stat-row">
+        <dt>Born</dt>
+        <dd>{{ .Get "born" }}</dd>
+      </div>
+      {{- end }}
+      {{- if .Get "died" }}
+      <div class="stat-row">
+        <dt>Died</dt>
+        <dd>{{ .Get "died" }}</dd>
+      </div>
+      {{- end }}
+      {{- if .Get "spouse" }}
+      <div class="stat-row">
+        <dt>Married</dt>
+        <dd>{{ .Get "spouse" }}</dd>
+      </div>
+      {{- end }}
+      {{- if .Get "parents" }}
+      <div class="stat-row">
+        <dt>Parents</dt>
+        <dd>{{ .Get "parents" }}</dd>
+      </div>
+      {{- end }}
+    </dl>
+  </div>
+</div>

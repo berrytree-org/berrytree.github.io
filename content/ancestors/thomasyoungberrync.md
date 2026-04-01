@@ -25,8 +25,7 @@ Generation 5 Wiley P and Ida Ann Wilson Berry
 
  </li>
 </ul>
-<h2><a href="#"><strong>
-</strong></a><strong>Thomas Young Berry was the second son of Wiley P. and Ida Wilson Berry</strong></h2>
+<h2><strong>Thomas Young Berry was the second son of Wiley P. and Ida Wilson Berry</strong></h2>
 <h3>January 17, 2008</h3>
 CENSUS INFORMATION
 <blockquote>“ Thomas Young Berry was listed on his fathers 1910 and 1920 census only”</blockquote>

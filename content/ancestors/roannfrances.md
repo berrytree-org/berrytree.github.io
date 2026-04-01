@@ -23,6 +23,6 @@ Roann Frances Kissiah died on August 11 1922 in McCulloch County Texas.
 	<li>Ailla (Fanny) Frances Kissiah was born in July 1862 and died in 1945.She married Anderson Farquhar McCoy. </li>
 	<li></li>
 </ul>
-<h2><a href="#"><strong> </strong></a></h2>
+<h2></h2>
 <h3>March 29 2012</h3>
 <strong>CENSUS INFORMATION</strong>

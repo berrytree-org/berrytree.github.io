@@ -16,5 +16,5 @@ Children:
 	<li>Sarah Berry</li>
 	<li>John Saunders Berry married <a href="/ancestors/emmagberrync/">Emma G. Berry</a></li>
 	<li>Dock Berry</li>
-	<li>Mollie Berry                                                                                                                           <a href="/ancestors/eli-berry-nc/"> Return to top of Page        </a></li>
+	<li>Mollie Berry                                                                                                                           <a href="#"> Return to top of Page        </a></li>
 </ul>

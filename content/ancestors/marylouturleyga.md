@@ -25,8 +25,7 @@ Click on the pictures to view a larger image.</strong>
 	<li>John Irvin Hartsfield</li>
 	<li>Ernest Jefferson Hartsfield</li>
 </ul>
-<h3><a href="#"><strong>
-</strong></a><strong>Mary Lou Turley and her husband John Thomas Hartsfield lived in Georgia their entire life.</strong></h3>
+<h3><strong>Mary Lou Turley and her husband John Thomas Hartsfield lived in Georgia their entire life.</strong></h3>
 <h3>January 9, 2008</h3>
 CENSUS INFORMATION
 <blockquote>“ TO Be Researched”</blockquote>

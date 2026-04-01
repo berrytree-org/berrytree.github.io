@@ -34,5 +34,4 @@ Hilda Nichols Berry died on August 2 2002 and Wiley Harold Berry died on June 24
 <a href="/ancestors/wileyharoldberrync/">Return to the top of the Page</a>
 
 January 28,2008 Updated 10/19/2015
-<h2><a href="#"><strong>
-</strong></a></h2>
+<h2></h2>

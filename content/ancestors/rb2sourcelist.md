@@ -59,4 +59,4 @@ The name Fiddleton shows up on a map that was drawn by George W. Tate in 1891 fo
 
  
 
-<a href="/ancestors/rb2sourcelist/">Return to top of Page</a>
+<a href="#">Return to top of Page</a>

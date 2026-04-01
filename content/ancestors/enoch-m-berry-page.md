@@ -126,4 +126,4 @@ Enoch and Edna Berry are buried at the Flint Creek Baptist Church Cemetery in Cu
 
  
 
-<a href="/ancestors/enoch-m-berry-page/">Return to top of Page</a>
+<a href="#">Return to top of Page</a>

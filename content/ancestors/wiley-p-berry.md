@@ -20,17 +20,17 @@ Wiley P. Berry married Ida Ann Wilson June 2nd 1895
 <h3><strong> Their Children</strong></h3>
 <ol>
  	<li><a href="/documents/williameugeneberrync/">William Eugene Berry</a></li>
- 	<li><a>Mary Elizabeth Berry August 23, 1899 - November 13, 1957 </a></li>
- 	<li><a>Thomas Young Berry May 11, 1903 - June 8, 1925 </a></li>
+ 	<li>Mary Elizabeth Berry August 23, 1899 - November 13, 1957 </li>
+ 	<li>Thomas Young Berry May 11, 1903 - June 8, 1925 </li>
  	<li><a title="sallymalenaberrync" href="/ancestors/sallymalenaberrync/">Sally Malena Berry</a> b.July 20, 1908 - d. March 19 2002</li>
- 	<li><a href="/ancestors/woodrowwilsonberrync/">Woodrow Wilson Berry</a> <a>April 3, 1912 - May 3 1989</a></li>
- 	<li><a>Wiley Harold Berry Mar 9, 1914 June 24, 2006 </a></li>
- 	<li><a>Infant son September 23, 1916 - Sept 23, 1916 </a></li>
- 	<li><a>Wiley P. Berry Jr. Sept 1, 1919 - August 18, 2007</a></li>
+ 	<li><a href="/ancestors/woodrowwilsonberrync/">Woodrow Wilson Berry</a> April 3, 1912 - May 3 1989</li>
+ 	<li>Wiley Harold Berry Mar 9, 1914 June 24, 2006 </li>
+ 	<li>Infant son September 23, 1916 - Sept 23, 1916 </li>
+ 	<li>Wiley P. Berry Jr. Sept 1, 1919 - August 18, 2007</li>
 </ol>
-<a href="/images/berryhome.jpg"><img class=" size-medium wp-image-1755 alignleft" src="/images/berryhome.jpg" alt="berryhome" width="300" height="226" /></a><a> Wiley P. Berry was born in Orange County, North Carolina, and lived there all of his life and died on May 12, 1965 at the home of his oldest son, Eugene Berry. W. P. Berry was my grand father and I have a lot of memories and stories to record about my grandparents.Grandpa married my grandmother on June 2, 1895<img class=" alignright" src="/images/idaann6.jpg" alt="" /> at the home of her parents, </a><a>Charles</a>
+<a href="/images/berryhome.jpg"><img class=" size-medium wp-image-1755 alignleft" src="/images/berryhome.jpg" alt="berryhome" width="300" height="226" /></a><a> Wiley P. Berry was born in Orange County, North Carolina, and lived there all of his life and died on May 12, 1965 at the home of his oldest son, Eugene Berry. W. P. Berry was my grand father and I have a lot of memories and stories to record about my grandparents.Grandpa married my grandmother on June 2, 1895<img class=" alignright" src="/images/idaann6.jpg" alt="" /> at the home of her parents, </a>Charles
 
-<a>Eli and Mary Jane (Molly) Coleman Wilson.The Brides father had prepared a room above</a><a> his kitchen for their first honeymoon night. Naturally all of the bridal party and family members gathered in the kitchen and made lots of interesting remarks in very loud voices. The next <img class=" alignleft" src="/images/wptintype.jpg" alt="" />morning was Sunday and the newlyweds were leading the family procession in their own buggy to church which was several miles away . Grandma raised her umbrella and lowered it behind her back so grandpa could kiss her without the family seeing .<strong> My how customs have changed.</strong></a>
+Eli and Mary Jane (Molly) Coleman Wilson.The Brides father had prepared a room above<a> his kitchen for their first honeymoon night. Naturally all of the bridal party and family members gathered in the kitchen and made lots of interesting remarks in very loud voices. The next <img class=" alignleft" src="/images/wptintype.jpg" alt="" />morning was Sunday and the newlyweds were leading the family procession in their own buggy to church which was several miles away . Grandma raised her umbrella and lowered it behind her back so grandpa could kiss her without the family seeing .<strong> My how customs have changed.</strong></a>
 
 <a>Above and on the left is a tintype picture and the oldest picture I have of my grandfather. This picture must have been taken circa 1890. Above and on the right is a tintype picture that was taken in 1882 when my Grandmother, Ida Ann Wilson was 6 years old. After my grandparents were married Grandpa's father,  John Robert Berry gave Grandpa and his bride  100 acres of <img class=" alignleft" src="/images/wpbsr.jpg" alt="" />land. and Grandpa built the house that you see at the top of this page.The other picture on the right may have been taken in 1895 when Grandpa got married or graduated from School. </a> . The young family picture in the oval frame was probably taken around 1902. Mary Elizabeth Berry (Aunt Maye) standing beside her father was about two years old and (Uncle Gene) William Eugene Berry age five was beside his mother.
 

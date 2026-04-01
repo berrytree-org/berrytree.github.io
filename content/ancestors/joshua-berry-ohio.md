@@ -81,4 +81,4 @@ CENSUS INFORMATION
 
 [Joshua Berry Jr, Census page](/ancestors/joshua-berry-ohio/)
 
-[Return to top of Page.](index.html)
+[Return to top of Page.](#)

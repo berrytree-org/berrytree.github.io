@@ -28,7 +28,7 @@ Note: Henry County, Clayton County, and Fayette County had a number of border ch
 	<li>Lucinda Cates was born April 2, 1835 in Henry County, Georgia and married about 1855 Dewry L. Silvey born 1825. He died about 1860. They had 3 children.</li>
 	<li>Martha Cates was born May 20, 1837 and married Dec 12, 1854 to Miles N. Hunt. She died June 29, 1859 Clayton County, Georgia.Miles date on his tombstone is June 29, year unreadable. They had 3 children.</li>
 </ul>
-<h2><strong><a href="/ancestors/sarahberrycatesga/#">Back to Top</a>
+<h2><strong><a href="#">Back to Top</a>
 </strong></h2>
 <h3>August 18, 2008</h3>
 <strong>CENSUS INFORMATION</strong>

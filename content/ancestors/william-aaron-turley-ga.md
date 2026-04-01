@@ -52,4 +52,4 @@ Census Information needs to be researched
 
 >
 
-[return to top of Page](/ancestors/william-aaron-turley-ga/)
+[return to top of Page](#)

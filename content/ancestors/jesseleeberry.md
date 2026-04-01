@@ -11,15 +11,15 @@ ANCESTORS
 	<li>Generation  Robert and Elizabeth Everett Berry, NC and Georgia</li>
 </ol>
 <p><strong>JESSE LEE BERRY</strong> was born on December 2, 1852 in Roswell, Cobb County Georgia. Jesse Lee married Nancy Ann Henry who was born December 30 1857 <img class=" alignright" src="/images/jesseleeberry300.jpg" alt="" /> in Ellenwood, Clayton Co., Georgia. They were married December 16 1874 in Clayton County Georgia. Nancy was the daughter of Edward Zachary "Zack" Henry and Mary Ann Mitchell. Zack's Father was Jesse G. Henry and Nancy Hammock. Mary Ann's father was Thomas Mitchell, son of Hinchey Mitchell and Elizabeth Ruff (daughter of William Ruff and Rebecca). In the picture of Jesse Lee on the left there seems to be a faded date of July 1875 written on the picture. He would have been 22 Yrs 7 Months old.</p>
-<p><a> CHILDREN:</a></p>
+<p> CHILDREN:</p>
 
 <ol>
-	<li><a href="/ancestors/albertedgar/">Albert Edgar Berry</a>, <a> b. 28 Dec. 1881 </a></li>
+	<li><a href="/ancestors/albertedgar/">Albert Edgar Berry</a>,  b. 28 Dec. 1881 </li>
 	<li><a href="/ancestors/addie-lena-berry/"> Addie Lena Berry</a> November 1884</li>
 	<li><a href="/ancestors/cora-berry-mcvicker/">Cora Mae Berry</a></li>
 	<li><a href="/ancestors/sarah-frances-berry-kelly-ga/">Sarah Florence Berry</a></li>
-	<li><a href="/documents/william-oscar-berry-ga/">William Oscar Berry</a><a> b. 30 Mar. 1878.</a></li>
-	<li><a href="/ancestors/walterglenberryga/">Walter Glen Berry</a> <a> b. 15 Jan. 1880.</a></li>
+	<li><a href="/documents/william-oscar-berry-ga/">William Oscar Berry</a> b. 30 Mar. 1878.</li>
+	<li><a href="/ancestors/walterglenberryga/">Walter Glen Berry</a>  b. 15 Jan. 1880.</li>
 </ol>
 <a href="/images/jesse-lee-children.jpg"><img class="wp-image-5349 alignnone" src="/images/jesse-lee-children.jpg" alt="Jesse lee children" width="419" height="282" /></a><a href="/images/walter-glenn-and-leonefloyd-eddie-elizabeth-berry808.jpg"><img class="alignnone wp-image-5623" src="/images/walter-glenn-and-leonefloyd-eddie-elizabeth-berry808.jpg" alt="Walter Glenn and Leone(Floyd) Eddie Elizabeth Berry808" width="209" height="284" /></a>
 
@@ -124,4 +124,4 @@ Luther Smith 24
 
 Updated October 16, 2007 and December 22 2015
 
-<a href="/ancestors/jesseleeberry/">Return to top of Page</a>
+<a href="#">Return to top of Page</a>

@@ -26,4 +26,4 @@ Robert Berry's Listing
 	<li>Female age 25 to 45 Elizabeth Berry, Robert and Elizabeth's daughter.</li>
 	<li>Female  age 75 Elizabeth Cate Berry.</li>
 </ul>
-<a href="/ancestors/1810-hannah-cate-census/">Return to top of Page</a>
+<a href="#">Return to top of Page</a>

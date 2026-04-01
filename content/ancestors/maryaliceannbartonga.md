@@ -26,8 +26,7 @@ Mary died on January 3rd 1899 in Rusk County Texas. Joshua Crow was born on Sept
 	<li><strong>SERENA YANCY LARISSA CROW</strong> Born: 26 August 1869 Died: 4 April 1941, m 11 Dec. 1884, James Rodgers, Born: 2 March 1857, Died 6 Dec. 1942</li>
 	<li><strong>JOHN ROBERT CROW</strong> Born: 24 February 1872, Died: 28 Dec. 1898, m. 19 Sept. 1889 Bettie McCauley</li>
 </ul>
-<h2><a href="#"><strong>
-</strong></a><strong>Joshua and Mary Elizabeth Barton Crow</strong></h2>
+<h2><strong>Joshua and Mary Elizabeth Barton Crow</strong></h2>
 <h3>August 19, 2008</h3>
 <strong>CENSUS INFORMATION</strong>
 <blockquote>

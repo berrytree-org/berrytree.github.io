@@ -60,4 +60,4 @@ CENSUS INFORMATION
 	<li>Thompson Berry was listed in the Fayette County 1870 Census page 2.</li>
 	<li>Thompson Berry's wife Rosannah living with her son in 1880 Fayette County Census</li>
 </ul>
-<a href="/ancestors/thompsonberryala/">Return to top of page</a></blockquote>
+<a href="#">Return to top of page</a></blockquote>

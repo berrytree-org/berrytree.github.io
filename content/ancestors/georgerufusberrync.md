@@ -71,4 +71,4 @@ Many of the facts that I have quoted here came from the book "<em><strong>Wagons
 	<li><strong>George Rufus Berry</strong> Listed in Burnet County Texas in 1880</li>
 	<li><strong>George Rufus Berry</strong> Listed in Burnet County Texas in 1900</li>
 </ul>
-<a href="/ancestors/georgerufusberrync/">Return to top of Page</a></blockquote>
+<a href="#">Return to top of Page</a></blockquote>

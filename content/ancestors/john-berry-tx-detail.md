@@ -45,7 +45,7 @@ John Berry was born in Orange or Person County, North Carolina. in 1815. We are
 
 - **Gen 6 **Emma Berry
 
-- **Gen 6 **[Francis Marion Berry](/ancestors/john-berry-tx/francis-marion-berry/) married Fannie Lilly Hudspeth 1890
+- **Gen 6 **[Francis Marion Berry](/ancestors/francis-marion-berry/) married Fannie Lilly Hudspeth 1890
 
 
 ## **John Berry was born in Orange County North Carolina and died in Texas.**

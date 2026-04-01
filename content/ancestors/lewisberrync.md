@@ -24,8 +24,7 @@ Sally Was living wirh her daughter in Kentucky when she died.
 	<li><strong>Phoebe R. Berry</strong> Born 1840 Orange Co. NC</li>
 	<li><strong>Robert Berry</strong> Born 1843 Orange Co. NC</li>
 </ul>
-<h3><a href="#"><strong>
-</strong></a><strong>Lewis Berry was born in Orange County NC and died in Orange County NC. </strong></h3>
+<h3><strong>Lewis Berry was born in Orange County NC and died in Orange County NC. </strong></h3>
 CENSUS INFORMATION
 <blockquote>“ Lewis Berry was listed on his fathers census in 1810 & 1820”
 <ul>

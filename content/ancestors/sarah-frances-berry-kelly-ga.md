@@ -46,4 +46,4 @@ ANCESTORS:
 
  
 
-<a href="/ancestors/sarah-frances-berry-kelly-ga/">Return to top of Page</a>
+<a href="#">Return to top of Page</a>

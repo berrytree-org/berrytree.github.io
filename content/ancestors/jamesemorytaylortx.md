@@ -60,8 +60,7 @@ This paper was written by Ross Simpson
 	<li>Marie Eleanor Taylor b. 1910 d. 1990</li>
 </ul>
 </ul>
-<a href="#"><strong>
-</strong></a><strong>Sarah Berry was born in Alabama and died in Galveston Texas. </strong>
+<strong>Sarah Berry was born in Alabama and died in Galveston Texas. </strong>
 <h3>February 27, 2008  Updated 10/19/2015</h3>
 CENSUS INFORMATION
 <blockquote>“ James Emory was found at school in 1880 away from his family ”
@@ -74,4 +73,4 @@ CENSUS INFORMATION
 	<li>James Emory Taylor was listed in the 1920 Galveston Texas Census Page 2</li>
 	<li>James Emory Taylor was listed in the 1930 Galveston Texas Census</li>
 </ul>
-<a href="/ancestors/jamesemorytaylortx/">Return to top of Page</a></blockquote>
+<a href="#">Return to top of Page</a></blockquote>

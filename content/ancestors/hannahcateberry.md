@@ -72,4 +72,4 @@ CENSUS INFORMATION:
 </ul>
 <a href="/images/hberry1850.jpg"><img class="size-thumbnail wp-image-1966" src="/images/hberry1850.jpg" alt="Henry Berry and Hannah Berry 1850 Orange County Census" width="150" height="150" /></a>
 
-<a href="/ancestors/hannahcateberry/">Return to top of Page</a>
+<a href="#">Return to top of Page</a>

@@ -35,4 +35,4 @@ CENSUS INFORMATION
 	<li>Robert Berry listed in the Orange County NC Census in 1840</li>
 	<li>Sally (Cates)  Berry listed Head of household in the Orange County 1850 Census</li>
 </ul>
-<a href="/ancestors/robert-berry-joshuas-son-nc/">Return to top of page</a></blockquote>
+<a href="#">Return to top of page</a></blockquote>

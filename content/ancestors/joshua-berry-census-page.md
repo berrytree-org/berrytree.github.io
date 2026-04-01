@@ -27,4 +27,4 @@ Joshua Berry was killed in 1838 and does not appear in the 1840 Orange County, 
 
 Nancy Berry, Joshua's Widow, was in the 1840 and 1850 Orange County, North Carolina Census.
 
-<a href="/ancestors/joshua-berry-census-page/">Return to top of Page</a>
+<a href="#">Return to top of Page</a>

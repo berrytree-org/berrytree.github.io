@@ -22,4 +22,4 @@ Robert Berry's Listing:
 	<li>1800 Orange County NC Census William Berry age age 26 .</li>
 	<li>1800 Orange County NC Census Thomas Berry age 30.</li>
 </ol>
-<figure><a href="/images/william-and-thomas-1800-census.jpg"><img class="size-full wp-image-2129" src="/images/william-and-thomas-1800-census.jpg" alt="William Berry 1800 Orange NC Census" width="1652" height="1399" /></a> <a href="/ancestors/1800-orange-county-nc-census/">Return to top of Page</a></figure>
+<figure><a href="/images/william-and-thomas-1800-census.jpg"><img class="size-full wp-image-2129" src="/images/william-and-thomas-1800-census.jpg" alt="William Berry 1800 Orange NC Census" width="1652" height="1399" /></a> <a href="#">Return to top of Page</a></figure>

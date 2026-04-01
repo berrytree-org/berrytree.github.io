@@ -36,8 +36,7 @@ RESEARCH NEEDS TO BE DONE ON THIS COUSIN
 	<li></li>
 	<li></li>
 </ul>
-<h2><a href="#"><strong>
-</strong></a><strong>To be Researched</strong></h2>
+<h2><strong>To be Researched</strong></h2>
 <h3>January 8, 2008</h3>
 CENSUS INFORMATION
 <blockquote>“ TO Be Researched”

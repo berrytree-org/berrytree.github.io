@@ -16,5 +16,4 @@ He was born in 1810 in Orange County, North Carolina and married Sarah Roberts o
 
 <strong>Children:</strong>
 
-<strong>Census Information</strong><strong>:</strong><a href="#"><strong>
-</strong></a>
+<strong>Census Information</strong><strong>:</strong>

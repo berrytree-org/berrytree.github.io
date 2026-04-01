@@ -25,8 +25,7 @@ Generation 3 Robert and Elizabeth Everitt Berry Berry
 	<li>Zelia Berry b January 7th 1881 d July 23 1963</li>
 </ul>
  
-<h2><a href="#"><strong>
-</strong></a><strong>John Allmon Berry lived in Fulton County Georgia</strong></h2>
+<h2><strong>John Allmon Berry lived in Fulton County Georgia</strong></h2>
 <h3>Updated 2/7/2015</h3>
 <strong>CENSUS INFORMATION :</strong>
 <blockquote><strong>“John Allmon Berry and his wife Sarah lived in Milton County Georgia”</strong>

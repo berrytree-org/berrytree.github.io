@@ -21,12 +21,11 @@ ANCESTORS
 	<li>William Aaron Turley  b. 26 Aug 1879 d. 06 Nov 1960</li>
 	<li>Sarah A. Turley             b. Unknown      d. Unknown</li>
 </ol>
-<h3><a href="#"><strong>
-</strong></a><strong>Dora Ellen Turley Pace and her husband George Pace lived in Georgia their entire life.</strong></h3>
+<h3><strong>Dora Ellen Turley Pace and her husband George Pace lived in Georgia their entire life.</strong></h3>
 <h3>Updated January 9, 2008 & October 17 2015</h3>
 CENSUS INFORMATION
 <blockquote>“ TO Be Researched”
 
-<a href="/ancestors/doraellenturleyga/">Return to top of Page</a>
+<a href="#">Return to top of Page</a>
 
  </blockquote>

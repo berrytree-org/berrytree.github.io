@@ -23,8 +23,7 @@ Click on the pictures to view a larger image.</strong>
 <strong>CHILDREN :</strong>
 
  
-<h2><a href="#"><strong>
-</strong></a><strong>Nathaniel Arie Turley was born in Milton county Georgia</strong></h2>
+<h2><strong>Nathaniel Arie Turley was born in Milton county Georgia</strong></h2>
 <h3>January 9, 2008</h3>
 CENSUS INFORMATION
 <blockquote>“ TO Be Researched”

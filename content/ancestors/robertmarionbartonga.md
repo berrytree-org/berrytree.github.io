@@ -21,8 +21,7 @@ Was born in Clayton County Georgia. Robert married Mary E. Birdwell
 	<li><strong>Yancy Pascal Barton</strong></li>
 	<li>I need information on any other children from this family</li>
 </ul>
-<h2><a href="#"><strong>
-</strong></a><strong>Robert Marion Barton</strong></h2>
+<h2><strong>Robert Marion Barton</strong></h2>
 <h3>October 8, 2008</h3>
 <strong>CENSUS INFORMATION</strong>
 <blockquote>

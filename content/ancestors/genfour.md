@@ -2,7 +2,7 @@
 title: "Generation Four"
 ---
 
-<h2><a>THERE ARE 33 FIRST COUSINS ON THIS PAGE </a></h2>
+<h2>THERE ARE 33 FIRST COUSINS ON THIS PAGE </h2>
 Robert And Elizabeth Cate Berry's Grandchildren
 
 <strong> 3 Mar Berry Camp Line</strong>

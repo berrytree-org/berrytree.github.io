@@ -5,7 +5,7 @@ title: "Fiddleton Cemetery"
 <h2>Fiddleton Cemetery Visitation July 21. 2007</h2>
 <a href="http://cemeterycensus.com/nc/orng/cem233.htm"> http://cemeterycensus.com/nc/orng/cem233.htm</a>
 
-<strong>THIS IS THE FIRST VISIT TO OUR ANCESTORS GRAVES FOR MANY OF THE DESCENDANTS</strong> There was a great turnout of Robert Berry and Elizabeth Cate Berry's descendants <a href="images/stone2large.jpg"><img class=" alignleft" src="/images/stone1.jpg" alt="unmarkedheadstone" /></a>on July 21, 2007. They came fron 14 states and from as far away as California. The Picture at the top of the page was taken on that day at the Fiddleton Robert Berry Cemetery. The headstone on the right has no marking on it. There were only 6 headstones with Inscriptions on them. All the rest are unidentified.
+<strong>THIS IS THE FIRST VISIT TO OUR ANCESTORS GRAVES FOR MANY OF THE DESCENDANTS</strong> There was a great turnout of Robert Berry and Elizabeth Cate Berry's descendants <img class=" alignleft" src="/images/stone1.jpg" alt="unmarkedheadstone" /> <span class="image-pending">Larger image not available</span>on July 21, 2007. They came fron 14 states and from as far away as California. The Picture at the top of the page was taken on that day at the Fiddleton Robert Berry Cemetery. The headstone on the right has no marking on it. There were only 6 headstones with Inscriptions on them. All the rest are unidentified.
 
 ANCESTORS AND NEIGHBORS WHO ARE BURIED HERERobert BerryElizabeth Cate Berry BerryElizabeth Berry (Robert's daughter)Henry Berry( Robert's son)Isaac Berry (Robert's son)Hannah Cate Berry ( William Berry's wife)William H. Berry ( Thomas Person Berry's son)Sarah Lunsford Berry (Thomas Person Berry's first wifeLucy Brown Berry (Thomas Person Berry's second wife)Anne Bell Berry (James P. Berry's daughter)James Berry (James P. Berry's son)Mary KingThomas KingFanny AshleySusan A. CrabtreeJoshua Berry ?Nancy Ellison Berry ?Nancy Berry (Joshua's daughter) ?Thomas Person BerryElizabeth Peed Berry(Thomas Person Berry's third wife)
 
@@ -24,4 +24,4 @@ Thomas Person Berry and Lucy had five children between 1872 and 1880. The other 
 <strong>The location of the FIDDLETON GRAVEYARD
 NORTH 36 deg 13 min 42 min WEST 79 deg 01 min 07 sec</strong>
 
-<a href="/ancestors/fiddletoncemetery/">Return to top of Page</a>
+<a href="#">Return to top of Page</a>

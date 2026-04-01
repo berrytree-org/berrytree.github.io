@@ -104,4 +104,4 @@ Albert Edgar Berry has not been located in any 1930 or 1940 census. He did show 
 
 <a href="/images/eddie-clandia-berry-grave-1916.jpg"><img class="alignnone size-full wp-image-5675" src="/images/eddie-clandia-berry-grave-1916.jpg" alt="Eddie Clandia Berry grave 1916" width="711" height="527" /></a>
 
-<a href="/ancestors/albertedgar/">Return to top of Page</a>
+<a href="#">Return to top of Page</a>

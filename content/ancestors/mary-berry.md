@@ -1,103 +1,164 @@
 ---
 title: "Mary Berry"
+weight: 1
+bookToc: true
 ---
 
-## Mary Berry, daughter of Robert and Elizabeth Cate
+<div class="ancestor-page">
 
-### Ancestors
+{{< breadcrumb trail="Home|/|Ancestors|/ancestors/|Family Lines|/family-lines/|Mary Berry" >}}
 
-- Generation 1: [Robert and Mary Williamson Berry](/ancestors/robert-berry-pac/), Princess Anne County, Virginia.
-- Generation 2: [Robert and Elizabeth Cate Berry](/ancestors/robert-berry-oc/), Orange County, North Carolina.
+{{< ancestor-chain gen3="Mary Berry × George Waggoner / James Camp" loc3="Orange County, NC → Rutherford County, NC → South Carolina" link3="/ancestors/mary-berry/" />}}
 
----
+{{< ancestor-profile
+  name="Mary Berry"
+  gen="3"
+  born="c. 1758, Orange County, North Carolina"
+  died="Between 1793 and 1800, South Carolina"
+  spouse="1st: George Waggoner (married c. 1776, died 1781) — 2nd: James Kemp/Camp (married c. 1781–1782)"
+  parents="Robert Berry and Elizabeth Cate, Orange County, NC"
+>}}
 
-### Marriages
+## The Story of Mary Berry
 
-#### Mary Berry's 1st Marriage
+Mary Berry was probably born around 1758 and was the first child of Robert and Elizabeth Cate Berry. During the early years of Mary's life, her parents were building the plantation in Orange County, North Carolina, and life was generally happy and good. There were several other young families in the area, all having children and building their own homesteads. Social events consisted of barn raisings, hog killings, and quilting parties.
 
-Mary Berry married George Waggoner – 1776
+Mary was thirteen years old when Governor Tryon crushed the political unrest in the area with the Battle of Alamance in 1771, ending the Regulator movement. She was seventeen in 1775 when the American Revolution began with the Battle of Lexington and Concord.
 
-#### Mary Berry's 2nd Marriage
+### Marriage to George Waggoner
 
-Mary Berry married James Camp – 1781
+Mary probably married **George Waggoner** around 1776, the same year the Declaration of Independence was signed. The Revolutionary War was being fought across the south, and conditions were becoming uncertain and difficult. As the war came closer to Orange County, Mary's husband and father both became involved by joining the North Carolina Continental Army.
 
----
+On **March 15, 1781**, the Battle of Guilford Courthouse was fought, and George was severely wounded. Two weeks later, on **April 2, 1781**, George Waggoner wrote his will. He appointed his wife Mary and his father-in-law Robert Berry as executors, and mentioned his two daughters, Elizabeth and Ann.
 
-**Mary Berry** was probably born around 1758 and was the first child of Robert and Elizabeth Cate Berry. During the early years of Mary's life she was probably very secure with her parents working very hard. Political events were taking place in other parts of the thirteen colonies. The French and Indian war would be over by the time she was three years old. Robert and Elizabeth were building the plantation and life was generally happy and good. There were several other young families in the area and like the Berry family they were all having children and building their own plantations. Social events consisted of barn raisings, hog killings, and quilting parties. Mary was 13 years old when Governor Tryon crushed the political unrest in the area with the Battle of Alamance in 1771. The Regulator movement was eliminated by this action. Mary was 17 years old in 1775 when the American Revolution began with the battle of Lexington and Concord Mass. Mary probably married George Waggoner around 1776, the same year that the Declaration of Independence was signed. The Revolutionary War was being fought in other areas of the south and conditions were becoming very uncertain and difficult. As the war was coming closer to Orange County, Mary's husband and father became involved by joining the North Carolina Continental Army. On March 15, 1781 the Battle of Guilford Courthouse was fought and George was severely wounded in that fight. Two weeks later George Waggoner wrote his will on the 2nd day of April 1781. George Waggoner apparently appointed his wife Mary Waggoner and his father-in-law Robert Berry as his Executors. He mentions his two daughters Elizabeth and Ann in his will. When the Inventory of George Waggoner's Estate was recorded on February 1782 Mary signed her name as Mary Kemp.
+<div class="photo-feature">
+  <a href="/images/1872-waggoner-records.jpg">
+    <img src="/images/1872-waggoner-records.jpg" alt="Waggoner estate records from Orange County, North Carolina" />
+  </a>
+  <div class="photo-caption">Waggoner estate records, Orange County, North Carolina</div>
+</div>
 
-Mary apparently married James Kemp/Camp sometime between April 1781 and early 1782. The will was registered or probated in August of 1781.
+> *Note: The information about George Waggoner's involvement in the Revolutionary War is speculative, but based on the facts that Robert Berry is known to have been in the North Carolina Continental Army in 1781, the Battle of Guilford Courthouse was fought on March 15, 1781, and George Waggoner wrote his will two weeks later on April 2, 1781.*
 
-[![1872 Waggoner records](/images/1872-waggoner-records.jpg)](/images/1872-waggoner-records.jpg)
+### Marriage to James Camp
 
-[![Annie Naomi tombstone](/images/annienaomitombstone1.jpg)](/images/annienaomitombstone1.jpg)
+When the inventory of George Waggoner's estate was recorded in February 1782, Mary signed her name as **Mary Kemp** — meaning she had already remarried. Mary apparently married **James Kemp/Camp** sometime between April 1781 and early 1782. The will was registered or probated in August 1781.
 
-Until recently not much more information was known about Mary's life after she left Orange County. We now know that Mary removed to Rutherford County, North Carolina. We now have a document written by Mary Berry's sister-in-law Annie Naomi Camp Hill, who was married to John Hill about 1782. Annie Camp was James Camp's sister. Their parents were Thomas Camp and Winifred Starling. Thomas Camp's parents were John Camp and Mary Tarpley.
+Mary and James Camp had five children together, all born in North Carolina. James Camp's sister was Annie Naomi Camp, who married John Hill about 1782. Their parents were Thomas Camp and Winifred Starling.
 
-**Children named in the Affidavit:**
+### Move South and Death
 
-- John Camp b. About 1784
-- Sarah Camp b. November 9th, 1785
-- Robert Berry Camp b. About 1787
-- Joseph Camp b. About 1791
-- Starling Camp b. October 22nd, 1793
+According to an affidavit written by Annie Naomi Camp Hill, James and Mary Berry Camp moved from Rutherford County, North Carolina, to South Carolina the day after their son Starling Camp was born on October 22, 1793 — a journey of about 70 miles. This move may have caused Mary's death from complications of the birth.
 
-The Affidavit stated that all of Mary Berry Camp's children were born in North Carolina. Southern Rutherford County is 180 miles from Hillsborough, North Carolina today and very close to the South Carolina line. According to Annie Naomi Hill, James and Mary Berry Camp moved from Rutherford County NC to South Carolina the next day after Starling Camp was born on the 22 October 1793 — about a 70-mile journey. This move may have caused Mary Berry Camp to die of complications resulting from the birth of her son Starling Camp. James Camp listed himself, two males under 10, two males under 16 and a female under 16 in the 1800 Laurens County, South Carolina census. This would mean that Mary Berry Camp died between 1793 and 1800. In her father's will written in 1812 Robert Berry listed his daughter as deceased.
+James Camp listed himself in the 1800 Laurens County, South Carolina census with two males under 10, two males under 16, and a female under 16 — but no wife. **Mary Berry Camp died between 1793 and 1800.** In her father Robert Berry's will, written in 1812, he listed his daughter Mary as deceased and left her five pounds.
 
-[![Joseph Camp Power of Attorney to Uncle Henry Berry in Orange County NC 1816](/images/henry-berry-signature-1816.jpg)](/images/henry-berry-signature-1816.jpg)
+<div class="photo-feature">
+  <a href="/images/annienaomitombstone1.jpg">
+    <img src="/images/annienaomitombstone1.jpg" alt="Tombstone of Annie Naomi Camp Hill, sister-in-law of Mary Berry Camp" />
+  </a>
+  <div class="photo-caption">Tombstone of Annie Naomi Camp Hill, James Camp's sister, whose affidavit documented Mary Berry Camp's children</div>
+</div>
 
-*Joseph Camp delivered the Power of Attorney to Uncle Henry Berry in Orange County NC 1816, Thomas Rountree witness.*
+### The Power of Attorney
 
-Spartanburg County, South Carolina is where Joseph Camp — the attorney who drew up the power of attorney for his siblings living in Jackson County Georgia in 1815 — was documented. After studying the Affidavit I knew where to look for a census for James Kemp/Camp in 1790 and 1800. Much more research needs to be done to determine when the Camp children removed to Jackson County, Georgia.
+Mary Berry Camp's children drew up a power of attorney in 1815 to try to claim their mother's inheritance from Robert Berry's estate. Joseph Camp, living in Spartanburg County, South Carolina, drafted the document for his siblings, who were then living in Jackson County, Georgia.
 
-John Camp, James and Anne Naomi Camp's grandfather, died in 1813 in Jackson County Georgia but was buried in Lebanon Church Cemetery in Greenville, South Carolina — Lebanon Methodist, 4 miles North of Princeton. GPS: N34 33.697 × W82 15.921. Source: The Tombstone Transcription Project, hosted by the SC GenWeb.
-
-When Mary Berry Camp's father Robert Berry wrote his will in 1812, he left his daughter Mary Kemp five pounds and stated that she was deceased. Mary Berry Camp's children drew up a power of attorney to try to get their mother's inheritance in 1815.
+<div class="photo-feature">
+  <a href="/images/henry-berry-signature-1816.jpg">
+    <img src="/images/henry-berry-signature-1816.jpg" alt="Power of Attorney delivered to Henry Berry in Orange County, North Carolina, 1816" />
+  </a>
+  <div class="photo-caption">Joseph Camp delivered the Power of Attorney to Uncle Henry Berry in Orange County, NC, 1816. Thomas Rountree, witness.</div>
+</div>
 
 The affidavit and the power of attorney prove that Mary Berry Camp is the daughter of Robert Berry from Orange County, North Carolina. This was also stated in Robert Berry's will in 1812.
 
-> *Note: The information about George Waggoner's involvement in the Revolutionary War is speculative, but based on the facts that Robert Berry is known to have been in the N.C. Continental Army in 1781, the Battle of Guilford Courthouse was fought on March 15th 1781, and George Waggoner wrote his will two weeks later on April 2nd 1781.*
+---
+
+<h2 class="ancestor-section">Children of Mary Berry</h2>
+
+Mary had seven children across her two marriages. All were born in North Carolina.
+
+**First Marriage — George Waggoner (c. 1776):**
+
+<ol class="children-list">
+
+<li class="child-entry">
+  <div class="child-name">1. Elizabeth Waggoner</div>
+  <div class="child-dates">Born c. 1778, Orange County, NC</div>
+  <div class="child-details">Named in George Waggoner's will (1781). No further information has been found about her life after her father's death.</div>
+</li>
+
+<li class="child-entry">
+  <div class="child-name">2. Ann Waggoner</div>
+  <div class="child-dates">Born c. 1780, Orange County, NC</div>
+  <div class="child-details">Named in George Waggoner's will (1781). No further information has been found.</div>
+</li>
+
+</ol>
+
+**Second Marriage — James Camp (c. 1781–1782):**
+
+<ol class="children-list">
+
+<li class="child-entry">
+  <div class="child-name">3. John Camp</div>
+  <div class="child-dates">Born c. 1784, North Carolina</div>
+  <div class="child-details">Signed the power of attorney in Jackson County, Georgia, in 1815. Married <strong>Winifred Mattox</strong>.</div>
+</li>
+
+<li class="child-entry">
+  <div class="child-name">4. Sarah Camp</div>
+  <div class="child-dates">Born November 9, 1785, North Carolina</div>
+  <div class="child-details">Married <strong>Shadrack Humphries</strong>. Shadrack signed the power of attorney on her behalf in Jackson County, Georgia, in 1815.</div>
+</li>
+
+<li class="child-entry">
+  <div class="child-name">5. Robert Berry Camp</div>
+  <div class="child-dates">Born c. 1787, North Carolina</div>
+  <div class="child-details">Named after his grandfather Robert Berry. Married <strong>D. Gillea Bailey</strong> in 1813. Signed the power of attorney in Jackson County, Georgia, in 1815. Later found in Gwinnett County, Georgia.</div>
+</li>
+
+<li class="child-entry">
+  <div class="child-name">6. Starling Camp</div>
+  <div class="child-dates">Born October 22, 1793, Rutherford County, NC</div>
+  <div class="child-details">The youngest child. His mother Mary Berry Camp and father James Camp moved to South Carolina the day after his birth. Signed the power of attorney in Jackson County, Georgia, in 1815.</div>
+</li>
+
+<li class="child-entry">
+  <div class="child-name">7. Joseph Camp</div>
+  <div class="child-dates">Born c. 1795, Rutherford County, NC</div>
+  <div class="child-details">The attorney who drafted the power of attorney for his siblings in 1815. Living in Spartanburg County, South Carolina, at the time. Married <strong>Elizabeth</strong>.</div>
+</li>
+
+</ol>
+
+**Some Camp marriages:** Barton, Thomas Camp married Lucinda on June 8, 1845, in Floyd County, Georgia. Camp, Hosea M. Goodwin married Elizabeth Jane on July 30, 1844. Camp, Seaborn married Parish Sessiller on October 21, 1854, in Fayette County, Georgia.
 
 ---
 
-**Some Camp Marriages:**
+<h2 class="ancestor-section">Census Records</h2>
 
-*Floyd County, Georgia:* Barton, Thomas Camp m. Lucinda 8 June 1845 · Camp, Hosea M. Goodwin m. Elizabeth Jane 30 July 1844 · Linsley, Simpson S. m. Camp, Sarah C. 25 Apr 1841
+{{< census-summary summary="James Camp listed in Rutherford County, NC, in 1790 and Laurens County, South Carolina, in 1800. Mary Berry Camp was deceased before 1800 — no wife appears in the 1800 census." >}}
 
-*Fayette County, Georgia:* Camp Andrew m. Julie Drucilla 11 Dec 1856 · Camp L.J. Webb m. Mollie R. 11 Jan 1891 · Camp Seaborn m. Parish Sessiller 21 Oct 1854 · Camp William T. m. Hanson Nisey Anne 22 Jun 1844
-
-**Children who signed the power of attorney:** John Camp · Robert Berry Camp · Starling Camp · Shadrack Humphries (husband of Sarah Camp)
-
----
-
-### Children
-
-**1st marriage (George Waggoner):**
-
-| Child | Born | Died | Married |
-|---|---|---|---|
-| Elizabeth Waggoner | cir. 1781 | Unknown | Unknown |
-| Ann Waggoner | cir. 1781 | Unknown | Unknown |
-
-**2nd marriage (James Camp):**
-
-| Child | Born | Died | Married | Notes |
-|---|---|---|---|---|
-| John Camp | cir. 1784, NC | Unknown | Winifred Mattox | Jackson Co., GA 1815 |
-| Sarah Camp | Sept. 9, 1785, NC | Unknown | Shadrack Humphries | Jackson Co., GA 1815 |
-| Robert Berry Camp | cir. 1787, NC | Unknown (Gwinnett Co., GA) | D. Gillea Bailey, 1813 | Jackson Co., GA 1815 |
-| Starling Camp | Oct. 22, 1788, NC | Unknown | Unknown | Jackson Co., GA 1815 |
-| Joseph Camp | cir. 1789, Rutherford Co., NC | Unknown | Elizabeth | Jackson Co., GA 1815 |
+- **1790** — James Kemp listed in Rutherford County, North Carolina
+- **1800** — James Camp listed in Laurens County, South Carolina. The oldest female in the household was 10–15 years of age — Mary Berry Camp was already deceased.
+- No census found for James Camp in 1820 or 1830
 
 ---
 
-### Census
+<h2 class="ancestor-section">Key Documents</h2>
 
-**Note:** The oldest female listed in the 1800 Census was 10–15 years of age. *"Mary Berry Camp was deceased before 1812."*
-
-- James Kemp listed in Rutherford County, NC — 1790 *(see census image: [`jameskemp1790rutherfordnc.jpg`](/census/jameskemp1790rutherfordnc.jpg))*
-- James Camp listed in Laurens County, SC — 1800 *(see census image: [`jamescamp1800sc.jpg`](/census/jamescamp1800sc.jpg))*
-- No census found 1820 or 1830
+- [Camp children's Power of Attorney, 1815](/ancestors/camppowerofattorney/) — Joseph Camp drafted for siblings in Jackson County, Georgia
+- George Waggoner's will, April 2, 1781 — Names daughters Elizabeth and Ann, appoints Mary and Robert Berry as executors
+- Annie Naomi Camp Hill's affidavit — Documents all five Camp children and Mary's death
 
 ---
 
-*Last updated: January 29, 2014 and October 18, 2015*
+<div class="tree-link">
+  <a href="/family-lines/mary-berry-family-line/">
+    View the Full Mary Berry Family Line
+    <span class="tree-link-sub">Waggoner and Camp descendants</span>
+  </a>
+</div>
+
+</div>

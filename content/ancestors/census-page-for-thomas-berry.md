@@ -19,4 +19,4 @@ William Berry never listed in another  Orange County, North Carolina Census.
 
 <figure><a href="/images/rb1810nc.jpg"><img class="size-full wp-image-1706" src="/images/rb1810nc.jpg" alt="1810 oc census" width="950" height="679" /></a> Hannah Cate Berry's 1810 Census</figure>
 
-<a href="/ancestors/census-page-for-thomas-berry/">Return to top of Page</a>
+<a href="#">Return to top of Page</a>

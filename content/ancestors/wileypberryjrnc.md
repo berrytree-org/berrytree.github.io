@@ -45,9 +45,8 @@ W.P. Berry Jr and his wife had two children had a daughter and a son.
 </ul>
 These are the youngest grandchildren of W. P. Sr. and Ida Ann Wilson Berry
 
-<a href="/ancestors/wileypberryjrnc/">Return to top of page</a>
-<h2><strong><a href="#"><strong>
-</strong></a>
+<a href="#">Return to top of page</a>
+<h2><strong>
 </strong></h2>
 <h3><strong>January 27, 2008 Updated 10/18/2015</strong></h3>
  

@@ -41,4 +41,4 @@ ANCESTORS:
 
 <a href="/images/cora-berry-mcvicker-grave.jpg"><img class="alignnone size-full wp-image-5782" src="/images/cora-berry-mcvicker-grave.jpg" alt="Cora Berry McVicker Grave" width="715" height="764" /></a>
 
-<a href="/ancestors/cora-berry-mcvicker/">Return to top of Page</a>
+<a href="#">Return to top of Page</a>

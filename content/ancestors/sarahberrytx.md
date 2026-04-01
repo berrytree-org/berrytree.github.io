@@ -38,8 +38,7 @@ There were no children born to the last two marriages.
 	<li><a href="/ancestors/jamesemorytaylortx/">James Emery Taylor</a> Cir 1866</li>
 </ul>
 </ul>
-<a href="#"><strong>
-</strong></a>December 11, 2007 & 10/20/2015
+December 11, 2007 & 10/20/2015
 
 CENSUS INFORMATION
 <blockquote>“ Sarah Berry listed in Fayette County Alabama and Rusk County Texas Census ”

@@ -22,8 +22,7 @@ RESEARCH NEEDS TO BE DONE ON THIS COUSIN
 	<li>Georgia Amanda Crawford</li>
 	<li></li>
 </ul>
-<h3><a href="#"><strong>
-</strong></a><strong>To be researched:</strong></h3>
+<h3><strong>To be researched:</strong></h3>
 <h3><strong>Census information:</strong></h3>
 <blockquote>“ TO Be Researched”
 <ul>

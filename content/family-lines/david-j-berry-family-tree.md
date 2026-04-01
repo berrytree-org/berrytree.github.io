@@ -631,8 +631,8 @@ aliases:
 
 <div class="gen gen-6"><span class="gen-label">Gen 6</span> Jason Miles Berry – 1880 d: 1880</div>
 
-<div class="gen gen-6"><span class="gen-label">Gen 6</span> [Enoch Merill Berry](/ancestors/) 1881 -d. 1963</div>
-<div class="gen gen-6 gen-spouse">+[Mary Edna Stewart](/ancestors/)1882 d: 12 Sep 1931 in Cullman Alabama</div>
+<div class="gen gen-6"><span class="gen-label">Gen 6</span> [Enoch Merill Berry](/ancestors/enoch-m-berry-page/) 1881 -d. 1963</div>
+<div class="gen gen-6 gen-spouse">+Mary Edna Stewart 1882 d: 12 Sep 1931 in Cullman Alabama</div>
 
 <div class="gen gen-7"><span class="gen-label">Gen 7</span> Chester Ira Berry 1911 –</div>
 
@@ -724,9 +724,9 @@ aliases:
 
 <div class="gen gen-5 gen-spouse">+Olga Shules</div>
 
-<div class="gen gen-5"><span class="gen-label">Gen 5</span> [Emanuel P. Berry](/ancestors/) 1848 d: 03 Feb 1938 in Baldwin Co. GA.</div>
+<div class="gen gen-5"><span class="gen-label">Gen 5</span> [Emanuel P. Berry](/ancestors/emmanuel-patten-berry/) 1848 d: 03 Feb 1938 in Baldwin Co. GA.</div>
 
-<div class="gen gen-5 gen-spouse">+[Clara Susan Worsham](/ancestors/) 1854 m: 28 Dec 1871 d. 1 Jan 1936 Milledgeville, GA</div>
+<div class="gen gen-5 gen-spouse">+Clara Susan Worsham 1854 m: 28 Dec 1871 d. 1 Jan 1936 Milledgeville, GA</div>
 
 <div class="gen gen-6"><span class="gen-label">Gen 6</span> Adolphus Bunion Berry 1874 d: 05 Nov 1975 in Milledgeville, GA</div>
 
@@ -803,8 +803,8 @@ aliases:
 <div class="gen gen-7 gen-spouse">*5th Husband of Lizzie Irene Berry:</div>
 
 <div class="gen gen-6 gen-spouse">+Charles H. Siebert m: 20 Mar 1978</div>
-<div class="gen gen-6"><span class="gen-label">Gen 6</span> [Isaac M. Berry](/ancestors/) 1892 – 1980</div>
-<div class="gen gen-6 gen-spouse">+ [Lizzie Lee](/ancestors/) 1893-1961</div>
+<div class="gen gen-6"><span class="gen-label">Gen 6</span> Isaac M. Berry 1892 – 1980</div>
+<div class="gen gen-6 gen-spouse">+ Lizzie Lee 1893-1961</div>
 <div class="gen gen-6"><span class="gen-label">Gen 6</span> Lillie M. Berry 1895 died in 1917 of typhoid fever. She is buried in Memory Hill Cemetery in Milledgeville</div>
 <div class="gen gen-6"><span class="gen-label">Gen 6</span> John E Berry 1898 -died in 1980.</div>
 <div class="gen gen-6 gen-spouse">+ Mary Viola Anderson. He married Mary Anderson (1901-1998) and lived in Coopers until the early 40's. He purchased an 180 farm on Harmony Church Road in  East Baldwin County and built a home. John was a carpenter and farmer.  Lena. John and Mary Berry are buried at Memory Hill Cemetery.</div>

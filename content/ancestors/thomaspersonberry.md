@@ -33,7 +33,7 @@ CHILDREN of the first Marriage
 </ul>
  
 <p>Thomas Person Berry was 62 1/2 years old when his first wife Sarah Lunsford died.  Eight months after Sarah died he married Lucy Brown who was 24 years old. She was the only daughter of Alfred and Martha Brown who lived on the next farm over from Thomas. <strong> </strong>This marriage license was a very important document to locate because Thomas Person Berry named both of his parents in it.</p>
-<p><a> CHILDREN of the SECOND MARRIAGE </a></p>
+<p> CHILDREN of the SECOND MARRIAGE </p>
 
 <ul>
 <ul>

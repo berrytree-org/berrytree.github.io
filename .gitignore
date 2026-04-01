@@ -2,8 +2,9 @@
 /public/
 
 # Local only — not for remote
-/Projects/
+/Project/
 start_webserver.sh
+CLAUDE.md
 /resources/_gen/
 /.hugo_build.lock
 

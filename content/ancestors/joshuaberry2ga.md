@@ -21,8 +21,7 @@ Generation 3 Joshua and Elizabeth J. Cates Berry
  
 
 <strong>CHILDREN :</strong>
-<h3><a href="#"><strong>
-</strong></a><strong>Joshua Berry Jr. was living next door to Joshua Berry his father in the 1900 Census</strong></h3>
+<h3><strong>Joshua Berry Jr. was living next door to Joshua Berry his father in the 1900 Census</strong></h3>
 <h3>January 12, 2008</h3>
 CENSUS INFORMATION
 <blockquote>“ Joshua Berry was a Farmer in Clayton County Georgia”

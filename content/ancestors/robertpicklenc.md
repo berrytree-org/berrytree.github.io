@@ -68,8 +68,7 @@ William R. Pickle was the son of Robert and Sarah Aldridge Pickle and he married
 Some of the 14 children of Robert and Sarah migrated to the territories, while others remained in the Monroe County area. Catherine and Martin; Martha and Abner; Wesley and Rachel moved to the Choctaw Nation about 1880. Several of the Ritter and Towery family moved with them. Elizabeth P and Thomas; Thomas and Sarah moved to the Utah Territory about 1870. Jerome R. and Sarah moved to Hartford, Arkansas. Mary, Henry, William, Jacob, Susan and Jimmy lived out their lives in Monroe County. David and Frances moved to Jonesboro, Arkansas. Sarah Emma and Daniel Curry resided in Shottsville, Alabama.
 
 SOURCE: Reference the family bible of Jacob Pickle, grandson of Jacob & Catherine, son of Robert and Sarah, with some of the dates of birth, marriage and death. Census reports, family documents and information from other researchers helped to establish this information.
-<h2><a href="#"><strong>
-</strong></a><strong>Robert and Sarah Aldridge Pickle were born in Orange County N.C. and died in Monroe County Mississippi</strong></h2>
+<h2><strong>Robert and Sarah Aldridge Pickle were born in Orange County N.C. and died in Monroe County Mississippi</strong></h2>
 <h3>December 16, 2008</h3>
 CENSUS INFORMATION:
 <blockquote>“ Jacob and Catherine were living next door to David J. Berry in 1810”

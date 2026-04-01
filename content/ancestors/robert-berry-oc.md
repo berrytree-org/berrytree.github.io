@@ -1,6 +1,8 @@
 ---
 title: "Robert Berry (OC)"
 weight: 7
+aliases:
+  - /ancestors/robert/
 ---
 
 ### Robert Berry (OC) was the son of (Robert Berry (PAC) and Mary Williamson of Princess Ann County, Va.)  and He came to Orange County North Carolina in 1751
@@ -213,19 +215,19 @@ Robert And Elizabeth’s ten children circa 1760 -1858. All 10 children were bor
 
 1. **[ John Berry](/ancestors/johnberry/) **b. cir 1764 d. 18o4 m Martha Stepp September 16 1793
 
-1. **[ Isaac Berry](/ancestors/robert-berry-oc/) **b. cir 1766 d. 1840
+1. **[ Isaac Berry](/ancestors/isaac-berry/) **b. cir 1766 d. 1840
 
-1. **[ Joshua Berry](/ancestors/robert-berry-oc/) **b. cir 1769 d. Oct. 8, 1838 m. 1792 Nancy Ellison
+1. **[ Joshua Berry](/ancestors/joshua-berry-sr/) **b. cir 1769 d. Oct. 8, 1838 m. 1792 Nancy Ellison
 
-1. **[ Elizabeth Berry](/ancestors/robert-berry-oc/) **b. cir 1770 d. 1826 m. never married – had daughter Mary in 1892 by William Riley 1892
+1. **[ Elizabeth Berry](/ancestors/elizabeth-berry/) **b. cir 1770 d. 1826 m. never married – had daughter Mary in 1892 by William Riley 1892
 
-1. ** [Thomas Berry](/ancestors/robert-berry-oc/) **b. cir 1772 d. 1812 m. Aug. 12, 1800 Sarah Cate
+1. ** [Thomas Berry](/ancestors/thomas-berry/) **b. cir 1772 d. 1812 m. Aug. 12, 1800 Sarah Cate
 
 1. ** [David J. Berry](/ancestors/david-j-berry-sr/) **b. cir 1774 d. Oct. 3, 1837 m. 1797  Mary Blalock
 
-1. ** [William Berry](/ancestors/robert-berry-oc/) **b. cir 1775 d. 1855 m. Aug. 11, 1799 Hannah Cate
+1. ** [William Berry](/ancestors/william-berry/) **b. cir 1775 d. 1855 m. Aug. 11, 1799 Hannah Cate
 
-1. **[ Henry Berry](/ancestors/robert-berry-oc/) **b. cir 1776 d. 1855 m. never married
+1. **[ Henry Berry](/ancestors/henry-berry/) **b. cir 1776 d. 1855 m. never married
 
 ### **Children Detail:**
 
@@ -408,6 +410,6 @@ Robert Berry Sr. listed in 1790 Orange County North Carolina Census
 
 - Robert was not in a census after 1810. The two neighbors who signed his 1812 will were J (Joseph) Rountree and William Roberson Robert Berry died in 1814 and was buried at the Fiddleton Cemetery.
 
-Back to top
+[Back to Top](#)
 
 #####  Last updated Feb. 2, 2015

@@ -46,4 +46,4 @@ William Oscar and Nettie Anderson Berry  were just married and they were  livi
 
  
 
-<a href="/documents/william-oscar-berry-ga/">Return to top of Page</a>
+<a href="#">Return to top of Page</a>

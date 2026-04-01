@@ -51,8 +51,7 @@ Leona Berry's Obituary
 	<li>Baby Boy Berry 1912 - 1912</li>
 </ul>
  
-<h2><a href="#"><strong>
-</strong></a><strong>Mary Leona Berry was born was born and died in Alabama.</strong></h2>
+<h2><strong>Mary Leona Berry was born was born and died in Alabama.</strong></h2>
 <h3>March 18, 2008</h3>
 CENSUS INFORMATION
 <blockquote>

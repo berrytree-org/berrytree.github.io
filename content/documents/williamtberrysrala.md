@@ -32,8 +32,7 @@ HALF BROTHERS:
 	<li>George Burbol</li>
 </ul>
  
-<h2><a href="#"><strong>
-</strong></a><strong>To Be Researched</strong></h2>
+<h2><strong>To Be Researched</strong></h2>
 <h3>November 20, 2007</h3>
 CENSUS INFORMATION
 <blockquote>“ TO Be Researched”

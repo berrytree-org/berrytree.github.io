@@ -67,7 +67,7 @@ This is the headstone of James Alexander and his second wife Latine Berry. Ther
 
  
 
-Hello, I have only recently begun looking into family history. What started as trying to get a general date on the creation of a family quilt, has led me to hours and hours of genealogical research. My dad, Clifford Dale Berry, is the youngest son of James Edward Berry and Velvie Mae Van Doern Berry. My grandparents always had this thick, 3 ring binder with the Berry genealogy while I was growing up, but it has been years since I’ve seen it. My grandfather was the only son of James Alexander Berry and Ruby A. Shockey Berry. James Alexander was the oldest son of Willie Howell and Sarah Mae/May Benham Berry. I came across this website through a <a id="PXLINK_3_0_3" class="pxInta" href="/ancestors/wp-admin/edit.php?post_type=feedback#">link</a> on an Ancestry.com hit.
+Hello, I have only recently begun looking into family history. What started as trying to get a general date on the creation of a family quilt, has led me to hours and hours of genealogical research. My dad, Clifford Dale Berry, is the youngest son of James Edward Berry and Velvie Mae Van Doern Berry. My grandparents always had this thick, 3 ring binder with the Berry genealogy while I was growing up, but it has been years since I’ve seen it. My grandfather was the only son of James Alexander Berry and Ruby A. Shockey Berry. James Alexander was the oldest son of Willie Howell and Sarah Mae/May Benham Berry. I came across this website through a link on an Ancestry.com hit.
 
 <a href="/images/5-generations.jpg"><img class="alignnone size-full wp-image-8690" src="/images/5-generations.jpg" alt="5 generations" width="894" height="550" /></a>
 

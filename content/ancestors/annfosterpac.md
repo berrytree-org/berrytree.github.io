@@ -4,7 +4,7 @@ title: "Ann Foster PAC"
 
 <h2>Ann Foster from England and Princess Ann County Virginia</h2>
 <h3><strong>Ancestors:</strong></h3>
-<a> Parents Unknown Ann Foster and Roger Williamson </a>
+ Parents Unknown Ann Foster and Roger Williamson 
 
 <strong>Ann Foster married Roger Williamson</strong>
 Ann Foster was born in England in 1620 and died in Princess Ann County Virginia around 1692. Roger died about 1650 and Ann Foster Williamson remarried. Her new husband was John Carraway. Recorded in Virginia Colonial Abstracts, Vol. 31, Lower Norfolk County, Page 19. and she had children by him also.

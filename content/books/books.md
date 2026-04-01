@@ -8,8 +8,8 @@ title: "Books"
 <p>This book is a result of 18 years of research by the author and countless number of years of research buy a large number of family researchers. The book is about the Robert Berry Family which consisted of 10 children who migrated from Virginia to North Carolina to many points west. A few of the children remained in North Carolina and several of the boys and their children migrated south and westward after their father died in 1814. Our Y-DNA project has a total of 14 participants of living descendants. There is a chapter in this book for each of the 10 children of Robert and Elizabeth Cate Berry who were married about 1757 and established a large plantation in Orange County, North Carolina, where many descendants still live today. While there might still be errors in this publication none of the information has been copied from any source without thorough research. The aim of this book is to provide a reliable resource for the future generations of our Robert Berry Family.</p>
 <p><strong><a href="/ancestors/history-of-the-cover-pages-2015/">Click here to see the History of the cover pictures</a></strong></p>
 <hr />
-<p><strong><a href="/images/front_page_art.jpg"><img class=" size-medium wp-image-2912 alignleft" src="/images/front_page_art.jpg" alt="front_page_art" width="232" height="300" /></a>"<a href="/ancestors/docs/pdf/Our_Berrys_In_Frontier_America.pdf">Our Berrys in Frontier America</a>"</strong><br />A History of Robert & Elizabeth Cate<br />Berry's 10 children<br />Updated and revised for 2015<br />By Benjamin Berry Henderson Sr.<br />eBook, 360 Pages<br /><span class="price-label">Price:</span><span><strong> <span class="actual-price">FREE PDF FILE</span></strong></span></p>
-<p><a href="/ancestors/docs/pdf/Our_Berrys_In_Frontier_America.pdf"><input type="submit" value="Click Here to download Free eBook" /></a></p>
+<p><strong><a href="/images/front_page_art.jpg"><img class=" size-medium wp-image-2912 alignleft" src="/images/front_page_art.jpg" alt="front_page_art" width="232" height="300" /></a>"<a href="https://www.lulu.com/content/e-book/our-berrys-in-frontier-america/17317864">Our Berrys in Frontier America</a>"</strong><br />A History of Robert & Elizabeth Cate<br />Berry's 10 children<br />Updated and revised for 2015<br />By Benjamin Berry Henderson Sr.<br />eBook, 360 Pages<br /><span class="price-label">Price:</span><span><strong> <span class="actual-price">FREE PDF FILE</span></strong></span></p>
+<p><a href="https://www.lulu.com/content/e-book/our-berrys-in-frontier-america/17317864"><input type="submit" value="Click Here to download Free eBook" /></a></p>
 <p><a href="https://www.lulu.com/content/e-book/our-berrys-in-frontier-america/17317864" target="_blank" rel="noopener noreferrer">On Lulu.com</a></p>
 <p>This book is Identical to the Paperback Book and should serve your purpose for researching our Berry Family.  The aim of this book is to provide a reliable resource for the future generations of our Robert Berry Family.</p>
 <hr />
@@ -28,7 +28,7 @@ title: "Books"
 
 <hr />
 <p><a href="/images/addendumformybook_cover.png"><img class="frame wp-image-1410 alignleft" src="/images/addendumformybook_cover.png" alt="" width="245" height="317" /></a>If you purchased the 1st Edition of the<br />hardcover book<br />"<strong>Our Berrys In Frontier America</strong>"</p>
-<p><a href="/ancestors/docs/pdf/addendumformybook.pdf" target="_blank" rel="noopener noreferrer">Click here to download the Addendum</a></p>
+<p><a href="/documents/addendumformybook.pdf" target="_blank" rel="noopener noreferrer">Click here to download the Addendum</a></p>
 
 
 </form>

@@ -39,6 +39,6 @@ Vera Othella Maners was born on September 16th 1907 & died in Rock Hill SC on J
 
 <a href="/images/vera-and-marvin-snipes-headstone.jpg"><img class="alignnone size-full wp-image-5545" src="/images/vera-and-marvin-snipes-headstone.jpg" alt="Vera and Marvin Snipes headstone" width="629" height="340" /></a>
 
-<a href="/ancestors/vera-othello-maners/">Return to top of Page</a>
+<a href="#">Return to top of Page</a>
 
 </div>

@@ -29,8 +29,7 @@ We have no record of Anna Thorpe Berry's death and burial. Anna Thorpe Berry was
 	<li><strong>Joseph Berry</strong> Was born in Ohio in 1843</li>
 </ul>
  
-<h2><a href="#"><strong>
-</strong></a><strong>Joshua Berry Jr was born in Orange County NC and died in Benton County Iowa. </strong></h2>
+<h2><strong>Joshua Berry Jr was born in Orange County NC and died in Benton County Iowa. </strong></h2>
 <h3>May 17, 2008 Updated 10/21/2015</h3>
 CENSUS INFORMATION
 <blockquote>
@@ -47,4 +46,4 @@ CENSUS INFORMATION
 </ul>
 <a href="/ancestors/joshua-jr-census/">Joshua Berry Jr, Census page</a>
 
-<a href="/ancestors/joshuaberryohio/">Return to top of Page.</a></blockquote>
+<a href="#">Return to top of Page.</a></blockquote>
