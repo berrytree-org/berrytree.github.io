@@ -2,35 +2,34 @@
 title: "Isaac Berry Family Tree"
 ---
 
-Isaac Berry
+{{< ancestor-chain gen3="Isaac Berry × Lydia Berry" loc3="Orange County, North Carolina" link3="/ancestors/isaacberry/" />}}
 
-Son of Robert and Elizabeth Cate Berry from Orange County, North Carolina
+<div class="gen-tree">
+<div class="gen gen-3"><span class="gen-label">Gen 3</span> <a href="/ancestors/isaacberry/">Isaac Berry</a> 1768 - 1830 d: Aft. 1830 in Fiddleton Plantation Orange County N.C.</div>
+<div class="gen gen-3 gen-spouse">+Lydia Berry 1815 - after 1880</div>
+<div class="gen gen-4"><span class="gen-label">Gen 4</span> Mary Ann Berry 1832 - 1910 d: 31 Aug 1910 in Person Co. NC</div>
+<div class="gen gen-4 gen-spouse">+Samuel Hunley 1822 - m: 18 Dec 1850 d: in Person Co. NC</div>
+<div class="gen gen-5"><span class="gen-label">Gen 5</span> Liddy Hunley 1852 -</div>
+<div class="gen gen-5"><span class="gen-label">Gen 5</span> Hilda Hunley 1877 - 1955 d: 31 Jul 1955 in Roxboro Person Co. NC</div>
+<div class="gen gen-5 gen-spouse">+Thomas Horner m: 1896</div>
+<div class="gen gen-6"><span class="gen-label">Gen 6</span> Lillie Horner 1897 -</div>
+<div class="gen gen-6"><span class="gen-label">Gen 6</span> Jack Horner 1899 -</div>
+<div class="gen gen-4"><span class="gen-label">Gen 4</span> Thomas J. Hunley 1856 -</div>
+<div class="gen gen-4 gen-spouse">+Sarah Berry 1859 -</div>
+<div class="gen gen-4"><span class="gen-label">Gen 4</span> David R.Hunley 1860 -</div>
+<div class="gen gen-4"><span class="gen-label">Gen 4</span> Julius S Hunley 1865 - 1917 d: 09 Mar 1917 in Chappell Hill Orange Co. NC</div>
+<div class="gen gen-4 gen-spouse">+Dellia Haseitine Barbee</div>
+<div class="gen gen-5"><span class="gen-label">Gen 5</span> Robena H Hunley 1889 -</div>
+<div class="gen gen-5"><span class="gen-label">Gen 5</span> Samuel Chris Hunley 1890 -</div>
+<div class="gen gen-5"><span class="gen-label">Gen 5</span> Henry Hunley Hunley 1893 -</div>
+<div class="gen gen-5"><span class="gen-label">Gen 5</span> Nancy E. Hunley 1895 -</div>
+<div class="gen gen-5"><span class="gen-label">Gen 5</span> Joshua Hunley 1889 -</div>
+<div class="gen gen-5"><span class="gen-label">Gen 5</span> John Hunley 1900 - 1910 d: Bef. 1910</div>
+<div class="gen gen-5"><span class="gen-label">Gen 5</span> Fanny Hunley 1904 -</div>
+<div class="gen gen-5"><span class="gen-label">Gen 5</span> Rutha Hunley 1908 -</div>
+<div class="gen gen-4"><span class="gen-label">Gen 4</span> Ida E Hunley 1869 -</div>
+<div class="gen gen-4"><span class="gen-label">Gen 4</span> Mary A. Hunley 1873 -</div>
+<div class="gen gen-4"><span class="gen-label">Gen 4</span> William Hunley 1874 -</div>
+<div class="gen gen-4"><span class="gen-label">Gen 4</span> Cora L Hunley 1775 -</div>
 
-Descendants of Isaac Berry
-
-<strong>Gen 3</strong> <a href="/ancestors/isaacberry/">Isaac Berry</a> 1768 - 1830 d: Aft. 1830 in Fiddleton Plantation Orange County N.C.
-.......... +Lydia Berry 1815 - after 1880
-..............<strong>Gen 4</strong> Mary Ann Berry 1832 - 1910 d: 31 Aug 1910 in Person Co. NC
-....................... +Samuel Hunley 1822 - m: 18 Dec 1850 d: in Person Co. NC
-.......................<strong>Gen 5</strong> Liddy Hunley 1852 -
-.......................<strong>Gen 5</strong> Hilda Hunley 1877 - 1955 d: 31 Jul 1955 in Roxboro Person Co. NC
-.................................. +Thomas Horner m: 1896
-...................................<strong>Gen 6</strong> Lillie Horner 1897 -
-...................................<strong>Gen 6</strong> Jack Horner 1899 -
-.............<strong>Gen 4</strong> Thomas J. Hunley 1856 -
-....................... +Sarah Berry 1859 -
-............<strong>Gen 4</strong> David R.Hunley 1860 -
-............<strong>Gen 4</strong> Julius S Hunley 1865 - 1917 d: 09 Mar 1917 in Chappell Hill Orange Co. NC
-....................... +Dellia Haseitine Barbee
-........................<strong>Gen 5</strong> Robena H Hunley 1889 -
-........................<strong>Gen 5</strong> Samuel Chris Hunley 1890 -
-........................<strong>Gen 5</strong> Henry Hunley Hunley 1893 -
-........................<strong>Gen 5</strong> Nancy E. Hunley 1895 -
-........................<strong>Gen 5</strong> Joshua Hunley 1889 -
-........................<strong>Gen 5</strong> John Hunley 1900 - 1910 d: Bef. 1910
-........................<strong>Gen 5 </strong>Fanny Hunley 1904 -
-........................<strong>Gen 5 </strong>Rutha Hunley 1908 -
-............<strong>Gen 4 </strong>Ida E Hunley 1869 -
-............<strong>Gen 4</strong> Mary A. Hunley 1873 -
-............<strong>Gen 4</strong> William Hunley 1874 -
-............<strong>Gen 4</strong> Cora L Hunley 1775 -
+</div>

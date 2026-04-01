@@ -2,11 +2,10 @@
 title: "Mary Berry Family Line"
 ---
 
-**Gen 1** Robert & Mary Williamson Berry, Princess Anne County, Virginia.
-
-**Gen 2** Robert & Elizabeth Cate Berry, Orange County, North Carolina.
+{{< ancestor-chain />}}
 
 ---
+
 
 - [Berry, Mary](/ancestors/mary-berry/) **Gen 3** — daughter of Robert and Elizabeth Cate Berry, NC
 - [Waggoner, George](/ancestors/mary-berry/) **Gen 3** — first husband of Mary Berry, NC

@@ -45,53 +45,49 @@ Mary Camps Listing:1 male 10 -15 (William age 11) 1 male 16 – 26 (Joshua age 2
 
 Robert Berry was listed as being between 26 and 44 and his wife was also listed between 26 and 44. They  had two daughters under 10 years old. Robert Berry may be the male missing in Mary Camps 1820 Jackson County Census. John and Martha Berry had a son named Robert Berry would have been about 22 or 23 years old in 1820
 
-**Ancestors:**
+{{< ancestor-chain gen3="John Berry × Martha Stepp" loc3="Person County NC → Jackson County GA" link3="/ancestors/john-berry/" />}}
 
-1. **Generation [Robert and Mary Williamson Berry](/ancestors/robert-berry-pac/), Princess Anne County, Virginia.**
-
-1.  **Generation** **[Robert and Elizabeth Cate Berry](/ancestors/robert-berry-oc/)  Orange County, North Carolina.**
-
-**Gen 3 John Berry** married **Martha Stepp**  Sep. 17, 1793
+<div class="gen gen-3"><span class="gen-label">Gen 3</span> John Berry married **Martha Stepp**  Sep. 17, 1793</div>
 
 **———–John & Martha Berry’s 5 Children:**
 
-- **Gen 4** Polly Berry (short for Mary)              born about 1793
+<div class="gen gen-4"><span class="gen-label">Gen 4</span> Polly Berry (short for Mary)              born about 1793</div>
 
-- **Gen 4** Betsie Berry  (short for Elizabeth)   born about 1795
+<div class="gen gen-4"><span class="gen-label">Gen 4</span> Betsie Berry  (short for Elizabeth)   born about 1795</div>
 
-- **Gen 4** Joshua Berry born 1797
+<div class="gen gen-4"><span class="gen-label">Gen 4</span> Joshua Berry born 1797</div>
 
-- **Gen 4** Robert Berry  born  1798
+<div class="gen gen-4"><span class="gen-label">Gen 4</span> Robert Berry  born  1798</div>
 
-- **Gen 4** William Berry born 1804
+<div class="gen gen-4"><span class="gen-label">Gen 4</span> William Berry born 1804</div>
 
-**Gen 4 **[William Berry (1804 – 1881)](http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=49919744)  
+<div class="gen gen-4"><span class="gen-label">Gen 4</span> [William Berry (1804 – 1881)](http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=49919744)</div>
 
 **            + **[Sarah *Nelson* Berry (1805 – 1883)](http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=49919695)Children:
 
-- **——–Gen 5** [Sentha *Berry* Dobbs (1844 – 1899)](http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=52801146)*
+<div class="gen gen-5"><span class="gen-label">Gen 5</span> [Sentha *Berry* Dobbs (1844 – 1899)](http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=52801146)*</div>
 
 - ——–[**Gen 5** Nancy *Berry* Brazil (1825 – 1906)](http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=48920526)*
 
-- **——–Gen 5  **[William Berry (1842 – 1913)](http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=49919734)
+<div class="gen gen-5"><span class="gen-label">Gen 5</span> [William Berry (1842 – 1913)](http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=49919734)</div>
 
-- **——–Gen 5 **[Joshua Berry (1844 – 1862)](http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=47103218)
+<div class="gen gen-5"><span class="gen-label">Gen 5</span> [Joshua Berry (1844 – 1862)](http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=47103218)</div>
 
-- **——–Gen 5  **[Wilburn Tarplin Berry (1850 – 1926)](http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=74168917)
+<div class="gen gen-5"><span class="gen-label">Gen 5</span> [Wilburn Tarplin Berry (1850 – 1926)](http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=74168917)</div>
 
-- **——–Gen 5 **Sylvester V. Berry (1832 – 1903)
+<div class="gen gen-5"><span class="gen-label">Gen 5</span> Sylvester V. Berry (1832 – 1903)</div>
 
-- **————–Gen 6 **[Matilda Jane *Berry* Canterbury (1854 – 1931)](http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=42194340)*
+<div class="gen gen-6"><span class="gen-label">Gen 6</span> [Matilda Jane *Berry* Canterbury (1854 – 1931)](http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=42194340)*</div>
 
-- **————–Gen 6 **[Henry B. Berry (1858 – 1942)](http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=42227040)*
+<div class="gen gen-6"><span class="gen-label">Gen 6</span> [Henry B. Berry (1858 – 1942)](http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=42227040)*</div>
 
-- **————–Gen 6  **[Ulysses L Berry (1872 – 1953)](http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=26117641)*
+<div class="gen gen-6"><span class="gen-label">Gen 6</span> [Ulysses L Berry (1872 – 1953)](http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=26117641)*</div>
 
-- **————–Gen 6 **[Lee Staten Berry (1876 – 1935)](http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=42227343)
+<div class="gen gen-6"><span class="gen-label">Gen 6</span> [Lee Staten Berry (1876 – 1935)](http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=42227343)</div>
 
 - **————–Gen6  **[John N. Berry (1823 – 1877)](http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=48920424)
 
-- **————–Gen 6 **[William Sanford Berry (1858 – 1922)](http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=62957167)*
+<div class="gen gen-6"><span class="gen-label">Gen 6</span> [William Sanford Berry (1858 – 1922)](http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=62957167)*</div>
 
 **November 22 1850 Fayette County Alabama Census**
 
