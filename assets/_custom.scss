@@ -1413,3 +1413,78 @@ p > strong:first-child {
     }
   }
 }
+
+// -- Book Feature Card (Landing Page) --
+.book-card {
+  display: flex;
+  gap: 1.5rem;
+  background: linear-gradient(135deg, $forest-dark, darken($forest-dark, 5%));
+  border: 2px solid $forest-mid;
+  border-radius: 8px;
+  padding: 1.5rem;
+  margin: 1.5rem 0;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+  align-items: center;
+
+  .book-card-cover {
+    flex-shrink: 0;
+    width: 120px;
+
+    img {
+      width: 100%;
+      border-radius: 4px;
+      box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.4);
+    }
+  }
+
+  .book-card-info {
+    flex: 1;
+
+    h3 {
+      font-family: 'Cinzel', serif;
+      color: #d4a843;
+      margin: 0 0 0.3rem 0;
+      font-size: 1.3rem;
+    }
+
+    .book-card-author {
+      color: $cream-border;
+      font-style: italic;
+      margin: 0 0 0.6rem 0;
+      font-size: 0.95rem;
+    }
+
+    p {
+      color: $white-soft;
+      font-size: 0.95rem;
+      line-height: 1.5;
+      margin: 0 0 0.8rem 0;
+    }
+
+    .book-card-link {
+      display: inline-block;
+      background: transparent;
+      border: 2px solid #d4a843;
+      color: #d4a843 !important;
+      padding: 0.4rem 1.2rem;
+      border-radius: 4px;
+      font-family: 'Cinzel', serif;
+      font-size: 0.9rem;
+      text-decoration: none !important;
+
+      &:hover {
+        background: #d4a843;
+        color: $forest-dark !important;
+      }
+    }
+  }
+
+  @media (max-width: 600px) {
+    flex-direction: column;
+    text-align: center;
+
+    .book-card-cover {
+      width: 100px;
+    }
+  }
+}
