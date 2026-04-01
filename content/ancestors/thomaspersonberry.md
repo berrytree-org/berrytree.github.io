@@ -24,7 +24,7 @@ CHILDREN of the first Marriage
 <ul>
 	<li><a title="William H Berry NC" href="/documents/williamhberrync/" target="_blank">William H. Berry</a> b. 1836 d.1858</li>
 	<li>Willie Berry b. 1838 d. Unknown</li>
-	<li><a title="John Robert Berry" href="/ancestors/john-robert-berrys-family-history/">John Robert Berry</a> b.25 September 1842 d.10 Oct 1917</li>
+	<li><a title="John Robert Berry" href="/ancestors/john-robert-berry/">John Robert Berry</a> b.25 September 1842 d.10 Oct 1917</li>
 </ul>
 <ul>
 	<li>James P. Berry b. Apr 1847 d.15 Feb 1912</li>

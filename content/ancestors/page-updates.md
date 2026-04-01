@@ -7,8 +7,8 @@ title: "Pages Updates"
  	<li><span><span><span><b>If you have pictures and information of your family line, get in touch with us by clicking on  the CONTACT US </b></span><span><b>drop-down</b></span><span><b> button at the top of this page. I will create a page for your Family on berrytree</b></span></span></span></li>
  	<li>2/15/2020 Added a Link on<a href="/ancestors/wiley-p-berry/"> Wiley P Berry</a> page to a picture of the three brothers</li>
  	<li>2/13/2020<a href="/ancestors/fiddleton-1891/"> Fiddleton Map</a> Updated</li>
- 	<li>2/13/2020<a href="/ancestors/johnrobertberry/"> John R Berry and the Fiddleton Map</a></li>
- 	<li>2/03/2020 <a href="/ancestors/johnrobertberry/">John R Berry and the Fiddleton Map</a></li>
+ 	<li>2/13/2020<a href="/ancestors/john-robert-berry/"> John R Berry and the Fiddleton Map</a></li>
+ 	<li>2/03/2020 <a href="/ancestors/john-robert-berry/">John R Berry and the Fiddleton Map</a></li>
  	<li>2/03/2020 <a href="/ancestors/fiddleton-1891/">Fiddleton Map</a> Added</li>
  	<li>11/22/2019 Added information to <a href="/dna/dnapage/">DNA Page 1</a></li>
  	<li>8/18/2019 Updating <a href="/ancestors/robert-t-berry/">Robert T Berry</a> Page</li>

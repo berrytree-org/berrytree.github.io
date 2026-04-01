@@ -42,7 +42,7 @@ Individual profiles for ancestors in the Robert and Elizabeth Cate Berry family 
 - [John Berry (TX)](/ancestors/john-berry-tx/)
 - [John Berry (TX) — Detail](/ancestors/john-berry-tx-detail/)
 - [John Robert Berry](/ancestors/john-robert-berry/)
-- [John Robert Berry — Family History](/ancestors/john-robert-berry-family-history/)
+- [John Robert Berry — Family History](/ancestors/john-robert-berry/)
 - [Joshua Berry (Ohio) — Detail](/ancestors/joshua-berry-ohio-detail/)
 - [Martha M. Lockley](/ancestors/martha-m-lockley/)
 - [Mary Jane Berry (WC)](/ancestors/mary-jane-berry-wc/)

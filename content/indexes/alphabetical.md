@@ -269,7 +269,7 @@ weight: 1
 
 - [Williamson deeds  and wills 1691 to 1755 PAC](/documents/)
 
-- [Willie Adolphus Berry](/ancestors/john-robert-berry-family-history/)
+- [Willie Adolphus Berry](/ancestors/john-robert-berry/)
 
 - [Willie Howell Berry Jr. Tx](/ancestors/john-berry-tx/)
 

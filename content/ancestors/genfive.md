@@ -109,7 +109,7 @@ Generation 3 Thomas Person Berry & Sarah Lunsford
 
 4 William H Berry
 4 Willie Berry
-4 <a href="/ancestors/johnrobertberry/">John Robert Berry
+4 <a href="/ancestors/john-robert-berry/">John Robert Berry
 </a>4 James P Berry
 
 3 Thomas Person Berry's Second Marriage To Lucy Brown

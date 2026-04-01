@@ -9,7 +9,7 @@ title: "Wiley P. Berry"
  	<li>Generation  <a title="Robert" href="/ancestors/robert/">Robert and Elizabeth Cate Berry</a></li>
  	<li>Generation  <a title="William" href="/ancestors/william/">William Berry and Hannah Cate</a></li>
  	<li>Generation  <a title="Thomaspersonberry" href="/ancestors/thomaspersonberry/">Thomas Person Berry and Sarah Lunsford</a></li>
- 	<li>Generation  <a title="Johnrobertberry" href="/ancestors/johnrobertberry/">John Robert Berry and Elizabeth Francis Bowling</a></li>
+ 	<li>Generation  <a title="Johnrobertberry" href="/ancestors/john-robert-berry/">John Robert Berry and Elizabeth Francis Bowling</a></li>
 </ol>
 <h3><strong>Marriage:</strong></h3>
 Wiley P. Berry married Ida Ann Wilson June 2nd 1895
