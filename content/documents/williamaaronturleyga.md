@@ -24,8 +24,7 @@ In the picture shown above  Will and Emma B. Turley are with Will's mother and
  
 
 Mattie Gertrude Turley was the second child of Will and Emma. She Married J. B. Powell, Son of John David and Nancy Smith Powell. They had four Children, The oldest Melvin Ray died at birth, Lois, Hershal and Irene are still living
-<h2><a href="#"><strong>
-</strong></a><strong>Mary J. Berry and Nathan Turley lived between Marietta and Roswell Georgia.</strong></h2>
+<h2><strong>Mary J. Berry and Nathan Turley lived between Marietta and Roswell Georgia.</strong></h2>
 <h3>January 9, 2008 Updated 10/19/2015</h3>
 Census Information needs to be researched
-<blockquote><a href="/documents/williamaaronturleyga/">return to top of Page</a></blockquote>
+<blockquote><a href="#">return to top of Page</a></blockquote>

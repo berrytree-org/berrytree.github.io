@@ -33,8 +33,7 @@ ANCESTORS
 	<li><strong>Mable Hunt </strong> Born: 1918</li>
 	<li><strong>Cuel Hunt </strong></li>
 </ul>
-<h2><a href="#"><strong>
-</strong></a><strong>Virginia and Lonzo Joseph Hunt Lived in Rusk County Texas</strong></h2>
+<h2><strong>Virginia and Lonzo Joseph Hunt Lived in Rusk County Texas</strong></h2>
 <h3>October 8, 2008</h3>
 <strong>CENSUS INFORMATION</strong>
 <blockquote>

@@ -10,8 +10,7 @@ CATES from THE DAVID J. BERRY LINEGeneration 1 Robert and Elizabeth Cate BerryGe
 <strong>BARTON</strong>
 
 BARTON from THE DAVID J. BERRY LINEGeneration 1 Robert and Elizabeth Cate BerryGeneration 2 David J. and Mary Blalock BerryGeneration 3 Mary Berry and Thomas H. BartonGeneration 4 Robert Marion BartonGeneration 5 Yancey Pascal BartonGeneration 6 Winston Marion BartonSOURCE CODE: rdmrywcc
-<h2><a href="#"><strong>
-</strong></a><strong>These are berry descendants whos lines have not been developed in berrytree</strong></h2>
+<h2><strong>These are berry descendants whos lines have not been developed in berrytree</strong></h2>
 <h3>October 15, 2008</h3>
 <strong>SOMETHING</strong>
 <blockquote>

@@ -43,8 +43,7 @@ Private in Company I, 30th Regiment of the Georgia Infantry.</li>
 	<li><strong>A. RILEY BARTON</strong> Born March 27th, 1833</li>
 	<li><strong><a href="/ancestors/robertmarionbartonga/">ROBERT MARION BARTON</a></strong> Born March 7. 1843 married Mary E. Birdwell</li>
 </ul>
-<h2><a href="#"><strong>
-</strong></a><strong>Thomas Howard and Mary Berry Barton</strong></h2>
+<h2><strong>Thomas Howard and Mary Berry Barton</strong></h2>
 <h3>August 19, 2008</h3>
 <strong>CENSUS INFORMATION</strong>
 <blockquote>

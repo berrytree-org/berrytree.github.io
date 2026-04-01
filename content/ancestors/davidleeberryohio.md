@@ -26,8 +26,7 @@ He Is Married And Has Two Children
 	<li>Living Female Berry</li>
 	<li>Living Male Berry</li>
 </ol>
-<h3><a href="#"><strong>
-</strong></a><strong>To Be Researched:</strong></h3>
+<h3><strong>To Be Researched:</strong></h3>
 <h3><strong>Census Information:</strong></h3>
 <blockquote>“ TO Be Researched”
 

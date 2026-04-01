@@ -7,7 +7,7 @@ weight: 6
 
 There are 291 names in the list above. Some may be misspelled and some may be in error. There are many known Berry descendants listed in this book who’s spouses and other pertinent family  information is unknown at this time.
 
-The **Robert Berry Family Index Book Second Edition eBook**** is [FREE](../books.html)**
+The **Robert Berry Family Index Book Second Edition eBook**** is [FREE](/books/)**
 
 You may know information that will help me fill in a lot of unknown information for the **Third Edition**. Also my hope is that many new researchers will become aware that they are related to our Berry Family and will supply new information to expand our knowledge  of our Family.
 

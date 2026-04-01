@@ -72,4 +72,4 @@ When Lucy Brown Berry Died on 08 Jan 1881 <a href="/ancestors/thomaspersonberr
 
 The file is about about 300 pages and was so large that the library made copies of the  microfiche which they have available for sale. I have a copy of this microfiche that I bought for my private library. I have also printed out the file on hard copies. Martha Peed married Alfred Brown in Person County, North Carolina on August 5th 1841. I have no idea what Martha's relationship is to Elizabeth Peed Bowles.
 
-<a href="/ancestors/census-page-for-thomas-p-berry/">Return to top of Page</a>
+<a href="#">Return to top of Page</a>

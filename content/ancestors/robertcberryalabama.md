@@ -61,7 +61,7 @@ CENSUS INFORMATION
 	<li>Robert C. Berry listed in the  1840 Fayette County, Alabama Census.</li>
 	<li>Robert C. Berry listed in the 1850 Fayette County, Alabama Census.</li>
 	<li>Robert C. Berry listed in the 1860 Fayette County, Alabama Census</li>
-	<li>Robert C. Berry <a href="images/robertcberry1870ala.jpg">l</a>isted in the 1870  Fayette County, Alabama Census.</li>
+	<li>Robert C. Berry listed in the 1870  Fayette County, Alabama Census.</li>
 	<li>Robert C. Berry listed in the 1880 Fayette County, Alabama Census..</li>
 </ul>
 </blockquote>

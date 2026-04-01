@@ -25,4 +25,4 @@ Heirs of Nancy Berry from the Estate Settlement
 	<li>Heirs of Rachel Neal (Nancy's Cousin)</li>
 	<li>Heirs of Sarah Jones (Nancy's Cousin)</li>
 </ul>
-<a href="/ancestors/nancy-berry-spinster-joshuas-daughter/">Return to top of Page</a>
+<a href="#">Return to top of Page</a>

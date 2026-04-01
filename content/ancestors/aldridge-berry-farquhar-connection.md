@@ -353,4 +353,4 @@ David Jackson Farquhar was the son of Anderson and Lavina Kirkland Farquhar.
 
 11/08/2015  & 12/1/2015
 
-[Return to top of Page](index.html)
+[Return to top of Page](#)

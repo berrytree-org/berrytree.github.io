@@ -46,4 +46,4 @@ Ancestors:
 
 Emanuel P. Berry and Clara Susan Worsham Berry are buried at the Memory Hill Cemetery in Milledgeville, Baldwin County, Georgia.
 
-<a href="/ancestors/emmanuel-patten-berry/">Return to top of Page</a>
+<a href="#">Return to top of Page</a>

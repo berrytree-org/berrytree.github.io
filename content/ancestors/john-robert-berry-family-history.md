@@ -6,7 +6,7 @@ title: "John Robert Berry’s Family History"
 
 - Great Grandparents – [Robert and Elizabeth Cate Berry](/ancestors/robert-berry-oc/)
 
-- Grand Parents –  [William Berry and Hannah Cate](/ancestors/william-clarence-berry-nc/)
+- Grand Parents –  [William Berry and Hannah Cate](/ancestors/william-berry/)
 
 - Parents – [Thomas Person And Sarah Lunsford Berry](/ancestors/thomas-person-berry/)
 
@@ -35,7 +35,7 @@ John Robert Berry and Elizabeth F. Bowling Berry’s Headstone
 
 - Cora D. Berry 14 Jan 1868-18 Sept 1947 age 79
 
-- [Wiley P. Berry](/ancestors/william-clarence-berry-nc/)08 Sept 1869-08 May 1965 age 96
+- [Wiley P. Berry](/ancestors/wiley-p-berry/) 08 Sept 1869-08 May 1965 age 96
 
 - John W. Berry 02 Feb 1871-22 Dec 1923 age 52
 
@@ -43,7 +43,7 @@ John Robert Berry and Elizabeth F. Bowling Berry’s Headstone
 
 - Ada Lee Ann Berry 11 Jul 1875-22 Nov 1968 age 93
 
-- [Willie Adolphus Berry](/ancestors/william-clarence-berry-nc/)03 Jun 1877-08 Jan 1964 age 87
+- Willie Adolphus Berry 03 Jun 1877-08 Jan 1964 age 87
 
 - [Thomas Ewart Berry](/ancestors/thomas-euart-berry-nc/) 25 Jan 1880-15 Dec 1960 age 80
 
@@ -65,7 +65,7 @@ Wiley P Berry was married to Ida Ann Wilson and are my grandparents. Grandma was
 Grandpa never remarried.
 
 
-Back to Top
+[Back to Top](#)
 
 
 ---

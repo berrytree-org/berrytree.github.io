@@ -3,9 +3,9 @@ title: "Mary Kempe PAC"
 ---
 
 <h2>Mary Kempe from Princess Ann County Virginia</h2>
-<a> PARENTS:</a>
+ PARENTS:
 
-<a> Mary's Parents George and Mary Hutchinson Kempe </a>
+ Mary's Parents George and Mary Hutchinson Kempe 
 
 <strong>MARY KEMPE </strong> married RICHARD WILLIAMSON (daughter of George and Mary Hutchinson Kempe of Kempe's Landing) There is some question at this time about Mary Kempe's marriage date since George amd Mary Hutchison Kempe may not have arrived in America before 1650. My thoughts are that Richard Williamson and Mary Kempe were probably married around 1670 to 1675. From Richard Williamson's 1721 will we learn that his children were:
 <ul>

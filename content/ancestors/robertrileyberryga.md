@@ -59,7 +59,7 @@ title: "Robert Riley Berry Ga"
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p><a href="#"><strong><br></strong></a>Robert Riley and Mattie Berry moved from Georgia sometime after 1880 and lived near Cullman Alabama</p>
+<p><br>Robert Riley and Mattie Berry moved from Georgia sometime after 1880 and lived near Cullman Alabama</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->

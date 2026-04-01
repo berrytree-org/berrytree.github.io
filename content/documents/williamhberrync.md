@@ -28,8 +28,7 @@ Sixteen months after William H. Berry and Sarah Frances King  married  Willi
 <ul>
 	<li><strong>There were no children born to William H. and Sarah Frances Berry.</strong></li>
 </ul>
-<h3><a href="#"><strong>
-</strong></a><strong>William H. Berry was only listed in his fathers census.</strong></h3>
+<h3><strong>William H. Berry was only listed in his fathers census.</strong></h3>
 <h3>January 15, 2008</h3>
 Updated February 16th 2015
 

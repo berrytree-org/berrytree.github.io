@@ -59,4 +59,4 @@ The picture on the right was taken of Walter Glen and Leone P. Berry at a muc
  
 <blockquote> 
 
-<em><a href="/ancestors/walterglenberryga/">Return to top of Page</a></em></blockquote>
+<em><a href="#">Return to top of Page</a></em></blockquote>

@@ -81,4 +81,4 @@ Addie Lena Berry was the daughter of Jesse Lee and Nancy Ann Henry Berry, Georg
 
  
 
-<a href="/ancestors/addie-lena-berry/">Return to top of Page</a>
+<a href="#">Return to top of Page</a>

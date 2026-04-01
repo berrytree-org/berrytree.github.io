@@ -145,4 +145,4 @@ Parson Berry listed in the 1840 Orange County, North Carolina Census.
 [Thomas P. Berry](/ancestors/census-thomas-berry/)listed in the 1880 Orange County, North Carolina Census.
 
 
-Back to Top
+[Back to Top](#)

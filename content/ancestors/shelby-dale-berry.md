@@ -63,4 +63,4 @@ Our other Berry TV Actor is [Ken Berry](/ancestors/shelby-dale-berry/) descend
 
 Created November 4th 2015
 
-[Return to top of Page](index.html)
+[Return to top of Page](#)

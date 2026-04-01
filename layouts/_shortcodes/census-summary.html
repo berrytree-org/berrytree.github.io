@@ -1,0 +1,14 @@
+{{/*
+  census-summary shortcode
+  Renders a plain-language census summary above detailed records.
+  Tom's directive: summary first, then the data for those who want it.
+
+  Parameters:
+    summary (string) — Plain-language overview sentence
+
+  Usage:
+    {{< census-summary summary="David J. Berry appeared in the Orange County, North Carolina census in 1800, 1810, and 1820." />}}
+*/}}
+<div class="census-summary">
+  <p class="census-overview">{{ .Get "summary" }}</p>
+</div>

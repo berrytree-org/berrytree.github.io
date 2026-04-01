@@ -16,9 +16,9 @@ Eliza Everett was born on May 30th 1814 in Georgia and died on April 23rd 1891 i
 
 <figure><a href="/images/robert-and-eliza-everetts-bible-page.jpg"><img class="size-thumbnail wp-image-2436" src="/images/Robert-and-eliza-everetts-bible-page-150x150.jpg" alt="Robert & Elizabeth Everette Berry's Bible Page" width="150" height="150" /></a> Robert & Elizabeth Everette Berry's Bible Page</figure>
 
-<a>Robert & Eliza Everette Berry's Children</a>
+Robert & Eliza Everette Berry's Children
 
-<a>Locating the bible page on the left was a very valuable document to find. It list Robert Berry's birth date, his wife Eliza Berry, all of their children,  their birthdates, and</a><a> some deaths.</a>
+Locating the bible page on the left was a very valuable document to find. It list Robert Berry's birth date, his wife Eliza Berry, all of their children,  their birthdates, and some deaths.
 
 Robert and Eliza Everett Berry were in Fayette County Georgia in 1840. The 1840 census for that county shows that they had three boys and 2 girls. This information checks out to what is known about their family.
 
@@ -65,7 +65,7 @@ Robert Berry was born in North Carolina and died in Georgia </strong></h2>
 CENSUS INFORMATION and NEIGHBORS
 <blockquote>“ Robert Berry, son of David J. Berry, was married in 1833 and showed up as head of household in the 1840 Census ”</blockquote>
 <ul>
-	<li><a>Robert Berry Was Listed On His Fathers Orange Co. NC Census In 1820 .</a></li>
+	<li>Robert Berry Was Listed On His Fathers Orange Co. NC Census In 1820 .</li>
 	<li>No Census Found For 1830.</li>
 	<li>Robert Berry Was In Fayette Co. County Georgia In 1840.</li>
 	<li>Robert Berry Was In Cobb County Georgia In 1850</li>

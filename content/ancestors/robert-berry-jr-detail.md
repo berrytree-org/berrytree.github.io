@@ -95,7 +95,7 @@ After seeing the shape of the only headstone that was hand shaped in the picture
 ### **Children:**
 
 
-- [Cathrine Berry](/ancestors/) b. 1785 d. after 1850
+- [Cathrine Berry](/ancestors/catherineberrync/) b. 1785 d. after 1850
 
 - [George Berry](/ancestors/john-berry-tx/) b. cir 1790 d. after 1850
 
@@ -153,7 +153,7 @@ could read and write.
 - Not found in the 1850 Fayette County, Alabama Census.
 
 
-Back to Top
+[Back to Top](#)
 
 
 Last Updated Jan. 21, 2014

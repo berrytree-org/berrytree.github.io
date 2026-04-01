@@ -19,8 +19,7 @@ NEED: INFORMATION ON THIS FAMILY</strong>
 	<li><strong><a href="/documents/lelawillievirginiaguthrie/">Lela Willie Virginia Guthrie</a> married Lonzo (Lonnie) Joseph Hunt</strong> )</li>
 	<li><strong>Need research on any additional children</strong></li>
 </ul>
-<h2><a href="#"><strong>
-</strong></a><strong>Virginia and Lonzo Joseph Hunt</strong></h2>
+<h2><strong>Virginia and Lonzo Joseph Hunt</strong></h2>
 <h3>October 8, 2008</h3>
 <strong>CENSUS INFORMATION</strong>
 <blockquote>

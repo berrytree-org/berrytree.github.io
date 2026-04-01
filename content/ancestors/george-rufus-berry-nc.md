@@ -119,4 +119,4 @@ Many of the facts that I have quoted here came from the book “***Wagons South,
 - **George Rufus Berry** Listed in Burnet County Texas in 1900
 
 
-[Return to top of Page](/ancestors/george-rufus-berry-nc/)
+[Return to top of Page](#)

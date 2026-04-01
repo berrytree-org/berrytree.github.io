@@ -19,4 +19,4 @@ Joshua and Nancy Ellison' Marriage bond.
 <p>Newspaper Account of Joshua Berry's Murder.</p>
 <p>BELOW</p>
 <p><a href="/images/acount-of-joshua-berrys-murder.jpg"><img class="alignnone size-full wp-image-4013" src="/images/acount-of-joshua-berrys-murder.jpg" alt="acount of Joshua Berry's murder" width="510" height="546" /></a></p>
-<p><a href="/documents/joshua-berry-oc-document-page/">Return to top of Page</a></p>
+<p><a href="#">Return to top of Page</a></p>

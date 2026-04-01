@@ -92,7 +92,7 @@ title: "Berry Family Name List"
 	<li><strong><a href="/ancestors/davidjchildren/">George N. Berry </a></strong></li>
 	<li><strong><a href="/ancestors/davidjchildren/">Robert Berry</a></strong></li>
 	<li><strong><a href="/ancestors/davidjchildren/">William G. Berry </a></strong></li>
-	<li><strong><a>Thomas G.Berry </a></strong></li>
+	<li><strong>Thomas G.Berry </strong></li>
 	<li><strong><a href="/ancestors/davidjchildren/">Joshua M.Berry </a></strong></li>
 </ol>
 <h3><strong>Thomas & Sarah Cate Berry's Children</strong></h3>

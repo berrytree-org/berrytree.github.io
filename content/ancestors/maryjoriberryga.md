@@ -24,8 +24,7 @@ Generation 3 Robert and Elizabeth Everett Berry Berry
 
 On the left side of this page you will see a headstone for Nathan Turley and Mary Jori Berry Turley. This headstone is located in the Willeo Cemetery, Between Marietta and Roswell Georgia.
 <strong>To view a larger image of this picture</strong> <strong>CLICK ON THE SMALL IMAGE</strong>
-<h2><a href="#"><strong>
-</strong></a><strong>Mary J. Berry and Nathan Turley lived between Marietta and Roswell Georgia.</strong></h2>
+<h2><strong>Mary J. Berry and Nathan Turley lived between Marietta and Roswell Georgia.</strong></h2>
 <h3>January 9, 2008</h3>
 CENSUS INFORMATION
 <blockquote>“ TO Be Researched”</blockquote>

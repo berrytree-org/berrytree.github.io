@@ -26,5 +26,4 @@ Generation 7 Benjamin Berry Henderson and Patricia Sue Arnette
 <img src="/images/usn.jpg" alt="" /><img src="/images/aaronhendersonnc.jpg" alt="" />
 
 Aaron is from the William Berry line
-<h2><strong><a href="#"><strong>
-</strong></a> </strong></h2>
+<h2><strong> </strong></h2>

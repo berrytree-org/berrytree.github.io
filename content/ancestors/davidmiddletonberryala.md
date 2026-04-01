@@ -37,8 +37,7 @@ ANCESTORS
 	<li>Henry K. Berry, b. about 1859, d. unknown</li>
 	<li>Samantha Caroline Berry, b. about 1861, d. 1935, Karens, Navarro County, Texas married Roland Teague Morgan, October 6th, 1881</li>
 </ul>
-<a href="#"><strong>
-</strong></a><strong>David Middleton Berry was born in Orange County North Carolina and died in Fayette County Alabama.</strong>
+<strong>David Middleton Berry was born in Orange County North Carolina and died in Fayette County Alabama.</strong>
 <h3>March 16, 2008 & 10/20/2015</h3>
 CENSUS INFORMATION
 <blockquote>
@@ -49,4 +48,4 @@ CENSUS INFORMATION
 	<li>David was in Fayette County Alabama in the 1860 census</li>
 	<li>David was in Fayette Alabama in the 1870 census</li>
 </ul>
-<a href="/ancestors/davidmiddletonberryala/">Return to top of Page</a></blockquote>
+<a href="#">Return to top of Page</a></blockquote>

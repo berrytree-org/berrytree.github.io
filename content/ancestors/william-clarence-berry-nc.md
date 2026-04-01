@@ -112,6 +112,6 @@ William Clarence Berry Listed in Fayette County Alabama in 1860
 
 William Clarence Berry Listed in Fayette Alabama in the 1870
 
-[Return to top](index.html#)
+[Return to top](#)
 
 ##### Last updated February 2, 2015

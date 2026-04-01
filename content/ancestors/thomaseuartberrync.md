@@ -29,8 +29,7 @@ Generation 5 John Robert and Elizabeth Francis Bowling Berry
  	<li>Jennings Gentry Berry b June 10th 1918 d March 13th 1992 age 73</li>
  	<li>Living Female Berry b August 16th 1920</li>
 </ul>
-<h2><a href="#"><strong>
-</strong></a><strong>Thomas Euart Berry owned and operated a grocery store in Durham NC</strong></h2>
+<h2><strong>Thomas Euart Berry owned and operated a grocery store in Durham NC</strong></h2>
 <h3>January 17, 2008</h3>
 CENSUS INFORMATION
 <blockquote>“ Thomas moved to Durham County after 1920 and before 1930”

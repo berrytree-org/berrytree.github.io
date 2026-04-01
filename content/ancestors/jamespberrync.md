@@ -26,8 +26,7 @@ James P. Berry died on February 15th 1912 at the age of 67.
 	<li>Annie Belle Berry b October 22nd 1889 d October 31st 1902</li>
 	<li>James Berry b July 10th 1894 d May 12th 1896</li>
 </ul>
-<h2><a href="#"><strong>
-</strong></a><strong>James and Artilla lived in Orange County until James died in 1912</strong></h2>
+<h2><strong>James and Artilla lived in Orange County until James died in 1912</strong></h2>
 <h3>January 8, 2008</h3>
 CENSUS INFORMATION
 <blockquote>“ James P Berry was living next door to his father in Law in Cedar Grove in the 1880 census”

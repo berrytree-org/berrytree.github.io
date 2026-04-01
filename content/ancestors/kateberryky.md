@@ -24,8 +24,7 @@ The Picture on the right is: Benjamin and Kate Berry Moake. To VIEW a larger ima
 	<li><strong>ROBERT MOAKE,</strong> b. January 02, 1918, Lake Creek, Williamson Co., Illinois; d. March 15, 1985, Los Angeles, California.</li>
 </ul>
  
-<h2><a href="#"><strong>
-</strong></a><strong>Kate Berry was born in Kentucky and died in Illinois.</strong></h2>
+<h2><strong>Kate Berry was born in Kentucky and died in Illinois.</strong></h2>
 <h3>February 23, 2008</h3>
 CENSUS INFORMATION
 <blockquote>“ Katherine"Kate" Berry was listed in her mothers census in 1910 Williamson County Illinois Census. ”

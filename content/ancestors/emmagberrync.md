@@ -68,4 +68,4 @@ CENSUS INFORMATION
 <ul>
 	<li>John Saunders and Emma G. Berry listed in the 1930 Orange County NC census</li>
 </ul>
-<a href="/ancestors/emmagberrync/">Return to top of Page</a></blockquote>
+<a href="#">Return to top of Page</a></blockquote>

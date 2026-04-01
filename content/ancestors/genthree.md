@@ -2,7 +2,7 @@
 title: "Robert Berry and Elizabeth Cate Berry's Children"
 ---
 
-<h2><a>Robert And Elizabeth's ten children circa 1760 -1858</a></h2>
+<h2>Robert And Elizabeth's ten children circa 1760 -1858</h2>
 <strong>ANCESTORS</strong>
 
 Generation 1. <a href="/ancestors/robertberrypac/">Robert and Mary Williamson Berry</a>, Princess Anne County, Virginia.

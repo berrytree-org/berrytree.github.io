@@ -38,8 +38,7 @@ The birth date of James R. Pickle in 1813 in Georgia leads us to believe that Ja
 Robert Berry Jr. had nephews by his sister Mary Camp living in Fayette County Georgia in that time period.
 <h3><strong>Birth Date Source:</strong></h3>
 From the family bible where birth, marriage and death dates are noted. He has said it is the family bible of Jacob, I assume that is Jacob Pickle his gg grandfather, son of Robert Pickle.
-<h3><a href="#"><strong>
-</strong></a><strong>Catherine and Jacob Pickle removed to Mississippi after 1812</strong></h3>
+<h3><strong>Catherine and Jacob Pickle removed to Mississippi after 1812</strong></h3>
 <h3><strong>Census Information:</strong></h3>
 <blockquote>“ Jacob and Catherine were living next door to David J. Berry in 1810”
 <ul>

@@ -48,4 +48,4 @@ These two people are sitting in the same chair
 
 <a href="/images/scan0034-pluse-one.jpg"><img class="alignnone size-full wp-image-6152" src="/images/scan0034-pluse-one.jpg" alt="scan0034 pluse one" width="1130" height="735" /></a>
 
-<a href="/ancestors/johnberrytx/francis-marion-berry/">RETURN to Francis Marion Page</a>
+<a href="/ancestors/francis-marion-berry/">RETURN to Francis Marion Page</a>

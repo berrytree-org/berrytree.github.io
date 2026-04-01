@@ -3,11 +3,11 @@ title: "Richard Williamson PAC"
 ---
 
 <h2>Richard Williamson from Princess Ann County Virginia</h2>
-<a> PARENTS </a>
+ PARENTS 
 
-<a>Mary's Parents George and Mary Hutchinson Kempe </a>
+Mary's Parents George and Mary Hutchinson Kempe 
 
-<a>Richard's Parents Roger and Ann Foster Williamson </a>
+Richard's Parents Roger and Ann Foster Williamson 
 
 <strong>RICHARD WILLIAMSON </strong> married MARY KEMPE (daughter of George and Ann Kempe of Kempe's Landing) There is some question at this time about Mary Kempe's marriage date since George and Mary Hutchison Kempe may not have arrived in America before 1650. My thoughts are that Richard Williamson and Mary Kempe were probably married around 1670 to 1675. From Richard Williamson's 1721 will we learn that his children were:
 <ul>

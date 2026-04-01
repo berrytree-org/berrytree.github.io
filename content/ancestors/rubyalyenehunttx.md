@@ -22,8 +22,7 @@ Ruby Alyene Hunt </strong>was born on July 22nd 1916 in Minden, Rusk County Texa
 <ul>
 	<li><strong>Needs to Be Researched many may be living </strong></li>
 </ul>
-<h3><a href="#"><strong>
-</strong></a><strong>Robert Raymond and Ruby Alyene Hunt Vinson Lived and died in Rusk County Texas</strong></h3>
+<h3><strong>Robert Raymond and Ruby Alyene Hunt Vinson Lived and died in Rusk County Texas</strong></h3>
 <strong>CENSUS INFORMATION</strong>
 <blockquote>
 <ul>

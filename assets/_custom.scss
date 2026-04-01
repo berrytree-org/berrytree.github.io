@@ -36,40 +36,68 @@ body {
   line-height: 1.8;
 }
 
-// -- Sidebar --
+// =============================================================
+// SIDEBAR ACCESSIBILITY — Kate + Vincent
+// Senior-friendly contrast, sizing, and click targets
+// WCAG AA: 4.5:1 for normal text, 3:1 for large text
+// Preserves frosted forest aesthetic at higher opacity
+// =============================================================
+
+// -- Sidebar (left nav) --
 .book-menu {
   background-color: transparent;
   border-right: none;
 
-  // Frosted forest panel — blurs background, keeps it visible
+  // Frosted forest panel — opacity raised from 0.42 → 0.82
+  // for reliable contrast against any background image region
   .book-menu-content {
-    background-color: rgba(245, 240, 232, 0.42);
-    backdrop-filter: blur(4px) brightness(1.06);
-    -webkit-backdrop-filter: blur(4px) brightness(1.06);
+    background-color: rgba(245, 240, 232, 0.82);
+    backdrop-filter: blur(6px) brightness(1.08);
+    -webkit-backdrop-filter: blur(6px) brightness(1.08);
     border-right: 2px solid $forest-mid;
     height: 100%;
   }
 
   nav {
     font-family: 'Cinzel', 'Lora', serif;
-    font-size: 0.85rem;
+    font-size: 1.0rem;   // was 0.85rem — too small for elderly visitors
+    line-height: 1.5;
   }
 
+  // Sidebar link styling — generous padding for easy tapping
   a {
-    color: $forest-dark;
+    color: #1e3a1e;  // darker than $forest-dark for 7:1+ contrast on cream
     font-weight: 600;
-    text-shadow: 0 0 6px rgba(245, 240, 232, 0.95),
-                 0 1px 3px rgba(245, 240, 232, 0.85);
+    display: block;
+    padding: 0.35rem 0.5rem;
+    border-radius: 3px;
+    text-shadow: none;  // removed — opacity increase makes this unnecessary
+    transition: background-color 0.15s, color 0.15s;
 
     &:hover {
-      color: $forest-light;
+      color: #1a2e1a;
+      background-color: rgba(90, 143, 90, 0.15);
       text-decoration: none;
-      text-shadow: 0 0 6px rgba(245, 240, 232, 0.95);
     }
 
+    &:focus {
+      outline: 2px solid $forest-mid;
+      outline-offset: 1px;
+    }
+
+    // Active page — permanently visible, not hover-dependent
     &.active {
-      color: $forest-light;
+      color: $white-soft;
       font-weight: 700;
+      background-color: $forest-dark;
+      text-shadow: none;
+    }
+  }
+
+  // Nested list items — add vertical breathing room
+  ul {
+    li {
+      margin-bottom: 0.15rem;
     }
   }
 }
@@ -173,25 +201,46 @@ blockquote {
   }
 }
 
-// -- Table of Contents sidebar --
+// -- Table of Contents sidebar (right) --
+// Same accessibility treatment as left nav
 .book-toc {
   .book-toc-content {
-    background-color: rgba(245, 240, 232, 0.42);
-    backdrop-filter: blur(4px);
-    -webkit-backdrop-filter: blur(4px);
+    background-color: rgba(245, 240, 232, 0.78);
+    backdrop-filter: blur(6px);
+    -webkit-backdrop-filter: blur(6px);
     border-left: 2px solid $forest-mid;
   }
 
   nav {
-    font-size: 0.85rem;
+    font-size: 0.95rem;   // was 0.85rem
+    line-height: 1.5;
   }
 
   a {
-    color: $bark-mid;
+    color: #4a3728;  // $bark-brown — stronger than $bark-mid for contrast
+    display: block;
+    padding: 0.25rem 0.4rem;
+    border-radius: 3px;
+    transition: background-color 0.15s, color 0.15s;
 
     &:hover {
-      color: $forest-dark;
+      color: #1e3a1e;
+      background-color: rgba(90, 143, 90, 0.12);
     }
+
+    &:focus {
+      outline: 2px solid $forest-mid;
+      outline-offset: 1px;
+    }
+  }
+
+  // Currently active TOC heading
+  nav > ul > li > a.active,
+  a[aria-current] {
+    color: $forest-dark;
+    font-weight: 700;
+    border-left: 3px solid $forest-mid;
+    padding-left: calc(0.4rem - 3px + 3px); // maintain alignment with border
   }
 }
 
@@ -555,4 +604,485 @@ p > strong:first-child {
   .gen-8  { padding-left: 5rem; }
   .gen-9  { padding-left: 6rem; }
   .gen-10 { padding-left: 7rem; }
+}
+
+// =============================================================
+// IMAGE PENDING — Greyed-out style for missing images
+// Used on pages where the original image was never migrated
+// =============================================================
+
+.image-pending {
+  color: $bark-light;
+  font-style: italic;
+  opacity: 0.6;
+
+  &::before {
+    content: "📷 ";
+    font-style: normal;
+    opacity: 0.5;
+  }
+}
+
+// =============================================================
+// ANCESTOR PAGE REDESIGN — Tier 1 (Anchor) & Tier 2 (Supporting)
+// Lila: structure + accessibility | Vincent: feel + warmth
+// Richard's directive: elderly visitors, welcoming, easy to navigate
+// =============================================================
+
+// --- Breadcrumb Navigation ---
+// Clear wayfinding: "You are here" — always visible, never ambiguous
+.page-breadcrumb {
+  margin: 0 0 1.5rem;
+  padding: 0.6rem 0;
+  border-bottom: 1px solid $cream-border;
+  font-family: 'Source Serif 4', serif;
+  font-size: 0.95rem;
+
+  ol {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0;
+  }
+
+  li {
+    display: flex;
+    align-items: center;
+    color: $bark-mid;
+
+    &::after {
+      content: "›";
+      margin: 0 0.5em;
+      color: $forest-mid;
+      font-weight: 700;
+      font-size: 1.1em;
+    }
+
+    &:last-child::after {
+      display: none;
+    }
+
+    &[aria-current="page"] {
+      color: $forest-dark;
+      font-weight: 600;
+    }
+  }
+
+  a {
+    color: $accent-gold;
+    text-decoration: underline;
+    text-underline-offset: 2px;
+    padding: 2px 4px;
+    border-radius: 2px;
+
+    &:hover, &:focus {
+      color: $accent-gold-hover;
+      background-color: rgba(138, 112, 64, 0.08);
+      outline: 2px solid $accent-gold-hover;
+      outline-offset: 1px;
+    }
+  }
+}
+
+// --- Ancestor Profile Header ---
+// The first thing a visitor sees — clear, warm, informative
+.ancestor-profile {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+  margin-bottom: 2rem;
+  padding: 1.5rem;
+  background-color: rgba(213, 200, 180, 0.2);
+  border: 1px solid $cream-border;
+  border-left: 4px solid $forest-mid;
+  border-radius: 4px;
+
+  .profile-image {
+    flex: 0 0 auto;
+    max-width: 280px;
+
+    img {
+      width: 100%;
+      height: auto;
+      border: 2px solid $cream-border;
+      border-radius: 4px;
+      box-shadow: 2px 3px 8px rgba(0,0,0,0.12);
+    }
+
+    .profile-caption {
+      font-size: 0.85rem;
+      color: $bark-mid;
+      font-style: italic;
+      text-align: center;
+      margin-top: 0.4rem;
+    }
+  }
+
+  .profile-details {
+    flex: 1 1 300px;
+  }
+
+  .profile-name {
+    font-family: 'Cinzel', serif;
+    font-size: 1.8rem;
+    color: $forest-dark;
+    border-bottom: 2px solid $forest-mid;
+    padding-bottom: 0.3em;
+    margin: 0 0 0.8rem;
+    line-height: 1.3;
+  }
+
+  .profile-gen {
+    display: block;
+    font-size: 0.75rem;
+    font-weight: 600;
+    color: $white-soft;
+    background-color: $forest-dark;
+    padding: 2px 10px;
+    border-radius: 3px;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    margin-bottom: 0.4rem;
+    width: fit-content;
+  }
+
+  // Vital statistics — definition list, clear labels
+  .vital-stats {
+    margin: 0;
+    font-size: 1.05rem;
+    line-height: 1.7;
+
+    .stat-row {
+      display: flex;
+      gap: 0.8rem;
+      padding: 0.3rem 0;
+      border-bottom: 1px solid rgba(200, 185, 154, 0.4);
+
+      &:last-child {
+        border-bottom: none;
+      }
+    }
+
+    dt {
+      flex: 0 0 5.5rem;
+      font-family: 'Cinzel', serif;
+      font-weight: 700;
+      color: $forest-dark;
+      font-size: 0.85rem;
+      letter-spacing: 0.03em;
+      padding-top: 0.1rem;
+    }
+
+    dd {
+      flex: 1;
+      margin: 0;
+      color: $bark-brown;
+    }
+  }
+}
+
+// Mobile: stack profile vertically
+@media (max-width: 40rem) {
+  .ancestor-profile {
+    flex-direction: column;
+    padding: 1rem;
+
+    .profile-image {
+      max-width: 100%;
+      text-align: center;
+
+      img {
+        max-width: 280px;
+      }
+    }
+
+    .vital-stats .stat-row {
+      flex-direction: column;
+      gap: 0;
+
+      dt {
+        flex: none;
+        margin-bottom: 0.1rem;
+      }
+    }
+  }
+}
+
+// --- Section Headings for Ancestor Pages ---
+// Clear, large, descriptive — no clever labels
+.ancestor-section {
+  font-family: 'Cinzel', serif;
+  font-size: 1.4rem;
+  color: $forest-dark;
+  border-bottom: 2px solid $forest-mid;
+  padding-bottom: 0.3em;
+  margin: 2.5rem 0 1rem;
+  letter-spacing: 0.02em;
+}
+
+// --- Children Section ---
+// Structured entries for each child — stubs folded in here
+.children-list {
+  list-style: none;
+  padding: 0;
+  margin: 1rem 0;
+}
+
+.child-entry {
+  padding: 1rem 1.2rem;
+  margin-bottom: 0.8rem;
+  background-color: rgba(245, 240, 232, 0.6);
+  border: 1px solid $cream-border;
+  border-left: 3px solid $forest-light;
+  border-radius: 3px;
+
+  .child-name {
+    font-family: 'Cinzel', serif;
+    font-size: 1.1rem;
+    font-weight: 700;
+    color: $forest-dark;
+    margin-bottom: 0.3rem;
+
+    a {
+      color: $accent-gold;
+      text-decoration: underline;
+      text-underline-offset: 2px;
+
+      &:hover, &:focus {
+        color: $accent-gold-hover;
+        outline: 2px solid $accent-gold-hover;
+        outline-offset: 2px;
+        border-radius: 2px;
+      }
+    }
+  }
+
+  .child-dates {
+    font-size: 0.95rem;
+    color: $bark-mid;
+    margin-bottom: 0.3rem;
+  }
+
+  .child-details {
+    font-size: 1rem;
+    color: $bark-brown;
+    line-height: 1.7;
+  }
+
+  // Visual indicator that this child has their own page
+  &.has-page .child-name::after {
+    content: " →";
+    color: $accent-gold;
+    font-weight: 400;
+  }
+}
+
+// --- Census Summary ---
+// Tom's directive: plain language first, then data
+.census-summary {
+  margin: 1rem 0;
+  padding: 1rem 1.2rem;
+  background-color: rgba(213, 200, 180, 0.18);
+  border-left: 3px solid $forest-mid;
+  border-radius: 3px;
+
+  .census-overview {
+    font-size: 1.05rem;
+    font-weight: 600;
+    color: $bark-brown;
+    margin: 0;
+    line-height: 1.6;
+  }
+}
+
+// --- Photo Feature ---
+// Images large enough to see faces, with clear captions
+.photo-feature {
+  margin: 1.5rem 0;
+  text-align: center;
+
+  img {
+    max-width: 100%;
+    height: auto;
+    border: 2px solid $cream-border;
+    border-radius: 4px;
+    box-shadow: 2px 3px 10px rgba(0,0,0,0.1);
+  }
+
+  .photo-caption {
+    font-size: 0.95rem;
+    color: $bark-mid;
+    font-style: italic;
+    margin-top: 0.5rem;
+    line-height: 1.5;
+  }
+}
+
+// Photo gallery — multiple images side by side on desktop
+.photo-gallery {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin: 1.5rem 0;
+  justify-content: center;
+
+  .photo-feature {
+    flex: 0 1 320px;
+    margin: 0;
+  }
+}
+
+// --- Family Tree Link ---
+// Clear call-to-action to the full family-line tree page
+.tree-link {
+  display: block;
+  margin: 2rem 0;
+  padding: 1rem 1.5rem;
+  background-color: rgba(45, 74, 45, 0.08);
+  border: 2px solid $forest-mid;
+  border-radius: 6px;
+  text-align: center;
+  font-family: 'Cinzel', serif;
+  font-size: 1.1rem;
+  transition: background-color 0.2s;
+
+  a {
+    color: $forest-dark;
+    font-weight: 700;
+    text-decoration: none;
+    display: block;
+    padding: 0.5rem;
+
+    &:hover, &:focus {
+      color: $accent-gold-hover;
+      text-decoration: underline;
+      outline: 2px solid $forest-mid;
+      outline-offset: 4px;
+      border-radius: 4px;
+    }
+  }
+
+  .tree-link-sub {
+    font-family: 'Source Serif 4', serif;
+    font-size: 0.9rem;
+    font-weight: 400;
+    color: $bark-mid;
+    display: block;
+    margin-top: 0.3rem;
+  }
+}
+
+// --- Lineage Path (for Tier 2 supporting pages) ---
+// Shows how this person connects back to the anchor ancestor
+.lineage-path {
+  margin: 1.5rem 0;
+  padding: 1rem 1.2rem;
+  background-color: rgba(213, 200, 180, 0.15);
+  border-left: 3px solid $accent-gold;
+  border-radius: 3px;
+
+  .lineage-title {
+    font-family: 'Cinzel', serif;
+    font-size: 0.9rem;
+    font-weight: 700;
+    color: $forest-dark;
+    letter-spacing: 0.04em;
+    margin-bottom: 0.5rem;
+  }
+
+  ol {
+    margin: 0;
+    padding-left: 1.5rem;
+    font-size: 1rem;
+    line-height: 1.8;
+
+    a {
+      text-decoration: underline;
+      text-underline-offset: 2px;
+    }
+  }
+}
+
+// =============================================================
+// ACCESSIBILITY FOUNDATIONS — Richard's elderly visitor directive
+// =============================================================
+
+// Ancestor pages get larger base text
+.ancestor-page {
+  font-size: 18px;
+
+  // Ensure all links have visible focus indicators (not hover-dependent)
+  a:focus {
+    outline: 2px solid $accent-gold;
+    outline-offset: 2px;
+    border-radius: 2px;
+  }
+}
+
+// =============================================================
+// PRINT STYLES — "This generation prints things out" — Lila
+// =============================================================
+
+@media print {
+  body {
+    background: white !important;
+    color: #1a1a1a !important;
+    font-size: 12pt !important;
+  }
+
+  .book-menu,
+  .book-toc,
+  .book-header,
+  .page-breadcrumb,
+  .tree-link,
+  .book-footer,
+  .book-search {
+    display: none !important;
+  }
+
+  .book-page {
+    background: white !important;
+    border: none !important;
+    backdrop-filter: none !important;
+    width: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+
+  .ancestor-profile {
+    border: 1px solid #999 !important;
+    background: #f5f5f5 !important;
+    page-break-inside: avoid;
+  }
+
+  .child-entry {
+    border: 1px solid #ccc !important;
+    background: #fafafa !important;
+    page-break-inside: avoid;
+  }
+
+  .photo-feature img {
+    max-width: 300px !important;
+    box-shadow: none !important;
+  }
+
+  a {
+    color: #1a1a1a !important;
+    text-decoration: underline !important;
+  }
+
+  // Show URLs after links when printing
+  .book-article a[href^="http"]::after {
+    content: " (" attr(href) ")";
+    font-size: 0.8em;
+    color: #666;
+  }
+
+  h1, h2, h3 {
+    page-break-after: avoid;
+    color: #1a1a1a !important;
+  }
 }

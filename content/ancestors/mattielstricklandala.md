@@ -28,8 +28,7 @@ David remarried after Mattie died and had four children by his second wife.The c
 ............................. Elizabeth Jo Strickland b:04 Jan 1923 Corona, Walker Co., AL
 ............................. Martha Nell Strickland b:10 Aug 1924
 ............................. Daniel Willingham Strickland b:15 Jan 1926
-<h3><a href="#"><strong>
-</strong></a><strong>Mattie Lee Berry was listed in her mothers 1900 census</strong></h3>
+<h3><strong>Mattie Lee Berry was listed in her mothers 1900 census</strong></h3>
 <h3>September 26, 2008 Updated 10/19/2015</h3>
 CENSUS INFORMATION
 <blockquote>
@@ -39,4 +38,4 @@ CENSUS INFORMATION
 	<li> PAGE 1 Malissa Jeffries Berry listed head of Household in the 1900 Fayette County Alabama Census...</li>
 	<li>PAGE 2 Mattie Lee Berry and her husband David Loyd Strickland were living with Mattie's mother in the 1910 Fayette County Alabama Census...</li>
 </ul>
-<a href="/ancestors/mattielstricklandala/">Return to top of Page</a></blockquote>
+<a href="#">Return to top of Page</a></blockquote>

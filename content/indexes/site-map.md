@@ -3,122 +3,122 @@ title: "Site Map"
 weight: 4
 ---
 
-- [1600-1699 Timeline](../1600-1699-timeline/index.html)
+- [1600-1699 Timeline](/timelines/1600-1699-timeline/)
 
-- [1700-1799 Timeline](../1700-1799-timeline/index.html)
+- [1700-1799 Timeline](/timelines/1700-1799-timeline/)
 
-- [1790 Census Index](https://1790censusindex/)
+- [1790 Census Index](/ancestors/1790censusindex/)
 
-- [1800 Orange County NC Census](https://1800-orange-county-nc-census/)
+- [1800 Orange County NC Census](/ancestors/1800-orange-county-nc-census/)
 
-- [1800-1899 Timeline](../1800-1899-timeline/index.html)
+- [1800-1899 Timeline](/ancestors/1800-1899-timeline/)
 
-- [1810](https://1810-2/)
+- [1810](/ancestors/1810-2/)
 
-- [1810 Hannah Cate Census](https://1810-hannah-cate-census/)
+- [1810 Hannah Cate Census](/ancestors/1810-hannah-cate-census/)
 
-- [1900-1999 Timeline](../1900-1999-timeline/index.html)
+- [1900-1999 Timeline](/ancestors/1900-1999-timeline/)
 
-- [2000-Present Timeline](../2000-present-timeline/index.html)
+- [2000-Present Timeline](/timelines/2000-present-timeline/)
 
 - Abbreviations used in Berrytree.org
 
 - [About Us](/ancestors/about-us/)
 
-- [Ada Lee Berry NC](https://adaleeberrync/)
+- [Ada Lee Berry NC](/ancestors/adaleeberrync/)
 
-- [Addie Lena Berry](https://addie-lena-berry/)
+- [Addie Lena Berry](/ancestors/addie-lena-berry/)
 
-- [Albert Edgar Berry](https://albertedgar/)
+- [Albert Edgar Berry](/ancestors/albertedgar/)
 
 - [Aldridge Berry Farquhar Waggoner Connection](/ancestors/aldridge-berry-farquhar-connection/)
 
-- [Alexander Howard Berry Story](https://ahberrystory/)
+- [Alexander Howard Berry Story](/ancestors/ahberrystory/)
 
-- [Alexander Howard Berry Tx](https://alexhberrytx/)
+- [Alexander Howard Berry Tx](/ancestors/alexhberrytx/)
 
-- [Alfred Walter Berry Ala](https://alfordwberryala/)
+- [Alfred Walter Berry Ala](/ancestors/alfordwberryala/)
 
 - [Alphabetical Pages Index](/indexes/alphabetical-pages-index/)
 
-- [Amanda Emiline Berry Ga](https://amandaemilineberryga/)
+- [Amanda Emiline Berry Ga](/ancestors/amandaemilineberryga/)
 
-- [Ann Foster PAC](https://annfosterpac/)
+- [Ann Foster PAC](/ancestors/annfosterpac/)
 
 - [Announcements](/ancestors/announcements/)
 
-- [Basil Manley Berry Ga](https://basilmanleyberryga/)
+- [Basil Manley Berry Ga](/ancestors/basilmanleyberryga/)
 
-- [Ben’s Blog](https://bens-blog/)
+- [Ben’s Blog](/ancestors/bens-blog/)
 
 - [Benjamin Berry Henderson Sr.](/ancestors/benjamin-berry-henderson-sr/)
 
-- [Berry Family Name List](https://familynamelist/)
+- [Berry Family Name List](/ancestors/familynamelist/)
 
-- [Berry Name Index Page 1](https://berrylist/)
+- [Berry Name Index Page 1](/ancestors/berrylist/)
 
-- [Berry Name Index Page 2](https://berrylistpage2/)
+- [Berry Name Index Page 2](/ancestors/berrylistpage2/)
 
-- [Berry Wills and deeds from PAC 1691  TO 1755](https://berry-wills-and-deeds-from-pac-1691-to-1755/)
+- [Berry Wills and deeds from PAC 1691  TO 1755](/documents/berry-wills-and-deeds-from-pac-1691-to-1755/)
 
-- [Berry, Martin, Shipman Family Connections](https://berry-martin-shipman-family-connections/)
+- [Berry, Martin, Shipman Family Connections](/ancestors/berry-martin-shipman-family-connections/)
 
-- [Berrytree Home](../index.html)
+- [Berrytree Home](/)
 
-- [Book Preview](https://book-preview/)
+- [Book Preview](/books/book-preview/)
 
-- [Books](../books.html)
+- [Books](/books/)
 
 - [By Family Line](/family-lines/by-family-line/)
 
-- [Camp Power of Attorney](https://camppowerofattorney/)
+- [Camp Power of Attorney](/ancestors/camppowerofattorney/)
 
-- [Catherine Berry Nc](https://catherineberrync/)
+- [Catherine Berry Nc](/ancestors/catherineberrync/)
 
-- [Census Page for Thomas Berry](https://census-page-for-thomas-berry/)
+- [Census Page for Thomas Berry](/ancestors/census-page-for-thomas-berry/)
 
-- [Census page for Thomas P. Berry](https://census-page-for-thomas-p-berry/)
+- [Census page for Thomas P. Berry](/ancestors/census-page-for-thomas-p-berry/)
 
-- [Census Pages](https://census-pages/)
+- [Census Pages](/ancestors/census-pages/)
 
 - [Contact US](/ancestors/contact-us/)
 
-- [Cora and Frank Breeze’s Headstone](https://cora-and-frank-headstone/)
+- [Cora and Frank Breeze’s Headstone](/ancestors/cora-and-frank-headstone/)
 
-- [Cora Berry McVicker](https://cora-berry-mcvicker/)
+- [Cora Berry McVicker](/ancestors/cora-berry-mcvicker/)
 
-- [Cora Dena Berry NC](https://coradberrync/)
+- [Cora Dena Berry NC](/ancestors/coradberrync/)
 
-- [Crest](https://crest/)
+- [Crest](/ancestors/crest/)
 
 	
-- [Catecrest](https://crest/catecrest/)
+- [Catecrest](/ancestors/catecrest/)
 
-- [David Berry](https://davidsonoftom/)
+- [David Berry](/ancestors/davidsonoftom/)
 
-- [David Crockett Berrt](https://david-crockett-berrt/)
+- [David Crockett Berrt](/ancestors/david-crockett-berrt/)
 
-- [David Crockett Berry](https://david-crockett-berry-5/)
+- [David Crockett Berry](/ancestors/david-crockett-berry-5/)
 
-- [David J. Berry Jr.](https://davidsodavid/)
+- [David J. Berry Jr.](/ancestors/davidsodavid/)
 
 - [David J. Berry Sr.](/ancestors/david-j-berry-sr/)
 
-- [David J. Berry Tree](https://djbtree/)
+- David J. Berry Tree
 
-- [David J. Berry’s Children](https://davidjchildren/)
+- [David J. Berry’s Children](/ancestors/davidjchildren/)
 
-- [David Lee Berry Ohio](https://davidleeberryohio/)
+- [David Lee Berry Ohio](/ancestors/davidleeberryohio/)
 
-- [David Middleton Berry Ala](https://davidmiddletonberryala/)
+- [David Middleton Berry Ala](/ancestors/davidmiddletonberryala/)
 
 - Dedication Page
 
-- [Deed Book Page 331 Land Purchase in Person County NC](https://deed-book-page-331/)
+- [Deed Book Page 331 Land Purchase in Person County NC](/documents/deed-book-page-331/)
 
-- [Deed Book Page 421 Robert Berry Jr – land sold](https://deed-book-page-421/)
+- [Deed Book Page 421 Robert Berry Jr – land sold](/documents/deed-book-page-421/)
 
-- [Descendant Book Information](https://decendantbookadd/)
+- [Descendant Book Information](/books/decendantbookadd/)
 
 - [DNA](/dna/dna/)
 
@@ -126,423 +126,423 @@ weight: 4
 
 - [DNA Information Page 2](/dna/dnapagetwo/)
 
-- [Dora Ellen Turley Ga](https://doraellenturleyga/)
+- [Dora Ellen Turley Ga](/ancestors/doraellenturleyga/)
 
-- [Dora Ellen Turley Home](https://dora-ellen-turley-home/)
+- [Dora Ellen Turley Home](/ancestors/dora-ellen-turley-home/)
 
-- [Edna Rogers Family](https://ednarogersfamily/)
+- [Edna Rogers Family](/dna/ednarogersfamily/)
 
-- [Eleanor Berry Reed](https://eleanorreed/)
+- [Eleanor Berry Reed](/ancestors/eleanorreed/)
 
-- [Eli Berry NC](https://eli-berry-nc/)
+- [Eli Berry NC](/ancestors/eli-berry-nc/)
 
-- [Elizabeth Berry](https://elizabeth/)
+- [Elizabeth Berry](/ancestors/elizabeth/)
 
-- [Elizabeth Berry Franklin](https://elizaberryfranklin/)
+- [Elizabeth Berry Franklin](/ancestors/elizaberryfranklin/)
 
-- [Elizabeth Cate](https://elizabethcate/)
+- [Elizabeth Cate](/ancestors/elizabethcate/)
 
-- [Elizabeth Leathers Berry NC](https://elizabetheathersberrync/)
+- [Elizabeth Leathers Berry NC](/ancestors/elizabetheathersberrync/)
 
-- [Emanuel Patton Berry](https://emmanuel-patten-berry/)
+- [Emanuel Patton Berry](/ancestors/emmanuel-patten-berry/)
 
-- [Emma G. Berry NC](https://emmagberrync/)
+- [Emma G. Berry NC](/ancestors/emmagberrync/)
 
-- [Enoch M. Berry page](https://enoch-m-berry-page/)
+- [Enoch M. Berry page](/ancestors/enoch-m-berry-page/)
 
-- [Enoch Meril Berry Ga](https://enochmerilberryga/)
+- [Enoch Meril Berry Ga](/ancestors/enochmerilberryga/)
 
-- [Ernest John Berry Tenn](https://ernesttenn/)
+- [Ernest John Berry Tenn](/ancestors/ernesttenn/)
 
 - [Extended Site Page](/indexes/extended-site-map/)
 
-- [Family Homes](https://familyhouses/)
+- [Family Homes](/ancestors/familyhouses/)
 
 - [Family Tree Index](/indexes/familytreeindex/)
 
-- [Fiddleton Cemetery](https://fiddletoncemetery/)
+- [Fiddleton Cemetery](/ancestors/fiddletoncemetery/)
 
-- [Fiddleton-1891](https://fiddleton-1891/)
+- [Fiddleton-1891](/ancestors/fiddleton-1891/)
 
-- [Forum](https://forum/)
+- [Forum](/ancestors/forum/)
 
-- [Franklin Pierce Berry Ky](https://franklinberryky/)
+- [Franklin Pierce Berry Ky](/ancestors/franklinberryky/)
 
-- [Frederick M. Berry Iowa](https://frederickmberryiowa/)
+- [Frederick M. Berry Iowa](/ancestors/frederickmberryiowa/)
 
-- [Generation Five](https://genfive/)
+- [Generation Five](/ancestors/genfive/)
 
-- [Generation Four](https://genfour/)
+- [Generation Four](/ancestors/genfour/)
 
-- [George Berry Tx](https://georgeberrytx/)
+- [George Berry Tx](/ancestors/georgeberrytx/)
 
-- [George Rufus Berry NC](https://georgerufusberrync/)
+- [George Rufus Berry NC](/ancestors/georgerufusberrync/)
 
-- [Georgia Land Document](https://georgialand/)
+- [Georgia Land Document](/ancestors/georgialand/)
 
-- [Hannah Cate Berry](https://hannahcateberry/)
+- [Hannah Cate Berry](/ancestors/hannahcateberry/)
 
-- [Harrison Berry Iowa](https://harrisonberryiowa/)
+- [Harrison Berry Iowa](/ancestors/harrisonberryiowa/)
 
-- [Henry Berry](https://henryberry/)
+- [Henry Berry](/ancestors/henryberry/)
 
-- [Henry Berry Son of David](https://henrysodavid/)
+- [Henry Berry Son of David](/ancestors/henrysodavid/)
 
-- [Henry Berry Tree](https://henry-berry-tree/)
+- [Henry Berry Tree](/ancestors/henry-berry-tree/)
 
-- [Henry Bradford Berry Ala](https://henrybradfordberryala/)
+- [Henry Bradford Berry Ala](/ancestors/henrybradfordberryala/)
 
-- [Herman Fantom Maners Jr.](https://herman-fantom-maners-jr/)
+- [Herman Fantom Maners Jr.](/ancestors/herman-fantom-maners-jr/)
 
-- [History Of The Cover Pages 2015](https://history-of-the-cover-pages-2015/)
+- [History Of The Cover Pages 2015](/ancestors/history-of-the-cover-pages-2015/)
 
-- [Horace Prather Berry Ga](https://horacepratherberryga/)
+- [Horace Prather Berry Ga](/ancestors/horacepratherberryga/)
 
-- [Ira Berry Census Page](https://ira-berry-census-page/)
+- [Ira Berry Census Page](/ancestors/ira-berry-census-page/)
 
 - [Ira Berry Nc](/ancestors/iraberrync/)
 
-- [Isaac A. Cates Ga](https://isaacacatesga/)
+- [Isaac A. Cates Ga](/ancestors/isaacacatesga/)
 
-- [Isaac Berry Family Tree](https://isaac-berry-family-tree/)
+- [Isaac Berry Family Tree](/family-lines/isaac-berry-family-tree/)
 
-- [Isaac Berry NC](https://isaacberry/)
+- [Isaac Berry NC](/ancestors/isaacberry/)
 
-- [Isaac Berry Tenn](https://iassctenn/)
+- [Isaac Berry Tenn](/ancestors/iassctenn/)
 
-- [Issac Martin Berry Ga](https://isaacmartinberryga/)
+- [Issac Martin Berry Ga](/ancestors/isaacmartinberryga/)
 
-- [James A. Berry](https://james-a-berry/)
+- [James A. Berry](/ancestors/james-a-berry/)
 
-- [James Berry Tenn](https://jamesberrytenn/)
+- [James Berry Tenn](/ancestors/jamesberrytenn/)
 
-- [James David Berry Tenn](https://jimdavetenn/)
+- [James David Berry Tenn](/ancestors/jimdavetenn/)
 
-- [James Emory Taylor Tx](https://jamesemorytaylortx/)
+- [James Emory Taylor Tx](/ancestors/jamesemorytaylortx/)
 
-- [James P. Berry NC](https://jamespberrync/)
+- [James P. Berry NC](/ancestors/jamespberrync/)
 
-- [Jesse Lee Berry](https://jesseleeberry/)
+- [Jesse Lee Berry](/ancestors/jesseleeberry/)
 
-- [Jesse Lee Berry’s children](https://jesseleechildren/)
+- [Jesse Lee Berry’s children](/ancestors/jesseleechildren/)
 
-- [Jesse Waldo Maners](https://jesse-waldo-maners/)
+- [Jesse Waldo Maners](/ancestors/jesse-waldo-maners/)
 
-- [John Allmon Berry Ga](https://johnallmonberryga/)
+- [John Allmon Berry Ga](/ancestors/johnallmonberryga/)
 
 - [John and Martha Stepp Berry](/ancestors/johnberry/)
 
-- [John Berry Family Tree](https://john-berry-family-tree/)
+- [John Berry Family Tree](/family-lines/john-berry-family-tree/)
 
 - [John Berry Tx](/ancestors/johnberrytx/)
 
 	
-- [Francis Marion Berry](https://johnberrytx/francis-marion-berry/)
+- [Francis Marion Berry](/ancestors/francis-marion-berry/)
 
-- [John Cate](https://john-cate/)
+- [John Cate](/ancestors/john-cate/)
 
-- [John H. Berry ALA TX](https://john-h-berry-ala-tx/)
+- [John H. Berry ALA TX](/ancestors/john-h-berry-ala-tx/)
 
-- [John Martin Berry Ga](https://johnmartinberryga/)
+- [John Martin Berry Ga](/ancestors/johnmartinberryga/)
 
-- [John R Berry Fiddleton Map](https://johnrobertberry/)
+- [John R Berry Fiddleton Map](/ancestors/johnrobertberry/)
 
-- [John Robert and Elizabeth Berry’s Children](https://jrbchildren/)
+- [John Robert and Elizabeth Berry’s Children](/ancestors/jrbchildren/)
 
-- [John Robert Berry’s Family History](https://john-robert-berrys-family-history/)
+- [John Robert Berry’s Family History](/ancestors/john-robert-berrys-family-history/)
 
-- [John W. Berry NC](https://johnberryncjrbson/)
+- [John W. Berry NC](/ancestors/johnberryncjrbson/)
 
-- [Joshua and Nancy Berry’s Children](https://joshuachildren/)
+- [Joshua and Nancy Berry’s Children](/ancestors/joshuachildren/)
 
-- [Joshua Berry](https://joshuaberry/)
+- [Joshua Berry](/ancestors/joshuaberry/)
 
-- [Joshua Berry census page](https://joshua-berry-census-page/)
+- [Joshua Berry census page](/ancestors/joshua-berry-census-page/)
 
-- [Joshua Berry Ga](https://joshuaberryga/)
+- [Joshua Berry Ga](/ancestors/joshuaberryga/)
 
-- [Joshua Berry Jr. Ga](https://joshuaberry2ga/)
+- [Joshua Berry Jr. Ga](/ancestors/joshuaberry2ga/)
 
 - [Joshua Berry Jr. Ohio](/ancestors/joshuaberryohio/)
 
-- [Joshua Berry NC Tree](https://joshberrytree/)
+- [Joshua Berry NC Tree](/ancestors/joshberrytree/)
 
-- [Joshua Berry OC Document Page](https://joshua-berry-oc-document-page/)
+- [Joshua Berry OC Document Page](/documents/joshua-berry-oc-document-page/)
 
-- [Joshua Jr. Census](https://joshua-jr-census/)
+- [Joshua Jr. Census](/ancestors/joshua-jr-census/)
 
-- [Kate Berry Ky](https://kateberryky/)
+- [Kate Berry Ky](/ancestors/kateberryky/)
 
-- [Ken Berry](https://ken-berry/)
+- [Ken Berry](/ancestors/ken-berry/)
 
 - [Known Surnames of Berry Inlaws](/ancestors/known-surnames-of-berry-inlaws/)
 
-- [Land Grant to Robert Berry Jr. by President Monroe](https://land-grant-to-robert-berry-jr/)
+- [Land Grant to Robert Berry Jr. by President Monroe](/documents/land-grant-to-robert-berry-jr/)
 
-- [Lela Willie Virginia Guthrie](https://lelawillievirginiaguthrie/)
+- [Lela Willie Virginia Guthrie](/documents/lelawillievirginiaguthrie/)
 
-- [Leona Berry Borden Tx](https://leonaberrybordentx/)
+- [Leona Berry Borden Tx](/ancestors/leonaberrybordentx/)
 
-- [Lewis Berry NC](https://lewisberrync/)
+- [Lewis Berry NC](/ancestors/lewisberrync/)
 
-- [Lewis Berry Ohio](https://lewisberryohio/)
+- [Lewis Berry Ohio](/ancestors/lewisberryohio/)
 
-- [Location of Fiddleton Cemetery](https://location-fiddleton-cemetery/)
+- [Location of Fiddleton Cemetery](/ancestors/location-fiddleton-cemetery/)
 
-- [Location of the Fiddleton Plantation](https://locateplantation/)
+- [Location of the Fiddleton Plantation](/ancestors/locateplantation/)
 
-- [Lookalikes](https://lookalikes/)
+- [Lookalikes](/ancestors/lookalikes/)
 
 - [Marriages](/ancestors/marriages/)
 
-- [Martha M. Lockley](https://martha-m-lockley/)
+- [Martha M. Lockley](/ancestors/martha-m-lockley/)
 
-- [Martin Adolphus Maners](https://martin-adolphus-maners/)
+- [Martin Adolphus Maners](/ancestors/martin-adolphus-maners/)
 
-- [Mary A. Berry NC](https://maryaberrync/)
+- [Mary A. Berry NC](/ancestors/maryaberrync/)
 
-- [Mary Aliceann Elizabeth Barton Ga](https://maryaliceannbartonga/)
+- [Mary Aliceann Elizabeth Barton Ga](/ancestors/maryaliceannbartonga/)
 
-- [Mary Berry](https://maryberry/)
+- [Mary Berry](/ancestors/maryberry/)
 
-- [Mary Berry Barton Ga](https://maryberrybartonga/)
+- [Mary Berry Barton Ga](/ancestors/maryberrybartonga/)
 
-- [Mary Berry Family Line](https://mary-berry-family-line/)
+- [Mary Berry Family Line](/family-lines/mary-berry-family-line/)
 
-- [Mary Berry, Elizabeth’s Daughter NC](https://maryelizabethsdaughternc/)
+- [Mary Berry, Elizabeth’s Daughter NC](/ancestors/maryelizabethsdaughternc/)
 
-- [Mary Berry’s Family Tree](https://mary-berrys-family-tree/)
+- [Mary Berry’s Family Tree](/family-lines/mary-berrys-family-tree/)
 
-- [Mary Elizabeth Berry NC](https://mayecarr/)
+- [Mary Elizabeth Berry NC](/ancestors/mayecarr/)
 
-- [Mary Frances Crow Tx](https://maryfrancescrowtx/)
+- [Mary Frances Crow Tx](/ancestors/maryfrancescrowtx/)
 
-- [Mary Jane Berry Daughter of WC & Massa Tompkins Berry](https://mary-jane-berry-daughter-of-wc-massa-tompkins-berry/)
+- [Mary Jane Berry Daughter of WC & Massa Tompkins Berry](/ancestors/mary-jane-berry-daughter-of-wc-massa-tompkins-berry/)
 
-- [Mary Jori Berry Ga](https://maryjoriberryga/)
+- [Mary Jori Berry Ga](/ancestors/maryjoriberryga/)
 
-- [Mary Kempe PAC](https://marykempepac/)
+- [Mary Kempe PAC](/ancestors/marykempepac/)
 
-- [Mary Leona Berry Ala](https://maryleonaberryala/)
+- [Mary Leona Berry Ala](/ancestors/maryleonaberryala/)
 
-- [Mary Lou Turley Ga](https://marylouturleyga/)
+- [Mary Lou Turley Ga](/ancestors/marylouturleyga/)
 
-- [Mary Polly Cates Georgia](https://mary-polly-cates-georgia/)
+- [Mary Polly Cates Georgia](/ancestors/mary-polly-cates-georgia/)
 
-- [Mattie Lee Strickland Ala](https://mattielstricklandala/)
+- [Mattie Lee Strickland Ala](/ancestors/mattielstricklandala/)
 
 - [Name Index](/indexes/name-index/)
 
-- [Nancy Berry Spinster Joshua’s daughter](https://nancy-berry-spinster-joshuas-daughter/)
+- [Nancy Berry Spinster Joshua’s daughter](/ancestors/nancy-berry-spinster-joshuas-daughter/)
 
-- [Nathaniel Arie Turley Ga](https://nathanielarieturleyga/)
+- [Nathaniel Arie Turley Ga](/ancestors/nathanielarieturleyga/)
 
-- [No Access](https://no-access/)
+- [No Access](/ancestors/no-access/)
 
-- [Ode Berry Tenn](https://odetenn/)
+- [Ode Berry Tenn](/ancestors/odetenn/)
 
-- [Orange County NC Marriage Bonds A – C](https://orange-county-nc-marriage-bonds-a-c/)
+- [Orange County NC Marriage Bonds A – C](/ancestors/orange-county-nc-marriage-bonds-a-c/)
 
 - [Pages Updates](/ancestors/page-updates/)
 
-- [Pattie S. Berry NC](https://pattiesberrync/)
+- [Pattie S. Berry NC](/ancestors/pattiesberrync/)
 
 - [Picture Directory](/pictures/picturedirectoryt/)
 
-- [Political – Roots of Rebellion](https://political/)
+- [Political – Roots of Rebellion](/ancestors/political/)
 
-- [Proof Page](https://proofpage/)
+- [Proof Page](/ancestors/proofpage/)
 
-- [Ralph Radford Cates Texas and California](https://ralph-radford-cates/)
+- [Ralph Radford Cates Texas and California](/ancestors/ralph-radford-cates/)
 
-- [Relatives Found in PAC Deed Book](https://relatives-found-in-pac-deed-book/)
+- [Relatives Found in PAC Deed Book](/documents/relatives-found-in-pac-deed-book/)
 
-- [Richard Williamson PAC](https://richardwilliamsonpac/)
+- [Richard Williamson PAC](/documents/richardwilliamsonpac/)
 
-- [Robert and Elizabeth Everett Berry’s Children](https://djbrbchildren/)
+- [Robert and Elizabeth Everett Berry’s Children](/ancestors/djbrbchildren/)
 
 - Robert Berry (OC)
 
-- [Robert Berry (OC) Character](https://robert-berry-oc-character/)
+- [Robert Berry (OC) Character](/ancestors/robert-berry-oc-character/)
 
-- [Robert Berry (PAC) Origins](https://rb2sourcelist/)
+- [Robert Berry (PAC) Origins](/ancestors/rb2sourcelist/)
 
-- [Robert Berry Ancestors](https://robertberryancestors/)
+- [Robert Berry Ancestors](/ancestors/robertberryancestors/)
 
 - Robert Berry and Elizabeth Cate Berry’s Children
 
-- [Robert Berry Joshua’s Son NC](https://robert-berry-joshuas-son-nc/)
+- [Robert Berry Joshua’s Son NC](/ancestors/robert-berry-joshuas-son-nc/)
 
 - [Robert Berry Jr.](/ancestors/robertberryjr/)
 
-- [Robert Berry Jr. Census Page](https://robert-berry-jr-census-page/)
+- [Robert Berry Jr. Census Page](/ancestors/robert-berry-jr-census-page/)
 
-- [Robert Berry Jr.’s Children](https://rbjchildren/)
+- [Robert Berry Jr.’s Children](/ancestors/rbjchildren/)
 
-- [Robert Berry Jr.Family Line](https://robert-berry-family-line/)
+- [Robert Berry Jr.Family Line](/family-lines/robert-berry-family-line/)
 
-- [Robert Berry Junior’s Family Tree](https://robert-berry-juniors-family-tree/)
+- [Robert Berry Junior’s Family Tree](/family-lines/robert-berry-juniors-family-tree/)
 
-- [Robert Berry OC Civic Contributions](https://civic/)
+- [Robert Berry OC Civic Contributions](/ancestors/civic/)
 
-- [ROBERT BERRY OC WILL](https://robert-berry-oc-will/)
+- [ROBERT BERRY OC WILL](/documents/robert-berry-oc-will/)
 
 - Robert Berry PAC
 
-- [Robert Berry PAC 1730 Will and Transcript](https://robert-berry-pac-will-transcription/)
+- [Robert Berry PAC 1730 Will and Transcript](/documents/robert-berry-pac-will-transcription/)
 
-- [Robert Berry Resource List](https://rbresourcelist/)
+- [Robert Berry Resource List](/ancestors/rbresourcelist/)
 
-- [Robert Berry, Son of David J. and Mary Blalock](https://robertdjberry/)
+- [Robert Berry, Son of David J. and Mary Blalock](/ancestors/robertdjberry/)
 
-- [Robert Berry’s (OC) Pay Vouchers](https://robert-berrys-oc-pay-vouchers/)
+- [Robert Berry’s (OC) Pay Vouchers](/ancestors/robert-berrys-oc-pay-vouchers/)
 
-- [Robert Berry’s older Brother, Richard Berry](https://robert-berry-had-a-brother-named-richard-berry/)
+- [Robert Berry’s older Brother, Richard Berry](/ancestors/robert-berry-had-a-brother-named-richard-berry/)
 
-- [Robert C. Berry NC Ala](https://robertcberryalabama/)
+- [Robert C. Berry NC Ala](/ancestors/robertcberryalabama/)
 
-- [Robert Clark Berry Ga](https://robertclarkberryga/)
+- [Robert Clark Berry Ga](/ancestors/robertclarkberryga/)
 
-- [Robert H. Breeze’s Headstone](https://robert-h-breezes-headstone/)
+- [Robert H. Breeze’s Headstone](/ancestors/robert-h-breezes-headstone/)
 
-- [Robert J. Berry Ga](https://robertberrygsodjbga/)
+- [Robert J. Berry Ga](/ancestors/robertberrygsodjbga/)
 
-- [Robert Marion Barton Ga](https://robertmarionbartonga/)
+- [Robert Marion Barton Ga](/ancestors/robertmarionbartonga/)
 
-- [Robert Pickle NC](https://robertpicklenc/)
+- [Robert Pickle NC](/ancestors/robertpicklenc/)
 
-- [Robert Riley Berry Ga](https://robertrileyberryga/)
+- [Robert Riley Berry Ga](/ancestors/robertrileyberryga/)
 
-- [Robert T Berry](https://robert-t-berry/)
+- [Robert T Berry](/ancestors/robert-t-berry/)
 
-- [Roberts traits](https://roberts-traits/)
+- [Roberts traits](/ancestors/roberts-traits/)
 
-- [Roger Williamson PAC](https://rogerwilliamsonpac/)
+- [Roger Williamson PAC](/documents/rogerwilliamsonpac/)
 
-- [Roseann Frances Berry](https://roannfrances/)
+- [Roseann Frances Berry](/ancestors/roannfrances/)
 
-- [Ruby Alyene Hunt Tx](https://rubyalyenehunttx/)
+- [Ruby Alyene Hunt Tx](/ancestors/rubyalyenehunttx/)
 
-- [Sally Malena Berry NC](https://sallymalenaberrync/)
+- [Sally Malena Berry NC](/ancestors/sallymalenaberrync/)
 
-- [Samuel Hollowell Indenture](https://samuel-hollowell/)
+- [Samuel Hollowell Indenture](/ancestors/samuel-hollowell/)
 
-- [Sarah Berry Cates Ga](https://sarahberrycatesga/)
+- [Sarah Berry Cates Ga](/ancestors/sarahberrycatesga/)
 
-- [Sarah Berry Tx](https://sarahberrytx/)
+- [Sarah Berry Tx](/ancestors/sarahberrytx/)
 
 - [Sarah Cate](/ancestors/sarahcate/)
 
-- [Sarah Frances Berry Kelly GA](https://sarah-frances-berry-kelly-ga/)
+- [Sarah Frances Berry Kelly GA](/ancestors/sarah-frances-berry-kelly-ga/)
 
-- [Service W A Henderson NC](https://servicewahendersonnc/)
+- [Service W A Henderson NC](/ancestors/servicewahendersonnc/)
 
 - [Shelby Dale Berry](/ancestors/shelby-dale-berry/)
 
 - Site Map
 
-- [Susan Berry Ala and Tx](https://susanberryalatx/)
+- [Susan Berry Ala and Tx](/ancestors/susanberryalatx/)
 
-- [Tennessee Picture Album](https://tennesseepicturealbum/)
+- [Tennessee Picture Album](/pictures/tennesseepicturealbum/)
 
-- [Thomas Berry Land Sale](https://thomas-berry-land-sale/)
+- [Thomas Berry Land Sale](/ancestors/thomas-berry-land-sale/)
 
-- [Thomas Berry NC](https://thomasberrync/)
+- [Thomas Berry NC](/ancestors/thomasberrync/)
 
-- [Thomas Berry Son of David J. and Mary Blalock](https://thomassodavid/)
+- [Thomas Berry Son of David J. and Mary Blalock](/ancestors/thomassodavid/)
 
-- [Thomas Berry Tree](https://tberrytree/)
+- [Thomas Berry Tree](/ancestors/tberrytree/)
 
-- [Thomas Euart Berry NC](https://thomaseuartberrync/)
+- [Thomas Euart Berry NC](/ancestors/thomaseuartberrync/)
 
-- [Thomas Person Berry Family](https://thomaspersonberry/)
+- [Thomas Person Berry Family](/ancestors/thomaspersonberry/)
 
-- [Thomas Young Berry NC](https://thomasyoungberrync/)
+- [Thomas Young Berry NC](/ancestors/thomasyoungberrync/)
 
-- [Thompson Berry Ala](https://thompsonberryala/)
+- [Thompson Berry Ala](/ancestors/thompsonberryala/)
 
-- [Three Brothers OC](https://three-brothers-oc/)
+- [Three Brothers OC](/ancestors/three-brothers-oc/)
 
-- [Timeline](https://timeline/)
+- Timeline
 
-- [Timeline 2](https://timeline2/)
+- Timeline 2
 
-- [Timeline 3](https://timeline3/)
+- Timeline 3
 
-- [Timeline 4](https://timeline4/)
+- Timeline 4
 
-- [Timeline 5](https://timeline5/)
+- Timeline 5
 
-- [Timeline 6](https://timeline6/)
+- Timeline 6
 
-- [Timeline Index](https://timelineindex/)
+- Timeline Index
 
-- [Timeline Number 2](https://timelinenumber2/)
+- Timeline Number 2
 
 - [Timelines](/timelines/timelines/)
 
-- [Undeveloped Family Lines](https://undevelopedlines/)
+- [Undeveloped Family Lines](/ancestors/undevelopedlines/)
 
-- [Unknown Pictures Page 1](https://unknown-pictures-page-1/)
+- [Unknown Pictures Page 1](/pictures/unknown-pictures-page-1/)
 
 - [USA Conflicts](/ancestors/usaconflicts/)
 
-- [Vera Othello Maners](https://vera-othello-maners/)
+- [Vera Othello Maners](/ancestors/vera-othello-maners/)
 
-- [Voucher Page](https://voucherpage/)
+- [Voucher Page](/ancestors/voucherpage/)
 
-- [Walter Glen Berry Ga](https://walterglenberryga/)
+- [Walter Glen Berry Ga](/ancestors/walterglenberryga/)
 
-- [Wiley Harold Berry NC](https://wileyharoldberrync/)
+- [Wiley Harold Berry NC](/ancestors/wileyharoldberrync/)
 
-- [Wiley P. Berry](https://wiley-p-berry/)
+- [Wiley P. Berry](/ancestors/wiley-p-berry/)
 
-- [Wiley P. Berry Jr. NC](https://wileypberryjrnc/)
+- [Wiley P. Berry Jr. NC](/ancestors/wileypberryjrnc/)
 
-- [Wiley P. Berry’s Children](https://wpbsrchildren/)
+- [Wiley P. Berry’s Children](/ancestors/wpbsrchildren/)
 
-- [William Aaron Turley Ga](https://williamaaronturleyga/)
+- [William Aaron Turley Ga](/documents/williamaaronturleyga/)
 
-- [William and Hannah Cate Berry’s Children](https://williamchildren/)
+- [William and Hannah Cate Berry’s Children](/documents/williamchildren/)
 
-- [William Berry](https://william-berry/)
+- [William Berry](/ancestors/william-berry/)
 
-- [William Berry Family Tree](https://wbfamilytree/)
+- [William Berry Family Tree](/ancestors/wbfamilytree/)
 
-- [William Cate’s Estate Sale](https://william-cates-estate-sale/)
+- [William Cate’s Estate Sale](/documents/william-cates-estate-sale/)
 
 - [William Clarence Berry NC, ALA, TX](/documents/williamclarenceberrync/)
 
-- [William Edgar Berry Alabama](https://william-edgar-berry-alabama/)
+- [William Edgar Berry Alabama](/documents/william-edgar-berry-alabama/)
 
-- [William Eugene Berry NC](https://williameugeneberrync/)
+- [William Eugene Berry NC](/documents/williameugeneberrync/)
 
-- [William G. Berry](https://williamgsodavid/)
+- [William G. Berry](/documents/williamgsodavid/)
 
-- [William H Berry NC](https://williamhberrync/)
+- [William H Berry NC](/documents/williamhberrync/)
 
-- [William Henry Berry GA](https://william-henry-berry-ga/)
+- [William Henry Berry GA](/documents/william-henry-berry-ga/)
 
-- [William Lamar Berry](https://williamlamar/)
+- [William Lamar Berry](/documents/williamlamar/)
 
-- [William Oscar Berry GA](https://william-oscar-berry-ga/)
+- [William Oscar Berry GA](/documents/william-oscar-berry-ga/)
 
-- [William Thomas Berry Jr. Ala](https://williamtberryjrala/)
+- [William Thomas Berry Jr. Ala](/documents/williamtberryjrala/)
 
-- [William Thomas Berry Sr.](https://williamtberrysrala/)
+- [William Thomas Berry Sr.](/documents/williamtberrysrala/)
 
-- [William Thomas Maners](https://william-thomas-maners/)
+- [William Thomas Maners](/documents/william-thomas-maners/)
 
-- [Williamson deeds and wills 1691 to 1755 PAC](https://williamson-deeds-and-wills-1691-to-1755-pac/)
+- [Williamson deeds and wills 1691 to 1755 PAC](/documents/williamson-deeds-and-wills-1691-to-1755-pac/)
 
-- [Willie Adolphus Berry NC](https://willieadolphysberrync/)
+- [Willie Adolphus Berry NC](/documents/willieadolphysberrync/)
 
-- [Willie Howell Berry Jr. Tx](https://whowellberryjrtx/)
+- [Willie Howell Berry Jr. Tx](/ancestors/whowellberryjrtx/)
 
-- [Willie Howell Berry Tx](https://whowellberrytx/)
+- [Willie Howell Berry Tx](/ancestors/whowellberrytx/)
 
-- [Winifred Berry Ga](https://winiifredncga/)
+- [Winifred Berry Ga](/ancestors/winiifredncga/)
 
-- [Woodrow Wilson Berry NC](https://woodrowwilsonberrync/)
+- [Woodrow Wilson Berry NC](/ancestors/woodrowwilsonberrync/)
 
-- [YDNA matching William Berry YDNA](https://ydna-matching-william-berry-ydna/)
+- [YDNA matching William Berry YDNA](/dna/ydna-matching-william-berry-ydna/)

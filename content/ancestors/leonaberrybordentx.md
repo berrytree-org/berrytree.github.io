@@ -31,8 +31,7 @@ Willie Berry and his family moved to Amherst, Texas in 1924, Hal Johnson moved h
 	<li>Living female Simpson.</li>
 </ul>
  
-<h2><a href="#"><strong>
-</strong></a><strong>Leona Berry Summers was married twice Her second marriage was to Dick Simpson </strong></h2>
+<h2><strong>Leona Berry Summers was married twice Her second marriage was to Dick Simpson </strong></h2>
 <h3>August 13, 2009</h3>
 CENSUS INFORMATION
 <blockquote>“ Leona (onie) Berry was recorded in every one of her fathers census except the 1900 Census ”

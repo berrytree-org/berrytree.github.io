@@ -26,8 +26,7 @@ Generation 5 John Robert Berry and Elizabeth Frances Bowling
 
  </li>
 </ul>
-<h3><a href="#"><strong>
-</strong></a><strong>James Ormond Webb died in 1936</strong></h3>
+<h3><strong>James Ormond Webb died in 1936</strong></h3>
 <h3>Page Updated on May 1st 2012</h3>
 <strong> CENSUS INFORMATION</strong>
 <blockquote>“ James and Mary Berry Webb were in Orange County in 1910 and 1920”

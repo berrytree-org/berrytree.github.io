@@ -22,8 +22,7 @@ Generation 2 David J. and Mary Blalock Berry
 	<li>Mary Berry</li>
 	<li>Angelina Berry m A Stallworth</li>
 </ul>
-<h2><a href="#"><strong>
-</strong></a><strong>Joshua was a farmer all his life</strong></h2>
+<h2><strong>Joshua was a farmer all his life</strong></h2>
 <h3>January 12, 2008</h3>
 CENSUS INFORMATION
 <blockquote>“Joshua was born in North Carolina and died in Georgia ”

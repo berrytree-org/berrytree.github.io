@@ -30,8 +30,7 @@ Pearl and Fanny were living with their parents in the 1910 census. Both Parents 
 	<li>Fannie Ada Berry was born Jan 16, 1892 in Milton County, Georgia. She married in 1915 Albert Buren Cook born May 17, 1893 in Georgia. Fannie Ada Cook died Apr 1, 1957 Athens, Clarke County, Georgia and is buried in Walton County Georgia at Westlawn Cemetery. Albert B Cook died Apr 27, 1967 and is also buried at Westlawn Cemetery. They had two children.</li>
 	<li>Verna I. Berry was born about 1894 in Georgia and married 1913 to Reason Whitley born Jan 2, 1888. She died aft 1920 and Reason Died September 1969 in Irwin, Georgia. In 1920 Elizabeth Watson was living with them in Irvin County.</li>
 </ul>
-<a href="#"><strong>
-</strong></a><strong>After his father Robert Berry's died in 1891, Basil bought property from Jesse Lee Berry and as other heirs offered their inherited land for sale.</strong>
+<strong>After his father Robert Berry's died in 1891, Basil bought property from Jesse Lee Berry and as other heirs offered their inherited land for sale.</strong>
 <h3><strong>Census information:</strong></h3>
 <blockquote><strong>“Basil Manley Berry and his wife Elizabeth lived in Milton County Georgia”</strong>
 <ul>

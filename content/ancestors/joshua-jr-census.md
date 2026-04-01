@@ -38,4 +38,4 @@ Black Arrow points to Anna Thorpe Berry widow of Joshua Berry Jr. in 1780 Census
 
  
 
-<a href="/ancestors/joshua-jr-census/">Return to top of page</a>
+<a href="#">Return to top of page</a>

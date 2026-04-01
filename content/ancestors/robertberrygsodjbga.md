@@ -21,8 +21,7 @@ Generation 3 Joshua and Elizabeth J. Cates Berry
  
 
 <strong>CHILDREN :</strong>
-<h3><a href="#"><strong>
-</strong></a><strong>Robert J.Berry was the son of Joshua and the grandson of David J. Berry</strong></h3>
+<h3><strong>Robert J.Berry was the son of Joshua and the grandson of David J. Berry</strong></h3>
 <h3>January 12, 2008</h3>
 CENSUS INFORMATION
 <blockquote>“ Robert J. Berry was a saw mill supervisor in Clayton County Georgia”
@@ -35,6 +34,6 @@ CENSUS INFORMATION
 	<li>To Be Researched</li>
 </ul>
 <ul>
-	<li><a href="census/joshuamberryga1920.jpg"> Robert J. Berry Grandson of (David J. Berry) in the 1920 Clayton county Georgia Census</a></li>
+	<li><a href="/census/joshuamberryga1920.jpg"> Robert J. Berry Grandson of (David J. Berry) in the 1920 Clayton county Georgia Census</a></li>
 </ul>
 </blockquote>

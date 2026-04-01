@@ -1,0 +1,29 @@
+{{/*
+  breadcrumb shortcode
+  Renders a clear, accessible breadcrumb trail for wayfinding.
+  Designed for elderly visitors: large text, obvious path.
+
+  Parameters:
+    trail (string) — pipe-separated breadcrumb items
+                     Format: "Label|URL|Label|URL|Current Label"
+                     Last item has no URL (current page)
+
+  Usage:
+    {{< breadcrumb trail="Home|/|Ancestors|/ancestors/|David J. Berry Sr." />}}
+*/}}
+<nav class="page-breadcrumb" aria-label="You are here">
+  <ol>
+    {{- $items := split (.Get "trail") "|" }}
+    {{- $len := len $items }}
+    {{- range $i, $item := $items }}
+      {{- if eq (mod $i 2) 0 }}
+        {{- if lt (add $i 1) $len }}
+          {{- $url := index $items (add $i 1) }}
+          <li><a href="{{ $url }}">{{ $item }}</a></li>
+        {{- else }}
+          <li aria-current="page">{{ $item }}</li>
+        {{- end }}
+      {{- end }}
+    {{- end }}
+  </ol>
+</nav>

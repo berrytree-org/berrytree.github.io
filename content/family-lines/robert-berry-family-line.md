@@ -172,7 +172,7 @@ James Emeory Taylor 1866 - 1945 d: 1945 in Galveston TX.
 <div class="gen gen-6"><span class="gen-label">Gen 6</span> Louisa J. Berry 1855 -</div>
 <div class="gen gen-6"><span class="gen-label">Gen 6</span> Eliza Berry 1857 -</div>
 <div class="gen gen-6"><span class="gen-label">Gen 6</span> Emma Berry 1859 -</div>
-<div class="gen gen-6"><span class="gen-label">Gen 6</span> <a href="/ancestors/johnberrytx/francis-marion-berry/">Francis Marion Berry</a> 1861 - 1943 d: 08 Jan 1943 in Cleveland Oklahoma</div>
+<div class="gen gen-6"><span class="gen-label">Gen 6</span> <a href="/ancestors/francis-marion-berry/">Francis Marion Berry</a> 1861 - 1943 d: 08 Jan 1943 in Cleveland Oklahoma</div>
 <div class="gen gen-6 gen-spouse">+Fannie Lilly Hudspeth 1873 - 1934 m: Abt. 1890 d: 17 Jul 1934 in Cleveland Oklahoma</div>
 <div class="gen gen-7"><span class="gen-label">Gen 7</span> Jefferson Greenwood Berry 1891 - 1973 d: Sep 1973 in Corpus Cristi TX</div>
 <div class="gen gen-7 gen-spouse">+Willie Grace Platt 1891 - m: 22 Dec 1910 in Shiloh Dallas Texas</div>

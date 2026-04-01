@@ -9,7 +9,7 @@ weight: 2
 
 ](/images/front-cover-for-index-bk-e1443292129249.jpg)This is great news for everyone associated with the Robert and Elizabeth Cate Berry family line.
 
-This book is available to Everyone FREE in PDF format and can be downloaded from the BOOK PAGE  [CLICK HERE](../books.html)   
+This book is available to Everyone FREE in PDF format and can be downloaded from the BOOK PAGE  [CLICK HERE](/books/)   
 
  **Benjamin Berry  Henderson Sr’s. **new book entitled:             “**Robert Berry  Family Tree Index”                                                                                    ****300 Years and Seven ****Generations                                                                                         Second Edition**
 

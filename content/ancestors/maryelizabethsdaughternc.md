@@ -28,12 +28,11 @@ Thomas and Mary were listed in Person County in 1820 but I do not know who the e
 	<li><strong>Josiah Berry</strong> date and place unknown</li>
 </ul>
 Thomas and Mary Berry had a grandson named Preston Berry who was in Macon County  Auburn Alabama  listed as an orphan around the time of the Civil War.  <a href="/ancestors/elizabeth/">Go to Mary's Mother's pag</a>e to view documents sent to Orange County from Alabama about Preston Berry.
-<h2><a href="#"><strong>
-</strong></a><strong>Mary Berry was born in Orange County North Carolina and after marriage she lived in Person County</strong></h2>
+<h2><strong>Mary Berry was born in Orange County North Carolina and after marriage she lived in Person County</strong></h2>
 <h3>September 23, 2008 Updated 10/19/2015</h3>
 CENSUS INFORMATION
 <blockquote>“ Mary Berry was 18 years old in the 1810 Person County NC Census”
 
-<a href="/ancestors/maryelizabethsdaughternc/">Return to top of page</a>
+<a href="#">Return to top of page</a>
 
  </blockquote>

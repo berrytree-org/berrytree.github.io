@@ -1,140 +1,168 @@
 ---
 title: "Robert Berry Jr."
-weight: 8
+weight: 2
+bookToc: true
 ---
 
-## Robert Berry Jr. son of Robert and Elizabeth Cate Berry
+<div class="ancestor-page">
 
-### **Ancestors:**
+{{< breadcrumb trail="Home|/|Ancestors|/ancestors/|Family Lines|/family-lines/|Robert Berry Jr." >}}
 
-1. Generation Robert and Mary Williamson Berry, Princess Anne County. Virginia.
+{{< ancestor-chain gen3="Robert Berry Jr. × Mary Waggoner" loc3="Orange County, NC → Fayette County, AL" link3="/ancestors/robert-berry-jr/" />}}
 
-1. Generation Robert and Elizabeth Cate Berry, Orange County, North Carolina.
+{{< ancestor-profile
+  name="Robert Berry Jr."
+  gen="3"
+  born="c. 1760, Orange County, North Carolina"
+  died="Between 1840 and 1850, Fayette County, Alabama"
+  spouse="Mary Waggoner (married c. 1784) — daughter of Henry and Katriana Waggoner"
+  parents="Robert Berry and Elizabeth Cate, Orange County, NC"
+>}}
 
-1. Generation** Robert Berry Jr. **married** Mary Waggoner  about 1784**
+## The Story of Robert Berry Jr.
 
-**Supporting Documentation** For Robert Berry Jr.****
+Robert Berry Jr. was born in Orange County, North Carolina, about 1760. He registered in the 1790 census, meaning he was a property owner by that time. His brother Joshua Berry and his father Robert Berry also listed in that same census.
 
-**Robert Berry** **Jr.** was born in Orange County, North Carolina about 1760. He registered in the 1790 census, which means he was probably a property owner at that time. It also may mean that he was over 21 years old. His brother **Joshua Berry** and his Father **Robert Berry** **OC** also listed in that census.
+### The Waggoner Connection
 
-**Robert Berry Jr. was originally believed to have married James Camp’s, sister, Mary Camp. Mary Berry married James Camp after her first husband,  George Waggoner, died . The problem is that later research has proven that James Camp did not have a sister named Mary.**
+Robert Berry Jr. was originally believed to have married James Camp's sister, Mary Camp. Later research proved that James Camp did not have a sister named Mary. Instead, Robert Junior's sister Mary Berry had first married **George Waggoner**, who did have a sister named **Mary Waggoner**.
 
-**Robert Juniors sister, Mary Berry, first married George Waggoner who did have a sister named Mary Waggoner. **
+From Henry Waggoner's will (Orange County NC Book A, Page 330), we learned the names of Henry and Katriana Waggoner's children, including daughters Mary Waggoner (who married Robert Berry Jr.) and Judith Waggoner (who married Peter Aldridge). Their son George Waggoner married Robert's sister Mary Berry.
 
-From Henry Waggoner Will **( Orange County NC Book A, Page 330)** we learned the names of his wife and children. The birth order of the children is not listed in the will
+**On February 4, 1786**, Robert Berry Junior was the bondsman for Peter Aldridge and Judith Waggoner's marriage. In 1810, Peter Aldridge and his family were living just a few farms away from Robert Berry Jr. in Person County, North Carolina. Robert Junior's first son George Berry married Susanna Aldridge, Peter and Judith Waggoner Aldridge's daughter — binding the Berry and Waggoner families even closer together.
 
-- Henry and Katriana Waggoners Children:
+Robert also posted bond for Catherine Waggoner in the estate of James Waggoner deceased in November 1791.
 
-- Daughters:
+Robert and Mary named their first two children **Catherine Berry** (born 1785) and **George Berry** (born about 1790) — honoring both families.
 
-- Elizabeth Waggoner married Unknown Johns
+### Life in North Carolina
 
-- Uley Waggoner married  William Stagg January 22, 1805
+When Robert Jr. registered in the 1800 Orange County Census, he listed four sons under 15 (two under 10, two between 10 and 15) and four daughters (two under 10, one between 10 and 15, and one over 15 but less than 25). The eldest must have been Catherine, who would have been just over fifteen in 1800. **Catherine Berry** married **Jacob Pickle** on February 20, 1802. In the 1810 census, Jacob and Catherine Berry Pickle were living next door to her uncle David J. Berry.
 
-- Susanna Waggoner
+Robert Berry Jr. listed in Person County, North Carolina, in the 1810 Census.
 
-- **Mary Waggoner** married **Robert Berry Jr.**
+**Supporting documents:**
+- [Deed book page 331](/documents/) — Land Purchase in Person County, NC
+- [Deed book page 421](/documents/) — Land Sold in Person County, NC
 
-- Catherine Waggoner
+### The Move to Alabama
 
-- Unreadable Waggoner
+Robert's sister Elizabeth and mother died around 1815 and 1816. Since Robert Berry Jr. did not inherit any land from his father, and since his son George had served in the War of 1812, land became available to George Berry in a land lottery in Fayette County, Alabama. Robert Berry Jr. and his entire family removed to Fayette County.
 
-- **Judith Waggoner** married **Peter Aldridge**
+George Berry and his father acquired **640 acres** of land together in 1824. This property is located very close to where Berry, Alabama, is today. The land grant was signed by **President James Monroe**.
 
-- Sons:
+<div class="photo-feature">
+  <a href="/images/fayettesign.jpg">
+    <img src="/images/fayettesign.jpg" alt="Fayette County, Alabama sign" />
+  </a>
+  <div class="photo-caption">Fayette County, Alabama — where Robert Berry Jr. and his family settled in 1824</div>
+</div>
 
-- John Waggoner
+- [Land grant to Robert Berry Jr. and his son George Berry, 1824](/documents/land-grant-robert-berry-jr/) — Fayette County, Alabama, signed by President James Monroe
 
-- Henry Waggoner
+Catherine Berry Pickle and her husband Jacob also listed in Fayette County, Alabama, in 1830. They later removed to Monroe, Mississippi, and listed there in the 1840 census.
 
-- Jacob Waggoner
+None of Robert Berry Junior's family have been found in any 1820 census — they were most likely all in transit from Orange County, North Carolina, to Fayette County, Alabama.
 
-- **George Waggoner** married **Mary Berry **
+### Robert's Death and Burial
 
-George Waggoner died in 1781 right after the battle of Guilford Courthouse in Greensboro North Carolina. It is believed that George Waggoner died from wounds received in that battle. He wrote his will two weeks after the battle was fought.
+Robert Berry Jr. did not list in Fayette County, Alabama, in 1850. He would have been about 88 years old. Robert Berry Jr. and Mary Waggoner Berry both died sometime after the 1840 Census and are most likely buried at **Pleasant Hill Methodist Church Cemetery** in Berry, Fayette County, Alabama.
 
-Robert Berry Jr. and his wife named their first two children, **Catherine Berry** born 1785, and **George Berry** born about 1777.
+The 1840 Census indicates that Robert Berry Jr. and his wife could read and write.
 
-**On February 4th 1786 Robert Berry Junior was the bondsman for Peter Aldridge and Judith Waggoner. In 1810 Peter Aldridge and his family was living a few farms away from Robert Berry Jr and his family in Person County, North Carolina. Robert Junior’s first son George Berry married Susanna Aldridge, Peter and Judith Waggoner Aldridge’s  daughter. Robert Berry Jr. posted bond for Catherine Waggoner in the estate of James Waggoner deceased in November 1791.**
+<div class="photo-feature">
+  <a href="/images/robertjrgraveala.jpg">
+    <img src="/images/robertjrgraveala.jpg" alt="Headstone believed to be Robert Berry Jr. at Pleasant Hill Methodist Church Cemetery, Berry, Alabama" />
+  </a>
+  <div class="photo-caption">Headstone believed to be Robert Berry Jr. at Pleasant Hill Methodist Church Cemetery, Berry, Fayette County, Alabama</div>
+</div>
 
-When Robert Jr. registered in the 1800 Orange County Census he listed four sons who were under 15 years old. Two of them were under 10 years old and two were between 10 and 15. He also listed four daughters. Two daughters were under 10 years old, one daughter between 10 and 15 and one daughter who was over 15 but less than 25 years old. This must have been Catherine who would have been just over fifteen years old in 1800. **Catherine Berry** married **Jacob Pickle** on February 20th 1802. When Jacob and Catharine Berry Pickle listed in the 1810 census they were living next door to her uncle **David J. Berry**.
+### The Headstone Connection
 
-[ Deed book page 331:](/documents/) Land Purchase in Person County N.C.
+After seeing the only hand-shaped headstone at the Pleasant Hill cemetery in Berry, Alabama (photographed in 2008), and comparing it to the only hand-shaped fieldstone found in the Fiddleton Cemetery in Orange County, North Carolina, it becomes obvious that the shapes are almost identical. Robert Berry's wife Elizabeth Cate Berry likely had slaves shape the headstone for her husband in the Fiddleton Cemetery. Someone in Robert Berry Junior's family knew about the shape of his father's headstone in North Carolina and had a matching one made for him in Alabama.
 
-[ Deed book page 421:](/documents/) Land Sold in Person County N.C.
+<div class="photo-feature">
+  <a href="/images/robertand-sons-robert-headstones.jpg">
+    <img src="/images/robertand-sons-robert-headstones.jpg" alt="Comparison of headstones from Fiddleton Cemetery, NC, and Pleasant Hill Cemetery, Alabama" />
+  </a>
+  <div class="photo-caption">Left: Fieldstone headstone at Fiddleton Cemetery, Orange County, NC. Right: Matching fieldstone at Pleasant Hill Cemetery, Berry, Alabama. Both are the only hand-shaped markers in their respective cemeteries.</div>
+</div>
 
-[ Land grant to Robert Berry Jr. and his son George Berry:](/documents/land-grant-robert-berry-jr/)  
+There are several other field stones being used as grave markers right next to Thompson Berry's headstone. This part of the church cemetery appears to be the original Pleasant Hill Methodist Church Cemetery. Robert Berry Junior's youngest son Thompson Berry and his wife are also buried there. Thompson's headstone notes he was born in Orange County, North Carolina — all of Robert Berry Junior's children were born in North Carolina.
 
-Fayette County Alabama 1824 . Grant signed by President James Monroe
+---
 
-![](/images/fayettesign.jpg)
+<h2 class="ancestor-section">Children of Robert Berry Jr. and Mary Waggoner</h2>
 
-**Robert Berry Jr.** Listed in Person County, North Carolina, in the 1810 Census. Robert’s Sister Elizabeth and Mother died around 1815 and 1816. Since Robert Berry Jr.did not inherit any land from his father and since his son George had served in the war of 1812, Land became available to George Berry in a Land Lottery in Fayette, County Alabama. Robert Berry Jr and his entire family removed to Fayette County, Alabama. George Berry and his father acquired 640 acres of land there together in 1824. This property is located very close to where Berry Alabama is today. Catherine Berry Pickle and her husband Jacob also listed in Fayette Count,y Alabama, in 1830. They removed from Alabama to Monroe Mississippi and listed there in the 1840 census. None of Robert Berry Junior’s family have been found in any 1820 census. This most likely means they were all in transit from Orange County, North Carolina, to Fayette, County Alabama. When the 1830 and 1840 Census was taken Robert Berry Jr.’s sons also listed in Fayette County, Alabama. John Berry who was George and Susannah Berry’s son listed also in the Fayette Alabama 1840 Census. A descendant of John Berry has taken a Y-DNA test and matches known descendants of the Robert and Elizabeth Cate Berry Family from Orange County,North Carolina. John Berry who is the grand son of Robert Berry Sr. was found living in Rusk County Texas in the 1860 census. 
+Robert and Mary had seven children, all born in Orange County, North Carolina. The family moved to Fayette County, Alabama, together in the early 1820s.
 
-![](/images/robertjrgraveala.jpg)
+<ol class="children-list">
 
- John Berry is the oldest son of George Berry and was born in North Carolina in 1815.  
+<li class="child-entry">
+  <div class="child-name">1. Catherine Berry</div>
+  <div class="child-dates">Born October 1785, Orange County, NC — Died after 1870</div>
+  <div class="child-details">Married <strong>Jacob Pickle</strong> on February 20, 1802. Listed in Fayette County, Alabama, in 1830, then Monroe, Mississippi, in 1840, and Attala County, Mississippi, after 1870.</div>
+</li>
 
-Robert Berry Jr. did not list in Fayette County, Alabama, in 1850. He would have been 88 years old. Robert Berry Jr. and Mary Camp Berry both died sometime after the 1840 Census and are both most likely buried at Pleasant Hill Methodist Church Cemetery in Berry, Fayette County, Alabama.
-
-After seeing the shape of the only headstone that was hand shaped in the picture above that was taken in Berry, Fayette County, Alabama, in 2008 and and comparing it to the only hand shaped fieldstone found in the Fiddleton Cemetery in Orange County, North Carolina, it becomes obvious that  the shapes of both headstones are almost identical. I am almost positive that Robert Berry’s wife Elizabeth Cate Berry had her slaves shape the headstone for her husband which is located in the Fiddleton Cemetery in North Carolina. This stone is pictured on the left below. Someone in Robert Berry Juniors family knew about the shape of his fathers headstone in Orange County NC and had the stone on the right below made for him. Both headstones are the only hand shaped  fieldstone headstone markers in both Cemeteries. Robert Berry Junior may have died before his wife, Mary Waggoner Berry, and she may be the one who had Robert Berry Junior’s headstone made.[
-
-![robertand sons robert headstones](/images/robertand-sons-robert-headstones.jpg)
-
-](/images/robertand-sons-robert-headstones.jpg)There are a several other field stones being used as grave markers right next to Thompson Berry’s headstone.  It seems that this part of the Church Cemetery was the original Pleasant Hill Methodist Church Cemetery.  Robert Berry Juniors’ youngest son, Thompson Berry, and his wife are also buried there. There is an inscription on Thompson P Berry’s headstone that notes he was born in Orange County, North Carolina. All of Robert Berry Juniors children were born in North Carolina.
-
-### **Children:**
-
-1. [Cathrine Berry](/ancestors/) b. 1785 d. after 1850
-
-1. [George Berry](/ancestors/john-berry-tx/) b. cir 1790 d. after 1850
-
-1. John Berry b. 1792 d. Unknown
-
-1. Henry G Berry b. cir 1794 d. young in NC
-
-1. Susan Berry b. May 17. 1798 d. Jul. 1874 married John H. Ray
-
-1. [Thompson Berry](/ancestors/robert-c-berry-alabama/) b. December 18, 1801 d. January 8, 1871
-
-1. [David Middelton Berry](/ancestors/robert-c-berry-alabama/) b. April 14, 1805 d. May 7, 1880
-
-###  **Places Lived:**
-
-- Born in Orange County, North Carolina
-
-- Robert Berry Jr. Removed To Fayette County, Alabama.
-
-### **Census Information and Neighbors:  
-
-**
-
-> 
-
-“ Robert Berry Jr. and his family left Orange County, North  
-
-Carolina shortly after his mother died and they were in Alabama by 1822”
-
-### **Census Information:**
-
-### [Robert Berry Jr. Census Page](/ancestors/robert-berry-jr/)
-
-### The 1840 Census indicates that Robert Berry Jr and his wife  
-
-could read and write.
-
-- [US Grant: Robert Berry Jr.and his son George Berry April 6, 1824](/documents/land-grant-robert-berry-jr/)
-
-- [Found in Fayette County, Alabama in the 1830 Census](/census/robertjr1830ala.jpg)
-
-- [ Slave Page in Fayette Alabama in 1830 Census](/census/robertjrslavepage1830ala.jpg)
-
-- [Found In Fayette County Alabama In The 1840 Census](/census/robertjr1840ala.jpg)
-
-- [ Slave Page in Fayette Alabama in 1840 Census](/census/robertjrslavpage1840ala.jpg)
-
-- Not found in the 1850 Fayette County, Alabama Census.
-
-[Back to Top](index.html#)
-
-Last Updated Jan. 21, 2014
+<li class="child-entry has-page">
+  <div class="child-name"><a href="/ancestors/john-berry-tx/">2. George Berry</a></div>
+  <div class="child-dates">Born c. 1790, Orange County, NC — Died before 1850, Alabama</div>
+  <div class="child-details">Married <strong>Susanna Aldridge</strong>, daughter of Peter Aldridge and Judith Waggoner. Served in the War of 1812. Received the land grant with his father in Fayette County, Alabama, in 1824. Listed in Fayette County in 1830 and 1840. His son John Berry was found in Rusk County, Texas, in the 1860 census. A descendant of John Berry has taken a Y-DNA test and matches known descendants of the Robert and Elizabeth Cate Berry family.</div>
+</li>
+
+<li class="child-entry">
+  <div class="child-name">3. John Berry</div>
+  <div class="child-dates">Born 1792, Orange County, NC</div>
+  <div class="child-details">Further details about John's life and family are still being researched.</div>
+</li>
+
+<li class="child-entry">
+  <div class="child-name">4. Henry G. Berry</div>
+  <div class="child-dates">Born c. 1794, Orange County, NC — Died December 26, 1866, Drew County, Arkansas</div>
+  <div class="child-details">Moved from North Carolina to Alabama and later to Arkansas.</div>
+</li>
+
+<li class="child-entry">
+  <div class="child-name">5. Susan Berry</div>
+  <div class="child-dates">Born May 17, 1798 — Died July 1874</div>
+  <div class="child-details">Married <strong>John H. Ray</strong>.</div>
+</li>
+
+<li class="child-entry">
+  <div class="child-name">6. Thompson Berry</div>
+  <div class="child-dates">Born December 18, 1801, Orange County, NC — Died January 8, 1871, Fayette County, AL</div>
+  <div class="child-details">Buried at Pleasant Hill Methodist Church Cemetery in Berry, Alabama. His headstone notes he was born in Orange County, North Carolina.</div>
+</li>
+
+<li class="child-entry">
+  <div class="child-name">7. David Middleton Berry</div>
+  <div class="child-dates">Born April 14, 1805, Orange County, NC — Died May 7, 1880, Fayette County, AL</div>
+  <div class="child-details">Settled in Fayette County, Alabama, with the rest of his family.</div>
+</li>
+
+</ol>
+
+---
+
+<h2 class="ancestor-section">Census Records</h2>
+
+{{< census-summary summary="Robert Berry Jr. listed in Orange County, NC, from 1790 through 1810, then in Fayette County, Alabama, from 1830 through 1840. No census has been found for 1820 — the family was likely in transit to Alabama." >}}
+
+- **1790** — Robert Berry Jr. listed in Orange County, North Carolina (property owner)
+- **1800** — Robert Berry Jr. listed in Orange County, North Carolina
+- **1810** — Robert Berry Jr. listed in Person County, North Carolina
+- **1820** — Not found (family in transit to Alabama)
+- **1830** — [Found in Fayette County, Alabama](/census/robertjr1830ala.jpg) — [Slave page](/census/robertjrslavepage1830ala.jpg)
+- **1840** — [Found in Fayette County, Alabama](/census/robertjr1840ala.jpg) — [Slave page](/census/robertjrslavpage1840ala.jpg)
+- **1850** — Not found in Fayette County, Alabama (Robert would have been ~88 years old)
+
+---
+
+<div class="tree-link">
+  <a href="/family-lines/robert-berry-juniors-family-tree/">
+    View the Full Robert Berry Jr. Family Tree
+    <span class="tree-link-sub">Seven children and their descendants across Alabama, Mississippi, Texas, and Arkansas</span>
+  </a>
+</div>
+
+</div>

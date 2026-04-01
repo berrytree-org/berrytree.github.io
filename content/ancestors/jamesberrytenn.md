@@ -83,4 +83,4 @@ At this time nothing else is known about the other children who were listed in t
 	<li>James Berry listed in the 1850 Smith County Tennessee Census page 2.</li>
 	<li>James Berry has not been located in any 1860 census.</li>
 </ul>
-<a href="/ancestors/jamesberrytenn/">Return to top of Pagee</a></blockquote>
+<a href="#">Return to top of Pagee</a></blockquote>

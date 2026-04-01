@@ -18,15 +18,16 @@ Individual profiles for ancestors in the Robert and Elizabeth Cate Berry family 
 
 ## Generation 3 — Children of Robert & Elizabeth
 
-- [Mary Berry](/ancestors/mary-berry/)
-- [Robert Berry Jr.](/ancestors/robert-berry-jr/)
-- [John Berry](/ancestors/john-berry/)
-- [Joshua Berry (Ohio)](/ancestors/joshua-berry-ohio/)
-- [Ira Berry (NC)](/ancestors/ira-berry-nc/)
-- [Sarah Cate Berry](/ancestors/sarah-cate/)
-- [Thomas Person Berry](/ancestors/thomas-person-berry/)
-- [David J. Berry Sr.](/ancestors/david-j-berry-sr/)
-- [William Clarence Berry (NC)](/ancestors/william-clarence-berry-nc/)
+- [Mary Berry](/ancestors/mary-berry/) — married George Waggoner, then James Camp
+- [Robert Berry Jr.](/ancestors/robert-berry-jr/) — married Mary Waggoner; NC → Alabama
+- [John Berry](/ancestors/john-berry/) — married Martha Stepp; NC → Jackson County, GA
+- [Joshua Berry Sr.](/ancestors/joshua-berry-sr/) — married Nancy Ellison; Orange County, NC
+- [Isaac Berry](/ancestors/isaac-berry/) — Orange County, NC
+- [Elizabeth Berry](/ancestors/elizabeth-berry/) — Orange County, NC
+- [Thomas Berry](/ancestors/thomas-berry/) — married Sarah Cate; NC → Tennessee
+- [David J. Berry Sr.](/ancestors/david-j-berry-sr/) — married Mary Blalock; NC → Georgia
+- [William Berry](/ancestors/william-berry/) — married Hannah Cate; NC → Tennessee
+- [Henry Berry](/ancestors/henry-berry/) — Fiddleton Plantation, Orange County, NC
 
 ## Individual Ancestor Pages
 

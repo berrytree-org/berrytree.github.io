@@ -32,8 +32,7 @@ Woodrow and Ora May Berry had five daughters and no sons.
 	<li>LIVING DAUGHTER</li>
 	<li>LIVING DAUGHTER</li>
 </ul>
-<h2><a href="#"><strong>
-</strong></a><strong>Woodrow Wilson Berry was the fourth child of Wiley P. and Ida Wilson Berry</strong></h2>
+<h2><strong>Woodrow Wilson Berry was the fourth child of Wiley P. and Ida Wilson Berry</strong></h2>
 <h3>January 27, 2008</h3>
 CENSUS INFORMATION
 <blockquote>“ Woodrow amd Ora May Berry lived there entire lives In Orange County, and Alamance County, North Carolina”

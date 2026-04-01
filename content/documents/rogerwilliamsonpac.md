@@ -5,7 +5,7 @@ title: "Roger Williamson PAC"
 <h2>Roger Williamson from England and Lower Norfolk County, Virginia</h2>
 <strong>Princess Anne County was formed from part of Lower Norfolk County Virginia in 1651</strong>
 
-<a> John Williamson PARENTS of Roger Williamson are unknown. The parents of Ann Foster were Richard Foster and Ann. Ann had a brother Richard Foster</a>
+ John Williamson PARENTS of Roger Williamson are unknown. The parents of Ann Foster were Richard Foster and Ann. Ann had a brother Richard Foster
 
 <b>On </b><span><b>June</b></span><b> 5 1746 ROGER WILLIAMSON married ANN FOSTER</b>
 Ann Foster was born in England in 1620 and died in Princess Ann County, Virginia around 1692. Roger Williamson died about 1650 and his wife, Ann Foster Williamson remarried. Her new husband was John Carroway who came to America with his good friend  Roger Williamson. It is unknown if Ann Foster married Roger Williamson in England or America. All three came to America about 1640. This was about 33 years after the London Company first settled in Jamestown Virginia. John and Ann Foster Williamson had three children. Ann Foster Williamson and John Carroway also had three children.
@@ -35,4 +35,4 @@ Children of John  and Ann Foster Williamson Carroway:
 
  
 
-<a href="/documents/rogerwilliamsonpac/">Return to top of Page</a>
+<a href="#">Return to top of Page</a>

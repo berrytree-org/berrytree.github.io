@@ -29,4 +29,4 @@ Vera Mae Westbrooks was born in Piedmont, Calhoun Alabama on Her Parents were R
 
 <a href="/images/william-thomas-maners-death-certificate.jpg"><img class="alignnone size-full wp-image-5402" src="/images/william-thomas-maners-death-certificate.jpg" alt="William Thomas Maners Death Certificate" width="916" height="787" /></a>
 
-<a href="/documents/william-thomas-maners/">Return to top of Page</a>
+<a href="#">Return to top of Page</a>

@@ -1,178 +1,123 @@
 ---
 title: "John and Martha Stepp Berry"
-weight: 4
+weight: 3
+bookToc: true
 ---
 
-## John Berry is the son of Robert and Elizabeth Cate Berry
+<div class="ancestor-page">
 
-[
+{{< breadcrumb trail="Home|/|Ancestors|/ancestors/|Family Lines|/family-lines/|John Berry" >}}
 
-![John Berry Martha Stepp](/images/john-berry-martha-stepp.jpg)
+{{< ancestor-chain gen3="John Berry × Martha Stepp" loc3="Person County, NC → Jackson County, GA" link3="/ancestors/john-berry/" />}}
 
-](/images/john-berry-martha-stepp.jpg)
+{{< ancestor-profile
+  name="John Berry"
+  gen="3"
+  born="c. 1762, Orange County, North Carolina"
+  died="December 21, 1803, Jackson County, Georgia"
+  spouse="Martha Stepp — married September 16, 1793, Person County, NC"
+  parents="Robert Berry and Elizabeth Cate, Orange County, NC"
+  image="/images/john-berry-martha-stepp.jpg"
+  caption="John Berry and Martha Stepp marriage bond, Person County, North Carolina"
+>}}
 
-**JOHN BERRY** was found by a fellow researcher sometime before 2004 in a Book “GEORGIA INTESTATE RECORDS” By Jeanette Holland Auston, Genealogical Publishing Company., Inc. Baltimore 1986. In this publication it states that John Berry left 5 orphan children by the names of Joshua, Robert, Polly (Mary), Betsie (Elizabeth), and William Berry. . Polly is a nickname for Mary and Betsy is a nickname for Elizabeth. John Berry had five siblings with the same identical names which led us to believe that John was the son of Robert and Elizabeth Cate Berry from Orange County. North Carolina. All of our family  researchers at the time felt that this was a true fact. It might have been simpler if another family had not already claimed that John and Martha Berry were from their clan of Berry’s. I even located one of the descendants in their line about this. She assured me that her information was correct. It was not until I located the Marriage Bond shown above in some Person County, North Carolina  Records that I knew for sure we had been correct all along. The marriage bond in Person County had misspelled John’s surname. Robert and Elizabeth Cate Berry’s Homestead is less than a mile from the Person County line and Elizabeth Cate’s father had a plantation in that county.
+## The Story of John Berry
 
-Additional Proof: Joshua Stepp listed as head of household in the 1800 Person County, North Carolina, census. There were nine members of the Stepp remaining at home.
+John Berry was found by a fellow researcher sometime before 2004 in the book *Georgia Intestate Records* by Jeanette Holland Austin (Genealogical Publishing Company, Inc., Baltimore, 1986). The publication states that John Berry left **five orphan children** by the names of Joshua, Robert, Polly (Mary), Betsie (Elizabeth), and William Berry.
 
- John and Martha Stepp Berry named their first two sons Joshua after her father and Robert after John’s father.
+John Berry had five siblings with the same identical names, which led researchers to believe that John was the son of Robert and Elizabeth Cate Berry from Orange County, North Carolina. All of the family researchers at the time felt this was correct — but it might have been simpler if another family had not already claimed that John and Martha Berry were from their clan of Berrys.
 
-We have recently located a descendant of the orphan, William Berry, and his wife Sarah Nelson. Shelby Dale Berry (deceased) took  a DNA test and matched our Robert Berry (OC) Y-DNA  participants. Archival data traces this line back to John and Martha Stepp Berry This test provided positive proof that John Berry who died in Jackson County, Georgia, was indeed the son of Robert and Elizabeth Cate Berry from Orange County, North Carolina.
+### The Proof
 
-### **Census Information:                                                                                                             **We have no known census information for John Berry in Georgia.                                        Birth:Jan., 1862 Death:Dec. 21, 1803
+It was not until the marriage bond shown above was located in Person County, North Carolina records that the connection was confirmed. The marriage bond had misspelled John's surname. Robert and Elizabeth Cate Berry's homestead is less than a mile from the Person County line, and Elizabeth Cate's father had a plantation in that county.
 
-Benjamin Camp was appointed Guardian of John and Martha Stepp Berry’s five orphan children by the Jackson County, Georgia court. Apparently Benjamin Camp died between the time he appointed Guardian and  when his wife Mary Camp listed as head of household in the 1820 Jackson County, Georgia Census shown below.
+**Additional proof:** Joshua Stepp listed as head of household in the 1800 Person County, North Carolina census. There were nine members of the Stepp family remaining at home. John and Martha named their first two sons Joshua (after her father) and Robert (after John's father).
 
-**August 7 1820 Jackson County, Georgia, Mary Camp Head of household  **
+### DNA Confirmation
 
-[
+A descendant of the orphan William Berry — **Shelby Dale Berry** (deceased) — took a DNA test and **matched the Robert Berry (OC) Y-DNA participants**. Archival data traces this line back to John and Martha Stepp Berry. This test provided positive proof that John Berry, who died in Jackson County, Georgia, was indeed the son of Robert and Elizabeth Cate Berry from Orange County, North Carolina.
 
-![Mary Camps 1820 census_edited-1](/images/mary-camps-1820-census_edited-1.jpg)
+### Death and the Orphan Children
 
-](/images/mary-camps-1820-census_edited-1.jpg)
+John Berry died on **December 21, 1803**, in Jackson County, Georgia. He died intestate (without a will), leaving five young children.
 
-Mary Camps Listing:1 male 10 -15 (William age 11) 1 male 16 – 26 (Joshua age 23) 2 females between 16 – 26 ( Polly and Betsy) 1 female over 45 (Mary Camp)
+**Benjamin Camp** was appointed guardian of John and Martha Stepp Berry's five orphan children by the Jackson County, Georgia court. Benjamin Camp apparently died between the time he was appointed guardian and the 1820 census, when his wife **Mary Camp** listed as head of household in Jackson County, Georgia.
 
-**August 7 1820 Jones County, Georgia, Capt Philips District**
+---
 
-**Robert M. Berry**
+<h2 class="ancestor-section">Children of John Berry and Martha Stepp</h2>
 
-[
+John and Martha had five children. After John's death in 1803, the children were raised under the guardianship of Benjamin Camp in Jackson County, Georgia.
 
-![Robert Berry 1820 Jones County GA](/images/robert-berry-1820-jones-county-ga.jpg)
+<ol class="children-list">
 
-](/images/robert-berry-1820-jones-county-ga.jpg)
+<li class="child-entry">
+  <div class="child-name">1. Polly Berry (Mary)</div>
+  <div class="child-dates">Born c. 1793</div>
+  <div class="child-details">Listed in Mary Camp's 1820 Jackson County, Georgia census as a female between 16 and 26 years old.</div>
+</li>
 
-Robert Berry was listed as being between 26 and 44 and his wife was also listed between 26 and 44. They  had two daughters under 10 years old. Robert Berry may be the male missing in Mary Camps 1820 Jackson County Census. John and Martha Berry had a son named Robert Berry would have been about 22 or 23 years old in 1820
+<li class="child-entry">
+  <div class="child-name">2. Betsie Berry (Elizabeth)</div>
+  <div class="child-dates">Born c. 1795</div>
+  <div class="child-details">Listed in Mary Camp's 1820 Jackson County, Georgia census as a female between 16 and 26 years old.</div>
+</li>
 
-{{< ancestor-chain gen3="John Berry × Martha Stepp" loc3="Person County NC → Jackson County GA" link3="/ancestors/john-berry/" />}}
+<li class="child-entry">
+  <div class="child-name">3. Joshua Berry</div>
+  <div class="child-dates">Born 1797</div>
+  <div class="child-details">Named after Martha's father, Joshua Stepp. Listed in Mary Camp's 1820 census as a male 16–26.</div>
+</li>
 
-<div class="gen gen-3"><span class="gen-label">Gen 3</span> John Berry married **Martha Stepp**  Sep. 17, 1793</div>
+<li class="child-entry">
+  <div class="child-name">4. Robert Berry</div>
+  <div class="child-dates">Born 1798</div>
+  <div class="child-details">Named after John's father, Robert Berry. May be the Robert M. Berry found in the 1820 Jones County, Georgia census (listed as age 26–44 with wife and two daughters under 10).</div>
+</li>
 
-**———–John & Martha Berry’s 5 Children:**
+<li class="child-entry">
+  <div class="child-name">5. William Berry</div>
+  <div class="child-dates">Born 1802 or 1804 — Died 1881</div>
+  <div class="child-details">Married <strong>Sarah Nelson</strong> (1805–1883). Listed in the 1820 census as a male 10–15 living in Mary Camp's household. William and Sarah had many children and settled in Fayette County, Alabama. A descendant, <strong>Shelby Dale Berry</strong>, provided the DNA match that confirmed John Berry's parentage. William Berry is buried at <a href="http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=49919744">Find A Grave</a>.</div>
+</li>
 
-<div class="gen gen-4"><span class="gen-label">Gen 4</span> Polly Berry (short for Mary)              born about 1793</div>
+</ol>
 
-<div class="gen gen-4"><span class="gen-label">Gen 4</span> Betsie Berry  (short for Elizabeth)   born about 1795</div>
+---
 
-<div class="gen gen-4"><span class="gen-label">Gen 4</span> Joshua Berry born 1797</div>
+<h2 class="ancestor-section">Census Records</h2>
 
-<div class="gen gen-4"><span class="gen-label">Gen 4</span> Robert Berry  born  1798</div>
+{{< census-summary summary="No census has been found for John Berry in Georgia — he died in 1803 before the next census. His orphaned children appear in guardian Mary Camp's 1820 Jackson County, Georgia census." >}}
 
-<div class="gen gen-4"><span class="gen-label">Gen 4</span> William Berry born 1804</div>
+**Mary Camp's 1820 Household — Jackson County, Georgia (August 7, 1820):**
 
-<div class="gen gen-4"><span class="gen-label">Gen 4</span> [William Berry (1804 – 1881)](http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=49919744)</div>
+<div class="photo-feature">
+  <a href="/images/mary-camps-1820-census_edited-1.jpg">
+    <img src="/images/mary-camps-1820-census_edited-1.jpg" alt="Mary Camp's 1820 Jackson County, Georgia census showing John Berry's orphan children" />
+  </a>
+  <div class="photo-caption">Mary Camp's 1820 Jackson County, Georgia census — 1 male 10–15 (William, age 11), 1 male 16–26 (Joshua, age 23), 2 females 16–26 (Polly and Betsy), 1 female over 45 (Mary Camp)</div>
+</div>
 
-**            + **[Sarah *Nelson* Berry (1805 – 1883)](http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=49919695)Children:
+**Robert M. Berry's 1820 Household — Jones County, Georgia (August 7, 1820):**
 
-<div class="gen gen-5"><span class="gen-label">Gen 5</span> [Sentha *Berry* Dobbs (1844 – 1899)](http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=52801146)*</div>
+<div class="photo-feature">
+  <a href="/images/robert-berry-1820-jones-county-ga.jpg">
+    <img src="/images/robert-berry-1820-jones-county-ga.jpg" alt="Robert Berry 1820 Jones County, Georgia census" />
+  </a>
+  <div class="photo-caption">Robert Berry was listed as 26–44 years old with a wife of similar age and two daughters under 10. Robert Berry may be the male missing from Mary Camp's 1820 Jackson County census — John and Martha Berry's son Robert would have been about 22 or 23 in 1820.</div>
+</div>
 
-- ——–[**Gen 5** Nancy *Berry* Brazil (1825 – 1906)](http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=48920526)*
+**William Berry's Line — 1850 Fayette County, Alabama Census (November 22, 1850):**
 
-<div class="gen gen-5"><span class="gen-label">Gen 5</span> [William Berry (1842 – 1913)](http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=49919734)</div>
+Dwelling 354: BERRY, Wm., 49, male, farmer, born Louisiana. BERRY, Sarah [Nelson], 35, female, born Louisiana. Children: Silvester (19), Elizabeth (17), Henry (12), Robert (11), Cintha (9), William (7), Joshua (5), Sarah (3), William (1).
 
-<div class="gen gen-5"><span class="gen-label">Gen 5</span> [Joshua Berry (1844 – 1862)](http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=47103218)</div>
+---
 
-<div class="gen gen-5"><span class="gen-label">Gen 5</span> [Wilburn Tarplin Berry (1850 – 1926)](http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=74168917)</div>
+<div class="tree-link">
+  <a href="/family-lines/john-berry-family-tree/">
+    View the Full John Berry Family Tree
+    <span class="tree-link-sub">Five orphan children and their descendants — confirmed by DNA evidence</span>
+  </a>
+</div>
 
-<div class="gen gen-5"><span class="gen-label">Gen 5</span> Sylvester V. Berry (1832 – 1903)</div>
-
-<div class="gen gen-6"><span class="gen-label">Gen 6</span> [Matilda Jane *Berry* Canterbury (1854 – 1931)](http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=42194340)*</div>
-
-<div class="gen gen-6"><span class="gen-label">Gen 6</span> [Henry B. Berry (1858 – 1942)](http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=42227040)*</div>
-
-<div class="gen gen-6"><span class="gen-label">Gen 6</span> [Ulysses L Berry (1872 – 1953)](http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=26117641)*</div>
-
-<div class="gen gen-6"><span class="gen-label">Gen 6</span> [Lee Staten Berry (1876 – 1935)](http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=42227343)</div>
-
-- **————–Gen6  **[John N. Berry (1823 – 1877)](http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=48920424)
-
-<div class="gen gen-6"><span class="gen-label">Gen 6</span> [William Sanford Berry (1858 – 1922)](http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=62957167)*</div>
-
-**November 22 1850 Fayette County Alabama Census**
-
-DWELLING 354
-————————–
-Gen 4 BERRY, Wm., 49,m, w, farmer, La.
-Gen 4 BERRY, Sarah [NELSON], 35, f, w, La.
-Gen 5 BERRY, Silvester, 19, m, w, farmer, Ala.
-Gen 5 BERRY, Elizabeth, 17, f, w, Ala.
-Gen 5 BERRY, Henry, 12, m, w, Ala
-Gen 5 BERRY, Robt., 11, m, w, Ala.
-Gen 5 BERRY, Cintha, 9, f, w, Ala.
-Gen 5 BERRY, William, 7, m, w, Ala
-Gen 5 BERRY, Joshua, 5, m, w, Ala.
-Gen 5 BERRY, Sarah, 3, f, w, 11
-Gen 5 BERRY, William, 1, m, w, Ala.
-—————————
-DWELLING 355
-—————————
-JOHNSON, Sarah R. [REDMAN], 38, f, w, La.?/Ga.?
-JOHNSON, Thomas, 20, m, w, farmer, Ala.
-JOHNSON, George, 16, m, w, farmer, Ala.
-JOHNSON, Sarah, 14, f, w, Ala.
-JOHNSON, Nancy, 11, f, w, Ala.1860 US CENSUS
-Fayette P. O., East District, Fayette County, Alabama
-Page No. 53
-June 23, 1860
-—————————Sylvester BERRY.He was born in Alabama, a son of William BERRY and Sarah NELSON.He married Sarah Redman JOHNSON of Fayette County, Alabama. FAMILY HISTORY THROUGH CENSUS RECORDS 1850 US CENSUS
-Division 15, Fayette County, Alabama
-Nov. 22, 1850
-DWELING 346/FAMILY 348
-—————————
-Gen 5 BERRY, Sylvester, 28, m, w, farmer, Ala.
-            + Sarah [JOHNSON], 23, f, w, Ala
-Gen 6 BERRY, James, 7, m, w, Ala.
-Gen 6 BERRY, Jane, 6, f, w, Ala.
-Gen 6 BERRY, Wm. 4, m, w, Ala.
-Gen 6 BERRY, Henry, 1, m, w, Ala.1870 US CENSUS
-Savannah P. O., 4th Civil District, Hardin County, Tennessee
-Page No. 18 & 19
-June 10, 1870
-————————
-DWELLING 131/FAMILY 128
-————————
-Gen 5 BERRY, Sylvester, 38, m, w, works on farm, Alabama
-+ Sarah [JOHNSON], 36, f, w, keeping house, Alabama
-Gen 6 BERRY, James, 18, m, w, works on farm, Alabama
-Gen 6 BERRY, Jane, 16, f, w, Alabama
-Gen 6 BERRY, William, 13, m, w, works on farm, Alabama
-Gen 6 BERRY, Henry, 12, m, w, works on farm, Alabama
-Gen 6 BERRY, George W., 9, m, w, Alabama
-Gen 6 BERRY, Emily 7, f, w, Alabama1880 US CENSUS
-Precinct 2, Red River County, Texas
-Page No. 34-B
-June 23, 1880
-————————–
-DWELLING 290/FAMILY 290
-————————–
-Gen 5 BERRY, Sylvester, w, m, 48, married farmer, Ala., Ga., Ala.
-            + BERRY, Sarah [JOHNSON], w, f, 36, wife, married, keeping house, Ala, Ga., Ga.
-Gen 6 BERRY, Geo. W., w, m, 20, son, single, laborer, Ala., Ala., Ala.
-Gen 6 BERRY, Emma F., w, f, 16, daughter, single, Ala., Ala., Ala.
-Gen 6 BERRY, John F., w, m, 9, son, single, Tenn., Ala., Ala.
-Gen 6 BERRY, Ulysses, w, m, 7, son, single, Tenn., Ala., Ala.
-Gen 6 BERRY, Lee S., w, m, 3, son, single, Texas, Ala., Ala.
-Gen 6 BERRY, William S., w, m, 23, widow, laborer, Ala., Ala., Ala
-Gen 6 BERRY, Conly, w, m, 4, son, single, Texas, Ala., Miss.
-Gen 6 BERRY, Alvary, w, m, 2, son, single, Texas, Ala., Miss.1900 US CENSUS
-Township 2 North, Range 4 East, Chickasaw Nation, Indian Territory
-June 23, 1900
-————————-
-DWELLIING 294/FAMILY 310
-————————-
-Gen 5 BERRY, Sylvester B., head, w, m, Jan 1840, 70, married 50 years, Alabama, Georgia, Georgia, farmer
-         + BERRY, Sarah R. [JOHNSON], wife, w, f, Feb. 1834, 66, married 50 years, 10 children, 7 living, Alabama, Alabama, Alabama
-JOHNSON, Frances, Nephew, w, m, Aug. 1858, 41, single, Alabama, Alabama, Alabama, farmer SOURCE:
-Texas Certificate of Death
-Heritage Quest Online Family links:
-Parents:
-Record added: Jul 17, 2008
-Find A Grave Memorial# 28339491Gen 6 Ulysses Berry                                                                                                                                +Annie May Watson                                                                                                                    Gen 7 Sherman Berry                                                                                                                 Gen 7 Earl Berry                                                                                                                         Gen 7 Rosco Berry                                                                                                                                   + Ida Myrle Ellis                                                                                                                           Gen 8 Shelby Dale Berry                                                                                                                        +Dorothy Louis Lewis                                                                                       Gen 7 Agnes Berry                                                                                                                     Gen 7 Carl Berry                                                                                                                         Gen 7 Arnell Berry                                                                                                                     Gen 7 Hazel Berry
-
-| ****   ****   ****[](http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=28339491)   ****   ****   ****   ****   ****   ****   ****   ****                                    ********               ****[](http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=28339491)   ****   ****   ****[](http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=42194340)   ****   ****[](http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=42227040)                     ****[](http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=28339491)      ****   ****[](http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=42194340)   ****   ****[](http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=42227040)   ****   ****                     ****[](http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=28339491)   ****   ****   ****   ****   ****   ****[](http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=42227343)   ****   ****   ****                  ****[](http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=28339491)   ****                  ********************[](/ancestors/shelby-dale-berry/)**************** |
-| --- |
-
-[Back to Top](index.html#)
-
-##### Last Updated:February 4, 2015, Updated  11/4/2015, Updated 1/8/2016
+</div>
