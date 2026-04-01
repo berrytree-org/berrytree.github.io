@@ -245,11 +245,11 @@ weight: 4
 
 - [John Martin Berry Ga](/ancestors/johnmartinberryga/)
 
-- [John R Berry Fiddleton Map](/ancestors/johnrobertberry/)
+- [John R Berry Fiddleton Map](/ancestors/john-robert-berry/)
 
-- [John Robert and Elizabeth Berry’s Children](/ancestors/jrbchildren/)
+- [John Robert and Elizabeth Berry’s Children](/ancestors/john-robert-berry/)
 
-- [John Robert Berry’s Family History](/ancestors/john-robert-berrys-family-history/)
+- [John Robert Berry’s Family History](/ancestors/john-robert-berry/)
 
 - [John W. Berry NC](/ancestors/johnberryncjrbson/)
 

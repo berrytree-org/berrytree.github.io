@@ -43,7 +43,7 @@ CHILDREN of the first Marriage
 
 - Willie Berry b. 1838 d. Unknown
 
-- [John Robert Berry](/ancestors/john-robert-berry-family-history/) b.25 September 1842 d.10 Oct 1917
+- [John Robert Berry](/ancestors/john-robert-berry/) b.25 September 1842 d.10 Oct 1917
 
 
 - James P. Berry b. Apr 1847 d.15 Feb 1912

@@ -9,7 +9,7 @@ title: "Ada Lee Berry NC"
 	<li>Generation  <a title="Robert" href="/ancestors/robert/">Robert and Elizabeth Cate Berry</a>, Orange County, North Carolina.</li>
 	<li>Generation  <a title="William" href="/ancestors/william/">William and Hannah Cate Berry</a>, Orange County, North Carolina.</li>
 	<li>Generation  <a title="Thomas Person Berry" href="/ancestors/thomaspersonberry/">Thomas Person and Sarah Lunsford Berry</a>, Orange County, North Carolina.</li>
-	<li>Generation  <a title="John Robert Berry" href="/ancestors/johnrobertberry/">John Robert and Elizabeth Francis Bowling Berry</a>, Orange County, North Carolina.</li>
+	<li>Generation  <a title="John Robert Berry" href="/ancestors/john-robert-berry/">John Robert and Elizabeth Francis Bowling Berry</a>, Orange County, North Carolina.</li>
 </ol>
 <strong>Ada Lee Berr</strong><strong>y </strong> was born July 11th 1875. On Sept 1, 1895 she married William Jackson Rogers. William J. Rogers was born in Granville County, NC on October 10th 1864. He was the son <a href="/images/jrberrychildren640large.jpg"><img class=" alignleft wp-image-1471 size-thumbnail" src="/images/jrberrychildren640large.jpg" alt="jrberrychildren640large" width="150" height="150" /></a>of William Clinton Rogers and Rachel <strong>Starke</strong> Holeman.
 

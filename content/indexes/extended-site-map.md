@@ -1051,7 +1051,7 @@ Generation 3 Robert and Elizabeth Everitt Berry Berry
 
 Generation 4 Isaac...
 
-### [John R Berry Fiddleton Map](/ancestors/johnrobertberry/)
+### [John R Berry Fiddleton Map](/ancestors/john-robert-berry/)
 John Robert Berry, son of Thomas Person and Sarah Lunsford Berry1891 Fiddleton Map has been added  to this page 
  
 Ancestors:  
@@ -1059,7 +1059,7 @@ Generation 1 Robert and Mary Williamson Berry
 Generation 2 Robert and Elizabeth Cate Berry  
 Generation 3 William and Hannah ...
 
-### [John Robert and Elizabeth Berry's Children](/ancestors/jrbchildren/)
+### [John Robert and Elizabeth Berry's Children](/ancestors/john-robert-berry/)
 John Robert and Elizabeth Frances Berry's Children 
 CHILDREN 
 
@@ -1067,7 +1067,7 @@ CHILDREN
 SPOUSE: John Sanders Berry born Jan. 1, 1859 died Mar. 1, 1938   
  	2  Cora D. Berry  born Jan. 14, 1868 died...
 
-### [John Robert Berry's Family History](/ancestors/john-robert-berrys-family-history/)
+### [John Robert Berry's Family History](/ancestors/john-robert-berry/)
 
  	Great Great Grandparents - Robert and Mary Williamson Berry  
  	Great Grandparents - Robert and Elizabeth Cate Berry  

@@ -20,7 +20,7 @@ title: "John R Berry Fiddleton Map"
 <h3>1891 Map of Berry's Grove and Fiddleton in N. Orange County, NC</h3>
 <figure><a href="/ancestors/fiddleton-1891/"><img class="wp-image-9704 size-medium" src="/images/Map_of_Orange_County__NC-Fiddleton-Circa-1890-300x287.jpg" alt="" width="300" height="287" /></a> Fiddleton Homestead, J R Berry Home and Berry's Grove Baptist Church circa 1891</figure>
 <p>Why is this map with the name Fiddleton important? Robert Berry acquired his plantation in Orange County North Carolina in 1751 and apparently named his plantation Fiddleton. There is a Fittleton Wiltshire England West of London. This is a strong indication  that Robert Berry's ancestors probably lived there.</p>
-<h2><a title="John Robert Berry’s Family History" href="/ancestors/john-robert-berrys-family-history/">John Robert and Elizabeth Berry's Family</a></h2>
+<h2><a title="John Robert Berry’s Family History" href="/ancestors/john-robert-berry/">John Robert and Elizabeth Berry's Family</a></h2>
 <h3> <strong>Children:</strong></h3>
 <ul>
 <li>Emma G. Berry Nov,1, 1866 - Feb 12, 1945 2 </li>
