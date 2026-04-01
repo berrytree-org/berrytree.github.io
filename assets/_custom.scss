@@ -1479,6 +1479,23 @@ p > strong:first-child {
     }
   }
 
+  &.book-card-featured {
+    padding: 2rem;
+    padding-left: 2.5rem;
+    margin: 0 0 2rem 0;
+    border-color: #d4a843;
+    background: linear-gradient(135deg, darken($forest-dark, 3%), darken($forest-dark, 8%));
+
+    .book-card-cover {
+      width: 180px;
+      padding-left: 16px;  // room for spine pseudo-element
+    }
+
+    .book-card-info h3 {
+      font-size: 1.5rem;
+    }
+  }
+
   @media (max-width: 600px) {
     flex-direction: column;
     text-align: center;
@@ -1486,5 +1503,27 @@ p > strong:first-child {
     .book-card-cover {
       width: 100px;
     }
+
+    &.book-card-featured .book-card-cover {
+      width: 130px;
+    }
+  }
+}
+
+// -- Small 3D book cover for cards --
+.book-cover-wrap-sm {
+  width: 100%;
+  perspective: 600px;
+
+  img {
+    width: 100%;
+    border-radius: 4px 2px 2px 4px;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.4);
+    transform: rotateY(-8deg);
+    transition: transform 0.3s ease;
+  }
+
+  &:hover img {
+    transform: rotateY(-2deg);
   }
 }

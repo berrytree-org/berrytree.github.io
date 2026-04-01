@@ -3,7 +3,25 @@ title: "Books"
 weight: 6
 ---
 
-## Our Berrys in Frontier America
+<div class="book-card book-card-featured">
+  <div class="book-card-cover">
+    <a href="/books/frontier-america/">
+    <div class="book-cover-wrap">
+      <img src="/images/front_page_art.jpg" alt="Our Berrys in Frontier America" />
+    </div>
+    </a>
+  </div>
+  <div class="book-card-info">
+    <h3>Read Online — Free Digital Edition</h3>
+    <p class="book-card-author">Our Berrys in Frontier America — By Benjamin Berry Henderson Sr.</p>
+    <p>Now available as a free digital edition right here on berrytree.org. Nineteen chapters covering all 10 children of Robert & Elizabeth Cate Berry — twenty years of research brought to life. No download required.</p>
+    <a href="/books/frontier-america/" class="book-card-link">Read the Book →</a>
+  </div>
+</div>
+
+---
+
+## Paperback Edition
 
 [![Our Berrys in Frontier America cover](/images/front_page_art.jpg)](https://www.lulu.com/shop/benjamin-henderson/our-berrys-in-frontier-america/paperback/product-1yjjg6q6.html)
 

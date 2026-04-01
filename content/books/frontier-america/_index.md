@@ -64,14 +64,14 @@ Ben passed away on June 6, 2020, at the age of 90. This digital edition is prese
 | **6** | [Joshua Berry 1766–1838](/books/frontier-america/ch06-joshua-berry/) | |
 | **7** | [Isaac Berry 1768–1840](/books/frontier-america/ch07-isaac-berry/) | |
 | **8** | [Elizabeth Berry 1768–1815](/books/frontier-america/ch08-elizabeth-berry/) | |
-| **9** | Thomas Berry 1770–1812 | *coming soon* |
-| **10** | David J. Berry 1774–1838 | *coming soon* |
-| **11** | William Berry 1775–1860 | *coming soon* |
-| **12** | Henry Berry 1776–1858 | *coming soon* |
-| **14** | Thomas Person Berry 1808–1884 | *coming soon* |
+| **9** | [Thomas Berry 1770–1812](/books/frontier-america/ch09-thomas-berry/) | |
+| **10** | [David J. Berry 1774–1838](/books/frontier-america/ch10-david-j-berry/) | |
+| **11** | [William Berry 1775–1860](/books/frontier-america/ch11-william-berry/) | |
+| **12** | [Henry Berry 1776–1858](/books/frontier-america/ch12-henry-berry/) | |
+| **14** | [Thomas Person Berry 1808–1884](/books/frontier-america/ch14-thomas-person-berry/) | |
 | **15** | [John Robert Berry 1842–1917](/books/frontier-america/ch15-john-robert-berry/) | |
 | **16** | [Wiley P. Berry 1869–1965](/books/frontier-america/ch16-wiley-p-berry/) | |
-| **17** | Y-DNA Testing | *coming soon* |
+| **17** | [Y-DNA Testing](/books/frontier-america/ch17-ydna-testing/) | |
 | **18** | [Some Berry Family Stories](/books/frontier-america/ch18-berry-family-stories/) | |
 | **19** | [Berry Brothers Die in GA. 1921](/books/frontier-america/ch19-berry-brothers/) | |
 
