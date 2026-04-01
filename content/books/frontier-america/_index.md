@@ -60,10 +60,10 @@ Ben passed away on June 6, 2020, at the age of 90. This digital edition is prese
 | **2** | [Robert Berry 1729–1814](/books/frontier-america/ch02-robert-berry/) | |
 | **3** | [Mary Berry 1757–1800](/books/frontier-america/ch03-mary-berry/) | |
 | **4** | [Robert Berry Jr. 1760–1850](/books/frontier-america/ch04-robert-berry-jr/) | |
-| **5** | John Berry 1762–1804 | *coming soon* |
-| **6** | Joshua Berry 1766–1838 | *coming soon* |
-| **7** | Isaac Berry 1768–1840 | *coming soon* |
-| **8** | Elizabeth Berry 1768–1815 | *coming soon* |
+| **5** | [John Berry 1762–1804](/books/frontier-america/ch05-john-berry/) | |
+| **6** | [Joshua Berry 1766–1838](/books/frontier-america/ch06-joshua-berry/) | |
+| **7** | [Isaac Berry 1768–1840](/books/frontier-america/ch07-isaac-berry/) | |
+| **8** | [Elizabeth Berry 1768–1815](/books/frontier-america/ch08-elizabeth-berry/) | |
 | **9** | Thomas Berry 1770–1812 | *coming soon* |
 | **10** | David J. Berry 1774–1838 | *coming soon* |
 | **11** | William Berry 1775–1860 | *coming soon* |
