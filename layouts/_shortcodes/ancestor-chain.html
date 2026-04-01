@@ -1,0 +1,38 @@
+{{/*
+  ancestor-chain shortcode
+  Renders the standard Gen 1 / Gen 2 / Gen 3 ancestor preamble
+  used at the top of every family tree page.
+
+  Parameters:
+    gen3  (string)  — Gen 3 couple, e.g. "Thomas Berry × Sarah Cate"
+    loc3  (string)  — Gen 3 location, e.g. "Orange County, NC → Tennessee"
+    link3 (string)  — optional URL for Gen 3 subject
+
+  Usage:
+    {{< ancestor-chain gen3="Thomas Berry × Sarah Cate" loc3="Orange County, NC → Tennessee" />}}
+    {{< ancestor-chain gen3="David J. Berry × Mary Blalock" loc3="Orange County, NC → Fayette County, GA" link3="/ancestors/david-j-berry-sr/" />}}
+*/}}
+<div class="ancestor-chain">
+  <div class="ancestor-line">
+    <span class="gen-label">Gen 1</span>
+    <a href="/ancestors/robert-berry-pac/">Robert Berry × Mary Williamson</a>
+    — Princess Anne County, Virginia
+  </div>
+  <div class="ancestor-line">
+    <span class="gen-label">Gen 2</span>
+    <a href="/ancestors/robert-berry-oc/">Robert Berry × Elizabeth Cate</a>
+    — Orange County, North Carolina
+  </div>
+  {{- if .Get "gen3" }}
+  <div class="ancestor-line">
+    <span class="gen-label">Gen 3</span>
+    {{- if .Get "link3" -}}
+      <a href="{{ .Get "link3" }}">{{ .Get "gen3" }}</a>
+    {{- else -}}
+      {{ .Get "gen3" }}
+    {{- end -}}
+    {{- if .Get "loc3" }} — {{ .Get "loc3" }}{{ end }}
+  </div>
+  {{- end }}
+  {{- .Inner -}}
+</div>
