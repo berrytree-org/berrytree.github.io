@@ -51,28 +51,6 @@ Robert Berry's Listing:
 
 	Isaac B...
 
-### [1800-1899 Timeline](/ancestors/1800-1899-timeline/)
-
-Click the year to jump to  
- 
- 
-
-1820  
-1840  
-1860   
-1880  
- 
- 
- 
-1800  Orange County second United State Census was taken this year.
-1800  On October 14th, 1800, Robert Berry sold 200 acres of land to his neighbor,
-William Armstrong....
-
-### [1810](/ancestors/1810-2/)
- 
-
-1810  Robert Berry Jr. did not list in Orange County North Carolina Census this year. Robert Berry Jr. had moved to Person County, North Carolina, and listed there in 1810. He and his family moved to Fayette County Aabama and he and George ...
-
 ### [1810 Hannah Cate Census](/ancestors/1810-hannah-cate-census/)
 Hannah Cate Berry and Robert Berry Sr. Shared 1810 Orange County, North Carolina census Page
 
@@ -80,22 +58,6 @@ Hannah Cate Berry's Listing
 
 	Male age 9; David ll Berry, Thomas and Sarah Cate Berry's son. 
 	Male age 7; William Clarence Berry, William and Hannah Cat...
-
-### [1900-1999 Timeline](/ancestors/1900-1999-timeline/)
-
-Click the year to jump to  
- 
- 
-
-1910  
-1940  
- 
- 
- 
-1900  Cora S. Berry was born on May 26 in Orange County, NC.
-Parents: John Saunders and Emma Berry.
-1900  Willie Adolphus Berry married Fannie Bennett Hall on June3rd in
-Orange County,...
 
 ### [2000-Present Timeline](/timelines/2000-present-timeline/)
 2002  Sally Malena Berry died on March 19. She was the daughter of W.P. Berry Sr. and Ida Ann Wilson Berry.
