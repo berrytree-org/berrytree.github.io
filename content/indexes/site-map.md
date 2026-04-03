@@ -11,13 +11,7 @@ weight: 4
 
 - [1800 Orange County NC Census](/ancestors/1800-orange-county-nc-census/)
 
-- [1800-1899 Timeline](/ancestors/1800-1899-timeline/)
-
-- [1810](/ancestors/1810-2/)
-
 - [1810 Hannah Cate Census](/ancestors/1810-hannah-cate-census/)
-
-- [1900-1999 Timeline](/ancestors/1900-1999-timeline/)
 
 - [2000-Present Timeline](/timelines/2000-present-timeline/)
 

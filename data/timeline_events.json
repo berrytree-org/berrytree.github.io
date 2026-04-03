@@ -2105,6 +2105,23 @@
     ]
   },
   {
+    "year": 1810,
+    "year_display": "1810",
+    "event": "Josiah Berry born in Person County, NC. Parents: Thomas Berry and Mary Berry. Grandson of William Riley and Elizabeth Berry.",
+    "category": "birth",
+    "family_line": "Thomas Berry",
+    "ancestor_links": [
+      {
+        "name": "Thomas Berry",
+        "url": "/ancestors/thomasberrync/"
+      },
+      {
+        "name": "Josiah Berry",
+        "url": null
+      }
+    ]
+  },
+  {
     "year": 1811,
     "year_display": "1811",
     "event": "George N. Berry born in Orange County, NC. Parents: David J. and Mary Blalock Berry.",
