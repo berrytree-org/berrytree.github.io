@@ -1,5 +1,6 @@
 ---
 title: "Our Berrys in Frontier America"
+description: "Read Our Berrys in Frontier America online — a free digital edition of Ben Henderson's history of Robert and Elizabeth Cate Berry's ten children across the American frontier."
 weight: 1
 bookToc: false
 bookCollapseSection: false

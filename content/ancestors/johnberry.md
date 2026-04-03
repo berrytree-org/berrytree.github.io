@@ -3,7 +3,7 @@ title: "John and Martha Stepp Berry"
 ---
 
 <h2>John Berry is the son of Robert and Elizabeth Cate Berry</h2>
-<a href="/images/john-berry-martha-stepp.jpg"><img class="alignright wp-image-1652 size-medium" src="/images/John-Berry-Martha-Stepp-300x290.jpg" alt="John Berry Martha Stepp" width="300" height="290" /></a>
+<a href="/images/john-berry-martha-stepp.jpg"><img class="alignright wp-image-1652 size-medium" src="/images/john-berry-martha-stepp.jpg" alt="John Berry Martha Stepp" width="300" height="290" /></a>
 <p><strong>JOHN BERRY</strong> was found by a fellow researcher sometime before 2004 in a Book "GEORGIA INTESTATE RECORDS" By Jeanette Holland Auston, Genealogical Publishing Company., Inc. Baltimore 1986. In this publication it states that John Berry left 5 orphan children by the names of Joshua, Robert, Polly (Mary), Betsie (Elizabeth), and William Berry. . Polly is a nickname for Mary and Betsy is a nickname for Elizabeth. John Berry had five siblings with the same identical names which led us to believe that John was the son of Robert and Elizabeth Cate Berry from Orange County. North Carolina. All of our family  researchers at the time felt that this was a true fact. It might have been simpler if another family had not already claimed that John and Martha Berry were from their clan of Berry's. I even located one of the descendants in their line about this. She assured me that her information was correct. It was not until I located the Marriage Bond shown above in some Person County, North Carolina  Records that I knew for sure we had been correct all along. The marriage bond in Person County had misspelled John's surname. Robert and Elizabeth Cate Berry's Homestead is less than a mile from the Person County line and Elizabeth Cate's father had a plantation in that county.</p>
 <p>Additional Proof: Joshua Stepp listed as head of household in the 1800 Person County, North Carolina, census. There were nine members of the Stepp remaining at home.</p>
 <p> John and Martha Stepp Berry named their first two sons Joshua after her father and Robert after John's father.</p>
@@ -36,21 +36,21 @@ Robert Berry was listed as being between 26 and 44 and his wife was also listed 
 	<li><strong>Gen 4</strong> Robert Berry  born  1798</li>
 	<li><strong>Gen 4</strong> <span>William Berry born 1804</span></li>
 </ul>
-<strong>Gen 4 </strong><a href="http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=49919744">William Berry (1804 - 1881)</a>
-<strong>            + </strong><a href="http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=49919695">Sarah <em>Nelson</em> Berry (1805 - 1883)</a>Children:
+<strong>Gen 4 </strong><a href="https://www.findagrave.com/memorial/49919744">William Berry (1804 - 1881)</a>
+<strong>            + </strong><a href="https://www.findagrave.com/memorial/49919695">Sarah <em>Nelson</em> Berry (1805 - 1883)</a>Children:
 <ul>
-	<li><strong>--------Gen 5</strong> <a href="http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=52801146">Sentha <em>Berry</em> Dobbs (1844 - 1899)</a>*</li>
-	<li>--------<a href="http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=48920526"><strong><span>Gen</span> 5</strong> Nancy <em>Berry</em> Brazil (1825 - 1906)</a>*</li>
-	<li><strong>--------Gen 5  </strong><a href="http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=49919734">William Berry (1842 - 1913)</a></li>
-	<li><strong>--------Gen 5 </strong><a href="http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=47103218">Joshua Berry (1844 - 1862)</a></li>
-	<li><strong>--------Gen 5  </strong><a href="http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=74168917">Wilburn Tarplin Berry (1850 - 1926)</a></li>
+	<li><strong>--------Gen 5</strong> <a href="https://www.findagrave.com/memorial/52801146">Sentha <em>Berry</em> Dobbs (1844 - 1899)</a>*</li>
+	<li>--------<a href="https://www.findagrave.com/memorial/48920526"><strong><span>Gen</span> 5</strong> Nancy <em>Berry</em> Brazil (1825 - 1906)</a>*</li>
+	<li><strong>--------Gen 5  </strong><a href="https://www.findagrave.com/memorial/49919734">William Berry (1842 - 1913)</a></li>
+	<li><strong>--------Gen 5 </strong><a href="https://www.findagrave.com/memorial/47103218">Joshua Berry (1844 - 1862)</a></li>
+	<li><strong>--------Gen 5  </strong><a href="https://www.findagrave.com/memorial/74168917">Wilburn Tarplin Berry (1850 - 1926)</a></li>
 	<li><strong>--------Gen 5 </strong>Sylvester V. Berry (1832 - <span>1903)</span></li>
-	<li><strong>--------------Gen 6 </strong><a href="http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=42194340">Matilda Jane <em>Berry</em> Canterbury (1854 - 1931)</a>*</li>
-	<li><strong>--------------Gen 6 </strong><a href="http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=42227040">Henry B. Berry (1858 - 1942)</a>*</li>
-	<li><strong>--------------Gen 6  </strong><a href="http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=26117641">Ulysses L Berry (1872 - 1953)</a>*</li>
-	<li><strong>--------------Gen 6 </strong><a href="http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=42227343">Lee Staten Berry (1876 - 1935)</a></li>
-	<li><strong>--------------Gen6  </strong><a href="http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=48920424">John N. Berry (1823 - 1877)</a></li>
-	<li><strong>--------------Gen 6 </strong><a href="http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=62957167">William Sanford Berry (1858 - 1922)</a>*</li>
+	<li><strong>--------------Gen 6 </strong><a href="https://www.findagrave.com/memorial/42194340">Matilda Jane <em>Berry</em> Canterbury (1854 - 1931)</a>*</li>
+	<li><strong>--------------Gen 6 </strong><a href="https://www.findagrave.com/memorial/42227040">Henry B. Berry (1858 - 1942)</a>*</li>
+	<li><strong>--------------Gen 6  </strong><a href="https://www.findagrave.com/memorial/26117641">Ulysses L Berry (1872 - 1953)</a>*</li>
+	<li><strong>--------------Gen 6 </strong><a href="https://www.findagrave.com/memorial/42227343">Lee Staten Berry (1876 - 1935)</a></li>
+	<li><strong>--------------Gen6  </strong><a href="https://www.findagrave.com/memorial/48920424">John N. Berry (1823 - 1877)</a></li>
+	<li><strong>--------------Gen 6 </strong><a href="https://www.findagrave.com/memorial/62957167">William Sanford Berry (1858 - 1922)</a>*</li>
 </ul>
 <strong>November 22 1850 Fayette County Alabama Census</strong>
 <table>
@@ -60,7 +60,7 @@ Robert Berry was listed as being between 26 and 44 and his wife was also listed 
 --------------------------
 <strong>Gen 4 </strong>BERRY, Wm., 49,m, w, farmer, La.
 <strong>Gen 4 </strong>BERRY, Sarah [NELSON], 35, f, w, La.
-<strong>Gen 5 </strong><a href="http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=28339491">BERRY, Silvester</a>, 19, m, w, farmer, Ala.
+<strong>Gen 5 </strong><a href="https://www.findagrave.com/memorial/28339491">BERRY, Silvester</a>, 19, m, w, farmer, Ala.
 <strong>Gen 5 </strong>BERRY, Elizabeth, 17, f, w, Ala.
 <strong>Gen 5 </strong>BERRY, Henry, 12, m, w, Ala
 <strong>Gen 5 </strong>BERRY, Robt., 11, m, w, Ala.
@@ -85,24 +85,24 @@ Division 15, Fayette County, Alabama
 Nov. 22, 1850
 DWELING 346/FAMILY 348
 ---------------------------
-<strong>Gen 5 </strong><a href="http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=28339491">BERRY, Sylvester</a>, 28, m, w, farmer, Ala.
+<strong>Gen 5 </strong><a href="https://www.findagrave.com/memorial/28339491">BERRY, Sylvester</a>, 28, m, w, farmer, Ala.
 <strong>            + </strong>Sarah [JOHNSON], 23, f, w, Ala
 <strong>Gen 6 </strong>BERRY, James, 7, m, w, Ala.
-<strong>Gen 6 </strong><a href="http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=42194340">BERRY, Jane</a>, 6, f, w, Ala.
+<strong>Gen 6 </strong><a href="https://www.findagrave.com/memorial/42194340">BERRY, Jane</a>, 6, f, w, Ala.
 <strong>Gen 6 </strong>BERRY, Wm. 4, m, w, Ala.
-<strong>Gen 6 </strong><a href="http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=42227040">BERRY, Henry</a>, 1, m, w, Ala.1870 US CENSUS
+<strong>Gen 6 </strong><a href="https://www.findagrave.com/memorial/42227040">BERRY, Henry</a>, 1, m, w, Ala.1870 US CENSUS
 Savannah P. O., 4th Civil District, Hardin County, Tennessee
 Page No. 18 & 19
 June 10, 1870
 ------------------------
 DWELLING 131/FAMILY 128
 ------------------------
-<strong>Gen 5 </strong><a href="http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=28339491">BERRY, Sylvester</a>, 38, m, w, works on farm, Alabama
+<strong>Gen 5 </strong><a href="https://www.findagrave.com/memorial/28339491">BERRY, Sylvester</a>, 38, m, w, works on farm, Alabama
 + Sarah [JOHNSON], 36, f, w, keeping house, Alabama
 <strong>Gen 6 </strong>BERRY, James, 18, m, w, works on farm, Alabama
-<strong>Gen 6 </strong><a href="http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=42194340">BERRY, Jane</a>, 16, f, w, Alabama
+<strong>Gen 6 </strong><a href="https://www.findagrave.com/memorial/42194340">BERRY, Jane</a>, 16, f, w, Alabama
 <strong>Gen 6 </strong>BERRY, William, 13, m, w, works on farm, Alabama
-<strong>Gen 6 </strong><a href="http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=42227040">BERRY, Henry</a>, 12, m, w, works on farm, Alabama
+<strong>Gen 6 </strong><a href="https://www.findagrave.com/memorial/42227040">BERRY, Henry</a>, 12, m, w, works on farm, Alabama
 <strong>Gen 6 </strong>BERRY, George W., 9, m, w, Alabama
 <strong>Gen 6 </strong>BERRY, Emily 7, f, w, Alabama1880 US CENSUS
 Precinct 2, Red River County, Texas
@@ -111,13 +111,13 @@ June 23, 1880
 --------------------------
 DWELLING 290/FAMILY 290
 --------------------------
-<strong>Gen 5 </strong><a href="http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=28339491">BERRY, Sylvester</a>, w, m, 48, married farmer, Ala., Ga., Ala.
+<strong>Gen 5 </strong><a href="https://www.findagrave.com/memorial/28339491">BERRY, Sylvester</a>, w, m, 48, married farmer, Ala., Ga., Ala.
 <strong>            + </strong>BERRY, Sarah [JOHNSON], w, f, 36, wife, married, keeping house, Ala, Ga., Ga.
 <strong>Gen 6 </strong>BERRY, Geo. W., w, m, 20, son, single, laborer, Ala., Ala., Ala.
 <strong>Gen 6 </strong>BERRY, Emma F., w, f, 16, daughter, single, Ala., Ala., Ala.
 <strong>Gen 6 </strong>BERRY, John F., w, m, 9, son, single, Tenn., Ala., Ala.
 <strong>Gen 6 </strong>BERRY, Ulysses, w, m, 7, son, single, Tenn., Ala., Ala.
-<strong>Gen 6 </strong><a href="http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=42227343">BERRY, Lee S.</a>, w, m, 3, son, single, Texas, Ala., Ala.
+<strong>Gen 6 </strong><a href="https://www.findagrave.com/memorial/42227343">BERRY, Lee S.</a>, w, m, 3, son, single, Texas, Ala., Ala.
 <strong>Gen 6 </strong>BERRY, William S., w, m, 23, widow, laborer, Ala., Ala., Ala
 <strong>Gen 6 </strong>BERRY, Conly, w, m, 4, son, single, Texas, Ala., Miss.
 <strong>Gen 6 </strong>BERRY, Alvary, w, m, 2, son, single, Texas, Ala., Miss.1900 US CENSUS
@@ -126,7 +126,7 @@ June 23, 1900
 -------------------------
 DWELLIING 294/FAMILY 310
 -------------------------
-<strong>Gen 5 </strong><a href="http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=28339491">BERRY, Sylvester B.</a>, head, w, m, Jan 1840, 70, married 50 years, Alabama, Georgia, Georgia, farmer
+<strong>Gen 5 </strong><a href="https://www.findagrave.com/memorial/28339491">BERRY, Sylvester B.</a>, head, w, m, Jan 1840, 70, married 50 years, Alabama, Georgia, Georgia, farmer
 <strong>         + </strong>BERRY, Sarah R. [JOHNSON], wife, w, f, Feb. 1834, 66, married 50 years, 10 children, 7 living, Alabama, Alabama, Alabama
 JOHNSON, Frances, Nephew, w, m, Aug. 1858, 41, single, Alabama, Alabama, Alabama, farmer SOURCE:
 Texas Certificate of Death

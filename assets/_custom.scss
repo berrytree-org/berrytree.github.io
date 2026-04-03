@@ -36,6 +36,16 @@ body {
   line-height: 1.8;
 }
 
+// V13: iOS Safari / mobile — background-attachment: fixed is broken
+// on touch devices (causes zoom/flicker). Fall back to scroll.
+@media (hover: none) and (pointer: coarse) {
+  body {
+    background-attachment: scroll;
+    background-size: cover;
+    background-position: center;
+  }
+}
+
 // =============================================================
 // SIDEBAR ACCESSIBILITY — Kate + Vincent
 // Senior-friendly contrast, sizing, and click targets
@@ -142,6 +152,17 @@ a {
   }
 }
 
+// R15: Link contrast fix for cream content area — WCAG AA 4.5:1
+// $accent-gold (#8a7040) only hits 3.5:1 on cream; darkened to #6b5520 (5.2:1)
+// Scoped to .book-page so sidebar/dark-bg links keep the original gold
+.book-page .markdown a {
+  color: #6b5520;
+
+  &:hover {
+    color: #55440f;
+  }
+}
+
 // -- Tables --
 table {
   border-collapse: collapse;
@@ -182,7 +203,7 @@ blockquote {
   padding: 0.8em 1.2em;
   margin: 1.5em 0;
   font-style: italic;
-  color: $bark-mid;
+  color: #5a4030;  // darkened from $bark-mid (#6b5040) for 4.5:1 contrast
 }
 
 
@@ -264,13 +285,7 @@ code, pre {
   font-size: 0.88em;
 }
 
-// -- Horizontal rules --
-hr {
-  border: none;
-  border-top: 1px solid $forest-mid;
-  margin: 2em 0;
-  opacity: 0.5;
-}
+// (Dead hr rule removed — overridden by leaf divider below)
 
 // =============================================================
 // HOMEPAGE HERO BANNER — Richard's request
@@ -350,7 +365,7 @@ p > strong:first-child {
   background-color: $forest-dark;
   color: $white-soft;
   font-family: 'Cinzel', serif;
-  font-size: 0.7rem;
+  font-size: 0.8rem;
   font-weight: 600;
   letter-spacing: 0.06em;
   padding: 1px 7px;
@@ -498,7 +513,7 @@ p > strong:first-child {
   #menu-control:checked ~ .book-page .book-menu-overlay {
     display: block;
     position: fixed;
-    inset: 0;
+    top: 0; right: 0; bottom: 0; left: 0;
     background: rgba(0,0,0,0.45);
     z-index: 99;
   }
@@ -521,13 +536,6 @@ p > strong:first-child {
 
   .book-menu .book-menu-content {
     background-color: rgba(245, 240, 232, 0.98);
-  }
-}
-
-// Responsive: solid panel on narrow screens (tablet/phone)
-@media (max-width: 56rem) {
-  .book-page {
-    background-color: rgba(245, 240, 232, 0.96);
   }
 }
 
@@ -904,6 +912,46 @@ p > strong:first-child {
   margin: 1.5rem 0;
   text-align: center;
 
+  // V11/R20: Click-to-enlarge affordance for linked images
+  a {
+    position: relative;
+    display: inline-block;
+    cursor: pointer;
+
+    &::after {
+      content: '\1F50D';   // magnifying glass
+      position: absolute;
+      bottom: 12px;
+      right: 12px;
+      font-size: 0.75rem;
+      line-height: 1;
+      opacity: 0.4;
+      transition: opacity 0.2s ease;
+      background: rgba(0, 0, 0, 0.55);
+      color: #fff;
+      border-radius: 50%;
+      width: 26px;
+      height: 26px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      pointer-events: none;
+    }
+
+    &:hover::after {
+      opacity: 0.8;
+    }
+
+    img {
+      transition: transform 0.2s ease, box-shadow 0.2s ease;
+    }
+
+    &:hover img {
+      transform: scale(1.02);
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+    }
+  }
+
   img {
     max-width: 100%;
     height: auto;
@@ -1013,6 +1061,7 @@ p > strong:first-child {
 // Ancestor pages get larger base text
 .ancestor-page {
   font-size: 18px;
+  line-height: 1.85;
 
   // Ensure all links have visible focus indicators (not hover-dependent)
   a:focus {
@@ -1223,6 +1272,7 @@ p > strong:first-child {
 .book-begin {
   text-align: center;
   margin: 2rem 0 1rem;
+  padding-top: 0.5rem;
 
   a, a:link, a:visited {
     display: inline-block;
@@ -1319,12 +1369,9 @@ p > strong:first-child {
         }
       }
 
-      // Coming soon column
+      // Coming soon column — hidden (all chapters now linked)
       &:nth-child(3) {
-        font-style: italic;
-        color: $bark-light;
-        font-size: 0.85rem;
-        width: 6rem;
+        display: none;
       }
     }
 
@@ -1366,6 +1413,8 @@ p > strong:first-child {
     &:hover, &:focus {
       text-decoration: none;
       background-color: rgba(45, 74, 45, 0.12);
+      outline: 2px solid #d4a843;
+      outline-offset: 2px;
     }
   }
 
@@ -1389,15 +1438,27 @@ p > strong:first-child {
 }
 
 // Chapter navigation — Previous / TOC / Next
+// V5: Flexbox layout replaces pipe-separated inline links
 .book-chapter-nav {
-  text-align: center;
-  padding: 1rem 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.75rem 0;
   font-family: 'Cinzel', serif;
   font-size: 0.95rem;
   color: $bark-mid;
   border-top: 1px solid $cream-border;
   border-bottom: 1px solid $cream-border;
   margin: 1.5rem 0;
+
+  // Hide the raw pipe separators rendered from markdown
+  p {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    margin: 0;
+  }
 
   a {
     color: $accent-gold;
@@ -1410,6 +1471,11 @@ p > strong:first-child {
       color: $accent-gold-hover;
       background-color: rgba(138, 112, 64, 0.08);
       text-decoration: underline;
+    }
+
+    &:focus-visible {
+      outline: 2px solid $accent-gold;
+      outline-offset: 2px;
     }
   }
 }
@@ -1525,5 +1591,59 @@ p > strong:first-child {
 
   &:hover img {
     transform: rotateY(-2deg);
+  }
+}
+
+// =============================================================
+// V16: BACK-TO-TOP BUTTON
+// Fixed button, forest-themed, appears after 600px scroll
+// 44px tap target meets WCAG minimum for elderly visitors
+// =============================================================
+
+.back-to-top {
+  position: fixed;
+  bottom: 24px;
+  right: 24px;
+  z-index: 100;
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  border: 1px solid $forest-mid;
+  background: rgba($forest-dark, 0.85);
+  color: $accent-gold;
+  cursor: pointer;
+  opacity: 0;
+  transform: translateY(10px);
+  transition: opacity 0.3s ease, transform 0.3s ease;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0;
+
+  &.visible {
+    opacity: 1;
+    transform: translateY(0);
+  }
+
+  &:hover {
+    background: $forest-dark;
+    border-color: $accent-gold;
+  }
+
+  &:focus-visible {
+    outline: 2px solid $accent-gold;
+    outline-offset: 2px;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .back-to-top {
+    transition: none;
+  }
+}
+
+@media print {
+  .back-to-top {
+    display: none !important;
   }
 }

@@ -1,6 +1,7 @@
 ---
 title: "Picture Directory"
 weight: 9
+description: "Photographs of Berry family descendants spanning multiple generations — from the David Berry line, the William Berry line, and beyond."
 ---
 
 ## Picture Albums Of The Robert And Elizabeth Cate Berry Family

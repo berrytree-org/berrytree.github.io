@@ -48,7 +48,7 @@
   /* Overlay */
   .hb-overlay {
     position: fixed;
-    inset: 0;
+    top: 0; right: 0; bottom: 0; left: 0;
     background: rgba(0,0,0,0.5);
     z-index: 900;
     opacity: 0;
@@ -129,8 +129,8 @@
   .hb-panel__footer {
     padding: 16px 24px;
     border-top: 1px solid #1e3a1e;
-    font-size: 0.7rem;
-    color: #3a5a3a;
+    font-size: 0.8rem;
+    color: #7a9a6a;
     font-style: italic;
   }
 
@@ -166,7 +166,7 @@
 
   .home-hero__img {
     position: absolute;
-    inset: 0;
+    top: 0; right: 0; bottom: 0; left: 0;
     width: 100%;
     height: 100%;
     object-fit: cover;
@@ -176,7 +176,7 @@
   /* Gradient only on the bottom third — image breathes above */
   .home-hero__gradient {
     position: absolute;
-    inset: 0;
+    top: 0; right: 0; bottom: 0; left: 0;
     background: linear-gradient(
       to bottom,
       transparent 40%,
@@ -198,9 +198,12 @@
     width: 110px;
     height: auto;
     margin-bottom: 18px;
+    transition: opacity 1.2s ease 0.3s, transform 1.2s ease 0.3s;
+  }
+
+  .js-enabled .home-hero__logo {
     opacity: 0;
     transform: translateY(-16px);
-    transition: opacity 1.2s ease 0.3s, transform 1.2s ease 0.3s;
   }
 
   .home-hero__logo.visible {
@@ -215,9 +218,12 @@
     font-weight: normal;
     letter-spacing: 0.04em;
     margin: 0 0 10px;
+    transition: opacity 1s ease 0.6s, transform 1s ease 0.6s;
+  }
+
+  .js-enabled .home-hero__title {
     opacity: 0;
     transform: translateY(16px);
-    transition: opacity 1s ease 0.6s, transform 1s ease 0.6s;
   }
 
   .home-hero__title.visible {
@@ -232,8 +238,11 @@
     letter-spacing: 0.12em;
     text-transform: uppercase;
     margin: 0 0 28px;
-    opacity: 0;
     transition: opacity 1s ease 0.9s;
+  }
+
+  .js-enabled .home-hero__sub {
+    opacity: 0;
   }
 
   .home-hero__sub.visible { opacity: 1; }
@@ -242,10 +251,13 @@
     display: block;
     margin: 0 auto;
     color: #c8a84b;
-    font-size: 1.6rem;
-    opacity: 0;
+    line-height: 1;
     animation: caretPulse 2.4s ease-in-out infinite;
     transition: opacity 1s ease 1.4s;
+  }
+
+  .js-enabled .home-hero__caret {
+    opacity: 0;
   }
 
   .home-hero__caret.visible { opacity: 0.8; }
@@ -279,9 +291,12 @@
 
   .home-stat {
     text-align: center;
+    transition: opacity 0.7s ease, transform 0.7s ease;
+  }
+
+  .js-enabled .home-stat {
     opacity: 0;
     transform: translateY(24px);
-    transition: opacity 0.7s ease, transform 0.7s ease;
   }
 
   .home-stat.visible {
@@ -317,9 +332,12 @@
     font-weight: normal;
     letter-spacing: 0.06em;
     margin-bottom: 48px;
+    transition: opacity 0.7s ease, transform 0.7s ease;
+  }
+
+  .js-enabled .home-explore__heading {
     opacity: 0;
     transform: translateY(20px);
-    transition: opacity 0.7s ease, transform 0.7s ease;
   }
 
   .home-explore__heading.visible {
@@ -345,6 +363,9 @@
     color: #f0e8d0;
     display: block;
     transition: border-color 0.25s, transform 0.25s, background 0.25s;
+  }
+
+  .js-enabled .home-card {
     opacity: 0;
     transform: translateY(28px);
   }
@@ -388,8 +409,11 @@
     position: relative;
     height: 320px;
     overflow: hidden;
-    opacity: 0;
     transition: opacity 1s ease;
+  }
+
+  .js-enabled .home-homestead {
+    opacity: 0;
   }
 
   .home-homestead.visible { opacity: 1; }
@@ -399,7 +423,7 @@
     height: 100%;
     object-fit: cover;
     object-position: center 55%;
-    filter: brightness(0.75) sepia(0.15);
+    filter: brightness(0.85) sepia(0.10);
   }
 
   .home-homestead__caption {
@@ -418,7 +442,7 @@
     padding: 30px 20px;
     text-align: center;
     font-size: 0.75rem;
-    color: #3a5a3a;
+    color: #7a9a6a;
     font-style: italic;
     border-top: 1px solid #2a4a2a;
   }
@@ -430,10 +454,54 @@
   .home-card:nth-child(4) { transition-delay: 0.24s; }
   .home-card:nth-child(5) { transition-delay: 0.32s; }
   .home-card:nth-child(6) { transition-delay: 0.40s; }
+
+  /* ── R11: Focus-visible indicators ── */
+  .home-card:focus-visible {
+    border-color: #c8a84b;
+    background: #2e4a2e;
+    outline: 2px solid #c8a84b;
+    outline-offset: 2px;
+  }
+
+  .hb-btn:focus-visible {
+    outline: 2px solid #c8a84b;
+    outline-offset: 2px;
+  }
+
+  .hb-nav li a:focus-visible {
+    color: #c8a84b;
+    padding-left: 36px;
+    border-left-color: #c8a84b;
+    outline: none;
+  }
+
+  /* ── R24: Respect prefers-reduced-motion ── */
+  @media (prefers-reduced-motion: reduce) {
+    .home-hero__logo,
+    .home-hero__title,
+    .home-hero__sub,
+    .home-hero__caret,
+    .home-stat,
+    .home-card,
+    .home-explore__heading,
+    .home-homestead {
+      opacity: 1 !important;
+      transform: none !important;
+      transition: none !important;
+    }
+
+    .home-hero__caret {
+      animation: none !important;
+    }
+
+    .home-card:hover {
+      transform: none;
+    }
+  }
 </style>
 
 <!-- ── HAMBURGER BUTTON ── -->
-<button class="hb-btn" id="hbBtn" aria-label="Open navigation">
+<button class="hb-btn" id="hbBtn" aria-label="Open navigation" aria-expanded="false">
   <span></span><span></span><span></span>
 </button>
 
@@ -447,6 +515,7 @@
     <span>Robert &amp; Elizabeth<br>Cate Berry</span>
   </div>
   <ul class="hb-nav">
+    <li><a href="/">Home</a></li>
     <li><a href="/ancestors/">Ancestors</a></li>
     <li><a href="/timelines/">Wheel of Time</a></li>
     <li><a href="/dna/">DNA Research</a></li>
@@ -474,26 +543,30 @@
          alt="BerryTree">
     <h1 class="home-hero__title js-hero-el">Robert &amp; Elizabeth Cate Berry</h1>
     <p class="home-hero__sub js-hero-el">Orange County, North Carolina &nbsp;·&nbsp; 1757</p>
-    <span class="home-hero__caret js-hero-el">&#8964;</span>
+    <span class="home-hero__caret js-hero-el" aria-hidden="true">
+      <svg width="28" height="16" viewBox="0 0 28 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path d="M2 2L14 14L26 2" stroke="#c8a84b" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+      </svg>
+    </span>
   </div>
 </section>
 
 <!-- ── STATS ── -->
 <section class="home-section home-stats">
   <div class="home-stats__row">
-    <div class="home-stat js-scroll">
+    <div class="home-stat js-scroll" aria-label="285 Documented Events">
       <span class="home-stat__num js-count" data-target="285">0</span>
       <span class="home-stat__label">Documented Events</span>
     </div>
-    <div class="home-stat js-scroll" style="transition-delay:0.12s">
+    <div class="home-stat js-scroll" style="transition-delay:0.12s" aria-label="243 Ancestor Profiles">
       <span class="home-stat__num js-count" data-target="243">0</span>
       <span class="home-stat__label">Ancestor Profiles</span>
     </div>
-    <div class="home-stat js-scroll" style="transition-delay:0.24s">
+    <div class="home-stat js-scroll" style="transition-delay:0.24s" aria-label="4 Centuries of History">
       <span class="home-stat__num js-count" data-target="4">0</span>
       <span class="home-stat__label">Centuries of History</span>
     </div>
-    <div class="home-stat js-scroll" style="transition-delay:0.36s">
+    <div class="home-stat js-scroll" style="transition-delay:0.36s" aria-label="11 Family Lines">
       <span class="home-stat__num js-count" data-target="11">0</span>
       <span class="home-stat__label">Family Lines</span>
     </div>
@@ -506,7 +579,7 @@
   <div class="home-cards">
 
     <a class="home-card js-scroll" href="/ancestors/">
-      <svg class="home-card__icon" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <svg class="home-card__icon" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false">
         <circle cx="24" cy="13" r="7" stroke="#c8a84b" stroke-width="2"/>
         <circle cx="10" cy="36" r="5" stroke="#8faf6f" stroke-width="1.5"/>
         <circle cx="38" cy="36" r="5" stroke="#8faf6f" stroke-width="1.5"/>
@@ -519,7 +592,7 @@
     </a>
 
     <a class="home-card js-scroll" href="/timelines/">
-      <svg class="home-card__icon" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <svg class="home-card__icon" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false">
         <circle cx="24" cy="24" r="18" stroke="#c8a84b" stroke-width="2"/>
         <circle cx="24" cy="24" r="4" fill="#c8a84b"/>
         <line x1="24" y1="6"  x2="24" y2="14" stroke="#8faf6f" stroke-width="1.5"/>
@@ -534,7 +607,7 @@
     </a>
 
     <a class="home-card js-scroll" href="/dna/">
-      <svg class="home-card__icon" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <svg class="home-card__icon" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false">
         <path d="M18 6 C18 16 30 16 30 24 C30 32 18 32 18 42" stroke="#c8a84b" stroke-width="2" fill="none"/>
         <path d="M30 6 C30 16 18 16 18 24 C18 32 30 32 30 42" stroke="#8faf6f" stroke-width="2" fill="none"/>
         <line x1="18" y1="15" x2="30" y2="15" stroke="#c8a84b" stroke-width="1.5"/>
@@ -546,7 +619,7 @@
     </a>
 
     <a class="home-card js-scroll" href="/documents/">
-      <svg class="home-card__icon" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <svg class="home-card__icon" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false">
         <rect x="10" y="4" width="28" height="40" rx="2" stroke="#c8a84b" stroke-width="2"/>
         <line x1="16" y1="14" x2="32" y2="14" stroke="#8faf6f" stroke-width="1.5"/>
         <line x1="16" y1="21" x2="32" y2="21" stroke="#8faf6f" stroke-width="1.5"/>
@@ -558,7 +631,7 @@
     </a>
 
     <a class="home-card js-scroll" href="/books/frontier-america/">
-      <svg class="home-card__icon" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <svg class="home-card__icon" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false">
         <rect x="10" y="4" width="22" height="40" rx="2" stroke="#c8a84b" stroke-width="2"/>
         <rect x="10" y="4" width="22" height="40" rx="2" fill="#243424" opacity="0.5"/>
         <line x1="10" y1="4" x2="10" y2="44" stroke="#c8a84b" stroke-width="3"/>
@@ -572,7 +645,7 @@
     </a>
 
     <a class="home-card js-scroll" href="/pictures/">
-      <svg class="home-card__icon" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <svg class="home-card__icon" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false">
         <rect x="4" y="8" width="40" height="32" rx="2" stroke="#c8a84b" stroke-width="2"/>
         <circle cx="16" cy="20" r="4" stroke="#8faf6f" stroke-width="1.5"/>
         <path d="M4 34 L14 24 L22 32 L30 24 L44 34" stroke="#c8a84b" stroke-width="1.5" fill="none"/>
@@ -598,12 +671,43 @@
 </footer>
 
 <script>
+// ── R5: Flag JS-enabled so CSS can gate animations ────────────────
+document.documentElement.classList.add('js-enabled');
+
 // ── Hamburger menu ────────────────────────────────────────────────
 const hbBtn     = document.getElementById('hbBtn');
 const hbOverlay = document.getElementById('hbOverlay');
 
-function openNav()  { document.body.classList.add('nav-open');    hbBtn.setAttribute('aria-expanded', 'true');  }
-function closeNav() { document.body.classList.remove('nav-open'); hbBtn.setAttribute('aria-expanded', 'false'); }
+function openNav() {
+  document.body.classList.add('nav-open');
+  hbBtn.setAttribute('aria-expanded', 'true');
+  trapFocus();
+}
+
+function closeNav() {
+  document.body.classList.remove('nav-open');
+  hbBtn.setAttribute('aria-expanded', 'false');
+  hbBtn.focus();
+}
+
+// ── R3: Focus trap for nav panel ──────────────────────────────────
+function trapFocus() {
+  const panel = document.getElementById('hbPanel');
+  const focusable = panel.querySelectorAll('a[href]');
+  const first = focusable[0];
+  const last = focusable[focusable.length - 1];
+
+  first.focus();
+
+  panel.addEventListener('keydown', function(e) {
+    if (e.key !== 'Tab') return;
+    if (e.shiftKey) {
+      if (document.activeElement === first) { e.preventDefault(); last.focus(); }
+    } else {
+      if (document.activeElement === last) { e.preventDefault(); first.focus(); }
+    }
+  });
+}
 
 hbBtn.addEventListener('click', () =>
   document.body.classList.contains('nav-open') ? closeNav() : openNav()

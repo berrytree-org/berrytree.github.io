@@ -16,6 +16,8 @@ bookToc: true
 
 ---
 
+> **Ancestor Profile:** [Mary Berry](/ancestors/mary-berry/) — view the full family profile on berrytree.org
+
 ## Chapter 3
 
 # Mary Berry 1757–1795 to 1800

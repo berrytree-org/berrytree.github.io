@@ -16,6 +16,8 @@ bookToc: true
 
 ---
 
+> **Ancestor Profile:** [Robert Berry Jr.](/ancestors/robert-berry-jr/) — view the full family profile on berrytree.org
+
 ## Chapter 4
 
 # Robert Berry Jr. 1760–before 1850
@@ -744,7 +746,7 @@ Sarah Berry Dippold was living in Galveston, Texas, when the 1900 hurricane deva
   <a href="/images/books/ch04-image94.jpeg">
     <img src="/images/books/ch04-image94.jpeg" alt="Destruction from the 1900 Galveston hurricane" />
   </a>
-  <div class="photo-caption">Source: http://en.wikipedia.org/wiki/1900_Galveston_hurricane</div>
+  <div class="photo-caption">Source: https://en.wikipedia.org/wiki/1900_Galveston_hurricane</div>
 </div>
 
 <div class="photo-feature">

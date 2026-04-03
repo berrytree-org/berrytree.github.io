@@ -19,6 +19,8 @@ bookToc: true
   parents="Robert Berry and Elizabeth Cate, Orange County, NC"
 >}}
 
+> **Book Chapter:** Read the full story in [Chapter 9: Thomas Berry](/books/frontier-america/ch09-thomas-berry/) from *Our Berrys in Frontier America*
+
 ## The Story of Thomas Berry
 
 Thomas Berry was born about 1772 in Orange County, North Carolina, one of the ten children of Robert and Elizabeth Cate Berry. On **August 12, 1800**, he married **Sarah Cate**, the daughter of William and Elizabeth Messersmith Cate. Sarah was born on December 27, 1782.
@@ -71,8 +73,8 @@ Thomas and Sarah had two children, both born in Orange County, North Carolina, b
 
 <ol class="children-list">
 
-<li class="child-entry has-page">
-  <div class="child-name"><a href="/ancestors/sarah-cate/">David Berry</a></div>
+<li class="child-entry">
+  <div class="child-name">David Berry</div>
   <div class="child-dates">Born c. 1801, Orange County, NC</div>
   <div class="child-details">Went to Tennessee with his mother Sarah after Thomas's death. Appears in Sarah Pigg's 1840 Wayne County, Tennessee census.</div>
 </li>

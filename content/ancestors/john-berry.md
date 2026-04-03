@@ -2,6 +2,8 @@
 title: "John and Martha Stepp Berry"
 weight: 3
 bookToc: true
+aliases:
+  - /ancestors/johnberry/
 ---
 
 <div class="ancestor-page">
@@ -20,6 +22,8 @@ bookToc: true
   image="/images/john-berry-martha-stepp.jpg"
   caption="John Berry and Martha Stepp marriage bond, Person County, North Carolina"
 >}}
+
+> **Book Chapter:** Read the full story in [Chapter 5: John Berry](/books/frontier-america/ch05-john-berry/) from *Our Berrys in Frontier America*
 
 ## The Story of John Berry
 
@@ -78,7 +82,7 @@ John and Martha had five children. After John's death in 1803, the children were
 <li class="child-entry">
   <div class="child-name">5. William Berry</div>
   <div class="child-dates">Born 1802 or 1804 — Died 1881</div>
-  <div class="child-details">Married <strong>Sarah Nelson</strong> (1805–1883). Listed in the 1820 census as a male 10–15 living in Mary Camp's household. William and Sarah had many children and settled in Fayette County, Alabama. A descendant, <strong>Shelby Dale Berry</strong>, provided the DNA match that confirmed John Berry's parentage. William Berry is buried at <a href="http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=49919744">Find A Grave</a>.</div>
+  <div class="child-details">Married <strong>Sarah Nelson</strong> (1805–1883). Listed in the 1820 census as a male 10–15 living in Mary Camp's household. William and Sarah had many children and settled in Fayette County, Alabama. A descendant, <strong>Shelby Dale Berry</strong>, provided the DNA match that confirmed John Berry's parentage. William Berry is buried at <a href="https://www.findagrave.com/memorial/49919744">Find A Grave</a>.</div>
 </li>
 
 </ol>

@@ -1,5 +1,5 @@
 ---
-title: "DNA Information Page 2"
+title: "Y-DNA Marker Charts and Comparison"
 weight: 3
 ---
 

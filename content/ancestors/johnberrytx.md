@@ -21,7 +21,7 @@ John Berry was born in Orange or Person County, North Carolina. in 1815. We are
 	<li><strong>Gen 6 </strong>James Berry married  Nancy Orleans "Orlena" Lee</li>
 	<li><strong>Gen 6 </strong>Amanda F. Berry married John Bascom Taylor 1865</li>
 	<li><strong>Gen 6 </strong>Robert W. Berry</li>
-	<li><a href="http://berrytree.org/?page_id=8"><strong>Gen 6 </strong>Alexander Howard Berry</a> married Josephine Priscilla Gregory 1877</li>
+	<li><a ><strong>Gen 6 </strong>Alexander Howard Berry married Josephine Priscilla Gregory 1877</li>
 	<li><strong>Gen 6 </strong>Louisa J. Berry</li>
 	<li><strong>Gen 6 </strong>Eliza Berry</li>
 	<li><strong>Gen 6 </strong>Emma Berry</li>

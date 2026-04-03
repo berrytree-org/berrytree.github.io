@@ -19,6 +19,8 @@ bookToc: true
   parents="Robert Berry and Elizabeth Cate, Orange County, NC"
 >}}
 
+> **Book Chapter:** Read the full story in [Chapter 7: Isaac Berry](/books/frontier-america/ch07-isaac-berry/) from *Our Berrys in Frontier America*
+
 ## What Is Known About Isaac Berry
 
 Isaac Berry was born about 1768 in Orange County, North Carolina, one of the ten children of Robert and Elizabeth Cate Berry. He had a daughter by **Lydia Berry**, though it is not known whether Isaac and Lydia were married.

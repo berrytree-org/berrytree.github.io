@@ -14,7 +14,7 @@ Eliza Everett was born on May 30th 1814 in Georgia and died on April 23rd 1891 i
 <p><strong>Robert Berry and Eliza Everett's Marriage bond</strong></p>
 <a href="/images/robert-and-eliza-berry-wedding-bond-ga.jpg"><img class="alignnone size-full wp-image-5840" src="/images/robert-and-eliza-berry-wedding-bond-ga.jpg" alt="Robert and Eliza Berry wedding bond GA" width="874" height="594" /></a>
 
-<figure><a href="/images/robert-and-eliza-everetts-bible-page.jpg"><img class="size-thumbnail wp-image-2436" src="/images/Robert-and-eliza-everetts-bible-page-150x150.jpg" alt="Robert & Elizabeth Everette Berry's Bible Page" width="150" height="150" /></a> Robert & Elizabeth Everette Berry's Bible Page</figure>
+<figure><a href="/images/robert-and-eliza-everetts-bible-page.jpg"><img class="size-thumbnail wp-image-2436" src="/images/robert-and-eliza-everetts-bible-page.jpg" alt="Robert & Elizabeth Everette Berry's Bible Page" width="150" height="150" /></a> Robert & Elizabeth Everette Berry's Bible Page</figure>
 
 Robert & Eliza Everette Berry's Children
 

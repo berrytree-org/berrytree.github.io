@@ -17,7 +17,7 @@ CHILDREN of Roger and Ann Foster Williamson:
 
 - Bartholomew Williamson married Martha Christopher
 
-- [Richard Williamson](https://web.archive.org/?page_id=130) married Mary Kempe
+- Richard Williamson married Mary Kempe
 
 Children of John  and Ann Foster Williamson Carroway:
 

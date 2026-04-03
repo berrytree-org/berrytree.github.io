@@ -16,6 +16,8 @@ bookToc: true
 
 ---
 
+> **Ancestor Profile:** [Elizabeth Berry](/ancestors/elizabeth-berry/) — view the full family profile on berrytree.org
+
 ## Chapter 8
 
 # Elizabeth Berry 1768–1815
@@ -58,7 +60,7 @@ Elizabeth Berry had only one grandchild who was named Josiah Berry and apparentl
   <a href="/images/books/ch08-image116.jpeg">
     <img src="/images/books/ch08-image116.jpeg" alt="Bastardy bond on William Riley for Elizabeth Berry" />
   </a>
-  <p class="caption">Bastardy bond on William Riley for Elizabeth Berry</p>
+  <p class="photo-caption">Bastardy bond on William Riley for Elizabeth Berry</p>
 </div>
 
 A letter to William Riley on August 19th, 1791, ordered him to appear before the court.
@@ -67,28 +69,28 @@ A letter to William Riley on August 19th, 1791, ordered him to appear before the
   <a href="/images/books/ch08-image117.jpeg">
     <img src="/images/books/ch08-image117.jpeg" alt="Letter from the court 19th Aug, 1791, about William Riley" />
   </a>
-  <p class="caption">Letter from the court 19th Aug, 1791, about William Riley</p>
+  <p class="photo-caption">Letter from the court 19th Aug, 1791, about William Riley</p>
 </div>
 
 <div class="photo-feature">
   <a href="/images/books/ch08-image118.jpeg">
     <img src="/images/books/ch08-image118.jpeg" alt="Elizabeth Berry's inventory sale notice 1816" />
   </a>
-  <p class="caption">Elizabeth Berry's inventory sale notice 1816</p>
+  <p class="photo-caption">Elizabeth Berry's inventory sale notice 1816</p>
 </div>
 
 <div class="photo-feature">
   <a href="/images/books/ch08-image119.jpeg">
     <img src="/images/books/ch08-image119.jpeg" alt="Thomas and his son Josiah were found in a court record" />
   </a>
-  <p class="caption">Thomas and his son Josiah were found in a court record</p>
+  <p class="photo-caption">Thomas and his son Josiah were found in a court record</p>
 </div>
 
 <div class="photo-feature">
   <a href="/images/books/ch08-image120.jpeg">
     <img src="/images/books/ch08-image120.jpeg" alt="Probate notice of Elizabeth Berry's will, 1815, Person County" />
   </a>
-  <p class="caption">Probate notice of Elizabeth Berry's will, 1815, Person County</p>
+  <p class="photo-caption">Probate notice of Elizabeth Berry's will, 1815, Person County</p>
 </div>
 
 Josiah Berry must have gone to Alabama because, many years later, Obadiah Echols wrote a letter from Auburn, Alabama, back to Orange County concerning Thomas and Mary Berry's orphan grandson, Preston Berry. Obadiah Echols wrote to Orange County twice trying to get a copy of Elizabeth Berry's will. The problem was that Elizabeth Berry's will was probated in Person County, so Obadiah Echols probably never received the second copy he requested, either. **(See Figure 83 Pg. 180 & Fig: 84 Pg. 181)**
@@ -97,14 +99,14 @@ Josiah Berry must have gone to Alabama because, many years later, Obadiah Echols
   <a href="/images/books/ch08-image121.jpeg">
     <img src="/images/books/ch08-image121.jpeg" alt="Document from Auburn, Ala., about Elizabeth Berry's grandson" />
   </a>
-  <p class="caption">Document from Auburn, Ala., about Elizabeth Berry's grandson</p>
+  <p class="photo-caption">Document from Auburn, Ala., about Elizabeth Berry's grandson</p>
 </div>
 
 <div class="photo-feature">
   <a href="/images/books/ch08-image122.jpeg">
     <img src="/images/books/ch08-image122.jpeg" alt="Second page of letter from Auburn, Alabama" />
   </a>
-  <p class="caption">Second page of letter from Auburn, Alabama</p>
+  <p class="photo-caption">Second page of letter from Auburn, Alabama</p>
 </div>
 
 This letter was inquiring about a slave named Doll who Robert Berry willed to his daughter, Elizabeth Berry, in 1812.

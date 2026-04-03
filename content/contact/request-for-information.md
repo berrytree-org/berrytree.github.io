@@ -77,6 +77,3 @@ Tennessee
 * Indicates data collected outside the 1850 census
 											
 
-		
-						
-							This entry was posted in [Uncategorized](https://category/uncategorized/). Bookmark the [permalink](index.html).

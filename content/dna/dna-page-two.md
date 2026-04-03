@@ -1,5 +1,5 @@
 ---
-title: "DNA Information"
+title: "Y-DNA Participants and Normandy Origins"
 weight: 2
 ---
 

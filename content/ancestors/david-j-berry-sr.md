@@ -19,6 +19,8 @@ bookToc: true
   parents="Robert Berry and Elizabeth Cate, Orange County, NC"
 >}}
 
+> **Book Chapter:** Read the full story in [Chapter 10: David J. Berry](/books/frontier-america/ch10-david-j-berry/) from *Our Berrys in Frontier America*
+
 ## The Story of David J. Berry
 
 David J. Berry was the son of Robert and Elizabeth Cate Berry of Orange County, North Carolina. He was born around 1774 and spent his early years on the family land in Orange County, where Berrys had lived since his grandfather Robert and Mary Williamson Berry first settled from Princess Anne County, Virginia.

@@ -1,0 +1,28 @@
+{{/* V16: Back-to-top button — appears after scrolling 600px */}}
+<button id="backToTop" class="back-to-top" aria-label="Back to top" title="Back to top">
+  <svg width="20" height="20" viewBox="0 0 20 20" fill="none">
+    <path d="M10 16V4M10 4L4 10M10 4L16 10" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  </svg>
+</button>
+
+<script>
+(function() {
+  var btn = document.getElementById('backToTop');
+  if (!btn) return;
+
+  // Show/hide based on scroll position
+  window.addEventListener('scroll', function() {
+    if (window.scrollY > 600) {
+      btn.classList.add('visible');
+    } else {
+      btn.classList.remove('visible');
+    }
+  });
+
+  // Scroll to top — respect reduced motion preference
+  btn.addEventListener('click', function() {
+    var prefersReducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+    window.scrollTo({ top: 0, behavior: prefersReducedMotion ? 'auto' : 'smooth' });
+  });
+})();
+</script>

@@ -10,7 +10,7 @@ Generation 1 Robert and Elizabeth Cate Berry
 
 Generation 2 David J. Berry and Mary Blalock
 
-<strong><a href="http://berrytree.org/?page_id=26">Back To David J. Berry Page</a>
+<strong><a href="/ancestors/david-j-berry-sr/">Back To David J. Berry Page</a>
 </strong>
 
 <strong> Georgia began as a narrow strip of counties moving northward from Savannah and the Atlantic Coast along the western side of the Savannah River. Lands west of the first counties belonged to the Creek Indians except for that north and west of the Chattahoochee River. The Chattahoochee came to be a generally recognized separation line between the Creeks and the Cherokees, although there were exceptions because the tribes often were at war with each other.</strong>

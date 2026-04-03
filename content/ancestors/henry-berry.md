@@ -19,6 +19,8 @@ bookToc: true
   parents="Robert Berry and Elizabeth Cate, Orange County, NC"
 >}}
 
+> **Book Chapter:** Read the full story in [Chapter 12: Henry Berry](/books/frontier-america/ch12-henry-berry/) from *Our Berrys in Frontier America*
+
 ## The Story of Henry Berry
 
 Henry Berry was born in 1776 in Orange County, North Carolina, the youngest of the ten children of Robert and Elizabeth Cate Berry. He had a daughter by **Fanny Ashley**, though they were never married. This is known because Fanny Ashley was living with her daughter Mary Ashley Berry King in 1850.

@@ -1,5 +1,6 @@
 ---
 title: "Books"
+description: "Published Berry family genealogy books including the free digital edition of Our Berrys in Frontier America by Benjamin Berry Henderson Sr."
 weight: 6
 ---
 
@@ -31,7 +32,7 @@ By Benjamin Berry Henderson Sr. — Paperback, 360 Pages — $23.00
 
 [Buy on Lulu.com](https://www.lulu.com/shop/benjamin-henderson/our-berrys-in-frontier-america/paperback/product-1yjjg6q6.html)
 
-This book is a result of 18 years of research by the author and countless years of research by a large number of family researchers. The book covers the Robert Berry Family — 10 children who migrated from Virginia to North Carolina to many points west. Our Y-DNA project has 14 participants of living descendants. There is a chapter for each of the 10 children of Robert and Elizabeth Cate Berry, who were married about 1757 and established a large plantation in Orange County, North Carolina.
+This book is a result of 18 years of research by the author and countless years of research by a large number of family researchers. The book covers the Robert Berry Family — [10 children](/ancestors/) who migrated from Virginia to North Carolina to many points west. Our Y-DNA project has 14 participants of living descendants. There is a chapter for each of the 10 children of Robert and Elizabeth Cate Berry, who were married about 1757 and established a large plantation in Orange County, North Carolina.
 
 ---
 

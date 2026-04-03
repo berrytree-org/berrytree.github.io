@@ -16,6 +16,8 @@ bookToc: true
 
 ---
 
+> **Ancestor Profile:** [Henry Berry](/ancestors/henry-berry/) — view the full family profile on berrytree.org
+
 ## Chapter 12
 
 # Henry Berry 1776–1858
@@ -44,7 +46,7 @@ In the 1810 Census of Robert Berry OC, we find that there are 3 males listed. 2 
   <a href="/images/books/ch12-image183.jpeg">
     <img src="/images/books/ch12-image183.jpeg" alt="Wedding record for Thomas King and Polly Ashley" />
   </a>
-  <p class="caption">Wedding record for Thomas King & Polly Ashley</p>
+  <p class="photo-caption">Wedding record for Thomas King & Polly Ashley</p>
 </div>
 
 ---
@@ -97,7 +99,7 @@ Henry Berry and Isaac Berry each had one daughter and the two girls were both na
   <a href="/images/books/ch12-image184.jpeg">
     <img src="/images/books/ch12-image184.jpeg" alt="Susan A. King Crabtree's Death Certificate 1920" />
   </a>
-  <p class="caption">Susan A. King Crabtree's Death Certificate, 1920</p>
+  <p class="photo-caption">Susan A. King Crabtree's Death Certificate, 1920</p>
 </div>
 
 > Susan's death certificate is very important, because it states clearly that her mother's maiden name was Berry. Mary Ashley who married Thomas King in 1833 was really Mary Berry. Without this document, I would never have known that Henry Berry and Fanny Ashley had a daughter. I would never have known that Thomas and Mary King's children were really great-grandchildren of Robert OC and Elizabeth Cate Berry and might not have realized that Isaac Berry also had a daughter or that Samuel and Mary Ann Berry Hundley's children were also great-grandchildren of Robert OC and Elizabeth Cate Berry.
@@ -110,7 +112,7 @@ Henry Berry and Isaac Berry each had one daughter and the two girls were both na
   <a href="/images/books/ch12-image185.jpeg">
     <img src="/images/books/ch12-image185.jpeg" alt="1850 Person County N.C. Census" />
   </a>
-  <p class="caption">1850 Person County, N.C., Census</p>
+  <p class="photo-caption">1850 Person County, N.C., Census</p>
 </div>
 
 Joshua Cates M age 39
@@ -235,7 +237,7 @@ Sallie H. Crabtree age 74 mother Dec. 1825
   <a href="/images/books/ch12-image186.jpeg">
     <img src="/images/books/ch12-image186.jpeg" alt="Estate sale of James Farquhar Sr., Person County, NC" />
   </a>
-  <p class="caption">Estate sale of James Farquhar Sr., Person County, NC</p>
+  <p class="photo-caption">Estate sale of James Farquhar Sr., Person County, NC</p>
 </div>
 
 This abstract does not list the items that were bought at James Farquhar's estate sale but many of our ancestors were there.
@@ -278,7 +280,7 @@ This also leads me to believe that Elizabeth Berry may have been raped, which wo
   <a href="/images/books/ch12-image61.jpeg">
     <img src="/images/books/ch12-image61.jpeg" alt="Henry Berry's signature on Camp Children's POA" />
   </a>
-  <p class="caption">Henry Berry's signature on Camp Children's POA</p>
+  <p class="photo-caption">Henry Berry's signature on Camp Children's POA</p>
 </div>
 
 ---
@@ -319,7 +321,7 @@ It has often been curious to me why different siblings in a same family have suc
   <a href="/images/books/ch12-image187.jpeg">
     <img src="/images/books/ch12-image187.jpeg" alt="Henry Berry's will in Orange County, NC, 1855" />
   </a>
-  <p class="caption">Henry Berry's will in Orange County, NC, 1855</p>
+  <p class="photo-caption">Henry Berry's will in Orange County, NC, 1855</p>
 </div>
 
 ---
@@ -330,7 +332,7 @@ It has often been curious to me why different siblings in a same family have suc
   <a href="/images/books/ch12-image188.jpeg">
     <img src="/images/books/ch12-image188.jpeg" alt="Henry and David Berry sold a slave named Amy in 1821" />
   </a>
-  <p class="caption">Henry and David Berry sold a slave named Amy in 1821</p>
+  <p class="photo-caption">Henry and David Berry sold a slave named Amy in 1821</p>
 </div>
 
 ---

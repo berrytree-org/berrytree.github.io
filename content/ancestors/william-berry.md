@@ -21,6 +21,8 @@ aliases:
   parents="Robert Berry and Elizabeth Cate, Orange County, NC"
 >}}
 
+> **Book Chapter:** Read the full story in [Chapter 11: William Berry](/books/frontier-america/ch11-william-berry/) from *Our Berrys in Frontier America*
+
 ## The Story of William Berry
 
 William Berry was born about 1775 in Orange County, North Carolina, one of the youngest children of Robert and Elizabeth Cate Berry. On **August 11, 1799**, he married **Hannah Cate**, the daughter of William and Elizabeth Smith (Messersmith) Cate. The following year, on August 12, 1800, William's brother Thomas Berry married Hannah's sister Sarah Cate — making the two Berry brothers married to two Cate sisters.

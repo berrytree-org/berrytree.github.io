@@ -16,6 +16,8 @@ bookToc: true
 
 ---
 
+> **Ancestor Profile:** [William Berry](/ancestors/william-berry/) — view the full family profile on berrytree.org
+
 ## Chapter 11
 
 # William Berry 1775 to 1860
@@ -38,7 +40,7 @@ William was about 25 years old when he and Hannah Cate got married.
   <a href="/images/books/ch11-image163.jpeg">
     <img src="/images/books/ch11-image163.jpeg" alt="William Berry marriage bond to Hannah Cate" />
   </a>
-  <p class="caption">William Berry marriage bond to Hannah Cate</p>
+  <p class="photo-caption">William Berry marriage bond to Hannah Cate</p>
 </div>
 
 In Chapter 9, I wrote about the two Berry brothers marrying William and Elizabeth Smith Cate's two daughters, Hannah and Sarah Cate. While William Berry, age 25, married Hannah Cate, age 29, on August 12th, 1799, Thomas Berry, age 30, did not marry Sarah Cate, age 19, until August 11th, 1800. Both families listed a son under the age of 10 in that 1800 census. As near as we can determine, both of these boys probably died. We have now identified all of the people Hannah Cate Berry listed in her 1810 Census. They were Hannah Cate Berry, Sarah Cate Berry, William and Hannah Cate Berry's three sons and Thomas and Sarah Cate Berry's son and daughter. We know when they were born, where they lived, who they married, when they died, and all of their children.
@@ -55,7 +57,7 @@ Hannah got pregnant by John Berry, who is unknown to us, and had a daughter, Eli
   <a href="/images/books/ch11-image164.jpeg">
     <img src="/images/books/ch11-image164.jpeg" alt="Hannah Cate Berry 1810 Orange County, North Carolina census" />
   </a>
-  <p class="caption">Hannah Cate Berry 1810 Orange County, North Carolina census</p>
+  <p class="photo-caption">Hannah Cate Berry 1810 Orange County, North Carolina census</p>
 </div>
 
 When we first located Hannah Cate's 1810 census she listed four boys under 10 years old and one girl under 10. We knew that Sarah and Thomas Berry had a son and a daughter. We also knew that William and Hannah had a son born June 1, 1808, by the name of Thomas Person Berry.
@@ -180,7 +182,7 @@ Chesterfield Franklin, father of Theodoric Franklin, was living next door to Wil
   <a href="/images/books/ch11-image165.jpeg">
     <img src="/images/books/ch11-image165.jpeg" alt="1830 Orange County, NC, Census" />
   </a>
-  <p class="caption">1830 Orange County, NC, Census</p>
+  <p class="photo-caption">1830 Orange County, NC, Census</p>
 </div>
 
 William Clarence Berry was living next door to Chesterfield Franklin in 1830. Chesterfield Franklin was Theoderick Franklin's father. Theoderick married Elizabeth Berry, who also went to Alabama at the same time William Clarence Berry and his three young children joined his Uncle Robert Berry Jr.
@@ -289,7 +291,7 @@ There are a number of Robert OC and Elizabeth Cate Berry descendants living in T
   <a href="/images/books/ch11-image166.jpeg">
     <img src="/images/books/ch11-image166.jpeg" alt="David Middleton Berry and W.C. Berry, Fayette County, Ala. 1850" />
   </a>
-  <p class="caption">David Middleton Berry and W.C. Berry, Fayette County, Ala. 1850</p>
+  <p class="photo-caption">David Middleton Berry and W.C. Berry, Fayette County, Ala. 1850</p>
 </div>
 
 William Clarence Berry is shown with his new wife. At the top of the next page you see the rest of their children listed in this census.
@@ -302,14 +304,14 @@ William Clarence Berry is shown with his new wife. At the top of the next page y
   <a href="/images/books/ch11-image167.jpeg">
     <img src="/images/books/ch11-image167.jpeg" alt="The rest of W.C. Berry's Children and George Rufus Berry in 1850" />
   </a>
-  <p class="caption">The rest of W.C. Berry's Children and George Rufus Berry in 1850</p>
+  <p class="photo-caption">The rest of W.C. Berry's Children and George Rufus Berry in 1850</p>
 </div>
 
 <div class="photo-feature">
   <a href="/images/books/ch11-image168.jpeg">
     <img src="/images/books/ch11-image168.jpeg" alt="William Clarence Berry" />
   </a>
-  <p class="caption">William Clarence Berry</p>
+  <p class="photo-caption">William Clarence Berry</p>
 </div>
 
 William Clarence Berry was granted two tracts of land in Fayette County, Alabama, totaling 200.3 Acres.
@@ -322,7 +324,7 @@ Section 12 Township 16S Range 12W 40.048 Acres 1858/06/01
   <a href="/images/books/ch11-image169.jpeg">
     <img src="/images/books/ch11-image169.jpeg" alt="William Clarence Berry land grant, Burnet County, Texas" />
   </a>
-  <p class="caption">William Clarence Berry land grant, Burnet County, Texas</p>
+  <p class="photo-caption">William Clarence Berry land grant, Burnet County, Texas</p>
 </div>
 
 On December 6, 1875, he was awarded 160 acres of land. (Abstract 149 — survey #833 — patent #422). After acquiring this land in Texas, the total amount of land he owned in Alabama and Texas was 360 Acres. William Clarence Berry and his family spent many years in Fayette County, Alabama. Some of them stayed there all of their lives. Some went to Texas and returned to Alabama. Other members of the family lived in Texas for the rest of their lives. It was after the Civil War was over that William Clarence and his wife made their way to Lampasas, Texas, in the spring of 1870. William Clarence Berry did not live in Texas very long. He died on September 8, 1878. William Clarence Berry's headstone is located in the Cauble Cemetery in Burnet County, Texas. William was the first person buried in that cemetery.
@@ -333,7 +335,7 @@ Massa Ann Tompkins Berry lived 25 years after her husband died. She died January
   <a href="/images/books/ch11-image170.jpeg">
     <img src="/images/books/ch11-image170.jpeg" alt="Wagons South Wagons West by Victor Glenn Berry" />
   </a>
-  <p class="caption">Wagons South Wagons West by Victor Glenn Berry</p>
+  <p class="photo-caption">Wagons South Wagons West by Victor Glenn Berry</p>
 </div>
 
 The information recorded in his book has been invaluable to me.
@@ -346,7 +348,7 @@ The information recorded in his book has been invaluable to me.
   <a href="/images/books/ch11-image171.jpeg">
     <img src="/images/books/ch11-image171.jpeg" alt="George Rufus Berry" />
   </a>
-  <p class="caption">George Rufus Berry</p>
+  <p class="photo-caption">George Rufus Berry</p>
 </div>
 
 George R. Berry was born in Orange County, North Carolina, to William Clarence and Sally Bowles Berry on February 29th, 1829. George Rufus Berry married Sarah Catherine Farquhar on January 10th, 1848, in Fayette County, Alabama. Catherine's sister, Elizabeth Farquhar, married George Rufus Berry's half-brother, Henry T. Berry, on September 11, 1866. George was granted land in Fayette County, Alabama, in 1854. On March 3, 1862, George R. Berry was elected constable for three years in Fayette County. George Rufus Berry served in the Confederate Army in Company I of the 56th Regiment, Alabama Cavalry. As fate would decree, he was discharged at the end of the Civil War in Greensboro, North Carolina, which is only 58 miles from where he was born. George might have returned to Fiddleton to visit his Orange County relatives. His Uncle Thomas Person and Aunt Sarah Lunsford Berry were living on the old Fiddleton plantation. He might have remembered them from the trip they took with his father and two sisters to Alabama in 1835.
@@ -430,7 +432,7 @@ Robert C. Berry was a single man when he went with his mother, two brothers, and
   <a href="/images/books/ch11-image172.jpeg">
     <img src="/images/books/ch11-image172.jpeg" alt="Robert C. Berry 1860 Census Fayette County, Alabama" />
   </a>
-  <p class="caption">Robert C. Berry 1860 Census Fayette County, Alabama</p>
+  <p class="photo-caption">Robert C. Berry 1860 Census Fayette County, Alabama</p>
 </div>
 
 **NOTE:** Robert C. Berry Land Grant
@@ -445,7 +447,7 @@ All 7 of their children were born in Fayette County, Alabama. Robert C. and Sara
   <a href="/images/books/ch11-image173.jpeg">
     <img src="/images/books/ch11-image173.jpeg" alt="George Washington Berry Family, son of Robert C. Berry" />
   </a>
-  <p class="caption">George Washington Berry Family, son of Robert C. Berry</p>
+  <p class="photo-caption">George Washington Berry Family, son of Robert C. Berry</p>
 </div>
 
 The family listed in the 1910 census were: Grady Berry age 16, Bedford Berry age 15, Lela Berry age 14, Anna L. Berry age 13, Arnold Berry age 11, Ola M. Berry age 9, Lee Augustus Berry age 8, Gaither Berry age 6, Olif Berry age 2. The parents were George Washington and Fatima Edmonds Berry.
@@ -470,7 +472,7 @@ George David Berry #218 Y DNA participant.
   <a href="/images/books/ch11-image174.jpeg">
     <img src="/images/books/ch11-image174.jpeg" alt="Lee Augustus Berry" />
   </a>
-  <p class="caption">Lee Augustus Berry</p>
+  <p class="photo-caption">Lee Augustus Berry</p>
 </div>
 
 Once the results of George David's Y DNA test became known and because it was a 100% match to our William Berry line, I knew that we had located the two missing boys in Hannah Cate Berry's 1810 Orange County, North Carolina, census. Because of errors made previously in this family line, it became imperative to write a revised edition of my original book, "***Our Berrys In Frontier America***". This was because in my original book William Clarence Berry was assigned as a son of Robert Berry Junior and Robert C. Berry was not assigned to any parents. All of the details of their relationship to William and Hannah Cate Berry are also described in detail in the paragraph about Robert's brother, William Clarence Berry.
@@ -483,7 +485,7 @@ Once the results of George David's Y DNA test became known and because it was a 
   <a href="/images/books/ch11-image175.jpeg">
     <img src="/images/books/ch11-image175.jpeg" alt="Thomas Person Berry Siblings" />
   </a>
-  <p class="caption">Thomas Person Berry Siblings</p>
+  <p class="photo-caption">Thomas Person Berry Siblings</p>
 </div>
 
 1. William Clarence Berry born October 17, 1803, in Orange County, North Carolina, and died in Burnet County, Texas, on September 8, 1878.
@@ -500,7 +502,7 @@ Thomas P. Berry's first wife, Sarah Lunsford Berry, died on December 27th, 1870.
   <a href="/images/books/ch11-image176.jpeg">
     <img src="/images/books/ch11-image176.jpeg" alt="Nancy Clayton Whitfield and her first cousin, Autry Berry Schull" />
   </a>
-  <p class="caption">Nancy Clayton Whitfield and her first cousin, Autry Berry Schull</p>
+  <p class="photo-caption">Nancy Clayton Whitfield and her first cousin, Autry Berry Schull</p>
 </div>
 
 Nancy was the youngest daughter of Etta E. Berry and James Madison Clayton and Autry was the youngest daughter of Daniel R. Berry and Ella Pucci. From the year that Thomas Person Berry was born until his last grandchild was born was 122 years. From the time he was born until the last grandchild died was 206 years. I do not know if this would be a record that would qualify for the Guinness Book of Records or not, but I would think it might be. I am reasonably sure my mother knew both of these ladies when they were little girls.
@@ -521,7 +523,7 @@ Hannah Cate Berry apparently raised her three sons and daughter in Orange County
   <a href="/images/books/ch11-image177.jpeg">
     <img src="/images/books/ch11-image177.jpeg" alt="Theodoric and Elizabeth Berry Franklin's Marriage Bond" />
   </a>
-  <p class="caption">Theodoric and Elizabeth Berry Franklin's Marriage Bond</p>
+  <p class="photo-caption">Theodoric and Elizabeth Berry Franklin's Marriage Bond</p>
 </div>
 
 When Elizabeth Berry got married her half-brother, Thomas Person Berry, signed her wedding bond. The other signature on the bond was William Bowles, who was William Clarence Berry's father-in-law. This was a clue that was overlooked for many years. Theodrick and Elizabeth Berry Franklin were married on June 30, 1832, and their daughter, Temperance Jane Franklin, was born on October 17, 1832. Many years later, Temperance Jane Franklin wrote in her Bible that her grandfather's name was John Berry.
@@ -532,7 +534,7 @@ We have never been able to locate who John Berry was but we still have no reason
   <a href="/images/books/ch11-image178.jpeg">
     <img src="/images/books/ch11-image178.jpeg" alt="Temperance Jane Franklin" />
   </a>
-  <p class="caption">Temperance Jane Franklin</p>
+  <p class="photo-caption">Temperance Jane Franklin</p>
 </div>
 
 When Temperance Jane Franklin's parents went to Alabama with the rest of her family around 1834, they most likely planned on staying in Fayette County, Alabama. Theoderick and Elizabeth Berry Franklin did stay in Alabama until about 1836. Their first son, Henry Berry Franklin, was born there in 1835. Why Theodrick and Elizabeth decided to return to Georgia I do not know. It is a fact, however, because in 1837 the couple had a second son, James L. Franklin, born in Floyd County, Georgia. Things apparently went well for the Franklins because the rest of their children were born there.
@@ -584,7 +586,7 @@ Life did not smile on Elizabeth Berry Franklin because before she could return t
   <a href="/images/books/ch11-image179.jpeg">
     <img src="/images/books/ch11-image179.jpeg" alt="Western District, Burleson, Texas, Census June 23, 1870" />
   </a>
-  <p class="caption">Western District, Burleson, Texas, Census June 23, 1870</p>
+  <p class="photo-caption">Western District, Burleson, Texas, Census June 23, 1870</p>
 </div>
 
 Temperance Jane Franklin and her husband, Warren Davis, were married November 9, 1854, in Bienville Parish, Louisiana. Their first son was born in Arkansas and the other three children were born in Louisiana. The couple had only been living in Texas less than 3 years when this census was taken.
@@ -597,7 +599,7 @@ Temperance Jane Franklin and her husband, Warren Davis, were married November 9,
   <a href="/images/books/ch11-image180.jpeg">
     <img src="/images/books/ch11-image180.jpeg" alt="Bible page of Temperance Jane Franklin, Thomas P. Berry's niece" />
   </a>
-  <p class="caption">Bible page of Temperance Jane Franklin, Thomas P. Berry's niece</p>
+  <p class="photo-caption">Bible page of Temperance Jane Franklin, Thomas P. Berry's niece</p>
 </div>
 
 Elizabeth Berry Franklin was trapped in North Carolina during the Civil War and was not able to rejoin her family until the war was over.
@@ -608,7 +610,7 @@ Temperance Jane Franklin married Warren W. Davis and removed to Texas sometime b
   <a href="/images/books/ch11-image181.jpeg">
     <img src="/images/books/ch11-image181.jpeg" alt="Elizabeth Berry Franklin grave site, Salem Cemetery, Brown County, Texas" />
   </a>
-  <p class="caption">Elizabeth Berry Franklin grave site, Salem Cemetery, Brown County, Texas</p>
+  <p class="photo-caption">Elizabeth Berry Franklin grave site, Salem Cemetery, Brown County, Texas</p>
 </div>
 
 This information was copied from an email note sent by Elizabeth Robinett: "I took this picture of the grave site in Salem Cemetery, which is located in Brown County, TX: *E. H. Franklin wife of T. Franklin b. 1812.* I think this is Elizabeth Berry. What are the odds of an E. Franklin born 1812 wife of T. Franklin in the same county as Thomas Benjamin Franklin, who was her son? The cemetery is about 5 miles or so from where he lived."
@@ -657,7 +659,7 @@ There are only two counties separating Lincoln County and Wayne County, Tennesse
   <a href="/images/books/ch11-image182.jpeg">
     <img src="/images/books/ch11-image182.jpeg" alt="George Wesley Berry and Wiley Person Berry" />
   </a>
-  <p class="caption">George Wesley Berry and Wiley Person Berry</p>
+  <p class="photo-caption">George Wesley Berry and Wiley Person Berry</p>
 </div>
 
 ---

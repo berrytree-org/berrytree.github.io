@@ -39,29 +39,29 @@ He was married to Eliza Dennis in July 1848. She still survives. Eight children 
 
  
 
-http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=18422476&ref=acom
+https://www.findagrave.com/memorial/18422476
 
 Family links:
 Parents:
-<a href="http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=49919599">David Berry (1805 - 1880)</a>
-<a href="http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=42626543">Dedama <em>Box</em> Berry (1807 - 1856)</a>
+<a href="https://www.findagrave.com/memorial/49919599">David Berry (1805 - 1880)</a>
+<a href="https://www.findagrave.com/memorial/42626543">Dedama <em>Box</em> Berry (1807 - 1856)</a>
 
 Spouse:
-<a href="http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=18422544">Eliza Catherine <em>Dennis</em> Berry (1828 - 1913)</a>
+<a href="https://www.findagrave.com/memorial/18422544">Eliza Catherine <em>Dennis</em> Berry (1828 - 1913)</a>
 
 Children:
-<a href="http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=24565343">Amanda Catherine <em>Berry</em> Alexander (1853 - 1931)</a>*
-<a href="http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=18422953">John Thomas Berry (1856 - 1926)</a>*
-<a href="http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=42623016">Hepsy Jane <em>Berry</em> Earnest (1859 - 1944)</a>*
-<a href="http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=23918670">Alfred Norton "Dick" Berry (1872 - 1941)</a>*
+<a href="https://www.findagrave.com/memorial/24565343">Amanda Catherine <em>Berry</em> Alexander (1853 - 1931)</a>*
+<a href="https://www.findagrave.com/memorial/18422953">John Thomas Berry (1856 - 1926)</a>*
+<a href="https://www.findagrave.com/memorial/42623016">Hepsy Jane <em>Berry</em> Earnest (1859 - 1944)</a>*
+<a href="https://www.findagrave.com/memorial/23918670">Alfred Norton "Dick" Berry (1872 - 1941)</a>*
 
 Siblings:
 John Henry Berry (1827 - 1904)
-<a href="http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=50630297">William Dolphis Berry (1831 - 1852)</a>**
-<a href="http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=50630518">Alford W Berry (1833 - 1909)</a>**
-<a href="http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=49919586">Alfred Walter Berry (1833 - 1909)</a>*
-<a href="http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=42541958">Mary Ann <em>Berry</em> Dennis (1836 - 1915)</a>**
-<a href="http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=42541776">Robert Bengman Frankling Berry (1848 - 1916)</a>**
+<a href="https://www.findagrave.com/memorial/50630297">William Dolphis Berry (1831 - 1852)</a>**
+<a href="https://www.findagrave.com/memorial/50630518">Alford W Berry (1833 - 1909)</a>**
+<a href="https://www.findagrave.com/memorial/49919586">Alfred Walter Berry (1833 - 1909)</a>*
+<a href="https://www.findagrave.com/memorial/42541958">Mary Ann <em>Berry</em> Dennis (1836 - 1915)</a>**
+<a href="https://www.findagrave.com/memorial/42541776">Robert Bengman Frankling Berry (1848 - 1916)</a>**
 
 <a href="/images/alfred-walter-berry-family.jpg"><img class="size-full wp-image-5312 aligncenter" src="/images/alfred-walter-berry-family.jpg" alt="alfred walter berry family" width="574" height="515" /></a>
 

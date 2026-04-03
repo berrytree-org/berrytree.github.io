@@ -2,7 +2,7 @@
 title: "Ben Henderson releases second Berry Book!!!"
 ---
 
-<a href="/images/front-cover-for-index-bk-e1443292129249.jpg"><img class="size-thumbnail wp-image-3107 alignleft" src="/images/Front-Cover-for-INDEX-Bk-150x150.jpg" alt="Front Cover for INDEX Bk" width="150" height="150" /></a>This is great news for everyone associated with the Robert and Elizabeth Cate Berry family line.
+<a href="/images/front-cover-for-index-bk-e1443292129249.jpg"><img class="size-thumbnail wp-image-3107 alignleft" src="/images/front-cover-for-index-bk.jpg" alt="Front Cover for INDEX Bk" width="150" height="150" /></a>This is great news for everyone associated with the Robert and Elizabeth Cate Berry family line.
 
 <span>This book is available to Everyone FREE in PDF format and can be downloaded from the BOOK PAGE  <a href="/books/books/">CLICK HERE</a>   </span>
 

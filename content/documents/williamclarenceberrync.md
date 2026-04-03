@@ -22,7 +22,7 @@ Generation 3 William and Hannah Cate Berry NC
 William and Massa Berry lived in Fayette Alabama for about 34 years. This is where they raised their family. He owned 260 acres of land in Fayette County Alabama (Vol. # 3 Page 183) and 160 acres of land in Burnet Caounty Texas (xxx page 187).  in Burnet County Texas. The family in the picture is the William A. A. Berry Family.
 In 1870 William Clarence Berry and several of his family removed to Burnet County about five miles south of Lampasas Texas. More of this story is covered on Robert C. Berrys page.
 
-<figure><a href="/images/wc-berry-home.jpg"><img class="size-thumbnail wp-image-2243" src="/images/WC-Berry-Home-150x150.jpg" alt="William Clarence Berry's home in TEXAS" width="150" height="150" /></a> William Clarence Berry's home in TEXAS</figure>
+<figure><a href="/images/wc-berry-home.jpg"><img class="size-thumbnail wp-image-2243" src="/images/wc-berry-home.jpg" alt="William Clarence Berry's home in TEXAS" width="150" height="150" /></a> William Clarence Berry's home in TEXAS</figure>
 
 William Clarence Berry died on September 8th 1798. Massa Ann Thompkins Berry died on January 4th 1903. They both died in Burnet County Texas and are buried there in the Cauble Cemetery. The House on the right is located in Texas and is reported to be the home of William Clarence Berry. <strong>All of William Clarence Berry and Robert C Berry's  children are much closer related to me than I first thought. They are all first cousins to my Great Grandfather John Robert Berry and all of Thomas Person Berry's children by both marriages. This is where the story came from that my Uncle Harold Berry told me.  He said some of our folks went to Texas. </strong>
 

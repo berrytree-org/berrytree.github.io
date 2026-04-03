@@ -1,6 +1,6 @@
 ---
 title: "Berrytree.org"
-description: "Robert and Elizabeth Cate Berry Genealogy"
+description: "Genealogy of Robert and Elizabeth Cate Berry of Orange County, North Carolina — ten generations of descendants across the American frontier, from Virginia to Texas. Explore 243 ancestor profiles, family timelines, DNA research, and a free digital book."
 bookToc: false
 ---
 
@@ -13,6 +13,8 @@ bookToc: false
 </div>
 
 ---
+
+If you're a descendant of Robert and Elizabeth Cate Berry, welcome home. This site was built for you — by family, for family — to preserve the story of where we came from and the people who made us who we are. Whether you're a lifelong researcher or just discovering your Berry roots, you belong here.
 
 This site is dedicated to the genealogy of **Robert Berry** and **Elizabeth Cate Berry** and their descendants — a family whose roots stretch from Princess Anne County, Virginia, through the Carolina piedmont, and across the American frontier. It spans more than four centuries and ten generations.
 
@@ -46,7 +48,8 @@ Robert Berry (OC) arrived in Orange County, North Carolina in 1751, having come 
 
 **Generation 3 — The Ten Children**
 [All ten children of Robert & Elizabeth Cate Berry](/ancestors/robert-elizabeth-berrys-children/)
+Read the full story in [Our Berrys in Frontier America](/books/frontier-america/).
 
 ---
 
-*Site maintained by the Berry family genealogy research team. Content last reviewed 2020–2021.*
+*Site maintained by the Berry family genealogy research team. Content last reviewed 2026. Digital book edition added April 2026.*

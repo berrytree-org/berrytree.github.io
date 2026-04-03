@@ -24,7 +24,7 @@ Robert Berry OC came to a part of Granville County, North Carolina, which was so
 
 On February 6th, 1752, Robert Berry OC made entry in Granville County, North Carolina, for the land he had homesteaded. **(Fig. 17, Pg. 69)**
 
-2 September 1756 **Richard Holeman** Survey 384 acres on **Quarrel Cr.** waters of [Flat R](http://geonames.usgs.gov/pls/gnis/MapServer?f_name=Flat+River&f_latlong=360541N0784849W&f_state=NC&f_ht=.8122&server=TIGER)iver joins James Dickens, **Bradford**, **Thomas** **Bradford**, Wade (or Weldon); **Archillas Wilson**, Charles **Moore**: SCC. Entered 4 Mar 1754 (by **James Taylor**)
+2 September 1756 **Richard Holeman** Survey 384 acres on **Quarrel Cr.** waters of [Flat R](https://geonames.usgs.gov/pls/gnis/MapServer?f_name=Flat+River&f_latlong=360541N0784849W&f_state=NC&f_ht=.8122&server=TIGER)iver joins James Dickens, **Bradford**, **Thomas** **Bradford**, Wade (or Weldon); **Archillas Wilson**, Charles **Moore**: SCC. Entered 4 Mar 1754 (by **James Taylor**)
 
 16 September 1756 Archillas Wilson Survey 283 Acres on **Quarrel Creek**, joins **Richard** **Holeman**, Philemon **Bradford**; **Richard** Holeman, Charles Moore: SCC
 
