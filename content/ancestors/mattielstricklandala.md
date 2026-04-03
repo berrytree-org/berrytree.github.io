@@ -1,41 +1,69 @@
 ---
 title: "Mattie Lee Strickland Ala"
+weight: 50
+bookToc: true
 ---
 
-<h2>Mattie Lee Berry, daughter of Henry Bradford Berry and Malissa Jeffries</h2>
-ANCESTORS
-<ol>
-	<li>Generation Robert and Mary Williamson Berry: Princess Anne County, Virginia.</li>
-	<li>Generation  Robert and Elizabeth Cate Berry: Orange County, North Carolina.</li>
-	<li>Generation  Robert Jr and Mary Waggoner Berry: NC and Fayette County Alabama.</li>
-	<li>Generation  Thompson and Roseann Gutman Berry: Fayette County Alabama.</li>
-	<li>Generation  Henry Bradford and Malissa Jefferies Berry</li>
-</ol>
-<strong>MILISSA LEE BERRY </strong> was born 1882 in Fayette County, Alabama. Millisa L.Berry married David Loyd Strickland about 1902. In 1910 Mattie Lee Berry Strickland and her family were living whith her Widdowed mother Malissa Jefferies Berry in Holly Springs Fayette County Alabama.
+<div class="ancestor-page">
 
-Mattie Lee died in 1916 and is buried at the Berry Cem, Fayette, Fayette County Alabama STRICKLAND, Mattie Lee - 1880 - 1916 David Loyd and Mattie Lee Berry Strickland only had three children.
+{{< breadcrumb trail="Home|/|Ancestors|/ancestors/|Family Lines|/family-lines/|Mattie Lee Berry Strickland" >}}
 
-CHILDREN :
-<ul>
-<ul>
-	<li>Henry DeLloyd Strickland b:23 Sep 1900 Berry, Fayette Co., AL d:31 Dec 1929 Birmingham, Jefferson Co., AL</li>
-	<li>Katherine Jeffries Strickland b:24 Nov 1905 in Berry, Fayette Co., AL d:Abt. 1974 in Houston, Harris Co., TX</li>
-	<li>Willie Frances Strickland b:14 Oct 1909 Berry, Fayette Co., AL d:21 Sep 1991 Mobile, Mobile Co., AL. Willie married Jack Copeland</li>
-</ul>
-</ul>
-David remarried after Mattie died and had four children by his second wife.The children by his second marriage are not related to the Berry family *2nd wife of Daniel Lloyd Strickland: ............................+Martha Elizabeth Willingham m:17 Nov 1918
-............................. Rufus Thurman Strickland b:21 Jan 1921
-............................. Elizabeth Jo Strickland b:04 Jan 1923 Corona, Walker Co., AL
-............................. Martha Nell Strickland b:10 Aug 1924
-............................. Daniel Willingham Strickland b:15 Jan 1926
-<h3><strong>Mattie Lee Berry was listed in her mothers 1900 census</strong></h3>
-<h3>September 26, 2008 Updated 10/19/2015</h3>
-CENSUS INFORMATION
-<blockquote>
-<ul>
-	<li>"Mattie Lee Berry Strickland was only 36 years old when she died"</li>
-	<li>Malissa Jeffries Berry listed head of Household in the 1900 Fayette County Alabama Census...</li>
-	<li> PAGE 1 Malissa Jeffries Berry listed head of Household in the 1900 Fayette County Alabama Census...</li>
-	<li>PAGE 2 Mattie Lee Berry and her husband David Loyd Strickland were living with Mattie's mother in the 1910 Fayette County Alabama Census...</li>
-</ul>
-<a href="#">Return to top of Page</a></blockquote>
+{{< ancestor-chain gen3="Robert Berry Jr. × Mary Waggoner" loc3="NC and Fayette County, Alabama" link3="/ancestors/robert-berry-jr/" />}}
+
+{{< ancestor-profile
+  name="Mattie Lee Berry Strickland"
+  gen="6"
+  born="1882, Fayette County, Alabama"
+  died="1916, Berry Cemetery, Fayette County, Alabama"
+  spouse="David Loyd Strickland — married c. 1902"
+  parents="Henry Bradford Berry and Malissa Jeffries"
+>}}
+
+## Lineage
+
+1. **Gen 1** — Robert and Mary Williamson Berry — Princess Anne County, Virginia
+2. **Gen 2** — Robert and Elizabeth Cate Berry — Orange County, North Carolina
+3. **Gen 3** — Robert Jr. and Mary Waggoner Berry — NC and Fayette County, Alabama
+4. **Gen 4** — Thompson and Roseann Gutman Berry — Fayette County, Alabama
+5. **Gen 5** — Henry Bradford and Malissa Jeffries Berry
+
+---
+
+## The Story of Mattie Lee Berry
+
+Mattie Lee Berry was born 1882 in Fayette County, Alabama. She married David Loyd Strickland about 1902. In 1910 Mattie Lee Berry Strickland and her family were living with her widowed mother Malissa Jeffries Berry in Holly Springs, Fayette County, Alabama.
+
+Mattie Lee died in 1916 and is buried at the Berry Cemetery, Fayette, Fayette County, Alabama. David Loyd and Mattie Lee Berry Strickland only had three children.
+
+## Children of David Loyd and Mattie Lee Berry Strickland
+
+- ——–**Gen 7** Henry DeLloyd Strickland (b. September 23, 1900, Berry, Fayette Co., AL — d. December 31, 1929, Birmingham, Jefferson Co., AL)
+- ——–**Gen 7** Katherine Jeffries Strickland (b. November 24, 1905, Berry, Fayette Co., AL — d. c. 1974, Houston, Harris Co., TX)
+- ——–**Gen 7** Willie Frances Strickland (b. October 14, 1909, Berry, Fayette Co., AL — d. September 21, 1991, Mobile, Mobile Co., AL) — married Jack Copeland
+
+---
+
+## David Strickland's Second Marriage
+
+David remarried after Mattie died and had four children by his second wife. The children by his second marriage are not related to the Berry family.
+
+- 2nd wife: Martha Elizabeth Willingham (m. November 17, 1918)
+  - Rufus Thurman Strickland (b. January 21, 1921)
+  - Elizabeth Jo Strickland (b. January 4, 1923, Corona, Walker Co., AL)
+  - Martha Nell Strickland (b. August 10, 1924)
+  - Daniel Willingham Strickland (b. January 15, 1926)
+
+---
+
+## Census Information
+
+**Mattie Lee Berry was listed in her mother's 1900 census.**
+
+- Malissa Jeffries Berry listed head of household in the 1900 Fayette County Alabama Census
+- Mattie Lee Berry and her husband David Loyd Strickland were living with Mattie's mother in the 1910 Fayette County Alabama Census
+
+> "Mattie Lee Berry Strickland was only 36 years old when she died."
+
+*Updated October 19, 2015*
+
+</div>

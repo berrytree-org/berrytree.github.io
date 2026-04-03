@@ -1,25 +1,41 @@
 ---
 title: "Mary Berry's Family Tree"
+weight: 50
+bookToc: true
 ---
 
-Mary Berry
+<div class="ancestor-page">
 
-daughter of Robert and Elizabeth Cate Berry from Orange County, North Carolina.
+{{< breadcrumb trail="Home|/|Ancestors|/ancestors/|Family Lines|/family-lines/|Mary Berry's Family Tree" >}}
 
-Descendants of Mary Berry
+{{< ancestor-chain gen3="Mary Berry" loc3="Orange County, NC → Laurens County, SC" link3="/family-lines/mary-berrys-family-tree/" />}}
 
-1 Mary Berry 1759 - 1795 d: 1795 in Laurens County South Carolina
-.. +George Waggoner - 1781 m: Abt. 1778 d: Bef. 1781 in Orange Co. N.C.
-..... 2 Elizabeth Waggoner 1781 -
-..... 2 Ann Waggoner 1781 -
-*2nd Husband of Mary Berry:
-.. +James Camp 1758 - 1833 m: Dec 1781 in Orange Co., N.C. d: Abt. 1833 in Ga.
-..... 2 John Camp 1784 -
-......... +Winifred Mattox
-............ 3 Abner Camp
-..... 2 Sarah Camp 1785 -
-......... +Shadrack Humphries
-..... 2 Robert Berry Camp 1787 -
-......... +D. Gillea Bailey 1800 - m: 1813
-..... 2 Starling Camp 1788 -
-..... 2 Joseph Camp 1789 -
+{{< ancestor-profile
+  name="Mary Berry"
+  gen="3"
+  born="1759, Orange County, North Carolina"
+  died="1795, Laurens County, South Carolina"
+  parents="Robert Berry and Elizabeth Cate, Orange County, NC"
+>}}
+
+## Descendants of Mary Berry
+
+Daughter of Robert and Elizabeth Cate Berry from Orange County, North Carolina.
+
+- **Gen 3** Mary Berry (1759–1795, d. Laurens County, South Carolina)
+  - + George Waggoner (d. bef. 1781, Orange Co., NC — m. c. 1778)
+    - ——–**Gen 4** Elizabeth Waggoner (b. 1781)
+    - ——–**Gen 4** Ann Waggoner (b. 1781)
+  - *2nd Husband of Mary Berry:*
+  - + James Camp (1758–c. 1833 — m. December 1781, Orange Co., NC — d. c. 1833, GA)
+    - ——–**Gen 4** John Camp (b. 1784)
+      - + Winifred Mattox
+        - ————–**Gen 5** Abner Camp
+    - ——–**Gen 4** Sarah Camp (b. 1785)
+      - + Shadrack Humphries
+    - ——–**Gen 4** Robert Berry Camp (b. 1787)
+      - + D. Gillea Bailey (b. 1800 — m. 1813)
+    - ——–**Gen 4** Starling Camp (b. 1788)
+    - ——–**Gen 4** Joseph Camp (b. 1789)
+
+</div>

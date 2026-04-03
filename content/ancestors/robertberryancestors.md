@@ -1,85 +1,86 @@
 ---
 title: "Robert Berry Ancestors"
+weight: 50
+bookToc: true
 ---
 
-<h2>Robert Berry was born in Princess Anne County, Virginia, in 1729</h2>
-ANCESTORS OF ROBERT BERRY (OC)
+<div class="ancestor-page">
 
-MATERNAL ANCESTORS
+{{< breadcrumb trail="Home|/|Ancestors|/ancestors/|Robert Berry (OC)|/ancestors/robert-berry-oc/|Ancestors" >}}
 
-Great Grandparents: George and Mary Hutchinson Kempe
+{{< ancestor-profile
+  name="Robert Berry (OC)"
+  gen="2"
+  born="1729, Princess Anne County, Virginia"
+  died="1814, Fiddleton Plantation, Orange County, NC"
+  spouse="Elizabeth Cate"
+  parents="Robert Berry (PAC) and Mary Williamson"
+>}}
 
-Great Grandparents: Roger and Ann Foster Williamson
+## Ancestors of Robert Berry (OC)
 
-Grandparents Richard and Mary Kempe Williamson Parents: Robert and Mary Williamson Berry
+### Maternal Ancestors
 
-<strong>Descendants of Ann Foster and Roger Williamson
-1 <a href="/ancestors/annfosterpac/">Ann Foster</a> 1620 b. In England d: Abt. 1692 in Parish Church. Lynnhaven Parish,Lower Norfolk County,Virginia
-.. +<a href="/documents/rogerwilliamsonpac/">Roger Williamson</a> b. Unknown m: 05 Jun 1646 in Virginia d: Bef. 1650 in Lower Norfolk Co.,VA</strong>
+- Great Grandparents: George and Mary Hutchinson Kempe
+- Great Grandparents: Roger and Ann Foster Williamson
+- Grandparents: Richard and Mary Kempe Williamson
+- Parents: Robert and Mary Williamson Berry
 
-..... 2 <a href="/documents/richardwilliamsonpac/">Richard Williamson</a> b. Before 1650 d: 1721 in Princess Anne County,Virginia
-......... +<a href="/ancestors/marykempepac/">Mary Kempe</a> - Unknown d: Unknown
-................ (Parents George and Mary Hutchinson Kempe) Kempe's Landing Princess Ann County Virginia.
+---
 
-............ 3 <a href="/ancestors/robertberrypac/"> Mary Williamson</a>
-................ <a href="/ancestors/robertberrypac/"> +Robert Berry </a> b.unknown d: 1730 (Parents unknown)
+## Descendants of Ann Foster and Roger Williamson
 
-................... 4 <a href="/ancestors/robert-berry-oc/">Robert Berry</a> b. 1729 d: 1814 in Fiddleton Plantation Orange County N.C.
-....................... +<a href="/ancestors/elizabethcate/"> Elizabeth Cate</a> b. 1735 d: Aft. 1816 in Fiddleton Plantation Orange County N.C.
-..............................................(Parents John and Margery Lawrence Cate)
+- **Gen 1** [Ann Foster](/ancestors/annfosterpac/) (b. 1620, England — d. c. 1692, Parish Church, Lynnhaven Parish, Lower Norfolk County, Virginia)
+  - + [Roger Williamson](/documents/rogerwilliamsonpac/) (b. Unknown — m. June 5, 1646, Virginia — d. bef. 1650, Lower Norfolk Co., VA)
+  - ——–**Gen 2** [Richard Williamson](/documents/richardwilliamsonpac/) (b. before 1650 — d. 1721, Princess Anne County, Virginia)
+    - + [Mary Kempe](/ancestors/marykempepac/) (d. Unknown)
+    - (Parents: George and Mary Hutchinson Kempe — Kempe's Landing, Princess Anne County, Virginia)
+    - ————–**Gen 3** [Mary Williamson](/ancestors/robertberrypac/)
+      - + [Robert Berry](/ancestors/robertberrypac/) (b. Unknown — d. 1730; parents unknown)
+      - ————————**Gen 4** [Robert Berry](/ancestors/robert-berry-oc/) (b. 1729 — d. 1814, Fiddleton Plantation, Orange County, NC)
+        - + [Elizabeth Cate](/ancestors/elizabethcate/) (b. 1735 — d. aft. 1816, Fiddleton Plantation, Orange County, NC)
+        - (Parents: John and Margery Lawrence Cate)
 
-....................... CHILDREN of Robert and Elizabeth Cate Berry:
+### Children of Robert and Elizabeth Cate Berry (Gen 5)
 
-....................... 5 Mary Berry b. about 1759
-....................... 5 Robert Berry Jr. b. about 1760
-....................... 5 John Berry b. about 1762
-....................... 5 Joshua Berry b. about 1766
-....................... 5 Isaac Berry b. about 1768
-....................... 5 Elizabeth Berry b. about 1770
-....................... 5 Thomas Berry b. about 1772
-....................... 5 David J. Berry b. about 1774
-....................... 5 William Berry b. about 1775
-....................... 5 Henry Berry b. 1776
+- ————————————**Gen 5** Mary Berry (b. about 1759)
+- ————————————**Gen 5** Robert Berry Jr. (b. about 1760)
+- ————————————**Gen 5** John Berry (b. about 1762)
+- ————————————**Gen 5** Joshua Berry (b. about 1766)
+- ————————————**Gen 5** Isaac Berry (b. about 1768)
+- ————————————**Gen 5** Elizabeth Berry (b. about 1770)
+- ————————————**Gen 5** Thomas Berry (b. about 1772)
+- ————————————**Gen 5** David J. Berry (b. about 1774)
+- ————————————**Gen 5** William Berry (b. about 1775)
+- ————————————**Gen 5** Henry Berry (b. 1776)
 
-............ 3 John Williamson
-............ 3 Roger Williamson
-............ 3 Bartholomew Williamson
-............ 3 George Williamson
-............ 3 Sarah Williamson
-................ +Matthew Mathias
-............ 3 Ann Williamson
-................ +Hugh Whitehurst
-..... 2 Bartholomew Williamson b. Before 1650
-..... 2 Sarah Williamson b. Before 1650
+### Other Children of Richard and Mary Kempe Williamson
 
-<strong>ANCESTOR LIST:
-</strong>
-<ul>
-<ul>
-	<li><strong>George Kempe</strong>(Great Grandfather of Robert Berry (OC)) Was born in England
+- ————–**Gen 3** John Williamson
+- ————–**Gen 3** Roger Williamson
+- ————–**Gen 3** Bartholomew Williamson
+- ————–**Gen 3** George Williamson
+- ————–**Gen 3** Sarah Williamson
+  - + Matthew Mathias
+- ————–**Gen 3** Ann Williamson
+  - + Hugh Whitehurst
 
- </li>
-	<li><strong>Mary Hutchinson Kempe</strong> Great Grandmother of Robert Berry (OC)
+### Other Children of Ann Foster and Roger Williamson
 
- </li>
-	<li><strong><a href="/documents/rogerwilliamsonpac/">Roger Williamson</a></strong> Great Grandfather of Robert Berry (OC)
+- ——–**Gen 2** Bartholomew Williamson (b. before 1650)
+- ——–**Gen 2** Sarah Williamson (b. before 1650)
 
- </li>
-	<li><strong><a href="/ancestors/annfosterpac/"> Ann Foster Williamson</a></strong> Great Grandmother of Robert Berry (OC)
-Born in England in 1620 and died in Princess Ann County Virginia about 1692
+---
 
- </li>
-	<li><strong><a href="/documents/richardwilliamsonpac/">Richard Williamson</a></strong> Grandfather of Robert Berry (OC)
+## Ancestor List
 
- </li>
-	<li><strong><a href="/ancestors/marykempepac/">Mary Kempe Williamson</a></strong> Grandmother of Robert Berry (OC)
+- **George Kempe** — Great Grandfather of Robert Berry (OC) — was born in England
+- **Mary Hutchinson Kempe** — Great Grandmother of Robert Berry (OC)
+- **[Roger Williamson](/documents/rogerwilliamsonpac/)** — Great Grandfather of Robert Berry (OC)
+- **[Ann Foster Williamson](/ancestors/annfosterpac/)** — Great Grandmother of Robert Berry (OC) — born in England in 1620 and died in Princess Anne County, Virginia about 1692
+- **[Richard Williamson](/documents/richardwilliamsonpac/)** — Grandfather of Robert Berry (OC)
+- **[Mary Kempe Williamson](/ancestors/marykempepac/)** — Grandmother of Robert Berry (OC)
+- **[Robert Berry (PAC)](/ancestors/robertberrypac/)** — Father of Robert Berry (OC) — died in Princess Anne County, Virginia in 1730
+- **[Mary Williamson Berry](/ancestors/robertberrypac/)** — Mother of Robert Berry (OC) — died in Princess Anne County, Virginia about 1746
 
- </li>
-	<li><strong><a href="/ancestors/robertberrypac/"> Robert Berry (PAC)</a></strong> Father of Robert Berry (OC)
-Died in Princess Ann County Virginia in 1730
-
- </li>
-	<li><strong><a href="/ancestors/robertberrypac/">Mary Williamson Berry </a></strong> Mother of Robert Berry (OC)
-Died in Princess Ann County Virginia about 1746</li>
-</ul>
-</ul>
+</div>
