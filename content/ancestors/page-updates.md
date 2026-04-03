@@ -98,7 +98,7 @@ title: "Pages Updates"
  	<li>10/17/2015 Created <a href="/ancestors/1810-hannah-cate-census/">Hannah Cate</a> Berry's 1810 Census page</li>
  	<li>10/17/2015 updated <a href="/ancestors/doraellenturleyga/">Dora Ellen Turley</a> Pace Page.</li>
  	<li>10/17/2015 Updated <strong><a href="/ancestors/davidleeberryohio/">David Lee Berry Ohio </a></strong>Page and removed broken links</li>
- 	<li>10/17/2015 I have started the <strong><a href="/pictures/picturedirectoryt/">Picture Directory</a> </strong>Page this morning</li>
+ 	<li>10/17/2015 I have started the <strong><a href="/pictures/">Picture Directory</a> </strong>Page this morning</li>
  	<li>Week of 10/11/15 to 10/15/15</li>
 </ul>
 <ul>

@@ -32,6 +32,14 @@ Additionally, if you have any source information (links, census data, citations,
 
 ---
 
+### Research Request: James Berry of Smith County, Tennessee
+
+We are actively seeking descendants related to a James Berry (b. ~1800, North Carolina) found in the 1850 Smith County, Tennessee census. If you have information about this family, please reach out.
+
+[View full details →](/contact/request-for-information/)
+
+---
+
 *Last Updated: 2021-02-09*
 
 *Copyright © 2021 W. A. Henderson and Berrytree.org*

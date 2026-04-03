@@ -3,17 +3,11 @@ title: "Site Map"
 weight: 4
 ---
 
-- [1600-1699 Timeline](/timelines/1600-1699-timeline/)
-
-- [1700-1799 Timeline](/timelines/1700-1799-timeline/)
-
 - [1790 Census Index](/ancestors/1790censusindex/)
 
 - [1800 Orange County NC Census](/ancestors/1800-orange-county-nc-census/)
 
 - [1810 Hannah Cate Census](/ancestors/1810-hannah-cate-census/)
-
-- [2000-Present Timeline](/timelines/2000-present-timeline/)
 
 - Abbreviations used in Berrytree.org
 
@@ -341,7 +335,7 @@ weight: 4
 
 - [Pattie S. Berry NC](/ancestors/pattiesberrync/)
 
-- [Picture Directory](/pictures/picturedirectoryt/)
+- [Picture Directory](/pictures/)
 
 - [Political – Roots of Rebellion](/ancestors/political/)
 
@@ -457,23 +451,7 @@ weight: 4
 
 - [Three Brothers OC](/ancestors/three-brothers-oc/)
 
-- Timeline
-
-- Timeline 2
-
-- Timeline 3
-
-- Timeline 4
-
-- Timeline 5
-
-- Timeline 6
-
-- Timeline Index
-
-- Timeline Number 2
-
-- [Timelines](/timelines/timelines/)
+- [Timelines — Wheel of Time](/timelines/)
 
 - [Undeveloped Family Lines](/ancestors/undevelopedlines/)
 

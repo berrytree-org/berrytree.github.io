@@ -5,32 +5,6 @@ weight: 5
 
 **
 
-### [1600-1699 Timeline](/timelines/1600-1699-timeline/)
-1612  George Kemp was born.
-1620  Ann Foster was born in England.
-1620  Mary Hutchinson was born in England.
-1646  Roger Williamson and Ann Foster were married.
-1646 /1650  Richard, Bartholomew, and Sarah Williamson were born.
-1650  Roger Williamson...
-
-### [1700-1799 Timeline](/timelines/1700-1799-timeline/)
-
-Click the year to jump to  
- 
- 
-
-1750  
-1760  
-1770   
-1780  
-1790  
- 
- 
- 
-1704  Robert Berry was listed on the Virginia Rent Rolls in Norfolk.
-1704  Virginia Rent Rolls.
-1704  John Lawson describes conditions at the Occaneechi Village...
-
 ### [1790 Census Index](/ancestors/1790censusindex/)
 1790 CENSUS INDEX 
 1790 Census for Orange Co., NC were lost, this is a compilation of "Tax Records." Records of the Bureau of the Census. Group RG-29 National Archives, Washington, DC 20408 Tax
@@ -58,11 +32,6 @@ Hannah Cate Berry's Listing
 
 	Male age 9; David ll Berry, Thomas and Sarah Cate Berry's son. 
 	Male age 7; William Clarence Berry, William and Hannah Cat...
-
-### [2000-Present Timeline](/timelines/2000-present-timeline/)
-2002  Sally Malena Berry died on March 19. She was the daughter of W.P. Berry Sr. and Ida Ann Wilson Berry.
-2002  Ora Mae Murray Berry died on September 21st. She was the wife of Woodrow Wilson Berry.
-2002  Hilda Elizabeth Nichols Berry died on August...
 
 ### Abbreviations used in Berrytree.org
 
@@ -1500,7 +1469,7 @@ Generation 3 Thomas Person and Sarah Lunsford Berry
 
 Generation...
 
-### [Picture Directory](/pictures/picturedirectoryt/)
+### [Picture Directory](/pictures/)
 Picture Albums Of The Robert And Elizabeth Cate Berry Family 
 
 	Generation Robert and Mary Williamson Berry Princess Anne County Va. 
@@ -2012,79 +1981,8 @@ ANCESTORS
 
 ### [Three Brothers OC](/ancestors/three-brothers-oc/)
 
-### Timeline
-1700 to 1750 
- 1704 John Lawson describes conditions at the Occaneechi Village on the Eno where Hillsborough would eventually be established about 50 years later. 
-
-1730 Robert Berry may have been born this year in England
-
-1735 Elizabeth Cates was...
-
-### Timeline 2
-1751 to 1780 
-1751:  First newspaper in the colony, The North Carolina Gazette, was printed at New Bern by James Davis. 
-
-1752  Robert Berry Entered in the office of the Right Honourable the Earl of Grandville the 6th Day of February Anin Dom 1752...
-
-### Timeline 3
-1781 to 1810 
- 1781  March 15th Cornwallis won a technical victory over Green at Battle of Guilford Courthouse, but began retreat toward Wilmington. Sept.12th Tories led by David Fanning, captured Governor Thomas Burke at Hillsborough and took him to...
-
-### Timeline 4
-1811 to 1830 
- 1811  George N. Berry born in Orange County NC, Parents: David J.and Mary Blalock Berry David J. Berry Line  
-
-1811  Thomas H Barton was born in NC, Parents: Benjamin F. Barton & Dorcas Anderson.Thomas Barton would marry Mary Berry...
-
-### Timeline 5
-1831 to 1860 
-1831 Sarah E. Cates was born November 26 in Georgia Parents: Sarah Berry Cates and William A. Cates. David J. Berry Line  
-
-1831  John Berry was born in Big Cypress Tenn. Parents: David Berry ll & Elizabeth Shipman Berry Thomas Berry...
-
-### Timeline 6
-1861 to 1890 
-1861  Sarah E. Norman was born in Georgia Parents: David Norman (Married Elizabeth Yarbrough David J. Berry Line
-
-1861  Eli D. Berry, was born May 3rd in Orange County N. C. Parents Eli & Judy Betsie Taylor Berry Joshua Berry Line
-
-1861...
-
-### Timeline Index
- 
-30 years is considered one generation 
-Robert Berry Family And National Facts Indexed By Year
-
-30 Year Intervals:  
-
-	1700 to 1750 
-
-  
-	1751 to 1780 
-
-  
-	1781 to 1810 
-
-  
-	1811 to 1830 
-
-  
-	1831 to 1860...
-
-### Timeline Number 2
-TIMELINE FROM 1700 TO 1950 
-1701 1702 1703 1704 1705 1706 1707 1708 1709 1710 1711 1712 1713 1714 1715 1716 1717 1718 1719 1720 1721 1722 1723 1724 1725 1726 1727 1728 1729 1730 1731 1732 1733 1734 1735 1736 1737 1738 1739 1740 1741 1742 1743 1744 1745...
-
-### [Timelines](/timelines/timelines/)
-Click this link to go to 1600-1699 Timeline 
-
-Click this link to go to 1700-1799 Timeline 
-
-Click this link to go to 1800-1899 Timeline 
-
-Click this link to go to 1900-1999 Timeline 
-
-Click this link to go to 2000-Present Timeline 
+### [Timelines — Wheel of Time](/timelines/)
+Interactive century-by-century Berry family timeline from the 1600s to present day.
 
 ### [Undeveloped Family Lines](/ancestors/undevelopedlines/)
 These are Berry descendants whos lines have not been developed in Berrytree.org 

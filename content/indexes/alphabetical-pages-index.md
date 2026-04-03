@@ -77,7 +77,7 @@ title: "Alphabetical Pages Index"
  	<li><a href="/ancestors/orange-county-nc-marriage-bonds-a-c/">Orange County NC Marriage Bonds A-C</a></li>
  	<li></li>
  	<li>P</li>
- 	<li><a href="/pictures/picturedirectoryt/">Picture Directory</a></li>
+ 	<li><a href="/pictures/">Picture Directory</a></li>
  	<li>Q</li>
  	<li>R</li>
  	<li><a href="/documents/robert-berry-oc-will/">Robert Berry's OC Will</a></li>
