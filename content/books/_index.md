@@ -57,6 +57,8 @@ We are making this Second Edition available as a **free PDF** because it is an o
 
 Any male Berry who would like to know if he is related to our Berry Family can find out by taking a simple saliva Y-DNA test. We have 14 participants and an excellent base to compare with. We are the **Orange County NC Berrys** in the FamilyTreeDNA project.
 
+[Read Ben Henderson's announcement about this book →](/books/ben-henderson-second-book/)
+
 [Click here to see a List of 291 Berry Spouse Surnames](/indexes/berry-inlaw-surnames/)
 
 ---
