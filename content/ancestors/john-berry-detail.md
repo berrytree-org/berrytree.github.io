@@ -71,34 +71,34 @@ Robert Berry was listed as being between 26 and 44 and his wife was also listed 
 - **Gen 4** William Berry born 1804
 
 
-**Gen 4 **[William Berry (1804 – 1881)](http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=49919744)
+**Gen 4 **[William Berry (1804 – 1881)](https://www.findagrave.com/memorial/49919744)
 
-**            + **[Sarah *Nelson* Berry (1805 – 1883)](http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=49919695)Children:
+**            + **[Sarah *Nelson* Berry (1805 – 1883)](https://www.findagrave.com/memorial/49919695)Children:
 
 
-- **——–Gen 5** [Sentha *Berry* Dobbs (1844 – 1899)](http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=52801146)*
+- **——–Gen 5** [Sentha *Berry* Dobbs (1844 – 1899)](https://www.findagrave.com/memorial/52801146)*
 
-- ——–[**Gen 5** Nancy *Berry* Brazil (1825 – 1906)](http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=48920526)*
+- ——–[**Gen 5** Nancy *Berry* Brazil (1825 – 1906)](https://www.findagrave.com/memorial/48920526)*
 
-- **——–Gen 5  **[William Berry (1842 – 1913)](http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=49919734)
+- **——–Gen 5  **[William Berry (1842 – 1913)](https://www.findagrave.com/memorial/49919734)
 
-- **——–Gen 5 **[Joshua Berry (1844 – 1862)](http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=47103218)
+- **——–Gen 5 **[Joshua Berry (1844 – 1862)](https://www.findagrave.com/memorial/47103218)
 
-- **——–Gen 5  **[Wilburn Tarplin Berry (1850 – 1926)](http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=74168917)
+- **——–Gen 5  **[Wilburn Tarplin Berry (1850 – 1926)](https://www.findagrave.com/memorial/74168917)
 
 - **——–Gen 5 **Sylvester V. Berry (1832 – 1903)
 
-- **————–Gen 6 **[Matilda Jane *Berry* Canterbury (1854 – 1931)](http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=42194340)*
+- **————–Gen 6 **[Matilda Jane *Berry* Canterbury (1854 – 1931)](https://www.findagrave.com/memorial/42194340)*
 
-- **————–Gen 6 **[Henry B. Berry (1858 – 1942)](http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=42227040)*
+- **————–Gen 6 **[Henry B. Berry (1858 – 1942)](https://www.findagrave.com/memorial/42227040)*
 
-- **————–Gen 6  **[Ulysses L Berry (1872 – 1953)](http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=26117641)*
+- **————–Gen 6  **[Ulysses L Berry (1872 – 1953)](https://www.findagrave.com/memorial/26117641)*
 
-- **————–Gen 6 **[Lee Staten Berry (1876 – 1935)](http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=42227343)
+- **————–Gen 6 **[Lee Staten Berry (1876 – 1935)](https://www.findagrave.com/memorial/42227343)
 
-- **————–Gen6  **[John N. Berry (1823 – 1877)](http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=48920424)
+- **————–Gen6  **[John N. Berry (1823 – 1877)](https://www.findagrave.com/memorial/48920424)
 
-- **————–Gen 6 **[William Sanford Berry (1858 – 1922)](http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=62957167)*
+- **————–Gen 6 **[William Sanford Berry (1858 – 1922)](https://www.findagrave.com/memorial/62957167)*
 
 
 **November 22 1850 Fayette County Alabama Census**
@@ -112,7 +112,7 @@ Robert Berry was listed as being between 26 and 44 and his wife was also listed 
 
 **Gen 4 **BERRY, Sarah [NELSON], 35, f, w, La.
 
-**Gen 5 **[BERRY, Silvester](http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=28339491), 19, m, w, farmer, Ala.
+**Gen 5 **[BERRY, Silvester](https://www.findagrave.com/memorial/28339491), 19, m, w, farmer, Ala.
 
 **Gen 5 **BERRY, Elizabeth, 17, f, w, Ala.
 
@@ -162,17 +162,17 @@ DWELING 346/FAMILY 348
 
 —————————
 
-**Gen 5 **[BERRY, Sylvester](http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=28339491), 28, m, w, farmer, Ala.
+**Gen 5 **[BERRY, Sylvester](https://www.findagrave.com/memorial/28339491), 28, m, w, farmer, Ala.
 
 **            + **Sarah [JOHNSON], 23, f, w, Ala
 
 **Gen 6 **BERRY, James, 7, m, w, Ala.
 
-**Gen 6 **[BERRY, Jane](http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=42194340), 6, f, w, Ala.
+**Gen 6 **[BERRY, Jane](https://www.findagrave.com/memorial/42194340), 6, f, w, Ala.
 
 **Gen 6 **BERRY, Wm. 4, m, w, Ala.
 
-**Gen 6 **[BERRY, Henry](http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=42227040), 1, m, w, Ala.1870 US CENSUS
+**Gen 6 **[BERRY, Henry](https://www.findagrave.com/memorial/42227040), 1, m, w, Ala.1870 US CENSUS
 
 Savannah P. O., 4th Civil District, Hardin County, Tennessee
 
@@ -186,17 +186,17 @@ DWELLING 131/FAMILY 128
 
 ————————
 
-**Gen 5 **[BERRY, Sylvester](http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=28339491), 38, m, w, works on farm, Alabama
+**Gen 5 **[BERRY, Sylvester](https://www.findagrave.com/memorial/28339491), 38, m, w, works on farm, Alabama
 
 + Sarah [JOHNSON], 36, f, w, keeping house, Alabama
 
 **Gen 6 **BERRY, James, 18, m, w, works on farm, Alabama
 
-**Gen 6 **[BERRY, Jane](http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=42194340), 16, f, w, Alabama
+**Gen 6 **[BERRY, Jane](https://www.findagrave.com/memorial/42194340), 16, f, w, Alabama
 
 **Gen 6 **BERRY, William, 13, m, w, works on farm, Alabama
 
-**Gen 6 **[BERRY, Henry](http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=42227040), 12, m, w, works on farm, Alabama
+**Gen 6 **[BERRY, Henry](https://www.findagrave.com/memorial/42227040), 12, m, w, works on farm, Alabama
 
 **Gen 6 **BERRY, George W., 9, m, w, Alabama
 
@@ -214,7 +214,7 @@ DWELLING 290/FAMILY 290
 
 ————————–
 
-**Gen 5 **[BERRY, Sylvester](http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=28339491), w, m, 48, married farmer, Ala., Ga., Ala.
+**Gen 5 **[BERRY, Sylvester](https://www.findagrave.com/memorial/28339491), w, m, 48, married farmer, Ala., Ga., Ala.
 
 **            + **BERRY, Sarah [JOHNSON], w, f, 36, wife, married, keeping house, Ala, Ga., Ga.
 
@@ -226,7 +226,7 @@ DWELLING 290/FAMILY 290
 
 **Gen 6 **BERRY, Ulysses, w, m, 7, son, single, Tenn., Ala., Ala.
 
-**Gen 6 **[BERRY, Lee S.](http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=42227343), w, m, 3, son, single, Texas, Ala., Ala.
+**Gen 6 **[BERRY, Lee S.](https://www.findagrave.com/memorial/42227343), w, m, 3, son, single, Texas, Ala., Ala.
 
 **Gen 6 **BERRY, William S., w, m, 23, widow, laborer, Ala., Ala., Ala
 
@@ -244,7 +244,7 @@ DWELLIING 294/FAMILY 310
 
 ————————-
 
-**Gen 5 **[BERRY, Sylvester B.](http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GRid=28339491), head, w, m, Jan 1840, 70, married 50 years, Alabama, Georgia, Georgia, farmer
+**Gen 5 **[BERRY, Sylvester B.](https://www.findagrave.com/memorial/28339491), head, w, m, Jan 1840, 70, married 50 years, Alabama, Georgia, Georgia, farmer
 
 **         + **BERRY, Sarah R. [JOHNSON], wife, w, f, Feb. 1834, 66, married 50 years, 10 children, 7 living, Alabama, Alabama, Alabama
 

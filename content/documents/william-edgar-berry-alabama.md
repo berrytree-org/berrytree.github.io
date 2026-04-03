@@ -17,7 +17,7 @@ William Edgar Berry was born in 1862 and died on the 5th of April 1949 in Birmin
 	<li>Cuyler Cleo Berry</li>
 	<li>Carlton Berry born November 1895, died May 1 1973</li>
 </ul>
-<figure><a href="/images/cuyler-cleo-berry.jpg"><img class="size-thumbnail wp-image-2815" src="/images/Cuyler-Cleo-Berry-150x150.jpg" alt="Cyler Cleo Berry" width="150" height="150" /></a> Cyler Cleo Berry</figure>
+<figure><a href="/images/cuyler-cleo-berry.jpg"><img class="size-thumbnail wp-image-2815" src="/images/cuyler-cleo-berry.jpg" alt="Cyler Cleo Berry" width="150" height="150" /></a> Cyler Cleo Berry</figure>
 
  
 

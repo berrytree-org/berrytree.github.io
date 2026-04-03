@@ -1,6 +1,7 @@
 ---
 title: "By Family Line"
 weight: 10
+description: "Browse the Robert and Elizabeth Cate Berry descendants organized by family line — all ten children and their branches across North Carolina, Georgia, Alabama, Tennessee, and beyond."
 ---
 
 **Gen 1** Robert and Mary Williamson Berry, Princess Anne County, Virginia.

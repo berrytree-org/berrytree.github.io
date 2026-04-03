@@ -16,6 +16,8 @@ bookToc: true
 
 ---
 
+> **Ancestor Profile:** [David J. Berry Sr.](/ancestors/david-j-berry-sr/) — view the full family profile on berrytree.org
+
 ## Chapter 10
 
 # David J. Berry 1774 to 1838
@@ -125,7 +127,7 @@ Yancy Pascal Barton is Yancy Meredith Barton's nephew and son of Robert Marion a
   <a href="/images/books/ch10-image145.jpeg">
     <img src="/images/books/ch10-image145.jpeg" alt="Dr. Yancy Pascal Barton House in Rusk County, Texas" />
   </a>
-  <p class="caption">Dr. Yancy Pascal Barton House in Rusk County, Texas</p>
+  <p class="photo-caption">Dr. Yancy Pascal Barton House in Rusk County, Texas</p>
 </div>
 
 Yancy Meredith Barton was living with his first cousin, David R. Norman, in Clayton County, Georgia, in the 1860 Census. David Norman's mother, Winnie Berry Norman, was also living with him in the same census. Winnie was also living with her son David in 1840.
@@ -140,7 +142,7 @@ I was able to find Winnie living with David in the 1850 and 1860 Clayton County,
   <a href="/images/books/ch10-image146.jpeg">
     <img src="/images/books/ch10-image146.jpeg" alt="Henry Berry" />
   </a>
-  <p class="caption">Henry Berry</p>
+  <p class="photo-caption">Henry Berry</p>
 </div>
 
 **7. George N. Berry** was born around 1810 in Orange County, North Carolina. Nothing else is known about him.
@@ -177,7 +179,7 @@ NOTE: See Robert and Elizabeth Everett Berry's Bible Page.
   <a href="/images/books/ch10-image147.jpeg">
     <img src="/images/books/ch10-image147.jpeg" alt="Robert and Elizabeth Everett Berry's Bible Page" />
   </a>
-  <p class="caption">Robert and Elizabeth Everett Berry's Bible Page</p>
+  <p class="photo-caption">Robert and Elizabeth Everett Berry's Bible Page</p>
 </div>
 
 ### Martha Mattie Starke and Robert Riley Berry
@@ -186,7 +188,7 @@ NOTE: See Robert and Elizabeth Everett Berry's Bible Page.
   <a href="/images/books/ch10-image148.jpeg">
     <img src="/images/books/ch10-image148.jpeg" alt="Composite picture of Martha Mattie Starke and Robert Riley Berry" />
   </a>
-  <p class="caption">Composite picture of Martha Mattie Starke and Robert Riley Berry</p>
+  <p class="photo-caption">Composite picture of Martha Mattie Starke and Robert Riley Berry</p>
 </div>
 
 Robert Riley Berry is the son of Robert and Elizabeth Everett Berry.
@@ -275,7 +277,7 @@ William Aaron Turley is the son of Nathan (1838–1923) and Mary L. Berry Turley
   <a href="/images/books/ch10-image149.jpeg">
     <img src="/images/books/ch10-image149.jpeg" alt="William Aaron Turley with six of his grandchildren" />
   </a>
-  <p class="caption">William Aaron Turley with six of his grandchildren</p>
+  <p class="photo-caption">William Aaron Turley with six of his grandchildren</p>
 </div>
 
 William Aaron Turley is shown on the left with six of his grandchildren.
@@ -290,7 +292,7 @@ J. D. and Nancy Powell had four children. The oldest son, Melvin Ray Powell, die
   <a href="/images/books/ch10-image150.jpeg">
     <img src="/images/books/ch10-image150.jpeg" alt="Martha Mattie Stark Berry" />
   </a>
-  <p class="caption">Martha Mattie Stark Berry</p>
+  <p class="photo-caption">Martha Mattie Stark Berry</p>
 </div>
 
 ### Dora Ellen Turley
@@ -301,7 +303,7 @@ Dora Ellen Turley is the daughter of Nathan and Mary Lori Berry Turley.
   <a href="/images/books/ch10-image151.jpeg">
     <img src="/images/books/ch10-image151.jpeg" alt="George and Dora Ellen Turley Pace and their children" />
   </a>
-  <p class="caption">George and Dora Ellen Turley Pace and their children</p>
+  <p class="photo-caption">George and Dora Ellen Turley Pace and their children</p>
 </div>
 
 George and Dora Ellen Turley Pace and their children are shown in the picture above. This couple had eleven children and not all of them lived to be adults. They lived in Milton County, Georgia, and they also lived in Cobb County, Georgia.
@@ -335,7 +337,7 @@ William H. Berry's second wife was Amelia Ann Fowler.
   <a href="/images/books/ch10-image152.jpeg">
     <img src="/images/books/ch10-image152.jpeg" alt="Mary Lou Turley" />
   </a>
-  <p class="caption">Mary Lou Turley</p>
+  <p class="photo-caption">Mary Lou Turley</p>
 </div>
 
 ### Hartsfield Children
@@ -353,7 +355,7 @@ William H. Berry's second wife was Amelia Ann Fowler.
   <a href="/images/books/ch10-image153.jpeg">
     <img src="/images/books/ch10-image153.jpeg" alt="John Allmon and Sarah Elizabeth Starke Family" />
   </a>
-  <p class="caption">John Allmon and Sarah Elizabeth Starke Family</p>
+  <p class="photo-caption">John Allmon and Sarah Elizabeth Starke Family</p>
 </div>
 
 This picture may have been taken for a special occasion. The couple on the left was most likely the oldest son and his new bride. It could have been a wedding celebration. Since the young couple was not front and center, I tend to believe that it was not their wedding day. The picture might have been taken of the family by a roving photographer. This business was very prosperous when cameras first became reasonably adequate. The family may have been dressed to go to church on Sunday morning. The only real information I have about this picture is that it is a picture of John Allmon Berry's home and family.
@@ -382,14 +384,14 @@ In 1870, Jesse Lee Berry listed in Etowah County, Alabama, Census. Jesse Lee Ber
   <a href="/images/books/ch10-image154.jpeg">
     <img src="/images/books/ch10-image154.jpeg" alt="Jesse Lee Berry with prize bale of cotton, 1904" />
   </a>
-  <p class="caption">Jesse Lee Berry with prize bale of cotton, 1904</p>
+  <p class="photo-caption">Jesse Lee Berry with prize bale of cotton, 1904</p>
 </div>
 
 <div class="photo-feature">
   <a href="/images/books/ch10-image155.jpeg">
     <img src="/images/books/ch10-image155.jpeg" alt="Jesse Lee Berry as a young man, 1870" />
   </a>
-  <p class="caption">Jesse Lee Berry as a young man, 1870</p>
+  <p class="photo-caption">Jesse Lee Berry as a young man, 1870</p>
 </div>
 
 Jesse's wife, N.A. Berry, was in Spalding, Georgia, in 1930.
@@ -400,7 +402,7 @@ Jesse's wife, N.A. Berry, was in Spalding, Georgia, in 1930.
   <a href="/images/books/ch10-image156.jpeg">
     <img src="/images/books/ch10-image156.jpeg" alt="Five of Jesse Lee and Nancy Ann Henry Berry's children" />
   </a>
-  <p class="caption">Five of Jesse Lee and Nancy Ann Henry Berry's children</p>
+  <p class="photo-caption">Five of Jesse Lee and Nancy Ann Henry Berry's children</p>
 </div>
 
 Left to Right: Sarah Florence Kelly, William Oscar Berry, Albert Edgar Berry, Addie Lee Berry, and Cora Mae McVickers.
@@ -417,7 +419,7 @@ Walter Glen Berry was the son of Jesse Lee and Nancy Ann Henry Berry. He was bor
   <a href="/images/books/ch10-image157.jpeg">
     <img src="/images/books/ch10-image157.jpeg" alt="Walter Glen Berry and Leone Floyd Berry" />
   </a>
-  <p class="caption">Walter Glen Berry and Leone Floyd Berry</p>
+  <p class="photo-caption">Walter Glen Berry and Leone Floyd Berry</p>
 </div>
 
 ### Walter Glen and Leone Floyd Berry's Children
@@ -435,7 +437,7 @@ Walter Glen Berry was the son of Jesse Lee and Nancy Ann Henry Berry. He was bor
   <a href="/images/books/ch10-image158.jpeg">
     <img src="/images/books/ch10-image158.jpeg" alt="2005 Berry-Nix Reunion in Cullman, Alabama" />
   </a>
-  <p class="caption">2005 Berry-Nix Reunion in Cullman, Alabama</p>
+  <p class="photo-caption">2005 Berry-Nix Reunion in Cullman, Alabama</p>
 </div>
 
 This was the first David J. Berry reunion that I attended. I met several of David J. Berry's descendants for the first time. On the way to this event, I traveled the Natchez Trace from Nashville, Tennessee, and visited with John Allen Berry for the first time. In addition to all of the David J. Berry descendants who attended, there were two other family lines represented. I descend from William Berry and John Allen Berry from Thomas Berry.
@@ -448,7 +450,7 @@ This was the first David J. Berry reunion that I attended. I met several of Davi
   <a href="/images/books/ch10-image159.jpeg">
     <img src="/images/books/ch10-image159.jpeg" alt="2006 Berry-Nix Reunion in Roswell, Georgia" />
   </a>
-  <p class="caption">2006 Berry-Nix Reunion in Roswell, Georgia</p>
+  <p class="photo-caption">2006 Berry-Nix Reunion in Roswell, Georgia</p>
 </div>
 
 The picture above was taken at the Willeo Cemetery in Roswell, Georgia, where many of Robert Berry OC descendants are buried with their families.
@@ -473,7 +475,7 @@ The Church behind this group is Berry's Grove Baptist Church. The land for this 
   <a href="/images/books/ch10-image160.jpeg">
     <img src="/images/books/ch10-image160.jpeg" alt="David Berry's descendants in Orange County, NC, in 2002" />
   </a>
-  <p class="caption">David Berry's descendants in Orange County, NC, in 2002</p>
+  <p class="photo-caption">David Berry's descendants in Orange County, NC, in 2002</p>
 </div>
 
 From Left to Right: Martha Mangum's grandson, Martha W. Mangum, Martha's daughter Betty Bruley (Georgia), Jo Patterson, Biff Patterson (Georgia), Lois White (Alabama).
@@ -484,7 +486,7 @@ From Left to Right: Martha Mangum's grandson, Martha W. Mangum, Martha's daughte
   <a href="/images/books/ch10-image161.jpeg">
     <img src="/images/books/ch10-image161.jpeg" alt="2002 Wiley P. and Ida Ann Wilson Berry reunion" />
   </a>
-  <p class="caption">2002 Wiley P. and Ida Ann Wilson Berry reunion</p>
+  <p class="photo-caption">2002 Wiley P. and Ida Ann Wilson Berry reunion</p>
 </div>
 
 ---
@@ -519,7 +521,7 @@ William Henry Berry was married twice. He was married to Matilda A. Starke about
   <a href="/images/books/ch10-image162.jpeg">
     <img src="/images/books/ch10-image162.jpeg" alt="William Henry and Permillia Ann Fowler Berry family" />
   </a>
-  <p class="caption">William Henry and Permillia Ann Fowler Berry family</p>
+  <p class="photo-caption">William Henry and Permillia Ann Fowler Berry family</p>
 </div>
 
 ### William Edgar Berry

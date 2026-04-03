@@ -48,4 +48,12 @@ This one's for you, Dad.
 
 — Aaron Henderson, 2026
 
+---
+
+<div class="book-chapter-nav">
+
+[Table of Contents](/books/frontier-america/) | [Chapter 1: Williamsons, Fosters, Berrys & Kemps →](/books/frontier-america/ch01-williamsons-fosters-berrys-kemps/)
+
+</div>
+
 </div>

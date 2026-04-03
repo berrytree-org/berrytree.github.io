@@ -19,6 +19,8 @@ bookToc: true
   parents="Robert Berry and Elizabeth Cate, Orange County, NC"
 >}}
 
+> **Book Chapter:** Read the full story in [Chapter 6: Joshua Berry](/books/frontier-america/ch06-joshua-berry/) from *Our Berrys in Frontier America*
+
 ## The Story of Joshua Berry Sr.
 
 Joshua Berry was born about 1766 in Orange County, North Carolina, and was one of the ten children of Robert and Elizabeth Cate Berry. He married **Nancy Ellison** on **January 20, 1792** and lived his entire life in Orange County, where he died on **October 8, 1838**.
@@ -109,6 +111,6 @@ Joshua and Nancy had nine children, all born in Orange County, North Carolina.
 <h2 class="ancestor-section">Notable Descendants</h2>
 
 - **Joshua Berry Jr.** — Migrated from North Carolina to Ohio, Indiana, and Iowa. Ten children, all born in Ohio.
-- **Ira Berry** — Son of Lewis Berry (Gen 4), grandson of Joshua Sr. Well-documented descendant in Orange County, North Carolina.
+- **[Ira Berry](/ancestors/ira-berry-nc-detail/)** — Son of Lewis Berry (Gen 4), grandson of Joshua Sr. Well-documented descendant in Orange County, North Carolina.
 
 </div>

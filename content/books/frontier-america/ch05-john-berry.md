@@ -16,6 +16,8 @@ bookToc: true
 
 ---
 
+> **Ancestor Profile:** [John Berry](/ancestors/john-berry/) — view the full family profile on berrytree.org
+
 ## Chapter 5
 
 # John Berry 1762 to 1804
@@ -30,7 +32,7 @@ John Berry was probably the third child and second son born to Robert OC and Eli
   <a href="/images/books/ch05-image97.jpeg">
     <img src="/images/books/ch05-image97.jpeg" alt="John Berry and Martha Stepp Marriage Record" />
   </a>
-  <p class="caption">John Berry and Martha Stepp Marriage Record</p>
+  <p class="photo-caption">John Berry and Martha Stepp Marriage Record</p>
 </div>
 
 John Berry married Martha Stepp on September 16th, 1793, in Person County, which is only a few miles north of his home at Fiddleton. Elizabeth Cate was raised near the Flat River, which is in the same general area. In the marriage record, John Berry's name was misspelled.
@@ -51,7 +53,7 @@ Mary Camp listed as head of household in the 1820 Jackson County, Georgia, censu
   <a href="/images/books/ch05-image98.jpeg">
     <img src="/images/books/ch05-image98.jpeg" alt="1820 Jackson County Georgia census" />
   </a>
-  <p class="caption">1820 Jackson County Georgia census</p>
+  <p class="photo-caption">1820 Jackson County Georgia census</p>
 </div>
 
 ---
@@ -134,7 +136,7 @@ Shelby D. Berry age 1 7/12 (1929) born in Texas both parents born in Texas
   <a href="/images/books/ch05-image99.jpeg">
     <img src="/images/books/ch05-image99.jpeg" alt="Shelby Dale Berry" />
   </a>
-  <p class="caption">Shelby Dale Berry</p>
+  <p class="photo-caption">Shelby Dale Berry</p>
 </div>
 
 Shelby Dale Berry had an acting career and played a cowboy with Gene Autry. He had parts in several movies and as the cowboy fad faded he acted in the TV show Texas Ranger and other TV series. After quitting the acting business, he returned home and worked with his father's heavy equipment company. Dale was apparently very happy with his life and made the statement that he would not change a thing if he had the opportunity to relive his life.

@@ -1,5 +1,6 @@
 ---
 title: "Ancestors"
+description: "Individual profiles for 243 Berry family ancestors spanning seven generations — from Robert Berry of Princess Anne County, Virginia, to descendants across the American frontier."
 weight: 3
 bookCollapseSection: true
 ---
@@ -42,11 +43,10 @@ Individual profiles for ancestors in the Robert and Elizabeth Cate Berry family 
 - [John Berry (TX)](/ancestors/john-berry-tx/)
 - [John Berry (TX) — Detail](/ancestors/john-berry-tx-detail/)
 - [John Robert Berry](/ancestors/john-robert-berry/)
-- [John Robert Berry — Family History](/ancestors/john-robert-berry/)
 - [Joshua Berry (Ohio) — Detail](/ancestors/joshua-berry-ohio-detail/)
 - [Martha M. Lockley](/ancestors/martha-m-lockley/)
 - [Mary Jane Berry (WC)](/ancestors/mary-jane-berry-wc/)
-- [New Veteran Page](/ancestors/new-veteran-page/)
+- [Veterans](/ancestors/new-veteran-page/)
 - [Roann Frances Berry](/ancestors/roann-frances-berry/)
 - [Robert Berry Jr. — Detail](/ancestors/robert-berry-jr-detail/)
 - [Robert Berry (PAC) — Detail](/ancestors/robert-berry-pac-detail/)

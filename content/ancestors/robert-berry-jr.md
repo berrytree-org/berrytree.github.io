@@ -19,6 +19,8 @@ bookToc: true
   parents="Robert Berry and Elizabeth Cate, Orange County, NC"
 >}}
 
+> **Book Chapter:** Read the full story in [Chapter 4: Robert Berry Jr.](/books/frontier-america/ch04-robert-berry-jr/) from *Our Berrys in Frontier America*
+
 ## The Story of Robert Berry Jr.
 
 Robert Berry Jr. was born in Orange County, North Carolina, about 1760. He registered in the 1790 census, meaning he was a property owner by that time. His brother Joshua Berry and his father Robert Berry also listed in that same census.

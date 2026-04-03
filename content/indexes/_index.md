@@ -2,6 +2,7 @@
 title: "Indexes"
 weight: 7
 bookCollapseSection: true
+description: "Alphabetical, family tree, name, and site map indexes for navigating the Berry family genealogy on berrytree.org."
 ---
 
 # Site Indexes

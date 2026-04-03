@@ -116,7 +116,7 @@ John Robert and Elizabeth Frances Bowling Berry are buried at Berry's Grove Bapt
 
 <div class="photo-feature">
   <a href="/ancestors/fiddleton-1891/">
-    <img src="/images/Map_of_Orange_County__NC-Fiddleton-Circa-1890-300x287.jpg" alt="1891 map showing Fiddleton Homestead, J.R. Berry Home, and Berry's Grove Baptist Church" />
+    <img src="/images/map_of_orange_county__nc-fiddleton-circa-1890.jpg" alt="1891 map showing Fiddleton Homestead, J.R. Berry Home, and Berry's Grove Baptist Church" />
   </a>
   <div class="photo-caption">1891 map of Berry's Grove and Fiddleton in northern Orange County, NC — showing the Fiddleton Homestead, J.R. Berry Home, and Berry's Grove Baptist Church</div>
 </div>

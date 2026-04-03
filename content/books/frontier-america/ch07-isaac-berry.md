@@ -16,6 +16,8 @@ bookToc: true
 
 ---
 
+> **Ancestor Profile:** [Isaac Berry](/ancestors/isaac-berry/) — view the full family profile on berrytree.org
+
 ## Chapter 7
 
 # Isaac Berry 1768–1830 to 1840

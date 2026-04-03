@@ -30,7 +30,7 @@ At the beginning of the Berry Y-DNA project, all of us thought that, because of 
   <a href="/images/books/ch17-image214.jpeg">
     <img src="/images/books/ch17-image214.jpeg" alt="Berry Y-DNA Chart" />
   </a>
-  <p class="caption">Berry Y-DNA Chart</p>
+  <p class="photo-caption">Berry Y-DNA Chart</p>
 </div>
 
 Thomas #183 and Shelby D. Berry's DNA test was done by a different company than the rest of the Berry Y-DNA participants used. That is the reason there are missing markers in their results.
@@ -47,21 +47,21 @@ We have discovered that our genes are very powerful and have replicated appearan
   <a href="/images/books/ch17-image215.jpeg">
     <img src="/images/books/ch17-image215.jpeg" alt="Joshua Berry Jr." />
   </a>
-  <p class="caption">Joshua Berry Jr.</p>
+  <p class="photo-caption">Joshua Berry Jr.</p>
 </div>
 
 <div class="photo-feature">
   <a href="/images/books/ch17-image216.jpeg">
     <img src="/images/books/ch17-image216.jpeg" alt="Wiley P. Berry" />
   </a>
-  <p class="caption">Wiley P. Berry</p>
+  <p class="photo-caption">Wiley P. Berry</p>
 </div>
 
 <div class="photo-feature">
   <a href="/images/books/ch17-image217.jpeg">
     <img src="/images/books/ch17-image217.jpeg" alt="Francis Marion Berry" />
   </a>
-  <p class="caption">Francis Marion Berry</p>
+  <p class="photo-caption">Francis Marion Berry</p>
 </div>
 
 The picture on the left is Joshua Berry Jr. He is a grandson of Robert Berry OC and was born on the 15th of April, 1801, in Orange County, North Carolina. He died in Benton County, Iowa, on May 29th, 1879. He descends from Joshua and Nancy Ellison Berry.
@@ -78,7 +78,7 @@ The picture on the right is of Francis Marion Berry, who is also a great-great-g
   <a href="/images/books/ch17-image218.jpeg">
     <img src="/images/books/ch17-image218.jpeg" alt="Five Berry men: Wiley P. Berry, Willy Berry, Thomas E. Berry, Francis Berry, Joshua Berry Jr." />
   </a>
-  <p class="caption">Wiley P. Berry, Willy Berry, Thomas E. Berry, Francis Berry, Joshua Berry Jr.</p>
+  <p class="photo-caption">Wiley P. Berry, Willy Berry, Thomas E. Berry, Francis Berry, Joshua Berry Jr.</p>
 </div>
 
 In the picture above and on the left, you have three of John Robert Berry's sons. All were born in Orange County and died in North Carolina. On the left is Wiley P. Berry **1869-1965**, in the center is Willie Adolphus Berry **1877-1964**, and on the right is Thomas Ewart Berry **1880-1960**.
@@ -101,7 +101,7 @@ We have at least one more known example of a close resemblance between distant c
   <a href="/images/books/ch17-image219.jpeg">
     <img src="/images/books/ch17-image219.jpeg" alt="Ernest John Berry and Raymond Berry" />
   </a>
-  <p class="caption">Ernest John Berry and Raymond Berry</p>
+  <p class="photo-caption">Ernest John Berry and Raymond Berry</p>
 </div>
 
 The picture on the left is of Ernest John Berry and he descends from the Thomas Berry line. He is a great-great-great-great-grandson of Robert Berry OC. Ernest John was born in Cypress Inn, Tennessee, on November 25th, 1911, and died there on July 14th, 1977.
@@ -120,28 +120,28 @@ Descendants of Robert Berry Jr., Joshua Berry, John Berry, Thomas Berry, David J
   <a href="/images/books/ch17-image220.jpeg">
     <img src="/images/books/ch17-image220.jpeg" alt="Berry family comparison photos - William Berry Line and David J. Berry Line" />
   </a>
-  <p class="caption">William Berry Line: Wiley P. Berry Sr., Willie A. Berry, Thomas E. Berry — David J. Berry Line: William Oscar Berry</p>
+  <p class="photo-caption">William Berry Line: Wiley P. Berry Sr., Willie A. Berry, Thomas E. Berry — David J. Berry Line: William Oscar Berry</p>
 </div>
 
 <div class="photo-feature">
   <a href="/images/books/ch17-image221.jpeg">
     <img src="/images/books/ch17-image221.jpeg" alt="Isaac M. Berry - David J. Berry Line" />
   </a>
-  <p class="caption">Isaac M. Berry — David J. Berry Line</p>
+  <p class="photo-caption">Isaac M. Berry — David J. Berry Line</p>
 </div>
 
 <div class="photo-feature">
   <a href="/images/books/ch17-image222.jpeg">
     <img src="/images/books/ch17-image222.jpeg" alt="Berry descendant - Joshua and William Berry Line" />
   </a>
-  <p class="caption">Joshua and William Berry Line</p>
+  <p class="photo-caption">Joshua and William Berry Line</p>
 </div>
 
 <div class="photo-feature">
   <a href="/images/books/ch17-image223.jpeg">
     <img src="/images/books/ch17-image223.jpeg" alt="Berry descendant - David J. Berry Line" />
   </a>
-  <p class="caption">David J. Berry Line</p>
+  <p class="photo-caption">David J. Berry Line</p>
 </div>
 
 ---
@@ -199,6 +199,8 @@ We have a total of 14 participants in our Robert Berry DNA project.
 ## Berry DNA Project URL
 
 <http://freepages.genealogy.rootsweb.com/~langolier/BerryDNA/dna_home.html>
+
+*(This link is no longer active. RootsWeb freepages were retired.)*
 
 Our Robert Berry Y-DNA information may also be viewed on my web page.
 

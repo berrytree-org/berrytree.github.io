@@ -19,6 +19,8 @@ bookToc: true
   parents="Robert Berry and Elizabeth Cate, Orange County, NC"
 >}}
 
+> **Book Chapter:** Read the full story in [Chapter 3: Mary Berry](/books/frontier-america/ch03-mary-berry/) from *Our Berrys in Frontier America*
+
 ## The Story of Mary Berry
 
 Mary Berry was probably born around 1758 and was the first child of Robert and Elizabeth Cate Berry. During the early years of Mary's life, her parents were building the plantation in Orange County, North Carolina, and life was generally happy and good. There were several other young families in the area, all having children and building their own homesteads. Social events consisted of barn raisings, hog killings, and quilting parties.

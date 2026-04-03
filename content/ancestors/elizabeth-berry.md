@@ -19,6 +19,8 @@ bookToc: true
   parents="Robert Berry and Elizabeth Cate, Orange County, NC"
 >}}
 
+> **Book Chapter:** Read the full story in [Chapter 8: Elizabeth Berry](/books/frontier-america/ch08-elizabeth-berry/) from *Our Berrys in Frontier America*
+
 ## What Is Known About Elizabeth Berry
 
 Elizabeth Berry was born about 1770 in Orange County, North Carolina, one of the ten children of Robert and Elizabeth Cate Berry. She never married.

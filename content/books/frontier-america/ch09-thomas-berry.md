@@ -16,6 +16,8 @@ bookToc: true
 
 ---
 
+> **Ancestor Profile:** [Thomas Berry](/ancestors/thomas-berry/) — view the full family profile on berrytree.org
+
 ## Chapter 9
 
 # Thomas Berry 1770 – Before 1812
@@ -72,7 +74,7 @@ In 1803 William Cate died leaving a very large estate.
   <a href="/images/books/ch09-image123.jpeg">
     <img src="/images/books/ch09-image123.jpeg" alt="Estate sale of William Cate 1803" />
   </a>
-  <p class="caption">Estate sale of William Cate 1803. Many Berrys purchased items.</p>
+  <p class="photo-caption">Estate sale of William Cate 1803. Many Berrys purchased items.</p>
 </div>
 
 Robert Sr., Elizabeth, Robert Jr., Joshua, Thomas, and William Berry bought items.
@@ -81,7 +83,7 @@ Robert Sr., Elizabeth, Robert Jr., Joshua, Thomas, and William Berry bought item
   <a href="/images/books/ch09-image124.jpeg">
     <img src="/images/books/ch09-image124.jpeg" alt="William Cate estate sale records" />
   </a>
-  <p class="caption">William Cate estate sale records</p>
+  <p class="photo-caption">William Cate estate sale records</p>
 </div>
 
 William's wife, **Elizabeth Cate**, bought a deft plate, a coffee mill, a broad axe, a smoothing iron, a sugar pot, 2 piggins, 11 plates, and many other items not on this page.
@@ -100,7 +102,7 @@ William's wife, **Elizabeth Cate**, bought a deft plate, a coffee mill, a broad 
   <a href="/images/books/ch09-image125.jpeg">
     <img src="/images/books/ch09-image125.jpeg" alt="William Cate estate sale records continued" />
   </a>
-  <p class="caption">William Cate estate sale records continued</p>
+  <p class="photo-caption">William Cate estate sale records continued</p>
 </div>
 
 William's wife, **Elizabeth Cate**, bought: 1 skimmer, 1 tub, 2 chains, 2 meat bags, 2 beds, 1 glass, 1 set of knives and forks, horse gear, 2 hoes, 2 axes, and 1 plough.
@@ -125,14 +127,14 @@ William's wife, **Elizabeth Cate**, bought: 1 skimmer, 1 tub, 2 chains, 2 meat b
   <a href="/images/books/ch09-image126.jpeg">
     <img src="/images/books/ch09-image126.jpeg" alt="William Cate estate sale records" />
   </a>
-  <p class="caption">William Cate estate sale records</p>
+  <p class="photo-caption">William Cate estate sale records</p>
 </div>
 
 <div class="photo-feature">
   <a href="/images/books/ch09-image127.jpeg">
     <img src="/images/books/ch09-image127.jpeg" alt="Pair of cards from the William Cate estate sale" />
   </a>
-  <p class="caption">Pair of cards from the William Cate estate sale</p>
+  <p class="photo-caption">Pair of cards from the William Cate estate sale</p>
 </div>
 
 **Thomas Berry** bought 1 pair of cards in 1803. In 2005 John Allen Berry, who is a descendant of Thomas Berry, is holding a pair of cards that was passed down through the Thomas Berry family. These could very well be the same pair of cards **Thomas Berry** bought two hundred and two years ago.
@@ -149,7 +151,7 @@ William's wife, **Elizabeth Cate**, bought 1 chaff cutting box, 1 flax wheel, 2 
   <a href="/images/books/ch09-image128.jpeg">
     <img src="/images/books/ch09-image128.jpeg" alt="Sale of William Cate's plantation in North Carolina" />
   </a>
-  <p class="caption">Sale of William Cate's plantation in North Carolina</p>
+  <p class="photo-caption">Sale of William Cate's plantation in North Carolina</p>
 </div>
 
 ---
@@ -174,7 +176,7 @@ What happened to William and Hannah Cate Berry's marriage remains clouded and ma
   <a href="/images/books/ch09-image129.jpeg">
     <img src="/images/books/ch09-image129.jpeg" alt="1810 Enumeration of Hannah Cate Berry" />
   </a>
-  <p class="caption">1810 Enumeration of Hannah Cate Berry</p>
+  <p class="photo-caption">1810 Enumeration of Hannah Cate Berry</p>
 </div>
 
 In the 1810 Orange County, North Carolina, census, Hannah Cate Berry listed as head of household. Sarah Cate Berry and her two children were living with her sister Hannah and her three boys. In 1812, Hannah Cate Berry gave birth to a daughter, Elizabeth Berry, whose father is recorded as John Berry.
@@ -191,7 +193,7 @@ Nell Berry once again is responsible for information leading to who may have esc
   <a href="/images/books/ch09-image130.jpeg">
     <img src="/images/books/ch09-image130.jpeg" alt="Sarah Berry and John Pigg's wedding bond" />
   </a>
-  <p class="caption">Sarah Berry and John Pigg's wedding bond</p>
+  <p class="photo-caption">Sarah Berry and John Pigg's wedding bond</p>
 </div>
 
 Information has been found in the 1850 Lincoln County, Tennessee, census that would indicate William Berry married another woman named Mary and had children by her. Lincoln County is two counties east of Wayne County, Tennessee, where Sarah Berry Pigg lived, and both counties join the Alabama state line. William would certainly have remarried after leaving his wife and family in North Carolina. He was only 35 years old in 1810.
@@ -206,7 +208,7 @@ I first met Nell Berry in 2005 in Wayne County, Tennessee. Nell was married to E
   <a href="/images/books/ch09-image131.jpeg">
     <img src="/images/books/ch09-image131.jpeg" alt="Restored cabin of Eleanor Reed near Cypress Inn, Tennessee" />
   </a>
-  <p class="caption">Restored cabin of Eleanor Reed near Cypress Inn, Tennessee</p>
+  <p class="photo-caption">Restored cabin of Eleanor Reed near Cypress Inn, Tennessee</p>
 </div>
 
 The lady in the yard on the right is Nellie Berry. She and her husband restored the John and Eleanor Berry Reed house. Nellie is the current owner of this wonderful little cabin. The man standing on the porch beside my wife is John Allen Berry, a direct descendant of Thomas and Sarah Cate Berry from Orange County, North Carolina. The lady with the small poodle in her arm is Allen's wife. John Allen Berry's 4th great-grandfather, David Berry II, and my 3rd great-grandfather, Thomas Person Berry, were double first cousins.
@@ -227,14 +229,14 @@ John Allen Berry and I had been communicating by Internet and email. He voluntee
   <a href="/images/books/ch09-image132.jpeg">
     <img src="/images/books/ch09-image132.jpeg" alt="Inside of Eleanor Berry Reed's cabin" />
   </a>
-  <p class="caption">Inside of Eleanor Berry Reed's cabin</p>
+  <p class="photo-caption">Inside of Eleanor Berry Reed's cabin</p>
 </div>
 
 <div class="photo-feature">
   <a href="/images/books/ch09-image133.jpeg">
     <img src="/images/books/ch09-image133.jpeg" alt="Inside of Eleanor Berry Reed's cabin" />
   </a>
-  <p class="caption">Inside of Eleanor Berry Reed's cabin</p>
+  <p class="photo-caption">Inside of Eleanor Berry Reed's cabin</p>
 </div>
 
 Nell Berry and John Allen Berry have contributed so much to my personal knowledge of the Thomas and Sarah Cate Berry family. On my first visit in 2005, Nell Berry and I spent about three or four hours sharing our information at John Allen Berry's home. Jean and I spent the night with John Allen and his wife, Peggy Berry. Their hospitality was certainly appreciated and John and I shared a lot of information the next day before we left to go to Cullman, Alabama.
@@ -337,14 +339,14 @@ The valley where Thomas Berry's family established themselves was lush, beautifu
   <a href="/images/books/ch09-image134.jpeg">
     <img src="/images/books/ch09-image134.jpeg" alt="Jim Dave Berry home and family" />
   </a>
-  <p class="caption">Left to right: Robert Benson, Ode Berry, Ernest John Berry, Thelma Berry (baby), Emma Lee Stults Berry, Obie Berry, Jim Dave Berry, Cove Berry. The picture above is the home of Jim Dave Berry and family.</p>
+  <p class="photo-caption">Left to right: Robert Benson, Ode Berry, Ernest John Berry, Thelma Berry (baby), Emma Lee Stults Berry, Obie Berry, Jim Dave Berry, Cove Berry. The picture above is the home of Jim Dave Berry and family.</p>
 </div>
 
 <div class="photo-feature">
   <a href="/images/books/ch09-image135.jpeg">
     <img src="/images/books/ch09-image135.jpeg" alt="Jim Dave Berry's home today" />
   </a>
-  <p class="caption">This is what Jim Dave Berry's home looks like today.</p>
+  <p class="photo-caption">This is what Jim Dave Berry's home looks like today.</p>
 </div>
 
 Eleanor Berry Reed's cabin was one of the highlights of the 2008 Reunion. All of the cousins who came to this event visited this cabin. This was my second visit and it was just as interesting to me as the first one. I consider Nell Berry to be one of the outstanding genealogists in our Berry family.
@@ -357,21 +359,21 @@ Eleanor Berry Reed's cabin was one of the highlights of the 2008 Reunion. All of
   <a href="/images/books/ch09-image136.jpeg">
     <img src="/images/books/ch09-image136.jpeg" alt="2008 Tennessee Berry Reunion" />
   </a>
-  <p class="caption">2008 Tennessee Berry Reunion</p>
+  <p class="photo-caption">2008 Tennessee Berry Reunion</p>
 </div>
 
 <div class="photo-feature">
   <a href="/images/books/ch09-image137.jpeg">
     <img src="/images/books/ch09-image137.jpeg" alt="2008 Tennessee Berry Reunion" />
   </a>
-  <p class="caption">2008 Tennessee Berry Reunion</p>
+  <p class="photo-caption">2008 Tennessee Berry Reunion</p>
 </div>
 
 <div class="photo-feature">
   <a href="/images/books/ch09-image138.jpeg">
     <img src="/images/books/ch09-image138.jpeg" alt="Berry Reunion pavilion near Cypress Inn, Tennessee" />
   </a>
-  <p class="caption">Berry Reunion pavilion near Cypress Inn, Tennessee</p>
+  <p class="photo-caption">Berry Reunion pavilion near Cypress Inn, Tennessee</p>
 </div>
 
 John Allen Berry and his brothers and sisters built this pavilion in preparation for hosting a Robert and Elizabeth Cate Berry national reunion. The cabin that you see was already on the site and is used annually to accommodate the local Thomas and Sarah Cate Berry Reunion each year in July. The family gathers here with their campers, tents, and some sleep in the cabin. They cook their meals outside, they visit, and spend a week together. This is a wonderful way for a reunion to be held. After the reunion I hosted in 2007 in Orange County, John Allen thought it was appropriate that we gather again in 2008. I could not have agreed with him more. We came from North Carolina, Georgia, Maryland, California and Alabama. John Allen and his siblings hosted a meeting at a local community church building on the night before we gathered at this site for a pig picking and the most delicious food you ever ate in your life. We came, we visited, and we had a wonderful time getting to know each other and our Tennessee cousins.
@@ -380,7 +382,7 @@ John Allen Berry and his brothers and sisters built this pavilion in preparation
   <a href="/images/books/ch09-image139.jpeg">
     <img src="/images/books/ch09-image139.jpeg" alt="2008 Berry Reunion" />
   </a>
-  <p class="caption">2008 Berry Reunion</p>
+  <p class="photo-caption">2008 Berry Reunion</p>
 </div>
 
 Arrangements had been made with a hotel in Florence, Alabama, for the out of state cousins to stay. Carolyn Paulson, her husband Bob, Jean and I made reservations a couple days early. We did this in order to make a trip down to Berry, Alabama, which was named for Thompson P. Berry who was Robert Berry Junior's youngest son. Carolyn Paulson descends from the same Robert Berry Junior line. We spent an entire day visiting Berry, Alabama, and the courthouse in Fayette, Fayette County, Alabama. Bob and Carolyn went back the next day and did an additional day of research. Needless to say, all of us had a wonderful time visiting where our distant cousins had settled in 1824.
@@ -389,14 +391,14 @@ Arrangements had been made with a hotel in Florence, Alabama, for the out of sta
   <a href="/images/books/ch09-image140.jpeg">
     <img src="/images/books/ch09-image140.jpeg" alt="2008 Berry Reunion gathering" />
   </a>
-  <p class="caption">2008 Berry Reunion gathering</p>
+  <p class="photo-caption">2008 Berry Reunion gathering</p>
 </div>
 
 <div class="photo-feature">
   <a href="/images/books/ch09-image141.jpeg">
     <img src="/images/books/ch09-image141.jpeg" alt="2008 Berry Reunion gathering" />
   </a>
-  <p class="caption">2008 Berry Reunion gathering</p>
+  <p class="photo-caption">2008 Berry Reunion gathering</p>
 </div>
 
 As our present day distant cousins began arriving at the hotel, we set up our computers and our photographs displaying information about our particular lines of Berrys. There was a session that was hosted by our Tennessee cousins on the night before the last day of the reunion. As you can tell by the pictures, the food was delicious and the companionship very enjoyable.
@@ -443,7 +445,7 @@ Robert and Mary Williamson Berry, Princess Anne County, Virginia → Robert and 
   <a href="/images/books/ch09-image142.jpeg">
     <img src="/images/books/ch09-image142.jpeg" alt="Sarah Cate Berry Pigg's grave markers" />
   </a>
-  <p class="caption">Sarah Cate Berry Pigg's grave markers</p>
+  <p class="photo-caption">Sarah Cate Berry Pigg's grave markers</p>
 </div>
 
 The headstone behind the new headstone was originally placed at Sarah Cate Berry Pigg's grave by the Berry children or the Pigg children or both families. I'm sure that it stood there for many years but somehow it was knocked over and covered with soil in an open wheat or cornfield. Many years later the owner was plowing in this field. Mr. Holt had plowed up Sarah Cate Berry Pigg's original headstone. When he stopped to investigate, he discovered that it was an old headstone. Mr. Holt was either a neighbor or relative or both and notified the family of what he had found in his field. I would guess that none of the family had any idea where Sarah was buried until this headstone was discovered. The family purchased the new headstone and placed it in front of the old one. Sarah Cate Berry Pigg is my third great grandmother, Hannah Cate Berry's sister.
@@ -452,7 +454,7 @@ The headstone behind the new headstone was originally placed at Sarah Cate Berry
   <a href="/images/books/ch09-image143.jpeg">
     <img src="/images/books/ch09-image143.jpeg" alt="Jackson Cemetery near Cypress Inn, Tennessee" />
   </a>
-  <p class="caption">Jackson Cemetery near Cypress Inn, Tennessee</p>
+  <p class="photo-caption">Jackson Cemetery near Cypress Inn, Tennessee</p>
 </div>
 
 David Berry, his son Isaac Berry, his grandson Jim Dave Berry, his great-grandson Ode Berry, and his great-great-grandson Ernest John Berry are all buried in the Jackson Cemetery near Cypress Inn, Tennessee.
@@ -461,7 +463,7 @@ David Berry, his son Isaac Berry, his grandson Jim Dave Berry, his great-grandso
   <a href="/images/books/ch09-image144.jpeg">
     <img src="/images/books/ch09-image144.jpeg" alt="David II and Elizabeth Shipman Berry's headstone (left) and Jim Dave Berry's headstone (right)" />
   </a>
-  <p class="caption">David II and Elizabeth Shipman Berry's headstone (left) and Jim Dave Berry's headstone (right)</p>
+  <p class="photo-caption">David II and Elizabeth Shipman Berry's headstone (left) and Jim Dave Berry's headstone (right)</p>
 </div>
 
 ---

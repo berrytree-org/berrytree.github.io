@@ -30,7 +30,7 @@ Spouse: Brodie Shakespear Carr born Jun 27 1898 died Aug 24 1973
 
 3 <a href="/ancestors/thomasyoungberrync/">Thomas Young Berry</a> born May 11, 1903 died June 8, 1925
 
-4 <a href="http://berrytree.org/?page_id=146">Sally Malena Berry</a> born July 20, 1908 died March 19 2002
+4 <a href="/ancestors/sallymalenaberrync/">Sally Malena Berry</a> born July 20, 1908 died March 19 2002
 married Sept. 22 1928
 Spouse: Jessie Clyde Henderson born Sept 19 1905 died June 11th 1984
 

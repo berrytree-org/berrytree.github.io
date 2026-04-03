@@ -18,6 +18,9 @@ static/documents/Our_Berrys_In_Frontier_America.pdf
 static/documents/Wagons_South_Wagons_West.pdf
 Projects/larg_files/
 
+# Backup files
+*.old
+
 # Editor
 .vscode/
 .idea/

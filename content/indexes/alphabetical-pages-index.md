@@ -12,7 +12,7 @@ title: "Alphabetical Pages Index"
  	<li><a href="/ancestors/aldridge-berry-farquhar-connection/">Aldridge, Berry, Farquhar, and Waggoner</a></li>
  	<li></li>
  	<li>B</li>
- 	<li> <a href="http://berrytree.org/">By Family Line</a></li>
+ 	<li> <a href="/family-lines/">By Family Line</a></li>
  	<li></li>
  	<li>C</li>
  	<li><a href="/ancestors/catherineberrync/">Catherine Berry </a></li>

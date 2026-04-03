@@ -3,7 +3,7 @@ title: "Fiddleton-1891"
 ---
 
 <!-- wp:image {"id":9704,"sizeSlug":"large","linkDestination":"custom"} -->
-<figure class="wp-block-image size-large"><a href="/images/map_of_orange_county__nc-circa-1890-scaled.jpg"><img src="/images/Map_of_Orange_County__NC-Fiddleton-Circa-1890-1024x980.jpg" alt="" class="wp-image-9704"/></a><figcaption>Fiddleton Homestead, J R Berry Home and Berry's Grove Baptist Church circa 1891</figcaption></figure>
+<figure class="wp-block-image size-large"><a href="/images/map_of_orange_county__nc-circa-1890-scaled.jpg"><img src="/images/map_of_orange_county__nc-fiddleton-circa-1890.jpg" alt="" class="wp-image-9704"/></a><figcaption>Fiddleton Homestead, J R Berry Home and Berry's Grove Baptist Church circa 1891</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -39,7 +39,7 @@ title: "Fiddleton-1891"
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":9518,"sizeSlug":"large","linkDestination":"custom"} -->
-<figure class="wp-block-image size-large"><a href="https://www.google.com/maps/@36.2321218,-79.0289534,15.43z?hl=en" target="_blank" rel="noreferrer noopener"><img src="/images/Screen-Shot-2020-02-03-at-9.10.13-AM-1024x766.png" alt="" class="wp-image-9518"/></a><figcaption>Google Maps of Berry's Grove</figcaption></figure>
+<figure class="wp-block-image size-large"><a href="https://www.google.com/maps/@36.2321218,-79.0289534,15.43z?hl=en" target="_blank" rel="noreferrer noopener"><img src="/images/screen-shot-2020-02-03-at-9.10.13-am.png" alt="" class="wp-image-9518"/></a><figcaption>Google Maps of Berry's Grove</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

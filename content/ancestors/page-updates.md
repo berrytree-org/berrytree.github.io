@@ -70,10 +70,10 @@ title: "Pages Updates"
  	<li>11/05/2015 Completed <a href="/ancestors/shelby-dale-berry/">Shelby Dale Berry</a> page</li>
  	<li>11/4/2015 Updated <a href="/ancestors/johnberry/">John Berry</a>  and <a href="/family-lines/john-berry-family-tree/">John Berry Family tree</a> page.</li>
  	<li>11/2/2015 Working on the Name index pages and made a few changes on <a href="/ancestors/robertpicklenc/">Robert Pickle</a> page</li>
- 	<li>10/29/2015 Added ** <a href="http://berrytree.org/">Alphabetical Name Index</a>** search button to home page</li>
- 	<li>10/29/2015 Added ** <a href="http://berrytree.org/">By Family Line</a>** search button to home page</li>
+ 	<li>10/29/2015 Added ** <a href="/indexes/alphabetical/">Alphabetical Name Index</a>** search button to home page</li>
+ 	<li>10/29/2015 Added ** <a href="/family-lines/">By Family Line</a>** search button to home page</li>
  	<li>10/28/2015 Added names to Name Index  & Updated <a href="/ancestors/maryberry/">Mary Berry's</a> (OC) page</li>
- 	<li>10/27/2015 finished work on <a href="/ancestors/robertberryjr/">Robert Berry Jr. </a>page and added some more names to the <a href="http://berrytree.org/">Name Index</a> page</li>
+ 	<li>10/27/2015 finished work on <a href="/ancestors/robertberryjr/">Robert Berry Jr. </a>page and added some more names to the <a href="/indexes/name-index/">Name Index</a> page</li>
  	<li>10/26/2015 Started work on  <a href="/ancestors/robertberryjr/">Robert Berry Jr.</a> Page</li>
  	<li>10/26/2015 Updated <a href="/ancestors/david-j-berry-sr/">David J Berry</a> Page, son of Robert & Elizabeth Cate Berry</li>
  	<li>10/25/2015 Adding Robert and Elizabeth Cate Berry's grandchildren to the<a href="/indexes/name-index/"> Name Index Page</a></li>

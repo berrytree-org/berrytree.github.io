@@ -1,6 +1,7 @@
 ---
 title: "Contact Us"
 weight: 11
+description: "Contact the Berry family research team — connect with distant cousins, share your research, or request information about the Robert and Elizabeth Cate Berry family."
 ---
 
 ### To contact us, email: {{< email address="berrytree@thgnetworks.com" label="berrytree@thgnetworks.com" >}}
@@ -11,11 +12,15 @@ Please note: If you would like to be introduced to other cousins who are researc
 
 When we determine that you are a descendant of Robert Berry and Elizabeth Cate, we will send you a list of email addresses and contact information for other consenting Berry cousins who are also researching our Berry family. We will always try to protect your privacy.
 
-### A note from Benjamin Henderson
+### A note from Benjamin Henderson (1930–2020)
+
+*Ben Henderson, the founder of this site, wrote the following words during his years of active research. We preserve them here in his memory.*
 
 "Getting to know the other living dedicated genealogical family researchers of our Robert and Elizabeth Cate Berry family is a way to expand our knowledge. We know this from 20 years of doing it the hard way. It took me 2 years before I met my first family distant cousin on the internet. She lived in Texas and happened to be descended from my ggg grandfather's half sister.
 
 As more and more contacts were made we began to finally expand our research and once we started using Y-DNA our knowledge really expanded rapidly. Matching YDNA is all we need to prove that any male is a member of our large family. It recently occurred to me that our current website provided no way to accomplish this. Connecting in the younger generations is so important. You are the researchers who will carry on this research after our generation can no longer participate."
+
+*This site is now maintained by Ben's family. His wish — that younger generations carry on the research — remains our guiding purpose.*
 
 ### Let us know your privacy preference
 

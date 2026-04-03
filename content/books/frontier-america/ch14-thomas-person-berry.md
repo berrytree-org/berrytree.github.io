@@ -24,7 +24,7 @@ bookToc: true
   <a href="/images/books/ch14-image189.jpeg">
     <img src="/images/books/ch14-image189.jpeg" alt="T.P. Berry marriage bond to Sarah Lunsford" />
   </a>
-  <p class="caption">T.P. Berry marriage bond to Sarah Lunsford</p>
+  <p class="photo-caption">T.P. Berry marriage bond to Sarah Lunsford</p>
 </div>
 
 Thomas Person Berry was the son of William Berry and Hannah Cate. He was married three times and had children by each of his first two wives. I am descended from Thomas Person Berry and his first wife, Sarah Lunsford. She is the daughter of William Lunsford and Edy Brinkley Cozart. Edy's parents were James and Sarah Cozart. The Cozart family descended from Jacques Cossart, who was born in France. This family was the first Cozart Family to settle in America.
@@ -79,7 +79,7 @@ So Samuel Wilson was not related to Thomas Berry's two sons when he bought this 
   <a href="/images/books/ch14-image190.jpeg">
     <img src="/images/books/ch14-image190.jpeg" alt="Thomas P. Berry's home built in 1852" />
   </a>
-  <p class="caption">Thomas P. Berry's home built in 1852</p>
+  <p class="photo-caption">Thomas P. Berry's home built in 1852</p>
 </div>
 
 My mother told me that she used to play in this old house when she was a little girl. Mother may have known that this house was her great-grandfather's home only 34 years before she was born, but I have no way of knowing that now. Thomas Person Berry's 4th child by his 2nd marriage was Della Thomas Berry and she married William Cooper Cates Senior. This family had 15 children and lived only a few miles from where my grandparents lived. They had a daughter who was 1 year older than my mother, and mother said she had spent many nights in their home.
@@ -100,14 +100,14 @@ Thomas Person Berry's second wife was Lucy Brown (Lucy Brown was the daughter of
   <a href="/images/books/ch14-image191.jpeg">
     <img src="/images/books/ch14-image191.jpeg" alt="Hannah Cate Berry's 34 Grandchildren" />
   </a>
-  <p class="caption">Hannah Cate Berry's 34 Grandchildren</p>
+  <p class="photo-caption">Hannah Cate Berry's 34 Grandchildren</p>
 </div>
 
 <div class="photo-feature">
   <a href="/images/books/ch14-image192.jpeg">
     <img src="/images/books/ch14-image192.jpeg" alt="Thomas Person Berry's marriage license to Lucy Brown, 1871" />
   </a>
-  <p class="caption">Thomas Person Berry's marriage license to Lucy Brown, 1871</p>
+  <p class="photo-caption">Thomas Person Berry's marriage license to Lucy Brown, 1871</p>
 </div>
 
 ---
@@ -144,7 +144,7 @@ This was a great find for me and opened up a verifiable line back to Robert & El
   <a href="/images/books/ch14-image193.jpeg">
     <img src="/images/books/ch14-image193.jpeg" alt="North Corner of 1891 George Tate Map showing Fiddleton" />
   </a>
-  <p class="caption">North Corner of 1891 George Tate Map showing Fiddleton</p>
+  <p class="photo-caption">North Corner of 1891 George Tate Map showing Fiddleton</p>
 </div>
 
 This is a section of a map that was originally drawn in 1891 by George W. Tate for the Bingham School.
@@ -165,7 +165,7 @@ Wiley P. Berry built his home about where the O in Meridith P.O. is printed on t
   <a href="/images/books/ch14-image194.jpeg">
     <img src="/images/books/ch14-image194.jpeg" alt="Hannah Cate Berry's Estate Listing" />
   </a>
-  <p class="caption">Hannah Cate Berry's Estate Listing</p>
+  <p class="photo-caption">Hannah Cate Berry's Estate Listing</p>
 </div>
 
 Thomas Person Berry, William J. Gray, and Doctor C. Parrish posted bond to the state of North Carolina on the 25th day of February, 1858. The 3 men agreed to pay the state $750 if the inventory of Hannah Berry's estate was not delivered to the court. Thomas Person Berry was appointed administrator of his mother's estate. He was charged with the responsibility to return a true and just inventory of her estate. Doctor C. Parish was Sarah Lunsford Berry's nephew. He was the son of David and Mary (Polly) Lunsford Parish. William J Gray was a neighbor of Thomas Person Berry.
@@ -176,7 +176,7 @@ Eli Berry, who was Thomas Person Berry's first cousin, was engaged to construct 
   <a href="/images/books/ch14-image195.jpeg">
     <img src="/images/books/ch14-image195.jpeg" alt="Receipt for Hannah Cate Berry's Casket" />
   </a>
-  <p class="caption">Receipt for Hannah Cate Berry's Casket</p>
+  <p class="photo-caption">Receipt for Hannah Cate Berry's Casket</p>
 </div>
 
 ---

@@ -16,6 +16,8 @@ bookToc: true
 
 ---
 
+> **Ancestor Profile:** [Joshua Berry Sr.](/ancestors/joshua-berry-sr/) — view the full family profile on berrytree.org
+
 ## Chapter 6
 
 # Joshua Berry 1766–1838
@@ -30,7 +32,7 @@ The second record found about Joshua Berry was his marriage bond to Nancy Elliso
   <a href="/images/books/ch06-image100.jpeg">
     <img src="/images/books/ch06-image100.jpeg" alt="Marriage Bond of Joshua Berry and Nancy Ellison" />
   </a>
-  <p class="caption">Marriage Bond of Joshua Berry and Nancy Ellison</p>
+  <p class="photo-caption">Marriage Bond of Joshua Berry and Nancy Ellison</p>
 </div>
 
 Joshua and Nancy's first son was named Robert Berry for his paternal grandfather. Robert was born about 1792 and remained in Orange County until he died sometime between 1840 and 1850. Joshua and Nancy Berry had a total of 9 children and 7 children remained in North Carolina. James, their 3rd child, removed to Smith County, Tennessee, and Joshua Jr., their 4th child, removed to Gallia County, Ohio. They had a grandson, Ira Berry, and a granddaughter, Nancy E. Berry Wagoner, who removed to Union County, Kentucky, around 1854 (both are children of Lewis and Sally Tolar Berry). After Lewis Berry died in 1858, Sarah Tolar Berry joined her two children and lived with her daughter's family in Kentucky. **(Fig: 71, Pg. 163)**
@@ -73,7 +75,7 @@ Anna Thorpe was born in North Carolina, so is it possible that the Thorpe family
   <a href="/images/books/ch06-image101.jpeg">
     <img src="/images/books/ch06-image101.jpeg" alt="1830 Gallia County, Ohio, Census" />
   </a>
-  <p class="caption">1830 Gallia County, Ohio, Census</p>
+  <p class="photo-caption">1830 Gallia County, Ohio, Census</p>
 </div>
 
 James Thorpe in the chart above is very likely Anna Thorpe's younger brother. Her father was probably dead and the lady who was listed age 60 to 70 living with James Thorpe was likely Anna Thorpe Berry's mother.
@@ -114,7 +116,7 @@ Joseph Berry 1843 born in Indiana died 1934.
   <a href="/images/books/ch06-image102.jpeg">
     <img src="/images/books/ch06-image102.jpeg" alt="Joshua Berry Jr. headstone" />
   </a>
-  <p class="caption">Joshua Berry Jr. headstone</p>
+  <p class="photo-caption">Joshua Berry Jr. headstone</p>
 </div>
 
 Five of the 12 children of Joshua and Anna Thorpe Berry were named for members of the Berry family in Orange County, North Carolina. Seven of the children may have been named after members of the Thorpe family. After living in Indiana about 20 years, Joshua Berry Jr. and his family removed to Benton County, Iowa, sometime before 1860. Joshua Berry Jr. lived the rest of his life in Benton County, Iowa, and died there on May 29th, 1879. He is buried at Mt. Pleasant Cemetery in the Canton Township, Benton County, Iowa. At one time there was a head stone at his grave but it now seems to have been removed. A picture of his headstone is on the right.
@@ -131,7 +133,7 @@ The following information was written by Shelley Rusk Hanson. Shelley is a desce
   <a href="/images/books/ch06-image103.jpeg">
     <img src="/images/books/ch06-image103.jpeg" alt="Harrison Berry" />
   </a>
-  <p class="caption">Harrison Berry</p>
+  <p class="photo-caption">Harrison Berry</p>
 </div>
 
 "Harrison Berry was born 31 May, 1854, in Benton County, Iowa, to Lewis and Elizabeth (Hayward) Berry. He was named after his Uncle Harrison Berry, who was the son of Joshua and Anna (Thorpe) Berry. He was the second child born to Lewis and Eliza Haywood Berry. Lewis and Eliza, along with Lewis parents, Joshua and Anna (Thorpe) Berry and Eliza's father (Abijah Haywood) had moved from Indiana to Iowa prior to the birth of Harrison. They all engaged in farming in Benton County, Iowa, area. On the 9th of August, 1873, Harrison married Henrietta Havens in Linn County, Iowa. Henrietta was the daughter of Ransom and Olive (Usher) Havens. Harrison and Henrietta made their home in Benton County, Iowa, and had three children. Children of Harrison and Henrietta Havens Berry:
@@ -206,7 +208,7 @@ On July 13th, 1913, Fred married Sarah Ann (Miner) Kelley in Lake City, Calhoun,
   <a href="/images/books/ch06-image104.jpeg">
     <img src="/images/books/ch06-image104.jpeg" alt="Fred and Sarah Berry 1925" />
   </a>
-  <p class="caption">Fred and Sarah Berry 1925</p>
+  <p class="photo-caption">Fred and Sarah Berry 1925</p>
 </div>
 
 ---
@@ -315,7 +317,7 @@ Lewis and Sally Tolar Berry's son, Ira Berry, and their daughter, Nancy E. Berry
   <a href="/images/books/ch06-image105.jpeg">
     <img src="/images/books/ch06-image105.jpeg" alt="Ira Berry in the 1850 Orange County, North Carolina, census" />
   </a>
-  <p class="caption">Ira Berry in the 1850 Orange County, North Carolina, census</p>
+  <p class="photo-caption">Ira Berry in the 1850 Orange County, North Carolina, census</p>
 </div>
 
 Ira Berry was 17 years old in the 1850 Orange County Census. **(Fig 70)** Ira was enumerated living with Eli Berry and his young family. James Waggoner and Nancy E Berry Waggoner were living next door. Nancy E. Berry Waggoner was age 21 in 1850. James and Nancy Waggoner were married on June 19th, 1849, and in the 1850 Orange County Census, they had a 2 month old son named John. I was unable to identify Ira Berry's parents and they were a mystery to me for many years. In 1850, Eli Berry was only 27 years old and too young to be Ira's father. I thought that Ira had to be a grandson of Joshua and Nancy Berry because of his age. I knew that Nancy E. Berry Waggoner was Lewis and Sally Tolar Berry's daughter, but it did not occur to me that Ira Berry was also their son. Ira Berry disappeared from Orange County, North Carolina, before 1860 and I had no idea where he went.
@@ -390,7 +392,7 @@ Charles Thomas Berry.
   <a href="/images/books/ch06-image106.jpeg">
     <img src="/images/books/ch06-image106.jpeg" alt="Ira Berry in Kentucky 1860 Census" />
   </a>
-  <p class="caption">Ira Berry in Kentucky 1860 Census</p>
+  <p class="photo-caption">Ira Berry in Kentucky 1860 Census</p>
 </div>
 
 This census form shows Sarah Berry, age 68, a female born in North Carolina was living with James and Nancy E. Berry Waggoner in 1860. Lewis Berry, who was born and died in North Carolina, married Sally Tolar and raised their family in Orange County, North Carolina. As stated before, Lewis Berry died 1858 at the same time several other members of our Berry family died, most likely from the worldwide flu epidemic. After Lewis died, Sarah Tolar Berry made her way to join her son and daughter in Kentucky. My own third great-grandmother, Hannah Cate Berry, also died in 1858 in Orange County. Hannah Cate Berry's grandson William H Berry, son of Thomas Person Berry, was also a victim of this flu virus. Elizabeth Berry Franklin's husband Theodrick Franklin died in Floyd County Georgia at the same time. This epidemic probably caused all four of these deaths in my Berry family line. Other members of our Berry family throughout other parts of the nation may have died from this virus also. If you know of a family member in your line who died in 1858 it was most likely caused by this 1857/1858 worldwide flu epidemic.
@@ -405,7 +407,7 @@ Franklin Pierce Berry is the great-grandson of Joshua & Nancy Berry in Orange Co
   <a href="/images/books/ch06-image107.jpeg">
     <img src="/images/books/ch06-image107.jpeg" alt="Franklin Pierce Berry and Sophia M. Sellers" />
   </a>
-  <p class="caption">Franklin Pierce Berry and Sophia M. Sellers</p>
+  <p class="photo-caption">Franklin Pierce Berry and Sophia M. Sellers</p>
 </div>
 
 Franklin was born on July 12th, 1854, and died on January 1st, 1909.
@@ -452,7 +454,7 @@ Katherine Berry was born in Seabee, Webster County, Kentucky, and died in Willia
   <a href="/images/books/ch06-image108.jpeg">
     <img src="/images/books/ch06-image108.jpeg" alt="Benjamin Franklin and Kate Berry Moake" />
   </a>
-  <p class="caption">Benjamin Franklin and Kate Berry Moake</p>
+  <p class="photo-caption">Benjamin Franklin and Kate Berry Moake</p>
 </div>
 
 All four children of Benjamin and Kate Moake were born in Williamson County, Illinois.
@@ -471,21 +473,21 @@ Benjamin Franklin and Kate Berry Moake's Children:
   <a href="/images/books/ch06-image109.jpeg">
     <img src="/images/books/ch06-image109.jpeg" alt="Donovan Moake, Robert Moake, Frank Moake" />
   </a>
-  <p class="caption">Donovan Moake, Robert Moake, Frank Moake</p>
+  <p class="photo-caption">Donovan Moake, Robert Moake, Frank Moake</p>
 </div>
 
 <div class="photo-feature">
   <a href="/images/books/ch06-image110.jpeg">
     <img src="/images/books/ch06-image110.jpeg" alt="Left to Right: Mose Felts, Lee Crist, Ben Moake, Orion Berry, Lenon Berry" />
   </a>
-  <p class="caption">Left to Right: Mose Felts, Lee Crist, Ben Moake, Orion Berry, Lenon Berry</p>
+  <p class="photo-caption">Left to Right: Mose Felts, Lee Crist, Ben Moake, Orion Berry, Lenon Berry</p>
 </div>
 
 <div class="photo-feature">
   <a href="/images/books/ch06-image111.jpeg">
     <img src="/images/books/ch06-image111.jpeg" alt="Left to Right: Maude Crist, Kate Berry Moake, Maggie Felts McDonald" />
   </a>
-  <p class="caption">Left to Right: Maude Crist, Kate Berry Moake, Maggie Felts McDonald</p>
+  <p class="photo-caption">Left to Right: Maude Crist, Kate Berry Moake, Maggie Felts McDonald</p>
 </div>
 
 ---
@@ -510,7 +512,7 @@ The description of the property that Robert Berry OC sold his son, Joshua, amoun
   <a href="/images/books/ch06-image112.jpeg">
     <img src="/images/books/ch06-image112.jpeg" alt="Property map" />
   </a>
-  <p class="caption">Property map</p>
+  <p class="photo-caption">Property map</p>
 </div>
 
 This same property changed ownership several more times. I have no idea what happened to this land between 1811 and the time my 2nd Great-Grandfather Thomas Person Berry acquired it.
@@ -527,14 +529,14 @@ Below is an application that Eli D. Berry submitted to the county in order to se
   <a href="/images/books/ch06-image113.jpeg">
     <img src="/images/books/ch06-image113.jpeg" alt="Eli D. Berry's Application" />
   </a>
-  <p class="caption">Eli D. Berry's Application</p>
+  <p class="photo-caption">Eli D. Berry's Application</p>
 </div>
 
 <div class="photo-feature">
   <a href="/images/books/ch06-image114.jpeg">
     <img src="/images/books/ch06-image114.jpeg" alt="Nancy Berry's Property Settlement" />
   </a>
-  <p class="caption">Nancy Berry's Property Settlement</p>
+  <p class="photo-caption">Nancy Berry's Property Settlement</p>
 </div>
 
 **A list of Nancy Berry's heirs:**
@@ -595,7 +597,7 @@ Joshua Berry listed in every Orange County, North Carolina, Census from 1790 to 
   <a href="/images/books/ch06-image115.jpeg">
     <img src="/images/books/ch06-image115.jpeg" alt="Patricia Murdock Hutchins 1928–2006" />
   </a>
-  <p class="caption">Patricia Murdock Hutchins 1928–2006</p>
+  <p class="photo-caption">Patricia Murdock Hutchins 1928–2006</p>
 </div>
 
 Pat was a descendant of Andrew Murdock and Dicey Berry. Dicey Berry was a daughter of Joshua and Nancy Ellison Berry.
