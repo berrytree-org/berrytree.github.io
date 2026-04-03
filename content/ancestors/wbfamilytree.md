@@ -1,166 +1,574 @@
 ---
 title: "William Berry Family Tree"
+weight: 50
+bookToc: true
 ---
 
-<h2>Descendants of Robert and Elizabeth Cate Berry</h2>
-ANCESTORS
+<div class="ancestor-page">
 
-Generation 1 Robert and Elizabeth Cate Berry
+{{< breadcrumb trail="Home|/|Ancestors|/ancestors/|Family Lines|/family-lines/|William Berry Family Tree" >}}
 
-<strong>Descendants of William Berry</strong>
+{{< ancestor-chain gen3="William Berry × Hannah Cate" loc3="Orange County, NC" link3="/ancestors/william-berry/" />}}
 
-<strong>
-3 William Berry 1775 - d: in No records found about death location
-.. +Hannah Cate 1770 - 1858 m: 12 Aug 1799 Orange Co N.C. d: 25 Feb 1858 Orange Co. N.C.</strong>
+{{< ancestor-profile
+  name="William Berry"
+  gen="3"
+  born="1775"
+  died="No records found about death location"
+  spouse="Hannah Cate (1770–1858) — married August 12, 1799, Orange County, NC"
+  parents="Robert Berry and Elizabeth Cate, Orange County, NC"
+>}}
 
-<strong>..... 4    William Clarence Berry     1803 - d: 08 Sep 1878                                                 ....</strong><strong>.........        +Sally Bowles 1798 - 1833  d: 1833 Orange Co.N.C                     .</strong><strong>............      5    George Rufus Berry    1829 - d 25 Dec 1909 inTexas </strong><strong>................        +Sarah Catherine Farquhar     1826 -  d: 23 Jan 1905 inTexas ...................     6    Sarah E Berry  1851 - 1907 d: 22 Apr 1907 in  Texas          .......................       +William L. Long 1846 - 1923     d: 27 Aug 1923inTexas            ..........................    7    Harris Long     1871 -                                                                      ..........................    7    Ellar Long 1881 -                                                                            ..........................    7   James R. Long      1883 -                                                           ..........................    7    John C. Long  1885 -                                                                         ..........................    7    Minnie B. Long     1887 -                                                           ..........................    7    Samuel A. Long    1889 -                                                                 ...................     6    John D.D. Berry    1856 -                                                                         .......................       +Amelia Ann Walk     1864 -  m: 23 Dec 1878 inTX ..........................    7    James E. Berry      1879 -                                                                 ..........................    7    John G. Berry  1882 -                                                                        ..........................   7    Kattie H.Berry      1885 -                                                                 ..........................    7    Annie Berry    1886 -                                                                     ..........................    7    Leslie Berry     1890 -                                                                     ..........................    7    Sadie Berry     1892 -                                                                         ..........................    7    Lilia Berry 1898 -                                                                           ..........................    7    Sue N. Berry   1898 -                                                                         ...................     6    James H.H.Berry   1860 - 1930 d: 02 Sep 1930                   .......................       +Minnie C. O'Hair      1865 -                                                                 ..........................    7    Mollie Myrtle Berry    1887 -                                                         ..........................    7   Nellie H. Berry      1890 -                                                                   ..........................    7    Willie N. Berry      1893 -                                                               ..........................    7    Hansford Berry     1897 -                                                                  ..........................    7    Lula Kate Berry    1900 -                                                                 ...................     6    George Rufus R. Berry     1862 -                                                         .......................       +Willie      1870 -  m: 02 Jun 1887                                                        ..........................    7    Kent W. Berry      1888 -                                                                  ..........................   7    Marcus Berry  1890 -                                                                       ..........................    7    Earl Berry  1890 -                                                                             ...................     6    William Anderson A. Berry    1867 -                                                .......................       +S. Lina Rogers    1873 -  m: 20 Dec 1889           ..........................    7    Ruby Berry     1891 -                                                             ..........................    7    Marshall Berry      1893 -                                                                 ..........................    7    Jaff D. Berry   1895 -                                                                         ......................         7     Maude Berry 1896                                                                                      ...................   6    Thomas Person Pierce Berry  1853 -d: 09 Mar 1929       .......................       +Alberta Allie Taylor  1863 - d: 25 Nov 1934 in TX .......................... 7    Robert Melvin Berry   1893 - d: 20 Sep 1953  .............................    +Eliza Della Farquhar 1889 - d: 26 Mar 1977 in Texas ..........................    7    George R. Berry    1885 -                                                           ..............................            +Susle Lee                                                                                 ..................................  8    Lola Mae Berry     1919 -                                                         ..........................    7    Thomas F. Berry   1901 -                                                                 ..............................            +Julie E. m: 1918                                                          .................................  8    Frankie A. Berry   1918 -                                                     ..................................  8    Mildred Berry 1920 -                                                               ..................................   8   Edgar M. Berry 1922 -                                                             ..........................    7    Robert M. Berry    1893 -                                                               ..........................    7    Melvin B. Berry    1897 -                                                       ..............................            +Della       m: 1921                                                                       ............      5    Elizabeth Jane Berry   1831 - d: 22 Sep 1893 in Alabama ................        +Albert Galiton Whitson  1816 - d: 22 Apr 1890 in Alabama ...................     6    Alford Galiton Whitson    1864 -                                                         ...................     6    Nancy Malissa Whitson    1866 -                                                         .......................       +John Herron m: 12 Dec 1890 in Walker County Alabama    ............      5    Roann Frances Berry  1833 - d: 08 Nov 1922 in Texas ................        +Riley Aley Kizziah   1838 -  d: 31 Dec 1862 in Tennessee ...................     6    Aila Kizziah    1862 - d: 1948 in McCulloch County Texas .......................       +Anderson Farquhar McCoy  1860 -  d: 1948 in  Texas ..........................    7    Emma McCoy 1884 -                                                                         ..........................    7    Arthor McCoy      1887 -                                                                   ..........................    7    Maude McCoy      1889 -                                                                   ..........................    7    Edward McCoy    1892 -                                                                   ..........................    7    Pearl McCoy   1895 -                                                                         ..........................    7   Elva Mae McCoy  1898 - d: 22 Jun 1972                              ..............................      +Milburn Palmer Pearson  1895 - d: 08 Jan 1968 ..................................  8    Leslie Thomas Pearson 1922 - d: 28 Jan 1930               .....       *2nd Wife of William Clarence Berry:                                                                     .........    +Massa Ann Thompkins   1819 - m: 1836     d: 14 Jan 1913                     ............      5    John Thomas Berry     1838 - d: 23 Mar 1917 in Lamar Alabama ................        +Elizabeth 1842 -                                                                                             ...................     6    Robert L. Berry     1866 -                                                                       ...................     6    Ann Berry 1868 -                                                                                       ...................     6    Francis Berry   1870 -                                                                               ...................    6    Elda Berry 1877 -                                                                                         ...................     6    William Berry  1879 -                                                                               ...................     6   Thomas Jefferson Berry    1872 - d: 09 Jul 1955 in  Alabama .......................       + Martha Frances Gardner 1880 - d: 21 Oct 1971 in  Alabama ..........................    7     Jonas Savage Berry     1905 -                                                   ..........................    7     Jesse Talmage Berry    1906 -                                           ..............................      + Ellis Crownover                                                                ..........................          *2nd Wife of  Jesse Talmage Berry:                                             ..............................       + Rosa Howard      1916 - d: 10 Sep 1954 in Alabama ..........................          *3rd Wife of  Jesse Talmage Berry:                                   ..............................          + Lucy Phillips 1910 -  m: 31 Mar 1976                                 ..........................    7    Victor Young Berry    1911 -                                                       ..............................    + Annie Lorainne Anderson  1916 -  m: 1940  in Miss     ..................................  8     Thomas Edwin Berry      1941 -                       .....................................          + Janis Vaughn                                                                     .................................. 8    Victor Glenn Berry    1942 -                                       .....................................       + Elizabeth Virginia Hood 1944 -  m: Arab Ala  ...................     6    Lenard Bradford Berry   1874 - d: 26 Mar 1962 in  Ala .......................       + Orvie J   1878 -                                                                                        ...................           *2nd Wife of Lenard Bradford Berry:                                                .......................       + Olive Fendley    1877 - 1954 d: 30 Jun 1954 in   Alabama ..........................    7     Della E. Berry      1897 -                                                                   ..........................    7    Eddie Banks Berry    1899 -                                                           ..........................    7     Ira Thomas Berry 1910 -                                                                 ..........................    7     Iva L Berry    1904 -                                                                         ..........................    7    Minnie J. Berry    1907 -                                                                   ..........................    7    [31] Forrest Berry 1909 -                                                               ..........................    7   [32] Exia Berry     1911 -                                                                     ..........................    7      Thomas P. Berry  1915 -                                                                 ..........................    7   Lucile Berry   1916 -                                                                           ............ *2nd Wife of John Thomas Berry:                                                                         ...................     6    Oza Ella Berry  1876 - d: in Fayette County Alabama                   .......................       +Joe A.</strong> <strong>Lindsey    1871 d: in Fayette County Alabama               ..........................    7    Ruthie Lindsey     1897 -                                                                   ...........................   7    Cluill Lindsey 1899 -                                                                     ..........................    7    Samuel M Lindsey      1900 -                                                       ...................     6   William Anderson Berry   1879 -  d: 30 Aug 1880                   ...................     6   John Henry Berry  1881 - d: 06 Dec 1950                                   .......................       +Carrah Savana Kennedy 1884 - d: 09 Aug 1954 in Alabama ..........................    7    Powell Berry   1903 -                                                                         ..........................    7    Mamie Berry   1908 -                                                               ..........................    7    Arthur Berry   1912 -                                                                         ..........................    7   Maynell Berry 1915 -                                                                         ............     5   Mary Jane Berry    1840 -d: 27 Nov 1907 in Fayette Alabama ................        +Enoch Jefferson Kiszzah      1836 -d: 07 Jul 1933 in Alabama ...................     6   William T. Kizziah      1862 -d: 1941 in Fayette  Alabama   .......................       +Laura A. Crowley     1856 -d: 1908 in Fayette  Alabama ...................     6    Robert Lee Berry  1866 - 1906 d: 06 Jul 1906 in   Alabama  </strong><strong>.......................       +Hassie Gray  1906 -   d: 20 Nov 1955 in Fayette  Alabama  </strong><strong>...................     6   Vulula Ann Berry 1868 - d: 05 Jul 1944 in Fayette Alabama  </strong><strong>......................       +John McClung b 03 Mar 1868 d 15 Mar 1948 Fayette Ala  </strong><strong>..........................   7    Donie J McClung  1889 -                                      </strong><strong>..........................    7    Murry B McClung      1890 - </strong><strong>                                                           </strong><strong>..........................   7    Ruby E McClung  1893 -                                                        </strong><strong>...................     6    Isabelle Frances Berry 1870 -                            </strong><strong>.......................       +Simpson N. Lindsey 1859 -  m: 28 Feb 1897  </strong><strong>..........................    7    William V. Lindsey     1886 -                                  </strong><strong>..........................    7    John Q. Lindsey    1888 -                                          </strong><strong>..........................    7    Ida Key Lindsey   1890 -                                  </strong><strong>..........................    7    Eles L Lindsey      1895 -                                                            </strong><strong>..........................    7    Morgan Lindsey    1898 -                                                                </strong><strong>...................     6     Thomas Jefferson Berry    1872 - d: 09 Jul 1955 in Ala  </strong><strong>.......................       + Martha Frances Gardner 1880 -  d: 21 Oct 1971 in  Ala  </strong><strong>..........................    7    Jonas Savage Berry     1905 -                                      </strong><strong>..........................    7     Jesse Talmage Berry    1906 -                      </strong><strong>..............................       + Ellis Crownover                                                      </strong><strong> ..</strong><strong>......................           *2nd Wife of Jesse Talmage Berry:  </strong><strong>..............................            +Rosa Howard  1916 -   d: 10 Sep 1954 in Alabama  </strong><strong>..........................          *3rd Wife of Jesse Talmage Berry                    .</strong><strong>..............................            + Lucy Phillips 1910 -  m: 31 Mar 1976  </strong><strong>..........................    7    Victor Young Berry    1911 -     </strong><strong>                                   </strong><strong>..............................         + Annie Lorainne Anderson  1916 -  m:  1940 in Miss  </strong><strong>...................     6    Lenard Bradford Berry   1874 - d: 26 Mar 1962 in Ala  </strong><strong>.......................       + Orvie J   1878 -                                                      </strong><strong>...................           *2nd Wife of  Lenard Bradford Berry                              :</strong><strong>.......................       + Olive Fendley    1877 -  d: 30 Jun 1954 in Fayette Alabama  </strong><strong>..........................    7    Della E. Berry      1897 -                                    </strong><strong>..........................    7     Eddie Banks Berry    1899 -                                              </strong><strong>..........................    7     Ira Thomas Berry 1910 -                                                    </strong><strong>..........................    7     Iva L Berry    1904 -                                                  </strong><strong>..........................    7     Minnie J. Berry    1907 -                                                    </strong><strong>..........................   7     Forrest Berry 1909 -                                        </strong><strong>..........................    7   Exia Berry     1911 -                                                                    </strong><strong>..........................    7     Thomas P. Berry  1915 -                                                            </strong><strong>..........................    7     Lucile Berry   1916 -                                                                          </strong><strong>...................     6    Oza Ella Berry      1876 - d: in Fayette County Alabama  </strong><strong>.......................       +Joe A. Lindsey    1871 -    d: in Fayette County Alabama  </strong><strong>..........................    7   Ruthie Lindsey     1897 -                                                            </strong><strong>..........................    7    Cluill Lindsey 1899 -                                                              </strong><strong>..........................    7    Samuel M Lindsey      1900 -                                                          </strong><strong>...................     6    William Anderson Berry   1879 -  d: 30 Aug 1880  </strong><strong>...................     6    John Henry b 04 May 1881  d: 06 Dec 1950  </strong><strong>.......................       +Carrah Savana Kennedy 1884 - d: 09 Aug 1954 in  Ala  </strong><strong> </strong><strong>..........................    7    Powell Berry   1903 -                                                                        </strong><strong>..........................    7    Mamie Berry   1908 -                                                                    </strong><strong>..........................    7    Arthur Berry   1912 -                                                                  </strong><strong>..........................    7    Maynell Berry 1915 -                                                                        </strong><strong>............      5    Mary Jane Berry    1840 -  d: 27 Nov 1907 in Fayette Alabama  </strong><strong>................        +Enoch Jefferson Kiszzah      1836 -  d: 07 Jul 1933 in Alabama  </strong><strong>...................     6    William T. Kizziah      1862 - d: 1941 in Fayette  Alabama  </strong><strong>.......................       +Laura A. Crowley     1856 - d: 1908 in Fayette Alabama  </strong><strong>...................    6    Aley Thompson Kizziah   1866 - d: 1953 in Fayette  Alabama  </strong><strong>.......................       +Bessie Hinton     1875 - d: 1949 in Fayette County Alabama  </strong><strong>...................     6    George Rufus R. Kizziah  1871 - d: 19 Apr 1939 in Alabama  </strong><strong>.......................       +Martha Nancy Roberts   1866 - d: 1951 in Fayette Alabama  </strong><strong>..........................    7    Essie E. Kizziah    1902 -                              </strong><strong>..............................7     Elmer Kizziah    1804                                     </strong><strong>           </strong><strong> </strong><strong>..........................    7    Delma Kizziah      1904 -                                          </strong><strong>..........................    7   George D. Kizziah      1906 -                                                          </strong><strong>...................     6    Mary Ann Molly Kizziah        1869 -  d: 07 Jun 1959 in Ala  </strong><strong>.......................       +Hayward R. Sexton  1866 -   d: 18 Jan 1940  </strong><strong>..........................    7   Belton S. Sexton   1906 - d: 27 Jul 1979 in Alabama  </strong><strong>..............................       +Addie Williams   1905 - d: 01 Mar 1972 in Alabama  </strong><strong>...................     6    Enoch Emanuel Kizziah    1871 - d: 02 Nov 1961 in  Alabama  </strong><strong>...................     6    Amanda L. Annie Kizziah  1875 -  d: 02 Feb 1905 in Ala  </strong><strong>.......................       +M A J Roberts    - Unknown        d: 1909                                    </strong><strong>...................     6    D. Lee Kizziah  1882 - d: 12 May 1942 in Fayette  Alabama  </strong><strong>.......................       +Valena Berry  m: 21 Sep 1902                                                      </strong><strong>............      5    Henry Thompkins Berry   1843 - d: 11 Nov 1935 in  Alabama  </strong><strong>................        +Elizabeth Farquhar    1842 - d: 1900 in Texas                          </strong><strong>............            *2nd Wife of Henry Thompkins Berry:                                        </strong><strong>................        +A. Mary Brown  1842 - d: 1903 in Texas                                            </strong><strong>............      5 Lucenda Temperance Berry    01 Dec 1847 d: 09 Feb 1917 in TX  </strong><strong>................        +William Melvin Cook     1862 -  m: 28 Apr 1878 in Texas  </strong><strong>...................     6    Andres Bevlie Cook   1878 - d: 28 Jul 1963 in San Saba  TX  </strong><strong>.......................       +Dora Lee McCoy      1885 - d: 22 Sep 1964 in San Saba  TX  </strong><strong>...................    6    William Thomas Cook      1880 - d: 28 Apr 1948 in Texas  </strong><strong>.......................       +Alice Lee Faught      1898 - d: 25 Mar 1938 in Texas  </strong><strong>...................     6    Robert P. Cook     1880 - d: Aug 1914 in Lampasas Texas  </strong><strong>...................     6    John Cook 1882 - 1928 d: 1928                                              </strong><strong>............      5    Sarah Catherine Berry 1849 - d: 09 Sep 1921 in San Saba Texas  </strong><strong>................        +William F. Crowley  1848 -  d: 17 Aug 1919 in San Saba  Texas  </strong><strong>...................     6   Frances Belle Crowley      1870 -                                    </strong><strong>...................     6    Thomas Crowley   1872 -                                                  </strong><strong>...................     6    Virgil Crowley      1874 -                                                                </strong><strong>..........................    7    Claude Crowley    1899 -                                                           </strong><strong>...................     6    William Crowley   1879 -                                                             </strong><strong>............     5    Martha Minerva Berry      1851 - d: 07 Mar 1922 in Texas  </strong><strong>................        +Lockley                                                                                                            </strong><strong>...................     6    Mary Irene Lockley    d Unknown -                                                  </strong><strong>.......................       +Barton                                                                                                        </strong><strong>...................           *2nd Husband of Mary Irene Lockley:                                          </strong><strong>.......................       +George William Graves m: 27 Oct 1805 in Texas  </strong><strong>...................     6    Narcissus E. Lockley  1885 - d: 1924                                    </strong><strong>.......................       +James Fisher Graves 1884 - d: 1966 in Del Reo Texas  </strong><strong>............      5    William S Berry    1853 - d: in Burnet County Texas  </strong><strong>................        +Fannie L. Davis  1863 -  d: 27 Jan 1892 in Burnet County Texas  </strong><strong>...................     6    Elbert Travis Berry 1881 -  d: 22 Nov 1962 in Texas  </strong><strong>.......................       +Pearle Lee Wolfe  1887 - d: 27 May 1959 in Texas  </strong><strong>..........................    7    Fannie Berry   1906 -                                                                    </strong><strong>..........................    7    Clyde Berry    1908 -                                                              </strong><strong>..........................    7    Alma Berry     1911 -                                                                           </strong><strong>...................     6    Lillie Mae Berryd: 27 Non 1906 d 17 Aug 1973 in Texas  </strong><strong>.......................       +James Lee Patterson 1884d: 11 Nov 1957 in Burnet  Texas  </strong><strong>..........................    7    Oma Patterson      1906 -                                                    </strong><strong>..........................    7    Markus Patterson  1909 -                                                                </strong><strong>...................     6    William Henry Berry   1885 - d: 31 Jan 1983 in  Texas  </strong><strong>.......................       +Susie Watkins     1889 - d: 16 Nov 1970 in Texas  </strong><strong>..........................    7    W Henry Berry     1916 -                                            </strong><strong>...................    6    Jack Monroe Berry      1886 -d: 06 Apr 1950 in Texas  </strong><strong>.......................       +Eunice Catherine Alexander 1890 - d: 22 Sep 1965  </strong><strong>..........................    7    Raymond M. Berry     1925 -                                                          </strong><strong>...</strong><strong>............     6    Laura D. Berry 1888 - d: 03 Oct 1934 in Burnet Texas  </strong><strong>.......................       +Jim Harton    1882 - d: 02 Jun 1943 in Burnet  Texas  </strong><strong>..........................    7   John W. Harton     1906 -                                                    </strong><strong>..........................    7   Lea B. Harton 1908 -                                                            </strong><strong>...................     6    Hattie E. Berry   1889 - d: 1968 in Tousand Palms California  </strong><strong>.......................       +Charlie Barton                                                                                        </strong><strong>...................           *2nd Husband of Hattie E. Berry:                                   </strong><strong>.......................       +Charlie E. Elder  1884 -  d: 01 Sep 1925 in Burnet  Texas  </strong><strong>..........................    7    Lola M. Elder  1920 -                                                                        </strong><strong>...................     6    Claerence Houston Berry  1892 - d: 26 Mar 1892 in  Texas  </strong><strong>............            *2nd Wife of William S Berry:                                                                      </strong><strong>................        +Lillie Ann Webb 1872 - d: 06 Jun 1926 in Burnet County Texas  </strong><strong>...................     6    George Wesley Berry  1900 -  d: 11 Jun 1973 in  Texas  </strong><strong>.......................       +Anna Ankes Mallett 1907 -  m: 12 Jul 1924                          </strong><strong>...................     6    Ruby E. Berry 1902 -                                                                                </strong><strong>.......................       +W. Bernard Mallett   1897 -  m: 10 Apr 1921        </strong><strong>...................     6    William Ernest Berry  1904 -                                                        </strong><strong>.......................       +Gladys Victoria Woods  1909 - d: 02 Oct 1935 in   TX  </strong><strong>...................     6    Ludy M. Berry  1906 -  d: 29 Jan 1975 in Burnet Texas  </strong><strong>.......................       +Harry Smith Mallett  1904 - d: 06 Aug 1968 in  Texas  </strong><strong>...................     6    Clarence Houston Berry   1909 -  d: 02 May 1980 in Texas  </strong><strong>.......................       +Lurisen I. Marley 1919 -  m: 01 Oct 1934                        </strong><strong>............      5    Amanda Narcissus Berry  1855 -  d: 10 Nov 1943 in  Texas  </strong><strong>................        +William Travis Hutto 1853 - d: 25 Sep 1940 in San Saba Texas  </strong><strong>...................     6    Caddie Hutto  1878 -                                                                               </strong><strong>...................     6    Mary D. Hutto Dec 1887                                                                         </strong><strong>...................     6    William C. Hutto  1890 -                                                 </strong><strong>...................     6    James L. Hutto      1895 -                                                                       </strong><strong>............      5    Julia Anne Berry   1855 - d: 01 Oct 1929 in San Saba Texas </strong><strong>................        +Elbert J. Barton   1858 - d: 26 Jun 1917 in San Saba Texas      </strong><strong>..... 4    Robert C. Berry    1805 - d: 1888 in Berry, Fayette County, Alabama  </strong><strong>.........       +Sarah Chappell    1815 - d: 13 Mar 1883 in Fayett County Alabama  </strong><strong>............      5   Miles Berry     1840 -                                                                                     </strong><strong>................        +Martha    1845 -  m: 1866                                                                             </strong><strong>...................     6    Verna Berry    1868 -                                                                                 </strong><strong>...................    6    Willie Berry     1870 -                                                                                 </strong><strong>...................     6    Robert Berry   1872 -                                                               </strong><strong>...................     6    Cludia Berry   1874 -                                                                               </strong><strong>...................     6    Elliott Berry    1876 -                                                                                 </strong><strong>...................     6    Alford Berry   1879 -                                                                                 </strong><strong>...................     6    Dolly Berry     1883 -                                                                               </strong><strong>...................     6    Carl Berry 1888 -                                                                                     </strong><strong>............      5    William Berry  1842 - d: 12 Jun 1913 in Berry Alabama                     </strong><strong>............      5    Valutia Berry  1848 - d: 14 Apr 1917 in Berry, Fayette, Alabama </strong><strong>................        +Ruben Davis 1843 -  m: 30 Nov 1873                                                   </strong><strong>...................     6    Lola Davis 1879 -                                                                                       </strong><strong>............     5    John Berry 1850 -                                                                                             </strong><strong>................        +Diana Colvin 1847 -                                                                                       </strong><strong>............      5   Catherine Montgrolia Berry 1853 -                                                           </strong><strong>................        +Clarence Edgar Hooker  m: 07 Jul 1885                                               </strong><strong>............      5    George Washington Berry 19 Sep 1857 d: 03 Apr 1944 </strong><strong>................        +Fatima Jane Edwards     1873 - d: 05 Jan 1953                             </strong><strong>...................     6    Grady Berry    1894                                                                                   </strong><strong>...................     6    Beadford Berry     1895 -                                                                         </strong><strong>...................     6    Lila Berry  1896 -                                                                                       </strong><strong>...................     6    Anna L Berry  1897 -                                                                           </strong><strong>...................     6     Arnold Berry   1899 -                                                                               </strong><strong>...................    6    Ola M Berry    1901 -                                                                                   .</strong><strong>.................     6    Lee Agustus Berry      1903 - d: 01 Jan 1994  .</strong><strong>.......................       +Eros Joan Johnston   1904 - d: 04 Jan 2003                    </strong><strong>...................     6    Getha Berry    1904 -                                                        </strong><strong>...................     6    Sterling Olif Berry  1908 -                                                                      </strong><strong>...................     6    Hazel L Berry 1913 -                                                                          </strong><strong>..... 4 Thomas Person Berry 1808 - 1884 d: 30 Apr 1884 Orange Co NC       </strong><strong>......... +Sarah Lunsford 1811 - 1870 d: 27 Dec 1870 Orange Co N.C                            .....</strong><strong>....... 5 William H. Berry 1836 - 1858 d: 1858                                            </strong><strong>................ +Sarah Frances King 1838 - m: 06 Aug 1857 in Orange Co                      </strong><strong>............ 5 Wilie Berry 1838 -                                                                                                      </strong><strong>............ 5 John Robert Berry 1842 - 1917 d: 10 Oct 1917 Orange Co.      </strong><strong>............... +Elizabeth F Bowling 1847 - 1904 d: 11 Aug 1904 Orange        .................</strong><strong> 6 Emma G. Berry 1866 - 1945 d: 12 Feb 1945                                 </strong><strong>..................... +John Saunders Berry 1859 -  d 01 Mar 1938                             .........................7</strong><strong> Annie E. Berry 1886 - d: 03 Dec 1965                           </strong><strong>............................ +W. D. Burnette                                                                                       </strong><strong>........................ 7 Jerome Grandon Berry 1889 - 1973 d: 16 Nov 1973 </strong><strong>.............................. +Clair Miller 1901 - 1992 d: 30 Dec 1992 Orange Co </strong><strong>.......................... 7 Vurger L. Berry 1892 - 1893 d: 18 Jul 1893 in </strong><strong>.......................... 7 Charles Eli Berry, Sr. 1893 - 1949 d: 29 Nov 1949  </strong><strong>........................... +Luna Vista Beulah Gray 1898 -d: 21 Oct 1930                   ..........................</strong><strong> *2nd Wife of Charles Eli Berry, Sr                                 </strong><strong>.............................. +Eula Taylor m: 1931                                                </strong><strong>......................... 7 Minnie L. Berry 1896 - 1947 d: 14 Dec 1947                        ..........................</strong><strong>7 Cora S. Berry 1900 -                                                                      ..........................</strong><strong>+Coy M. Whitaker                                                                                       .</strong><strong>......................... 7 Walter G. Berry 1903 - 1963 d: 02 Mar 1963                  ............</strong><strong>.............. +Hall                                                                                          </strong><strong>................... 6 Cora D. Berry 1868 - 1947 d: 18 Sep 1947 in Orange Co. N.C .</strong><strong>....................... +Asahel Frank Breeze 1860 - 1950 . d: 26 Jun 1950 in N.C .</strong><strong>.......................... 7 Mary Frances Breeze                                                                   </strong><strong>.............................. +Issac Jordan Rimmer 1883 - 1943 d: 28 Mar 1943                  </strong><strong>.......................... 7 Robert H.Breeze 1882 - 1953 d: 27 Mar 1953                          </strong><strong>.............................. +Annie Breeze 1893 - 1961 d: 13 Feb 1961                                   ..............</strong><strong>............ 7 Sallie L. Breeze 1889 - 1972 d: Apr 1972 in DurhamN.C.       </strong><strong>.............................. +William Lee Umpstead 1895 - d: Jun 1982 in NC  </strong><strong>.......................... 7 Luna Breeze 1895 - 1970 d: Feb 1970          </strong><strong>.............................. +Daniel Chandler 1903 - 1972 d: Feb 1972                                  </strong><strong>.......................... 7 Margaret Magie Breeze 1901                                                              </strong><strong>.............................. +Bill Reese                                                                                  </strong><strong>.......................... 7 Beatrice Breeze 1902 -                                      </strong><strong>.............................. +Arthur Rimmer                                                            </strong><strong>..................... 7 Bertha Breeze 1891 -                                                                                    ......</strong><strong>.................. +Garland Tober Toler 1883 - m: 1909                                      .......................... 7 Liva Breeze 1904 - 1905 d: 08 Apr 1905
-.......................... 7 Lyda Breeze 1904 - 1905 d: 29 Mar 1905
-................... 6 Wiley P. Berry b. 1869 -d: 08 May 1965 in Mebane NC
-....................... +Ida Ann Wilson 1876 - d: 04 May 1941 in Mabane NC
-.......................... 7 William Eugene Berry 1896 -d: 30 Sep 1984 in N.C.
-.............................. +Pattie Alma McAdams1899 - 1993 d: 16 Apr 1993 in NC
-.......................... 7 Mary Ethel Berry1899 - 1957 d: 13 Nov 1957 in Durham NC
-.................................... +Brodie S Carr 1898 - d: 24 Aug 1973 Orange Co
-.......................... 7 Thomas Young Berry 1903 - 1925 d: 08 Jun 1925 in NC
-.......................... 7 Sally Malena Berry 1908 - d: 19 Mar 2002 Cary NC
-.............................. +Jessie Clyde Henderson 1905 -  d: 11 Jun 1984 N C  <strong>.......................... 7 Woodrow Wilson Berry 1912 - d: 03 May 1989 in NC  </strong><strong>............................. +Ora Mae Murray 1918 - d: 21 Sep 2002          </strong><strong>.......................... 7 Wiley Harold Berry 1914 - d: 24 Jun 2006 in Durham N.C ............................... +Hilda Elizabeth Nichols 1917 - d: 07 Aug 2002 in NC
-.......................... 7 Infant Son Berry 1916 - d: 23 Sep 1916 NC  .........................<strong> 7 <strong> Wiley P. Berry JR. 1919 - d: 18 Aug 2007</strong>                                      ............................. +Mary Elizabeth Barbee 1928 -Jan 25 2014                                 .................. <strong>6 John W. Berry 1871 - d: 22 Dec 1923 in Orange county N.C. ................... 6 Mary A. Berry 1873 -                                                                      ....................... +James O Webb 1859 - 1904                                             .......................... 7 James Webb Jr. 1905 -                                                       .......................... 7 Myra Webb 1908 -                                                           .............................. +John Brentley                                                                 ................... 6 Ada Lee Ann Berry 1875 -  d: 22 Nov 1968 NC           ....................... +William Jackson Rogers 1864 -  d: 12 Apr 1931            ..........<strong>...............</strong><strong> 7 James Jackson Rogers 1897 - 1969 d: 07 May 1969  </strong><strong>.............................. +Velma Williams 1906 - m: 1925                                     .......................... 7 William Richard Rogers 1899 -                                     .............................. +Annie Lunsford                                                                 .......................... 7 John Bryant Rogers 1901 -                                               .............................. +Catherine Durham                                                                   .......................... 7 Charlie Wayne Rogers 1903 -                                               .............................. +Claudia Corbette                                                                                 .......................... 7 Bettie Rogers 1905 -                                                                       </strong><strong>.............................. +Odie Wilson                                                                           </strong><strong>.......................... 7 Mary Rogers 1908 -                                                               .......................... 7 Hal Kitchen Rogers 1910 -                                             .............................. +Doris Deana                                                                       .......................... 7 Euart Bryan Rogers 1912 -                                                     .............................. +Maxine Walters                                                                                   .......................... 7 Helen Pattie Rogers 1920 -                                                                   .............................. +Graham Ashley                                                                                  <strong>.................. 6 Willie Adolphus Berry 1877 - 1964 d: 08 Jan 1964  ....................... +Fannie Bennett Hall 1881 -  d: 23 Aug 1980 in Orange ........................... 7  Clyde Hall Berry 1901 - 1979 d: 14 Jun 1979 ,Person  N.C. .............................. +Alma Harris 1909 -                                                                             .......................... 7 Mabel Lee Berry 1903 -                                                                         .............................. +Draper H Harris 1902 - 1965 d: 1965                                         </strong><strong>.......................... 7 Bettie Bowling Berry 1905 - 1999 d: 08 Apr 1999 .............................. +James Richard Sr. Harris 1901 -                   .......................... 7 Lula Berry 1907 - 1926 d: 04 Feb 1926             .......................... 7 Milton Banks Berry 1909 - 1991 d: 1991                                       .</strong><strong>........................... +Margaret Jackson 1915                                                                       ........................... 7 John Lambert Berry 1911 - d: 1982                                                  ............................. +Margaret Boyd                                                                                      .......................... 7 Fannie Bennett Berry 1914 -                             .............................. +John Alexander Sr. Long 1911 - 1988 d: 1988   .......................... 7 Lucille Jones Berry 1916 -                                 .............................. +Landon Gray Whitt Sr. 1920 - d: 26 Jan 2000  N.C.   .......................... 7 Willie Adolphus Berry Jr. 1918 -                                                 .............................. +Evelyn Phillips 1931 - m: Jan 1954                                 .......................... 7 Virginia Gertrude Berry 1921 -                                      .............................. +Talmadge T Stanfield 1919 - 1982 m: 11 Jun d: 1982 ................... 6 Thomas Euart Berry 1880 -                                                                 ....................... +Mary Ella Tilly 1882 -                                                            .......................... 7  Claiborne Berry 1907 -                                                             .............................. +Fannie Belle Bowling                                                                         .......................... 7 Earnest Berry 1909 - 1981 d: 01 Feb 1981                                       .............................. +Lillie Pickett 1912 - 1990 d: 17 Dec 1990                         .......................... 7 Blannie Berry 1912 - 2000 d: 23 Feb 2000 .............................. +Charles Clarence Holeman 1906 - 1978 d: 06 Oct 1978 .......................... 7 Pattie Berry 1917 -                                                                               ............................. +Emerson Pope                                                                        .......................... 7 Jennings Gentry Berry 1918 - d: 13 Mar 1992  .............................. +Mary Frances Blalock                                                                ......................... 5 Frances Berry 1920 -                                                             .............................. +Eugene W. Thompson                                                                       ................... 6 Pattie S Berry 1886 - 1915 d: 12 Dec 1915 Sandford N.C. ....................... +F.C. Wilson 1887 -                                                                                      </strong><strong>.......................... 7 Felix Wilson Jr. 1912 - 1986 d: Feb 1986 N C                </strong><strong>............ 5  James P Berry 1845 - 1912 d: 15 Feb 1912                                                        </strong><strong>................ +Artelia Wedding 1851 - m: 11 Sep 1871 in Orange County </strong><strong>..................... 6 Charles T. Berry 1878 -                                                         .</strong><strong>.</strong><strong>................... 6 Robert L. Berry 1882 -                                                                                 ..................... 6 Sarah Berry 1886 -                                                                                         ..</strong><strong>................... 6 Amilia Berry 1889 -                                                             ..</strong><strong>................... 6Anne Belle Berry 1889 - d: 31 Oct 1902 </strong></strong></strong></strong></strong></strong><strong><strong>     <strong><strong>                             </strong></strong></strong></strong><strong> .</strong><strong>................... 6 James Berry 1894 - 1896 d: 12 May 1896</strong>
+## Descendants of William Berry
 
-<strong> ..... *2nd Wife of Thomas Person Berry:
-......... +Lucy A.Brown 1847 - 1881 m: 24 Aug 1871 in  N.C.d: 08 Jan 1881
-............ 5 Edna H Berry 1872 - 1929 d: 03 Apr 1929
-................ +Cary R. Rogers 1863 - 1922 d: 1922
-................... 6 [2] Henry Roy Rogers 1897 - 1970 d: 1970
-....................... +[1] Susie Elizabeth Cates 1899 -
-................... 6 Dewey Washington Rogers 1899 -
-....................... +Lucy Horton
-................... 6 Clyde Banks Rogers 1900 - 1980 d: 1980
-....................... +Myrtle Blalock
-................... 6 Lemuel Thomas Rogers 1902 - 1943 d: 1943
-....................... +Ruby Blalock
-................... 6 Walter Maine Rogers 1903 -
-....................... +May Whitfield
-................... 6 Zeb Vance Rogers 1905 -
-....................... +Alma Allen
-................... 6 Bannie Mae Rogers 1907 -
-................... 6 Daniel Hubert Rogers 1909 -
-....................... +Lessie Temple Oakley 1914 -
-............ 5 Martha Bowers Berry 1873 - 1939 d: 29 Dec 1939
-................ +James Caroway Wrenn 1868 - 1923 d: 1923
-................... 6 Victor Arthur Wrenn 1902 -
-................... 6 Clarence Boardman Wrenn 1905 - 1972 d: 1972
-................... 6 Talmadge Dean Wrenn 1907 - 1978 d: 1978
-................... 6 Ruth Jeanette Wrenn 1909 -
-................... 6 James Caroway Wrenn Jr. 1911 - 1968 d: 1968
-................... 6 Sadie Katherine Wrenn 1914 - 1977 d: 1977
-............ 5 Etta E. Berry 1874 -
-................ +James Madaison Clayton 1867 -
-................... 6 James T Clayton 1897 -
-....................... +Minnie Woodall
-................... 6 Sally Blanche Clayton 1903 -
-....................... +Clarence Rogers
-................... 6 Hurbert Y Clayton 1905 -
-....................... +Zolene Chandler
-................... 6 Ethel C Clayton 1907 -
-....................... +Willie Clayton
-...................6  Ruth M Clayton 1909 -
-....................... +Berman Dick Clayton
-................... 6 Nell L Clayton 1913 -
-....................... +Day Creed
-................... 6 Nancy Clayton 1915 -
-....................... +Rainey Whitfield
-............ 5 DellaThomas Berry 1877 -
-................ +William Cooper Sr. Cates 1872 - 1920 d: 1920
-................... 6 Annie Belle Cates 1896 -
-....................... +Marcellous Regan
-................... 6 Sophia Cates 1897 -
-................... 6  Susie Elizabeth Cates 1899 -
-....................... +Henry Roy Rogers 1897 - 1970 d: 1970
-................... 6 James Clyde Cates 1900 -
-....................... +Alma Zimmerman
-.......................... 7 Beatrice Cates
-.......................... 7 Clydie Cates
-.......................... 7 William Cates
-.......................... 7 Eddie Cates
-.......................... 7 Ruth Lane Cates
-................... 6 Adeline Frances Cates 1902 - 1925 d: 1925
-....................... +John Allen
-................... 6 Walter Thomas Cates 1904 - 1936 d: 1936
-................... 6 James Samuel Cates 1905 - 1959 d: 1959
-....................... +Bessie Jordan
-.......................... 7 Jorine Cates
-.......................... 7 Carolyn Cates
-.......................... 7 Joyce Cates
-................... 6 Anna Lou Cates 1907 -
-....................... +Josh Parker
-.......................... 7 Merle Jeanette Parker 1932 -
-.............................. +Gene Brown
-.......................... 7 Elaine Parker 1933 - 1940 d: 1940
-.......................... 7 Samuel Joshua Parker 1934 -
-.............................. +Ann Kerr
-.......................... 7 Betsey Elaine Parker 1936 -
-.............................. +Melvin Holt
-.......................... 7 Nelson Cooper Parker 1936 -
-.............................. +Judy Clayton
-.......................... 7 Alice Barbara Parker 1942 -
-.............................. +Len Woods
-.......................... 7 Norma Jean Parker 1943 -
-.......................... 7 David Michael Parker 1951 -
-.............................. +Betsy
-................... 6 Sally Cates 1908 -
-................... 6 Emma Rene Cates 1909 -
-....................... +Nathanial Taylor Williams
-.......................... 7 Nathanial Cates Williams
-................... 6 Julia Bradley Cates 1911 -
-....................... +Edward Clayton Harris
-.......................... 7 Judith Lane Harris
-.............................. +John Downs
-..........................7 Stanford Clayton Harris
-.............................. +Linda Kay Suitt
-................... 6 Edison Cooper Cates 1912 -
-....................... +Wilma Long
-.......................... 7 Jacquelyn Cates
-.............................. +Dale Rimmer
-.......................... 7 Billy Cates
-.......................... 7 Marie Cates
-.......................... 7 Sandy Cates
-.......................... 7 Jerry Cates
-................... 6 Della Lee Cates 1914 -
-....................... +Lambert Blalock
-.......................... 7 Tommy Blalock
-.............................. +Betsy
-................... 6 John David Cates 1916 -
-....................... +Pattie Daniel
-.......................... 7 Bobby Carter Cates
-.............................. +Patsy Sprague
-.......................... 7 George William Cates
-.............................. +Scottie Wise Evans
-.......................... 7 Della Cates
-.............................. +Mary Daniel
-................... 6 Lottie Dare Cates 1917 -
-....................... +Daniel B. Whitfield
-.......................... 7 Thaddeus Whitfield
-.......................... 7 Harriett Whitfield
-.............................. +Micheal B. Clayton
-................... 6Roberson Carter Cates 1919 - 1930 d: 1930
-............ 5 Daniel R Berry 1880 - 1957 d: 31 May 1957
-................ +Ella Pucci 1873 - 1926 d: 08 Oct 1926
-................... 6 Vivant Hamlin Berry
-................... 6 James Earl Berry 1908 -
-....................... +Joyce Pamplin
-................... 6 Alma Berry
-....................... +Nick Allen
-................... 6 Lucille Berry 1914 -
-....................... +Rufus Buchanan
-...................6 Hazel Berry 1916 -
-....................... +Paul Milam
-................... *2nd Husband of Hazel Berry:
-....................... +Tommy Bryant
-................... 6 Lottie Berry 1928 -
-....................... +Reade Foushee
-................... 6 Audrey Berry
-....................... +Howard Shull
-............ *2nd Wife of Daniel R Berry:
-................ +Maggie Turner 1896 - 1984 d: 25 Jun 1984
-..... *3rd Wife of Thomas Person Berry:
-......... +Elizabeth Peed Bowles 1833 - m: 06 Dec 1883 in Orange County N.C.</strong>
+- **Gen 3** William Berry 1775 - d: in No records found about death location
+  - sp. Hannah Cate 1770 - 1858 m: 12 Aug 1799 Orange Co N.C. d: 25 Feb 1858 Orange Co. N.C.
+
+---
+
+### William Clarence Berry Line
+
+  - ——–**Gen 4** William Clarence Berry 1803 - d: 08 Sep 1878
+    - sp. Sally Bowles 1798 - 1833 d: 1833 Orange Co. N.C.
+    - ————–**Gen 5** George Rufus Berry 1829 - d: 25 Dec 1909 in Texas
+      - sp. Sarah Catherine Farquhar 1826 - d: 23 Jan 1905 in Texas
+      - ————————**Gen 6** Sarah E Berry 1851 - 1907 d: 22 Apr 1907 in Texas
+        - sp. William L. Long 1846 - 1923 d: 27 Aug 1923 in Texas
+        - ————————————**Gen 7** Harris Long 1871 -
+        - ————————————**Gen 7** Ellar Long 1881 -
+        - ————————————**Gen 7** James R. Long 1883 -
+        - ————————————**Gen 7** John C. Long 1885 -
+        - ————————————**Gen 7** Minnie B. Long 1887 -
+        - ————————————**Gen 7** Samuel A. Long 1889 -
+      - ————————**Gen 6** John D.D. Berry 1856 -
+        - sp. Amelia Ann Walk 1864 - m: 23 Dec 1878 in TX
+        - ————————————**Gen 7** James E. Berry 1879 -
+        - ————————————**Gen 7** John G. Berry 1882 -
+        - ————————————**Gen 7** Kattie H. Berry 1885 -
+        - ————————————**Gen 7** Annie Berry 1886 -
+        - ————————————**Gen 7** Leslie Berry 1890 -
+        - ————————————**Gen 7** Sadie Berry 1892 -
+        - ————————————**Gen 7** Lilia Berry 1898 -
+        - ————————————**Gen 7** Sue N. Berry 1898 -
+      - ————————**Gen 6** James H.H. Berry 1860 - 1930 d: 02 Sep 1930
+        - sp. Minnie C. O'Hair 1865 -
+        - ————————————**Gen 7** Mollie Myrtle Berry 1887 -
+        - ————————————**Gen 7** Nellie H. Berry 1890 -
+        - ————————————**Gen 7** Willie N. Berry 1893 -
+        - ————————————**Gen 7** Hansford Berry 1897 -
+        - ————————————**Gen 7** Lula Kate Berry 1900 -
+      - ————————**Gen 6** George Rufus R. Berry 1862 -
+        - sp. Willie 1870 - m: 02 Jun 1887
+        - ————————————**Gen 7** Kent W. Berry 1888 -
+        - ————————————**Gen 7** Marcus Berry 1890 -
+        - ————————————**Gen 7** Earl Berry 1890 -
+      - ————————**Gen 6** William Anderson A. Berry 1867 -
+        - sp. S. Lina Rogers 1873 - m: 20 Dec 1889
+        - ————————————**Gen 7** Ruby Berry 1891 -
+        - ————————————**Gen 7** Marshall Berry 1893 -
+        - ————————————**Gen 7** Jaff D. Berry 1895 -
+        - ————————————**Gen 7** Maude Berry 1896
+      - ————————**Gen 6** Thomas Person Pierce Berry 1853 - d: 09 Mar 1929
+        - sp. Alberta Allie Taylor 1863 - d: 25 Nov 1934 in TX
+        - ————————————**Gen 7** Robert Melvin Berry 1893 - d: 20 Sep 1953
+          - sp. Eliza Della Farquhar 1889 - d: 26 Mar 1977 in Texas
+        - ————————————**Gen 7** George R. Berry 1885 -
+          - sp. Susle Lee
+          - ————————————————**Gen 8** Lola Mae Berry 1919 -
+        - ————————————**Gen 7** Thomas F. Berry 1901 -
+          - sp. Julie E. m: 1918
+          - ————————————————**Gen 8** Frankie A. Berry 1918 -
+          - ————————————————**Gen 8** Mildred Berry 1920 -
+          - ————————————————**Gen 8** Edgar M. Berry 1922 -
+        - ————————————**Gen 7** Robert M. Berry 1893 -
+        - ————————————**Gen 7** Melvin B. Berry 1897 -
+          - sp. Della m: 1921
+    - ————–**Gen 5** Elizabeth Jane Berry 1831 - d: 22 Sep 1893 in Alabama
+      - sp. Albert Galiton Whitson 1816 - d: 22 Apr 1890 in Alabama
+      - ————————**Gen 6** Alford Galiton Whitson 1864 -
+      - ————————**Gen 6** Nancy Malissa Whitson 1866 -
+        - sp. John Herron m: 12 Dec 1890 in Walker County Alabama
+    - ————–**Gen 5** Roann Frances Berry 1833 - d: 08 Nov 1922 in Texas
+      - sp. Riley Aley Kizziah 1838 - d: 31 Dec 1862 in Tennessee
+      - ————————**Gen 6** Aila Kizziah 1862 - d: 1948 in McCulloch County Texas
+        - sp. Anderson Farquhar McCoy 1860 - d: 1948 in Texas
+        - ————————————**Gen 7** Emma McCoy 1884 -
+        - ————————————**Gen 7** Arthor McCoy 1887 -
+        - ————————————**Gen 7** Maude McCoy 1889 -
+        - ————————————**Gen 7** Edward McCoy 1892 -
+        - ————————————**Gen 7** Pearl McCoy 1895 -
+        - ————————————**Gen 7** Elva Mae McCoy 1898 - d: 22 Jun 1972
+          - sp. Milburn Palmer Pearson 1895 - d: 08 Jan 1968
+          - ————————————————**Gen 8** Leslie Thomas Pearson 1922 - d: 28 Jan 1930
+    - *2nd Wife of William Clarence Berry:*
+    - sp. Massa Ann Thompkins 1819 - m: 1836 d: 14 Jan 1913
+    - ————–**Gen 5** John Thomas Berry 1838 - d: 23 Mar 1917 in Lamar Alabama
+      - sp. Elizabeth 1842 -
+      - ————————**Gen 6** Robert L. Berry 1866 -
+      - ————————**Gen 6** Ann Berry 1868 -
+      - ————————**Gen 6** Francis Berry 1870 -
+      - ————————**Gen 6** Elda Berry 1877 -
+      - ————————**Gen 6** William Berry 1879 -
+      - ————————**Gen 6** Thomas Jefferson Berry 1872 - d: 09 Jul 1955 in Alabama
+        - sp. Martha Frances Gardner 1880 - d: 21 Oct 1971 in Alabama
+        - ————————————**Gen 7** Jonas Savage Berry 1905 -
+        - ————————————**Gen 7** Jesse Talmage Berry 1906 -
+          - sp. Ellis Crownover
+          - *2nd Wife of Jesse Talmage Berry:*
+          - sp. Rosa Howard 1916 - d: 10 Sep 1954 in Alabama
+          - *3rd Wife of Jesse Talmage Berry:*
+          - sp. Lucy Phillips 1910 - m: 31 Mar 1976
+        - ————————————**Gen 7** Victor Young Berry 1911 -
+          - sp. Annie Lorainne Anderson 1916 - m: 1940 in Miss
+          - ————————————————**Gen 8** Thomas Edwin Berry 1941 -
+            - sp. Janis Vaughn
+          - ————————————————**Gen 8** Victor Glenn Berry 1942 -
+            - sp. Elizabeth Virginia Hood 1944 - m: Arab Ala
+      - ————————**Gen 6** Lenard Bradford Berry 1874 - d: 26 Mar 1962 in Ala
+        - sp. Orvie J 1878 -
+        - *2nd Wife of Lenard Bradford Berry:*
+        - sp. Olive Fendley 1877 - 1954 d: 30 Jun 1954 in Alabama
+        - ————————————**Gen 7** Della E. Berry 1897 -
+        - ————————————**Gen 7** Eddie Banks Berry 1899 -
+        - ————————————**Gen 7** Ira Thomas Berry 1910 -
+        - ————————————**Gen 7** Iva L Berry 1904 -
+        - ————————————**Gen 7** Minnie J. Berry 1907 -
+        - ————————————**Gen 7** Forrest Berry 1909 -
+        - ————————————**Gen 7** Exia Berry 1911 -
+        - ————————————**Gen 7** Thomas P. Berry 1915 -
+        - ————————————**Gen 7** Lucile Berry 1916 -
+      - *2nd Wife of John Thomas Berry:*
+      - ————————**Gen 6** Oza Ella Berry 1876 - d: in Fayette County Alabama
+        - sp. Joe A. Lindsey 1871 d: in Fayette County Alabama
+        - ————————————**Gen 7** Ruthie Lindsey 1897 -
+        - ————————————**Gen 7** Cluill Lindsey 1899 -
+        - ————————————**Gen 7** Samuel M Lindsey 1900 -
+      - ————————**Gen 6** William Anderson Berry 1879 - d: 30 Aug 1880
+      - ————————**Gen 6** John Henry Berry 1881 - d: 06 Dec 1950
+        - sp. Carrah Savana Kennedy 1884 - d: 09 Aug 1954 in Alabama
+        - ————————————**Gen 7** Powell Berry 1903 -
+        - ————————————**Gen 7** Mamie Berry 1908 -
+        - ————————————**Gen 7** Arthur Berry 1912 -
+        - ————————————**Gen 7** Maynell Berry 1915 -
+    - ————–**Gen 5** Mary Jane Berry 1840 - d: 27 Nov 1907 in Fayette Alabama
+      - sp. Enoch Jefferson Kiszzah 1836 - d: 07 Jul 1933 in Alabama
+      - ————————**Gen 6** William T. Kizziah 1862 - d: 1941 in Fayette Alabama
+        - sp. Laura A. Crowley 1856 - d: 1908 in Fayette Alabama
+      - ————————**Gen 6** Robert Lee Berry 1866 - 1906 d: 06 Jul 1906 in Alabama
+        - sp. Hassie Gray 1906 - d: 20 Nov 1955 in Fayette Alabama
+      - ————————**Gen 6** Aley Thompson Kizziah 1866 - d: 1953 in Fayette Alabama
+        - sp. Bessie Hinton 1875 - d: 1949 in Fayette County Alabama
+      - ————————**Gen 6** Vulula Ann Berry 1868 - d: 05 Jul 1944 in Fayette Alabama
+        - sp. John McClung b 03 Mar 1868 d 15 Mar 1948 Fayette Ala
+        - ————————————**Gen 7** Donie J McClung 1889 -
+        - ————————————**Gen 7** Murry B McClung 1890 -
+        - ————————————**Gen 7** Ruby E McClung 1893 -
+      - ————————**Gen 6** Mary Ann Molly Kizziah 1869 - d: 07 Jun 1959 in Ala
+        - sp. Hayward R. Sexton 1866 - d: 18 Jan 1940
+        - ————————————**Gen 7** Belton S. Sexton 1906 - d: 27 Jul 1979 in Alabama
+          - sp. Addie Williams 1905 - d: 01 Mar 1972 in Alabama
+      - ————————**Gen 6** Isabelle Frances Berry 1870 -
+        - sp. Simpson N. Lindsey 1859 - m: 28 Feb 1897
+        - ————————————**Gen 7** William V. Lindsey 1886 -
+        - ————————————**Gen 7** John Q. Lindsey 1888 -
+        - ————————————**Gen 7** Ida Key Lindsey 1890 -
+        - ————————————**Gen 7** Eles L Lindsey 1895 -
+        - ————————————**Gen 7** Morgan Lindsey 1898 -
+      - ————————**Gen 6** George Rufus R. Kizziah 1871 - d: 19 Apr 1939 in Alabama
+        - sp. Martha Nancy Roberts 1866 - d: 1951 in Fayette Alabama
+        - ————————————**Gen 7** Essie E. Kizziah 1902 -
+        - ————————————**Gen 7** Elmer Kizziah 1804
+        - ————————————**Gen 7** Delma Kizziah 1904 -
+        - ————————————**Gen 7** George D. Kizziah 1906 -
+      - ————————**Gen 6** Enoch Emanuel Kizziah 1871 - d: 02 Nov 1961 in Alabama
+      - ————————**Gen 6** Amanda L. Annie Kizziah 1875 - d: 02 Feb 1905 in Ala
+        - sp. M A J Roberts - Unknown d: 1909
+      - ————————**Gen 6** D. Lee Kizziah 1882 - d: 12 May 1942 in Fayette Alabama
+        - sp. Valena Berry m: 21 Sep 1902
+    - ————–**Gen 5** Henry Thompkins Berry 1843 - d: 11 Nov 1935 in Alabama
+      - sp. Elizabeth Farquhar 1842 - d: 1900 in Texas
+      - *2nd Wife of Henry Thompkins Berry:*
+      - sp. A. Mary Brown 1842 - d: 1903 in Texas
+    - ————–**Gen 5** Lucenda Temperance Berry 01 Dec 1847 d: 09 Feb 1917 in TX
+      - sp. William Melvin Cook 1862 - m: 28 Apr 1878 in Texas
+      - ————————**Gen 6** Andres Bevlie Cook 1878 - d: 28 Jul 1963 in San Saba TX
+        - sp. Dora Lee McCoy 1885 - d: 22 Sep 1964 in San Saba TX
+      - ————————**Gen 6** William Thomas Cook 1880 - d: 28 Apr 1948 in Texas
+        - sp. Alice Lee Faught 1898 - d: 25 Mar 1938 in Texas
+      - ————————**Gen 6** Robert P. Cook 1880 - d: Aug 1914 in Lampasas Texas
+      - ————————**Gen 6** John Cook 1882 - 1928 d: 1928
+    - ————–**Gen 5** Sarah Catherine Berry 1849 - d: 09 Sep 1921 in San Saba Texas
+      - sp. William F. Crowley 1848 - d: 17 Aug 1919 in San Saba Texas
+      - ————————**Gen 6** Frances Belle Crowley 1870 -
+      - ————————**Gen 6** Thomas Crowley 1872 -
+      - ————————**Gen 6** Virgil Crowley 1874 -
+        - ————————————**Gen 7** Claude Crowley 1899 -
+      - ————————**Gen 6** William Crowley 1879 -
+    - ————–**Gen 5** Martha Minerva Berry 1851 - d: 07 Mar 1922 in Texas
+      - sp. Lockley
+      - ————————**Gen 6** Mary Irene Lockley d: Unknown
+        - sp. Barton
+        - *2nd Husband of Mary Irene Lockley:*
+        - sp. George William Graves m: 27 Oct 1805 in Texas
+      - ————————**Gen 6** Narcissus E. Lockley 1885 - d: 1924
+        - sp. James Fisher Graves 1884 - d: 1966 in Del Reo Texas
+    - ————–**Gen 5** William S Berry 1853 - d: in Burnet County Texas
+      - sp. Fannie L. Davis 1863 - d: 27 Jan 1892 in Burnet County Texas
+      - ————————**Gen 6** Elbert Travis Berry 1881 - d: 22 Nov 1962 in Texas
+        - sp. Pearle Lee Wolfe 1887 - d: 27 May 1959 in Texas
+        - ————————————**Gen 7** Fannie Berry 1906 -
+        - ————————————**Gen 7** Clyde Berry 1908 -
+        - ————————————**Gen 7** Alma Berry 1911 -
+      - ————————**Gen 6** Lillie Mae Berry d: 27 Nov 1906 d 17 Aug 1973 in Texas
+        - sp. James Lee Patterson 1884 d: 11 Nov 1957 in Burnet Texas
+        - ————————————**Gen 7** Oma Patterson 1906 -
+        - ————————————**Gen 7** Markus Patterson 1909 -
+      - ————————**Gen 6** William Henry Berry 1885 - d: 31 Jan 1983 in Texas
+        - sp. Susie Watkins 1889 - d: 16 Nov 1970 in Texas
+        - ————————————**Gen 7** W Henry Berry 1916 -
+      - ————————**Gen 6** Jack Monroe Berry 1886 - d: 06 Apr 1950 in Texas
+        - sp. Eunice Catherine Alexander 1890 - d: 22 Sep 1965
+        - ————————————**Gen 7** Raymond M. Berry 1925 -
+      - ————————**Gen 6** Laura D. Berry 1888 - d: 03 Oct 1934 in Burnet Texas
+        - sp. Jim Harton 1882 - d: 02 Jun 1943 in Burnet Texas
+        - ————————————**Gen 7** John W. Harton 1906 -
+        - ————————————**Gen 7** Lea B. Harton 1908 -
+      - ————————**Gen 6** Hattie E. Berry 1889 - d: 1968 in Tousand Palms California
+        - sp. Charlie Barton
+        - *2nd Husband of Hattie E. Berry:*
+        - sp. Charlie E. Elder 1884 - d: 01 Sep 1925 in Burnet Texas
+        - ————————————**Gen 7** Lola M. Elder 1920 -
+      - ————————**Gen 6** Claerence Houston Berry 1892 - d: 26 Mar 1892 in Texas
+      - *2nd Wife of William S Berry:*
+      - sp. Lillie Ann Webb 1872 - d: 06 Jun 1926 in Burnet County Texas
+      - ————————**Gen 6** George Wesley Berry 1900 - d: 11 Jun 1973 in Texas
+        - sp. Anna Ankes Mallett 1907 - m: 12 Jul 1924
+      - ————————**Gen 6** Ruby E. Berry 1902 -
+        - sp. W. Bernard Mallett 1897 - m: 10 Apr 1921
+      - ————————**Gen 6** William Ernest Berry 1904 -
+        - sp. Gladys Victoria Woods 1909 - d: 02 Oct 1935 in TX
+      - ————————**Gen 6** Ludy M. Berry 1906 - d: 29 Jan 1975 in Burnet Texas
+        - sp. Harry Smith Mallett 1904 - d: 06 Aug 1968 in Texas
+      - ————————**Gen 6** Clarence Houston Berry 1909 - d: 02 May 1980 in Texas
+        - sp. Lurisen I. Marley 1919 - m: 01 Oct 1934
+    - ————–**Gen 5** Amanda Narcissus Berry 1855 - d: 10 Nov 1943 in Texas
+      - sp. William Travis Hutto 1853 - d: 25 Sep 1940 in San Saba Texas
+      - ————————**Gen 6** Caddie Hutto 1878 -
+      - ————————**Gen 6** Mary D. Hutto Dec 1887
+      - ————————**Gen 6** William C. Hutto 1890 -
+      - ————————**Gen 6** James L. Hutto 1895 -
+    - ————–**Gen 5** Julia Anne Berry 1855 - d: 01 Oct 1929 in San Saba Texas
+      - sp. Elbert J. Barton 1858 - d: 26 Jun 1917 in San Saba Texas
+
+---
+
+### Robert C. Berry Line
+
+  - ——–**Gen 4** Robert C. Berry 1805 - d: 1888 in Berry, Fayette County, Alabama
+    - sp. Sarah Chappell 1815 - d: 13 Mar 1883 in Fayett County Alabama
+    - ————–**Gen 5** Miles Berry 1840 -
+      - sp. Martha 1845 - m: 1866
+      - ————————**Gen 6** Verna Berry 1868 -
+      - ————————**Gen 6** Willie Berry 1870 -
+      - ————————**Gen 6** Robert Berry 1872 -
+      - ————————**Gen 6** Cludia Berry 1874 -
+      - ————————**Gen 6** Elliott Berry 1876 -
+      - ————————**Gen 6** Alford Berry 1879 -
+      - ————————**Gen 6** Dolly Berry 1883 -
+      - ————————**Gen 6** Carl Berry 1888 -
+    - ————–**Gen 5** William Berry 1842 - d: 12 Jun 1913 in Berry Alabama
+    - ————–**Gen 5** Valutia Berry 1848 - d: 14 Apr 1917 in Berry, Fayette, Alabama
+      - sp. Ruben Davis 1843 - m: 30 Nov 1873
+      - ————————**Gen 6** Lola Davis 1879 -
+    - ————–**Gen 5** John Berry 1850 -
+      - sp. Diana Colvin 1847 -
+    - ————–**Gen 5** Catherine Montgrolia Berry 1853 -
+      - sp. Clarence Edgar Hooker m: 07 Jul 1885
+    - ————–**Gen 5** George Washington Berry 19 Sep 1857 d: 03 Apr 1944
+      - sp. Fatima Jane Edwards 1873 - d: 05 Jan 1953
+      - ————————**Gen 6** Grady Berry 1894
+      - ————————**Gen 6** Beadford Berry 1895 -
+      - ————————**Gen 6** Lila Berry 1896 -
+      - ————————**Gen 6** Anna L Berry 1897 -
+      - ————————**Gen 6** Arnold Berry 1899 -
+      - ————————**Gen 6** Ola M Berry 1901 -
+      - ————————**Gen 6** Lee Agustus Berry 1903 - d: 01 Jan 1994
+        - sp. Eros Joan Johnston 1904 - d: 04 Jan 2003
+      - ————————**Gen 6** Getha Berry 1904 -
+      - ————————**Gen 6** Sterling Olif Berry 1908 -
+      - ————————**Gen 6** Hazel L Berry 1913 -
+
+---
+
+### Thomas Person Berry Line
+
+  - ——–**Gen 4** Thomas Person Berry 1808 - 1884 d: 30 Apr 1884 Orange Co NC
+    - sp. Sarah Lunsford 1811 - 1870 d: 27 Dec 1870 Orange Co N.C.
+    - ————–**Gen 5** William H. Berry 1836 - 1858 d: 1858
+      - sp. Sarah Frances King 1838 - m: 06 Aug 1857 in Orange Co
+    - ————–**Gen 5** Wilie Berry 1838 -
+    - ————–**Gen 5** John Robert Berry 1842 - 1917 d: 10 Oct 1917 Orange Co.
+      - sp. Elizabeth F Bowling 1847 - 1904 d: 11 Aug 1904 Orange
+      - ————————**Gen 6** Emma G. Berry 1866 - 1945 d: 12 Feb 1945
+        - sp. John Saunders Berry 1859 - d: 01 Mar 1938
+        - ————————————**Gen 7** Annie E. Berry 1886 - d: 03 Dec 1965
+          - sp. W. D. Burnette
+        - ————————————**Gen 7** Jerome Grandon Berry 1889 - 1973 d: 16 Nov 1973
+          - sp. Clair Miller 1901 - 1992 d: 30 Dec 1992 Orange Co
+        - ————————————**Gen 7** Vurger L. Berry 1892 - 1893 d: 18 Jul 1893
+        - ————————————**Gen 7** Charles Eli Berry, Sr. 1893 - 1949 d: 29 Nov 1949
+          - sp. Luna Vista Beulah Gray 1898 - d: 21 Oct 1930
+          - *2nd Wife of Charles Eli Berry, Sr:*
+          - sp. Eula Taylor m: 1931
+        - ————————————**Gen 7** Minnie L. Berry 1896 - 1947 d: 14 Dec 1947
+        - ————————————**Gen 7** Cora S. Berry 1900 -
+          - sp. Coy M. Whitaker
+        - ————————————**Gen 7** Walter G. Berry 1903 - 1963 d: 02 Mar 1963
+          - sp. Hall
+      - ————————**Gen 6** Cora D. Berry 1868 - 1947 d: 18 Sep 1947 in Orange Co. N.C.
+        - sp. Asahel Frank Breeze 1860 - 1950 d: 26 Jun 1950 in N.C.
+        - ————————————**Gen 7** Mary Frances Breeze
+          - sp. Issac Jordan Rimmer 1883 - 1943 d: 28 Mar 1943
+        - ————————————**Gen 7** Robert H. Breeze 1882 - 1953 d: 27 Mar 1953
+          - sp. Annie Breeze 1893 - 1961 d: 13 Feb 1961
+        - ————————————**Gen 7** Sallie L. Breeze 1889 - 1972 d: Apr 1972 in Durham N.C.
+          - sp. William Lee Umpstead 1895 - d: Jun 1982 in NC
+        - ————————————**Gen 7** Luna Breeze 1895 - 1970 d: Feb 1970
+          - sp. Daniel Chandler 1903 - 1972 d: Feb 1972
+        - ————————————**Gen 7** Margaret Magie Breeze 1901
+          - sp. Bill Reese
+        - ————————————**Gen 7** Beatrice Breeze 1902 -
+          - sp. Arthur Rimmer
+        - ————————————**Gen 7** Bertha Breeze 1891 -
+          - sp. Garland Tober Toler 1883 - m: 1909
+        - ————————————**Gen 7** Liva Breeze 1904 - 1905 d: 08 Apr 1905
+        - ————————————**Gen 7** Lyda Breeze 1904 - 1905 d: 29 Mar 1905
+      - ————————**Gen 6** Wiley P. Berry b. 1869 - d: 08 May 1965 in Mebane NC
+        - sp. Ida Ann Wilson 1876 - d: 04 May 1941 in Mabane NC
+        - ————————————**Gen 7** William Eugene Berry 1896 - d: 30 Sep 1984 in N.C.
+          - sp. Pattie Alma McAdams 1899 - 1993 d: 16 Apr 1993 in NC
+        - ————————————**Gen 7** Mary Ethel Berry 1899 - 1957 d: 13 Nov 1957 in Durham NC
+          - sp. Brodie S Carr 1898 - d: 24 Aug 1973 Orange Co
+        - ————————————**Gen 7** Thomas Young Berry 1903 - 1925 d: 08 Jun 1925 in NC
+        - ————————————**Gen 7** Sally Malena Berry 1908 - d: 19 Mar 2002 Cary NC
+          - sp. Jessie Clyde Henderson 1905 - d: 11 Jun 1984 N C
+        - ————————————**Gen 7** Woodrow Wilson Berry 1912 - d: 03 May 1989 in NC
+          - sp. Ora Mae Murray 1918 - d: 21 Sep 2002
+        - ————————————**Gen 7** Wiley Harold Berry 1914 - d: 24 Jun 2006 in Durham N.C.
+          - sp. Hilda Elizabeth Nichols 1917 - d: 07 Aug 2002 in NC
+        - ————————————**Gen 7** Infant Son Berry 1916 - d: 23 Sep 1916 NC
+        - ————————————**Gen 7** Wiley P. Berry Jr. 1919 - d: 18 Aug 2007
+          - sp. Mary Elizabeth Barbee 1928 - Jan 25 2014
+      - ————————**Gen 6** John W. Berry 1871 - d: 22 Dec 1923 in Orange county N.C.
+      - ————————**Gen 6** Mary A. Berry 1873 -
+        - sp. James O Webb 1859 - 1904
+        - ————————————**Gen 7** James Webb Jr. 1905 -
+        - ————————————**Gen 7** Myra Webb 1908 -
+          - sp. John Brentley
+      - ————————**Gen 6** Ada Lee Ann Berry 1875 - d: 22 Nov 1968 NC
+        - sp. William Jackson Rogers 1864 - d: 12 Apr 1931
+        - ————————————**Gen 7** James Jackson Rogers 1897 - 1969 d: 07 May 1969
+          - sp. Velma Williams 1906 - m: 1925
+        - ————————————**Gen 7** William Richard Rogers 1899 -
+          - sp. Annie Lunsford
+        - ————————————**Gen 7** John Bryant Rogers 1901 -
+          - sp. Catherine Durham
+        - ————————————**Gen 7** Charlie Wayne Rogers 1903 -
+          - sp. Claudia Corbette
+        - ————————————**Gen 7** Bettie Rogers 1905 -
+          - sp. Odie Wilson
+        - ————————————**Gen 7** Mary Rogers 1908 -
+        - ————————————**Gen 7** Hal Kitchen Rogers 1910 -
+          - sp. Doris Deana
+        - ————————————**Gen 7** Euart Bryan Rogers 1912 -
+          - sp. Maxine Walters
+        - ————————————**Gen 7** Helen Pattie Rogers 1920 -
+          - sp. Graham Ashley
+      - ————————**Gen 6** Willie Adolphus Berry 1877 - 1964 d: 08 Jan 1964
+        - sp. Fannie Bennett Hall 1881 - d: 23 Aug 1980 in Orange
+        - ————————————**Gen 7** Clyde Hall Berry 1901 - 1979 d: 14 Jun 1979, Person N.C.
+          - sp. Alma Harris 1909 -
+        - ————————————**Gen 7** Mabel Lee Berry 1903 -
+          - sp. Draper H Harris 1902 - 1965 d: 1965
+        - ————————————**Gen 7** Bettie Bowling Berry 1905 - 1999 d: 08 Apr 1999
+          - sp. James Richard Sr. Harris 1901 -
+        - ————————————**Gen 7** Lula Berry 1907 - 1926 d: 04 Feb 1926
+        - ————————————**Gen 7** Milton Banks Berry 1909 - 1991 d: 1991
+          - sp. Margaret Jackson 1915
+        - ————————————**Gen 7** John Lambert Berry 1911 - d: 1982
+          - sp. Margaret Boyd
+        - ————————————**Gen 7** Fannie Bennett Berry 1914 -
+          - sp. John Alexander Sr. Long 1911 - 1988 d: 1988
+        - ————————————**Gen 7** Lucille Jones Berry 1916 -
+          - sp. Landon Gray Whitt Sr. 1920 - d: 26 Jan 2000 N.C.
+        - ————————————**Gen 7** Willie Adolphus Berry Jr. 1918 -
+          - sp. Evelyn Phillips 1931 - m: Jan 1954
+        - ————————————**Gen 7** Virginia Gertrude Berry 1921 -
+          - sp. Talmadge T Stanfield 1919 - 1982 m: 11 Jun d: 1982
+      - ————————**Gen 6** Thomas Euart Berry 1880 -
+        - sp. Mary Ella Tilly 1882 -
+        - ————————————**Gen 7** Claiborne Berry 1907 -
+          - sp. Fannie Belle Bowling
+        - ————————————**Gen 7** Earnest Berry 1909 - 1981 d: 01 Feb 1981
+          - sp. Lillie Pickett 1912 - 1990 d: 17 Dec 1990
+        - ————————————**Gen 7** Blannie Berry 1912 - 2000 d: 23 Feb 2000
+          - sp. Charles Clarence Holeman 1906 - 1978 d: 06 Oct 1978
+        - ————————————**Gen 7** Pattie Berry 1917 -
+          - sp. Emerson Pope
+        - ————————————**Gen 7** Jennings Gentry Berry 1918 - d: 13 Mar 1992
+          - sp. Mary Frances Blalock
+        - ————————————**Gen 7** Frances Berry 1920 -
+          - sp. Eugene W. Thompson
+      - ————————**Gen 6** Pattie S Berry 1886 - 1915 d: 12 Dec 1915 Sandford N.C.
+        - sp. F.C. Wilson 1887 -
+        - ————————————**Gen 7** Felix Wilson Jr. 1912 - 1986 d: Feb 1986 N C
+    - ————–**Gen 5** James P Berry 1845 - 1912 d: 15 Feb 1912
+      - sp. Artelia Wedding 1851 - m: 11 Sep 1871 in Orange County
+      - ————————**Gen 6** Charles T. Berry 1878 -
+      - ————————**Gen 6** Robert L. Berry 1882 -
+      - ————————**Gen 6** Sarah Berry 1886 -
+      - ————————**Gen 6** Amilia Berry 1889 -
+      - ————————**Gen 6** Anne Belle Berry 1889 - d: 31 Oct 1902
+      - ————————**Gen 6** James Berry 1894 - 1896 d: 12 May 1896
+    - *2nd Wife of Thomas Person Berry:*
+    - sp. Lucy A. Brown 1847 - 1881 m: 24 Aug 1871 in N.C. d: 08 Jan 1881
+    - ————–**Gen 5** Edna H Berry 1872 - 1929 d: 03 Apr 1929
+      - sp. Cary R. Rogers 1863 - 1922 d: 1922
+      - ————————**Gen 6** [2] Henry Roy Rogers 1897 - 1970 d: 1970
+        - sp. [1] Susie Elizabeth Cates 1899 -
+      - ————————**Gen 6** Dewey Washington Rogers 1899 -
+        - sp. Lucy Horton
+      - ————————**Gen 6** Clyde Banks Rogers 1900 - 1980 d: 1980
+        - sp. Myrtle Blalock
+      - ————————**Gen 6** Lemuel Thomas Rogers 1902 - 1943 d: 1943
+        - sp. Ruby Blalock
+      - ————————**Gen 6** Walter Maine Rogers 1903 -
+        - sp. May Whitfield
+      - ————————**Gen 6** Zeb Vance Rogers 1905 -
+        - sp. Alma Allen
+      - ————————**Gen 6** Bannie Mae Rogers 1907 -
+      - ————————**Gen 6** Daniel Hubert Rogers 1909 -
+        - sp. Lessie Temple Oakley 1914 -
+    - ————–**Gen 5** Martha Bowers Berry 1873 - 1939 d: 29 Dec 1939
+      - sp. James Caroway Wrenn 1868 - 1923 d: 1923
+      - ————————**Gen 6** Victor Arthur Wrenn 1902 -
+      - ————————**Gen 6** Clarence Boardman Wrenn 1905 - 1972 d: 1972
+      - ————————**Gen 6** Talmadge Dean Wrenn 1907 - 1978 d: 1978
+      - ————————**Gen 6** Ruth Jeanette Wrenn 1909 -
+      - ————————**Gen 6** James Caroway Wrenn Jr. 1911 - 1968 d: 1968
+      - ————————**Gen 6** Sadie Katherine Wrenn 1914 - 1977 d: 1977
+    - ————–**Gen 5** Etta E. Berry 1874 -
+      - sp. James Madaison Clayton 1867 -
+      - ————————**Gen 6** James T Clayton 1897 -
+        - sp. Minnie Woodall
+      - ————————**Gen 6** Sally Blanche Clayton 1903 -
+        - sp. Clarence Rogers
+      - ————————**Gen 6** Hurbert Y Clayton 1905 -
+        - sp. Zolene Chandler
+      - ————————**Gen 6** Ethel C Clayton 1907 -
+        - sp. Willie Clayton
+      - ————————**Gen 6** Ruth M Clayton 1909 -
+        - sp. Berman Dick Clayton
+      - ————————**Gen 6** Nell L Clayton 1913 -
+        - sp. Day Creed
+      - ————————**Gen 6** Nancy Clayton 1915 -
+        - sp. Rainey Whitfield
+    - ————–**Gen 5** Della Thomas Berry 1877 -
+      - sp. William Cooper Sr. Cates 1872 - 1920 d: 1920
+      - ————————**Gen 6** Annie Belle Cates 1896 -
+        - sp. Marcellous Regan
+      - ————————**Gen 6** Sophia Cates 1897 -
+      - ————————**Gen 6** Susie Elizabeth Cates 1899 -
+        - sp. Henry Roy Rogers 1897 - 1970 d: 1970
+      - ————————**Gen 6** James Clyde Cates 1900 -
+        - sp. Alma Zimmerman
+        - ————————————**Gen 7** Beatrice Cates
+        - ————————————**Gen 7** Clydie Cates
+        - ————————————**Gen 7** William Cates
+        - ————————————**Gen 7** Eddie Cates
+        - ————————————**Gen 7** Ruth Lane Cates
+      - ————————**Gen 6** Adeline Frances Cates 1902 - 1925 d: 1925
+        - sp. John Allen
+      - ————————**Gen 6** Walter Thomas Cates 1904 - 1936 d: 1936
+      - ————————**Gen 6** James Samuel Cates 1905 - 1959 d: 1959
+        - sp. Bessie Jordan
+        - ————————————**Gen 7** Jorine Cates
+        - ————————————**Gen 7** Carolyn Cates
+        - ————————————**Gen 7** Joyce Cates
+      - ————————**Gen 6** Anna Lou Cates 1907 -
+        - sp. Josh Parker
+        - ————————————**Gen 7** Merle Jeanette Parker 1932 -
+          - sp. Gene Brown
+        - ————————————**Gen 7** Elaine Parker 1933 - 1940 d: 1940
+        - ————————————**Gen 7** Samuel Joshua Parker 1934 -
+          - sp. Ann Kerr
+        - ————————————**Gen 7** Betsey Elaine Parker 1936 -
+          - sp. Melvin Holt
+        - ————————————**Gen 7** Nelson Cooper Parker 1936 -
+          - sp. Judy Clayton
+        - ————————————**Gen 7** Alice Barbara Parker 1942 -
+          - sp. Len Woods
+        - ————————————**Gen 7** Norma Jean Parker 1943 -
+        - ————————————**Gen 7** David Michael Parker 1951 -
+          - sp. Betsy
+      - ————————**Gen 6** Sally Cates 1908 -
+      - ————————**Gen 6** Emma Rene Cates 1909 -
+        - sp. Nathanial Taylor Williams
+        - ————————————**Gen 7** Nathanial Cates Williams
+      - ————————**Gen 6** Julia Bradley Cates 1911 -
+        - sp. Edward Clayton Harris
+        - ————————————**Gen 7** Judith Lane Harris
+          - sp. John Downs
+        - ————————————**Gen 7** Stanford Clayton Harris
+          - sp. Linda Kay Suitt
+      - ————————**Gen 6** Edison Cooper Cates 1912 -
+        - sp. Wilma Long
+        - ————————————**Gen 7** Jacquelyn Cates
+          - sp. Dale Rimmer
+        - ————————————**Gen 7** Billy Cates
+        - ————————————**Gen 7** Marie Cates
+        - ————————————**Gen 7** Sandy Cates
+        - ————————————**Gen 7** Jerry Cates
+      - ————————**Gen 6** Della Lee Cates 1914 -
+        - sp. Lambert Blalock
+        - ————————————**Gen 7** Tommy Blalock
+          - sp. Betsy
+      - ————————**Gen 6** John David Cates 1916 -
+        - sp. Pattie Daniel
+        - ————————————**Gen 7** Bobby Carter Cates
+          - sp. Patsy Sprague
+        - ————————————**Gen 7** George William Cates
+          - sp. Scottie Wise Evans
+        - ————————————**Gen 7** Della Cates
+          - sp. Mary Daniel
+      - ————————**Gen 6** Lottie Dare Cates 1917 -
+        - sp. Daniel B. Whitfield
+        - ————————————**Gen 7** Thaddeus Whitfield
+        - ————————————**Gen 7** Harriett Whitfield
+          - sp. Micheal B. Clayton
+      - ————————**Gen 6** Roberson Carter Cates 1919 - 1930 d: 1930
+    - ————–**Gen 5** Daniel R Berry 1880 - 1957 d: 31 May 1957
+      - sp. Ella Pucci 1873 - 1926 d: 08 Oct 1926
+      - ————————**Gen 6** Vivant Hamlin Berry
+      - ————————**Gen 6** James Earl Berry 1908 -
+        - sp. Joyce Pamplin
+      - ————————**Gen 6** Alma Berry
+        - sp. Nick Allen
+      - ————————**Gen 6** Lucille Berry 1914 -
+        - sp. Rufus Buchanan
+      - ————————**Gen 6** Hazel Berry 1916 -
+        - sp. Paul Milam
+        - *2nd Husband of Hazel Berry:*
+        - sp. Tommy Bryant
+      - ————————**Gen 6** Lottie Berry 1928 -
+        - sp. Reade Foushee
+      - ————————**Gen 6** Audrey Berry
+        - sp. Howard Shull
+      - *2nd Wife of Daniel R Berry:*
+      - sp. Maggie Turner 1896 - 1984 d: 25 Jun 1984
+    - *3rd Wife of Thomas Person Berry:*
+    - sp. Elizabeth Peed Bowles 1833 - m: 06 Dec 1883 in Orange County N.C.
+
+---
+
+</div>

@@ -1,22 +1,59 @@
 ---
 title: "Census Page for Thomas Berry"
+weight: 50
+bookToc: true
 ---
 
-Ancestors:
-<ol>
-	<li>Generation Robert and Mary Williamson Berry, Princess Anne County, Virginia.</li>
-	<li>Generation Robert and Elizabeth Cate Berry, Orange County, North Carolina.</li>
-	<li>Generation Thomas Berry 1772 - d: Bef. 16 Apr 1812 . Tenn                                          .................. +Sarah Cate 1781 - m: 11 Aug 1800  N.C. d: 07 March 1875 Tenn.</li>
-</ol>
-<p><strong>1800 Orange County, North Carolina Census.</strong></p>
-<a href="/images/djb1800.jpg"><img class="alignnone size-full wp-image-1640" src="/images/djb1800.jpg" alt="djb1800" width="950" height="781" /></a><a href="/images/tberry1800.jpg"><img class="alignnone size-full wp-image-1778" src="/images/tberry1800.jpg" alt="tberry1800" width="1000" height="824" /></a>
+<div class="ancestor-page">
 
-1800 Orange County, North Carolina, listing for Robert Berry Jr., Robert Berry Sr., Joshua Berry Sr., David J. Berry Sr.,William Berry, and Thomas Berry.
+{{< breadcrumb trail="Home|/|Ancestors|/ancestors/|Family Lines|/family-lines/|Census — Thomas Berry" >}}
 
-William Berry never listed in another  Orange County, North Carolina Census.
+{{< ancestor-chain gen3="Thomas Berry × Sarah Cate" loc3="Orange County, NC → Tennessee" link3="/ancestors/thomas-berry/" />}}
 
-<strong>This was the only US Census. in which Thomas Berry ever listed</strong>. We know Thomas was not in Orange County, North Carolina in 1810 because his wife, Sarah Cate Berry,  was enumerated in her sister's, Hannah Cate Berry's 1810 Orange County, North Carolina Census. There were only 4 males under 10 years old listed in that census.
+{{< ancestor-profile
+  name="Thomas Berry"
+  gen="3"
+  born="1772, Orange County, North Carolina"
+  died="Before April 16, 1812, Tennessee"
+  spouse="Sarah Cate — married August 11, 1800, North Carolina"
+  parents="Robert Berry and Elizabeth Cate, Orange County, NC"
+>}}
 
-<figure><a href="/images/rb1810nc.jpg"><img class="size-full wp-image-1706" src="/images/rb1810nc.jpg" alt="1810 oc census" width="950" height="679" /></a> Hannah Cate Berry's 1810 Census</figure>
+## Lineage
 
-<a href="#">Return to top of Page</a>
+1. **Gen 1** — Robert and Mary Williamson Berry — Princess Anne County, Virginia
+2. **Gen 2** — Robert and Elizabeth Cate Berry — Orange County, North Carolina
+3. **Gen 3** — Thomas Berry (1772 – bef. April 16, 1812, TN) × Sarah Cate (1781 – March 7, 1875, TN) — m. August 11, 1800, NC
+
+---
+
+## 1800 Orange County, North Carolina Census
+
+<div class="photo-feature">
+  <a href="/images/djb1800.jpg">
+    <img src="/images/djb1800.jpg" alt="1800 Orange County NC Census" />
+  </a>
+</div>
+
+<div class="photo-feature">
+  <a href="/images/tberry1800.jpg">
+    <img src="/images/tberry1800.jpg" alt="1800 Orange County NC Census — Thomas Berry" />
+  </a>
+</div>
+
+1800 Orange County, North Carolina, listing for Robert Berry Sr., Robert Berry Jr., Joshua Berry Sr., David J. Berry Sr., William Berry, and Thomas Berry.
+
+William Berry never listed in another Orange County, North Carolina Census.
+
+**This was the only US Census in which Thomas Berry ever listed.** We know Thomas was not in Orange County, North Carolina in 1810 because his wife, Sarah Cate Berry, was enumerated in her sister's, Hannah Cate Berry's 1810 Orange County, North Carolina Census. There were only 4 males under 10 years old listed in that census.
+
+## 1810 Hannah Cate Berry Census
+
+<div class="photo-feature">
+  <a href="/images/rb1810nc.jpg">
+    <img src="/images/rb1810nc.jpg" alt="1810 Orange County Census — Hannah Cate Berry" />
+  </a>
+  <div class="photo-caption">Hannah Cate Berry's 1810 Census</div>
+</div>
+
+</div>
