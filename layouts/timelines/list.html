@@ -246,11 +246,17 @@
     padding: 2px 8px;
     border-radius: 10px;
     font-family: sans-serif;
+    flex: 0 0 auto;
   }
 
-  .badge-line     { background: #2a4a2a; color: #8faf6f; border: 1px solid #3a6a3a; }
+  .badge-line     { background: #2a4a2a; color: #FFA500; border: 1px solid #3a6a3a; }
   .badge-cat      { background: #3a3a1a; color: #c8a84b; border: 1px solid #5a5a2a; }
   .badge-uncertain{ background: #3a2a1a; color: #c87a4b; border: 1px solid #6a4a2a; font-style: italic; }
+  a.badge-ancestor { background: #2a3a2a; color: #FFFDD0 !important; border: 1px solid #4a7a4a; text-decoration: none !important; cursor: pointer; }
+  a.badge-ancestor:hover { background: #3a5a3a; color: #FFFDD0 !important; border-color: #6a9a6a; }
+  span.badge-person { background: #2a2a2a; color: #9a9a7a; border: 1px solid #4a4a3a; }
+  a.badge-line    { text-decoration: none !important; cursor: pointer; color: #FFA500 !important; }
+  a.badge-line:hover { background: #3a5a3a; color: #FFA500 !important; border-color: #5a8a5a; }
 
   .no-events {
     text-align: center;
@@ -379,6 +385,19 @@ let selectedCentury = null;
 let selectedDecade  = null;
 let selectedLine    = 'all';
 let activeCategories = new Set(['birth','death','marriage','military','land','court','historical','migration','census','will_estate','church']);
+
+// ── Family line → ancestor page URL mapping ──────────────────────
+const FAMILY_LINE_URLS = {
+  'Robert Berry PAC': '/ancestors/robertberrypac/',
+  'Robert Berry OC': '/ancestors/robert-berry-oc/',
+  'Robert Berry Jr.': '/ancestors/robertberryjr/',
+  'Joshua Berry': '/ancestors/joshuaberry/',
+  'William Berry': '/ancestors/william-berry/',
+  'Thomas Berry': '/ancestors/thomas-berry/',
+  'David J. Berry': '/ancestors/david-j-berry-sr/',
+  'Henry Berry': '/ancestors/henryberry/',
+  'Mary Berry Camp': '/ancestors/maryberry/'
+};
 
 // ── Family line dropdown ───────────────────────────────────────────
 const lines = [...new Set(EVENTS.map(e => e.family_line).filter(Boolean))].sort();
@@ -615,7 +634,8 @@ function renderEvents() {
       <div class="event-year">${e.year_display}</div>
       <div class="event-text">${e.event}</div>
       <div class="event-meta">
-        ${e.family_line ? `<span class="badge badge-line">${e.family_line}</span>` : ''}
+        ${e.ancestor_links ? e.ancestor_links.map(l => l.url ? `<a href="${l.url}" class="badge badge-ancestor">${l.name}</a>` : `<span class="badge badge-person">${l.name}</span>`).join('') : ''}
+        ${e.family_line ? (FAMILY_LINE_URLS[e.family_line] ? `<a href="${FAMILY_LINE_URLS[e.family_line]}" class="badge badge-line">${e.family_line}</a>` : `<span class="badge badge-line">${e.family_line}</span>`) : ''}
         <span class="badge badge-cat">${CATS[e.category] || e.category}</span>
         ${e.uncertain ? '<span class="badge badge-uncertain">uncertain</span>' : ''}
       </div>
