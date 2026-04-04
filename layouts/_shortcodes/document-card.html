@@ -1,0 +1,44 @@
+{{/*
+  document-card shortcode
+  Renders a styled card for a primary source document.
+
+  Usage: {{< document-card title="..." type="..." ... >}}optional inner{{< /document-card >}}
+
+  Parameters:
+    title    (string) — Document title
+    type     (string) — Document type badge: will, deed, estate, census, marriage, military, legal, collection
+    date     (string) — Date or date range, e.g. "1730" or "1691–1755"
+    people   (string) — Key people involved, comma-separated
+    link     (string) — URL to the document detail page
+    summary  (string) — Brief description of the document
+*/}}
+{{ $unused := .Inner }}
+<a href="{{ .Get "link" }}" class="doc-card-link">
+  <div class="doc-card">
+    <div class="doc-card-header">
+      {{ $type := .Get "type" | default "document" }}
+      <span class="doc-type-badge doc-type-{{ $type }}">
+        {{- if eq $type "will" }}Will / Probate
+        {{- else if eq $type "deed" }}Deed / Land
+        {{- else if eq $type "estate" }}Estate Record
+        {{- else if eq $type "census" }}Census
+        {{- else if eq $type "marriage" }}Marriage Record
+        {{- else if eq $type "military" }}Military Record
+        {{- else if eq $type "legal" }}Legal Document
+        {{- else if eq $type "collection" }}Document Collection
+        {{- else }}Document
+        {{- end -}}
+      </span>
+      {{- if .Get "date" }}
+      <span class="doc-card-date">{{ .Get "date" }}</span>
+      {{- end }}
+    </div>
+    <h3 class="doc-card-title">{{ .Get "title" }}</h3>
+    {{- if .Get "summary" }}
+    <p class="doc-card-summary">{{ .Get "summary" }}</p>
+    {{- end }}
+    {{- if .Get "people" }}
+    <div class="doc-card-people">{{ .Get "people" }}</div>
+    {{- end }}
+  </div>
+</a>

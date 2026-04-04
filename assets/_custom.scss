@@ -1642,8 +1642,349 @@ p > strong:first-child {
   }
 }
 
+// =============================================================
+// DOCUMENTS PAGE — Category sections & document cards
+// Lila — 2026-04-04
+// =============================================================
+
+// Category section headers
+.doc-category {
+  margin: 3rem 0 1.2rem;
+  padding-bottom: 0.4rem;
+  border-bottom: 2px solid $forest-mid;
+  font-family: 'Cinzel', serif;
+  font-size: clamp(1.1rem, 2.5vw, 1.4rem);
+  font-weight: 600;
+  color: $forest-dark;
+  letter-spacing: 0.03em;
+}
+
+// Section separator — top border on every .doc-category except the first
+.doc-category ~ .doc-category {
+  border-top: 1px solid rgba($forest-mid, 0.25);
+  padding-top: 1rem;
+}
+
+// Count badge pill next to category name
+.doc-count {
+  font-family: 'Source Serif 4', serif;
+  font-size: 0.7rem;
+  background: rgba($forest-mid, 0.12);
+  color: $forest-dark;
+  padding: 0.1rem 0.5rem;
+  border-radius: 10px;
+  vertical-align: middle;
+  margin-left: 0.5rem;
+  font-weight: 400;
+  letter-spacing: normal;
+}
+
+.doc-category-desc {
+  font-size: 0.95rem;
+  color: $bark-mid;
+  margin: -0.5rem 0 1rem;
+  line-height: 1.6;
+}
+
+// Card grid
+.doc-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 1rem;
+  margin-bottom: 1.5rem;
+}
+
+// Individual document card
+.doc-card-link {
+  text-decoration: none !important;
+  color: inherit !important;
+  display: block;
+
+  &:hover .doc-card,
+  &:focus .doc-card {
+    border-color: $accent-gold;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
+    transform: translateY(-2px);
+  }
+
+  &:focus-visible .doc-card {
+    outline: 2px solid $accent-gold;
+    outline-offset: 2px;
+  }
+}
+
+.doc-card {
+  background: rgba($cream-bg, 0.92);
+  border: 1px solid $cream-border;
+  border-radius: 6px;
+  padding: 1rem 1.2rem;
+  transition: border-color 0.2s ease, box-shadow 0.2s ease, transform 0.2s ease;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.doc-card-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 0.5rem;
+  gap: 0.5rem;
+}
+
+// Document type badges
+.doc-type-badge {
+  font-family: 'Cinzel', serif;
+  font-size: 0.7rem;
+  font-weight: 600;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  padding: 0.15rem 0.6rem;
+  border-radius: 3px;
+  white-space: nowrap;
+}
+
+.doc-type-will       { background: rgba($forest-dark, 0.12); color: $forest-dark; }
+.doc-type-deed       { background: rgba($accent-gold, 0.15); color: darken($accent-gold, 8%); }
+.doc-type-estate     { background: rgba($bark-brown, 0.12); color: $bark-brown; }
+.doc-type-census     { background: rgba($forest-light, 0.15); color: darken($forest-light, 15%); }
+.doc-type-marriage   { background: rgba(#8a4060, 0.12); color: #8a4060; }
+.doc-type-military   { background: rgba(#405a8a, 0.12); color: #405a8a; }
+.doc-type-legal      { background: rgba($bark-mid, 0.12); color: $bark-mid; }
+.doc-type-collection { background: rgba($forest-mid, 0.15); color: $forest-dark; }
+.doc-type-document   { background: rgba($bark-light, 0.12); color: $bark-mid; }
+
+.doc-card-date {
+  font-size: 0.8rem;
+  color: $bark-light;
+  font-style: italic;
+  white-space: nowrap;
+}
+
+.doc-card-title {
+  font-family: 'Cinzel', serif;
+  font-size: 1rem;
+  font-weight: 600;
+  color: $bark-brown;
+  margin: 0 0 0.4rem;
+  line-height: 1.35;
+}
+
+.doc-card-summary {
+  font-size: 0.88rem;
+  color: $bark-mid;
+  line-height: 1.55;
+  margin: 0 0 0.5rem;
+  flex: 1;
+}
+
+.doc-card-people {
+  font-size: 0.8rem;
+  color: $bark-light;
+  border-top: 1px solid rgba($cream-border, 0.6);
+  padding-top: 0.4rem;
+  margin-top: auto;
+
+  &::before {
+    content: "Key people: ";
+    font-weight: 600;
+    color: $bark-mid;
+  }
+}
+
+// Documents tagline — sits under H1
+.documents-tagline {
+  text-align: center;
+  font-family: 'Cinzel', serif;
+  font-size: clamp(0.95rem, 2vw, 1.15rem);
+  font-style: italic;
+  color: $bark-light;
+  letter-spacing: 0.04em;
+  margin: -0.5rem 0 1.5rem;
+}
+
+// Documents intro header
+.documents-intro {
+  text-align: center;
+  margin-bottom: 2rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid $cream-border;
+
+  p {
+    max-width: 40rem;
+    margin: 0.5rem auto;
+    color: $bark-mid;
+    font-size: 1rem;
+    line-height: 1.7;
+  }
+}
+
+// Responsive: single column on narrow screens
+@media (max-width: 40rem) {
+  .doc-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .doc-card-link:hover .doc-card,
+  .doc-card-link:focus .doc-card {
+    transform: none;
+  }
+}
+
 @media print {
   .back-to-top {
+    display: none !important;
+  }
+}
+
+// =============================================================
+// Documents Page — Sticky Category Jump Navigation
+// Author: Kate (JavaScript & Data Specialist)
+// =============================================================
+
+.doc-jump-nav {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  background: rgba($cream-bg, 0.92);
+  backdrop-filter: blur(8px) brightness(1.05);
+  -webkit-backdrop-filter: blur(8px) brightness(1.05);
+  padding: 0.6rem 0.75rem;
+  margin: 0 -0.5rem 1.5rem;
+  border-bottom: 1px solid $cream-border;
+  transition: box-shadow 0.25s ease;
+
+  // Subtle shadow when stuck (IntersectionObserver not needed —
+  // the shadow is always subtle enough to look fine at top too)
+  &.doc-jump-nav--stuck {
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  }
+}
+
+// Apply stuck class via scroll position
+// (handled purely in CSS with a sentinel trick)
+// We use a tiny negative top + box-shadow for the sticky shadow effect
+.doc-jump-nav {
+  // When sticky and scrolled, top rounds to -1px, triggering shadow
+  top: -1px;
+  padding-top: calc(0.6rem + 1px); // compensate for the -1px
+
+  // Shadow appears naturally when sticky (always-on subtle shadow is fine)
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.06);
+
+  @supports (position: sticky) {
+    &::before {
+      content: '';
+      display: block;
+      height: 1px;
+      margin-top: -1px;
+    }
+  }
+}
+
+.doc-jump-nav-list {
+  display: flex;
+  gap: 0.5rem;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  overflow-x: auto;
+  scroll-behavior: smooth;
+
+  // Hide scrollbar but keep scrollability
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+  &::-webkit-scrollbar {
+    display: none;
+  }
+}
+
+.doc-jump-pill {
+  display: inline-block;
+  white-space: nowrap;
+  font-family: 'Cinzel', serif;
+  font-size: 0.75rem;
+  font-weight: 600;
+  line-height: 1;
+  padding: 0.6rem 1rem;
+  min-height: 44px;         // accessibility: minimum touch target
+  min-width: 44px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none !important;
+  color: $white-soft !important;
+  background: $forest-dark;
+  border: 1px solid $forest-mid;
+  border-radius: 999px;
+  cursor: pointer;
+  transition: background-color 0.2s ease,
+              color 0.2s ease,
+              border-color 0.2s ease,
+              box-shadow 0.2s ease;
+
+  &:hover,
+  &:focus-visible {
+    background: $accent-gold;
+    border-color: $accent-gold-hover;
+    color: $white-soft !important;
+    box-shadow: 0 2px 6px rgba($accent-gold, 0.3);
+  }
+
+  &:focus-visible {
+    outline: 2px solid $accent-gold-hover;
+    outline-offset: 2px;
+  }
+
+  // Active / current category
+  &.doc-jump-pill--active {
+    background: $accent-gold;
+    border-color: $accent-gold-hover;
+    color: $white-soft !important;
+    box-shadow: 0 2px 6px rgba($accent-gold, 0.25);
+  }
+}
+
+// Mobile: horizontal scroll with edge fades
+@media (max-width: 60rem) {
+  .doc-jump-nav {
+    margin-left: -1rem;
+    margin-right: -1rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    // Edge fade masks to hint at scrollable content
+    -webkit-mask-image: linear-gradient(
+      to right,
+      transparent 0,
+      black 1rem,
+      black calc(100% - 1rem),
+      transparent 100%
+    );
+    mask-image: linear-gradient(
+      to right,
+      transparent 0,
+      black 1rem,
+      black calc(100% - 1rem),
+      transparent 100%
+    );
+  }
+}
+
+// Reduced motion: disable smooth transitions on pills
+@media (prefers-reduced-motion: reduce) {
+  .doc-jump-pill {
+    transition: none;
+  }
+  .doc-jump-nav-list {
+    scroll-behavior: auto;
+  }
+}
+
+// Print: hide jump nav entirely
+@media print {
+  .doc-jump-nav {
     display: none !important;
   }
 }

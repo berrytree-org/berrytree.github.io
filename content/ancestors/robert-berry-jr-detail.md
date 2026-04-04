@@ -77,7 +77,7 @@ When Robert Jr. registered in the 1800 Orange County Census he listed four sons 
 [Deed book page 421:](/documents/) Land Sold in Person County N.C.
 
 
-[Land grant to Robert Berry Jr. and his son George Berry:](/documents/land-grant-robert-berry-jr/)
+[Land grant to Robert Berry Jr. and his son George Berry:](/documents/land-grant-to-robert-berry-jr/)
 
 Fayette County Alabama 1824 . Grant signed by President James Monroe
 
@@ -140,7 +140,7 @@ Carolina shortly after his mother died and they were in Alabama by 1822”
 could read and write.
 
 
-- [US Grant: Robert Berry Jr.and his son George Berry April 6, 1824](/documents/land-grant-robert-berry-jr/)
+- [US Grant: Robert Berry Jr.and his son George Berry April 6, 1824](/documents/land-grant-to-robert-berry-jr/)
 
 - [Found in Fayette County, Alabama in the 1830 Census](/census/robertjr1830ala.jpg)
 
