@@ -1,0 +1,352 @@
+{
+  "metadata": {
+    "project_name": "Orange County Berry Family Y-DNA Project",
+    "total_berry_project_participants": 239,
+    "total_unrelated_berry_families": 18,
+    "matching_participants": 14,
+    "testing_service": "FamilyTreeDNA",
+    "project_administrator": "Carolyn (Cookie) Paulson",
+    "project_start_year": 2004,
+    "first_match_date": "2004-07-20",
+    "normandy_origin_percentage": 20,
+    "description": "Y-DNA testing results for descendants of Robert & Elizabeth Cate Berry of Orange County, NC",
+    "data_sources": "OCR from ydnapicchart.jpg, cross-referenced with site text and Chapter 17 of Frontier America",
+    "generated": "2026-04-04"
+  },
+  "dys_markers_37": [
+    "DYS393", "DYS390", "DYS19", "DYS391", "DYS385a", "DYS385b",
+    "DYS426", "DYS388", "DYS439", "DYS389I", "DYS392", "DYS389II",
+    "DYS458", "DYS459a", "DYS459b", "DYS455", "DYS454", "DYS447",
+    "DYS437", "DYS448", "DYS449", "DYS464a", "DYS464b", "DYS464c",
+    "DYS464d", "DYS460", "YGATA-H4", "YCAII-a", "YCAII-b", "DYS456",
+    "DYS607", "DYS576", "CDYa", "CDYb", "DYS442", "DYS438", "DYS531"
+  ],
+  "modal_values_37": [14, 24, 15, 10, 11, 14, 12, 12, 12, 13, 13, 29, 17, 9, 9, 11, 11, 25, 15, 19, 29, 14, 15, 17, 18, 10, 10, 19, 23, 15, 15, 18, 20, 37, 37, 12, 10],
+  "ancestors": {
+    "gen1": {
+      "name": "Robert & Mary Williamson Berry",
+      "location": "Princess Anne County, Virginia",
+      "label": "Robert Berry (PAC)"
+    },
+    "gen2": {
+      "name": "Robert & Elizabeth Cate Berry",
+      "location": "Orange County, North Carolina",
+      "label": "Robert Berry (OC)",
+      "marriage_year": 1757
+    }
+  },
+  "family_lines": [
+    {
+      "id": "robert-jr",
+      "ancestor": "Robert Berry Jr.",
+      "spouse": "Mary Waggoner Berry",
+      "birth_year": 1760,
+      "location": "Fayette County, Alabama",
+      "generation": 3,
+      "tested": true,
+      "participant_count": 2,
+      "ancestor_page": "/ancestors/robertberryjr/"
+    },
+    {
+      "id": "john",
+      "ancestor": "John Berry",
+      "spouse": "Martha Stepp Berry",
+      "birth_year": 1762,
+      "death_year": 1804,
+      "location": "Jackson County, Georgia",
+      "generation": 3,
+      "tested": true,
+      "participant_count": 1,
+      "note": "Tested at different lab; partial markers available",
+      "ancestor_page": "/ancestors/john-berry/"
+    },
+    {
+      "id": "joshua",
+      "ancestor": "Joshua Berry",
+      "spouse": "Nancy Ellison Berry",
+      "birth_year": 1766,
+      "location": "Orange County, North Carolina",
+      "generation": 3,
+      "tested": true,
+      "participant_count": 2,
+      "ancestor_page": "/ancestors/joshuaberry/"
+    },
+    {
+      "id": "isaac",
+      "ancestor": "Isaac Berry",
+      "spouse": null,
+      "birth_year": 1768,
+      "location": "Orange County, North Carolina",
+      "generation": 3,
+      "tested": false,
+      "participant_count": 0,
+      "reason": "Not married; no male offspring"
+    },
+    {
+      "id": "thomas",
+      "ancestor": "Thomas Berry",
+      "spouse": "Sarah Cate Berry",
+      "birth_year": 1770,
+      "death_year": 1812,
+      "location": "Wayne County, Tennessee",
+      "generation": 3,
+      "tested": true,
+      "participant_count": 3,
+      "ancestor_page": "/ancestors/thomas-berry/"
+    },
+    {
+      "id": "david-j",
+      "ancestor": "David J. Berry",
+      "spouse": "Mary Blalock Berry",
+      "birth_year": 1774,
+      "location": "Cobb County, Georgia",
+      "generation": 3,
+      "tested": true,
+      "participant_count": 2,
+      "ancestor_page": "/ancestors/david-j-berry-sr/"
+    },
+    {
+      "id": "william",
+      "ancestor": "William Berry",
+      "spouse": "Hannah Cate Berry",
+      "birth_year": 1775,
+      "location": "Orange County, North Carolina",
+      "generation": 3,
+      "tested": true,
+      "participant_count": 4,
+      "ancestor_page": "/ancestors/william-berry/"
+    },
+    {
+      "id": "henry",
+      "ancestor": "Henry Berry",
+      "spouse": null,
+      "birth_year": 1776,
+      "location": "Orange County, North Carolina",
+      "generation": 3,
+      "tested": false,
+      "participant_count": 0,
+      "reason": "Had one daughter; no male offspring for Y-DNA"
+    }
+  ],
+  "participants": [
+    {
+      "name": "Wiley Person Berry Jr.",
+      "ftdna_number": 18,
+      "family_line": "william",
+      "state": "North Carolina",
+      "test_company": "FTDNA",
+      "markers_37": [14, 24, 15, 10, 11, 14, 12, 12, 12, 13, 13, 29, 17, 9, 9, 11, 11, 25, 15, 19, 29, 14, 15, 17, 18, 10, 10, 19, 23, 15, 15, 18, 20, 37, 37, 12, 10],
+      "mutations_from_modal": []
+    },
+    {
+      "name": "Harold Bernard Berry",
+      "ftdna_number": 123,
+      "family_line": "william",
+      "state": "North Carolina",
+      "test_company": "FTDNA",
+      "markers_37": [14, 24, 15, 10, 11, 14, 12, 12, 12, 13, 13, 29, 17, 9, 9, 11, 11, 25, 15, 19, 29, 14, 15, 17, 18, 10, 10, 19, 23, 15, 15, 18, 20, 37, 37, 12, 10],
+      "mutations_from_modal": []
+    },
+    {
+      "name": "George Wesley Berry",
+      "ftdna_number": 134,
+      "family_line": "william",
+      "state": "Texas",
+      "test_company": "FTDNA",
+      "markers_37": [14, 24, 15, 10, 11, 14, 12, 12, 12, 13, 13, 29, 17, 9, 9, 11, 11, 25, 15, 19, 29, 14, 15, 17, 18, 10, 10, 19, 23, 15, 15, 18, 20, 37, 37, 12, 10],
+      "mutations_from_modal": []
+    },
+    {
+      "name": "George David Berry",
+      "ftdna_number": 218,
+      "family_line": "william",
+      "state": "Texas",
+      "test_company": "FTDNA",
+      "markers_37": [14, 24, 15, 10, 11, 14, 12, 12, 12, 13, 13, 29, 17, 9, 9, 11, 11, 25, 15, 19, 29, 14, 15, 17, 18, 10, 10, 19, 23, 15, 15, 18, 20, 37, 37, 12, 10],
+      "mutations_from_modal": []
+    },
+    {
+      "name": "Billy Wayne Berry",
+      "ftdna_number": 8,
+      "family_line": "robert-jr",
+      "state": "Alabama",
+      "test_company": "FTDNA",
+      "markers_37": [14, 24, 15, 10, 11, 14, 12, 12, 12, 13, 13, 29, 17, 9, 9, 11, 11, 25, 15, 19, 29, 14, 15, 17, 18, 10, 10, 19, 23, 15, 15, 18, 20, 37, 37, 12, 10],
+      "mutations_from_modal": []
+    },
+    {
+      "name": "David Lee Berry",
+      "ftdna_number": 101,
+      "family_line": "robert-jr",
+      "state": "Alabama",
+      "test_company": "FTDNA",
+      "markers_37": [14, 24, 15, 10, 11, 14, 12, 12, 12, 13, 13, 29, 17, 9, 9, 11, 11, 25, 15, 19, 29, 14, 15, 17, 18, 10, 10, 19, 23, 15, 15, 18, 20, 37, 37, 12, 10],
+      "mutations_from_modal": [],
+      "verification_note": "Orange-highlighted mutations visible in source chart at approximately markers 33-36; values could not be reliably read from image. Using modal values pending verification."
+    },
+    {
+      "name": "Shelby Dale Berry",
+      "ftdna_number": 236,
+      "family_line": "john",
+      "state": "Texas",
+      "test_company": "Other",
+      "markers_37": [14, 25, 15, 10, 11, 14, 12, 12, 12, 13, 13, 29, 17, null, null, 11, 11, 25, null, 19, 29, 14, 15, 17, 18, 10, 10, 19, 23, null, null, null, null, null, null, null, 10],
+      "mutations_from_modal": [
+        {"position": 2, "dys": "DYS390", "modal": 24, "value": 25}
+      ],
+      "note": "Tested at different company; missing markers at positions 14, 15, 19, 30-36. First descendant of John and Martha Stepp Berry ever located."
+    },
+    {
+      "name": "Kenneth Ronald Berry",
+      "ftdna_number": 83,
+      "family_line": "joshua",
+      "state": "California",
+      "test_company": "FTDNA",
+      "markers_37": [14, 24, 15, 10, 11, 14, 12, 12, 12, 13, 13, 29, 17, 9, 9, 11, 11, 25, 16, 19, 29, 14, 15, 17, 18, 10, 10, 19, 23, 15, 15, 18, 20, 37, 37, 12, 10],
+      "mutations_from_modal": [
+        {"position": 19, "dys": "DYS437", "modal": 15, "value": 16}
+      ],
+      "verification_note": "Marker 19 mutation (15→16) read from higher-resolution source chart. Additional orange cells may be present — STATUS: MEDIUM CONFIDENCE."
+    },
+    {
+      "name": "Charles Thomas Berry Jr.",
+      "ftdna_number": 116,
+      "family_line": "joshua",
+      "state": "Wisconsin",
+      "test_company": "FTDNA",
+      "markers_37": [14, 24, 15, 10, 11, 14, 12, 12, 12, 13, 13, 29, 17, 9, 9, 11, 11, 25, 16, 19, 29, 14, 15, 17, 18, 10, 10, 19, 23, 15, 15, 18, 20, 37, 37, 12, 10],
+      "mutations_from_modal": [
+        {"position": 19, "dys": "DYS437", "modal": 15, "value": 16}
+      ],
+      "verification_note": "Same mutation pattern as Kenneth Ronald Berry #83. STATUS: MEDIUM CONFIDENCE."
+    },
+    {
+      "name": "Dane Eaton Berry",
+      "ftdna_number": 35,
+      "family_line": "david-j",
+      "state": "Georgia",
+      "test_company": "FTDNA",
+      "markers_37": [14, 24, 15, 10, 11, 14, 12, 12, 12, 13, 13, 29, 17, 9, 9, 11, 11, 25, 15, 19, 29, 14, 15, 17, 18, 10, 10, 19, 23, 15, 15, 18, 20, 37, 37, 12, 10],
+      "mutations_from_modal": [],
+      "verification_note": "Orange-highlighted mutations visible in source chart; positions and values could not be reliably read from image. Using modal values pending verification."
+    },
+    {
+      "name": "Billy J. Berry",
+      "ftdna_number": 122,
+      "family_line": "david-j",
+      "state": "Alabama",
+      "test_company": "FTDNA",
+      "markers_37": [14, 24, 15, 10, 11, 14, 12, 12, 12, 13, 13, 29, 17, 9, 9, 11, 11, 25, 15, 19, 29, 14, 15, 17, 18, 10, 10, 19, 23, 15, 15, 18, 20, 37, 37, 12, 10],
+      "mutations_from_modal": [],
+      "verification_note": "Orange-highlighted mutations visible in source chart; positions and values could not be reliably read from image. Using modal values pending verification."
+    },
+    {
+      "name": "John Allen Berry",
+      "ftdna_number": 39,
+      "family_line": "thomas",
+      "state": "Tennessee",
+      "test_company": "FTDNA",
+      "markers_37": [14, 24, 14, 10, 11, 14, 12, 12, 12, 13, 13, 29, 18, 9, 9, 11, 11, 25, 15, 19, 29, 14, 15, 17, 18, 10, 10, 19, 23, 15, 15, 18, 20, 37, 37, 12, 10],
+      "mutations_from_modal": [
+        {"position": 3, "dys": "DYS19", "modal": 15, "value": 14},
+        {"position": 13, "dys": "DYS458", "modal": 17, "value": 18}
+      ],
+      "verification_note": "Thomas Berry line mutations at markers 3 and 13 confirmed by Chapter 17 text. Exact values (14 and 18) are best reading from chart image — STATUS: UNCERTAIN, AWAITING VERIFICATION."
+    },
+    {
+      "name": "Jeffery Bryon Berry",
+      "ftdna_number": 44,
+      "family_line": "thomas",
+      "state": "Tennessee",
+      "test_company": "FTDNA",
+      "markers_37": [14, 24, 14, 10, 11, 14, 12, 12, 12, 13, 13, 29, 18, 9, 9, 11, 11, 25, 15, 19, 29, 14, 15, 17, 18, 10, 10, 19, 23, 15, 15, 18, 20, 37, 37, 12, 10],
+      "mutations_from_modal": [
+        {"position": 3, "dys": "DYS19", "modal": 15, "value": 14},
+        {"position": 13, "dys": "DYS458", "modal": 17, "value": 18}
+      ],
+      "verification_note": "Same mutations as John Allen Berry #39. Values are best reading from chart — STATUS: UNCERTAIN, AWAITING VERIFICATION."
+    },
+    {
+      "name": "Thomas Keith Berry",
+      "ftdna_number": 180,
+      "family_line": "thomas",
+      "state": "Tennessee",
+      "test_company": "FTDNA",
+      "markers_37": [14, 24, 14, 10, 11, 14, 12, 12, 12, 13, 13, 29, 18, 9, 9, 11, 11, 25, 15, 19, 29, 14, 15, 17, 18, 10, 10, 19, 23, 15, 15, 18, 20, 37, 37, 12, 10],
+      "mutations_from_modal": [
+        {"position": 3, "dys": "DYS19", "modal": 15, "value": 14},
+        {"position": 13, "dys": "DYS458", "modal": 17, "value": 18}
+      ],
+      "verification_note": "Same mutations as other Thomas line participants. Chapter 17 notes this participant was tested by a different company but results appear complete in chart."
+    }
+  ],
+  "mystery_case": {
+    "name": "Robert T Berry",
+    "full_name": "Robert Thomas Berry",
+    "birth_date": "10 Apr 1849",
+    "birth_place": "Coosa County, Alabama (Hatchet Creek)",
+    "death_date": "23 Dec 1932",
+    "death_place": "Sylacauga, Coosa, Alabama",
+    "burial_date": "24 Dec 1932",
+    "burial_place": "Mt. Olive Cemetery",
+    "occupation": "Farmer",
+    "mother_name": "Susie Robertson",
+    "mother_birth_place": "Coosa County, Alabama",
+    "spouse": "Dartha Ann Thomas",
+    "match_line": "william",
+    "match_quality": "66 of 67 markers",
+    "markers_37": [13, 24, 15, 10, 11, 14, 12, 12, 12, 13, 13, 29, 17, 9, 9, 11, 11, 25, 15, 19, 29, 14, 15, 17, 18, 10, 10, 19, 23, 15, 15, 18, 20, 37, 37, 12, 10],
+    "markers_38_67": [11, 9, 15, 16, 8, 10, 10, 8, 10, 10, 12, 23, 23, 16, 10, 12, 12, 15, 8, 12, 22, 20, 14, 12, 11, 13, 11, 11, 14, 12],
+    "william_line_38_67": [11, 9, 15, 16, 8, 10, 10, 8, 10, 10, 12, 23, 23, 16, 10, 12, 12, 15, 8, 12, 22, 20, 14, 12, 11, 13, 11, 11, 14, 12],
+    "marker_difference": {
+      "position": 1,
+      "dys": "DYS393",
+      "modal": 14,
+      "value": 13
+    },
+    "eight_sons_1830": [
+      {"name": "Robert Berry Jr.", "birth": 1760, "age_1830": 70, "location_1830": "Fayette County, Alabama"},
+      {"name": "John Berry", "birth": 1762, "died": 1804, "location_1830": null},
+      {"name": "Joshua Berry", "birth": 1766, "age_1830": 64, "location_1830": "Orange County, North Carolina"},
+      {"name": "Isaac Berry", "birth": 1768, "age_1830": 62, "location_1830": "Orange County, North Carolina"},
+      {"name": "Thomas Berry", "birth": 1770, "died": 1812, "location_1830": null},
+      {"name": "David J. Berry", "birth": 1774, "age_1830": 56, "location_1830": "Henry County, Georgia"},
+      {"name": "William Berry", "birth": 1775, "age_1830": 55, "location_1830": "Georgia"},
+      {"name": "Henry Berry", "birth": 1776, "age_1830": 54, "location_1830": "Orange County, North Carolina"}
+    ],
+    "status": "Ongoing search — lineage to Robert Berry OC unknown",
+    "census_note": "In the 1850 census, a 20-year-old Robert Berry was living with the Ruben Blankenship household near Susan Roberson (age 22) in Coosa County, Alabama. We believe this Robert Berry is the father of Robert Robertson (age 3 months), who was later known as Robert T Berry."
+  },
+  "resources": [
+    {
+      "name": "FamilyTreeDNA",
+      "url": "https://www.familytreedna.com/",
+      "description": "Order a Y-DNA test kit and join the Berry surname project"
+    },
+    {
+      "name": "Compare Your Y-DNA at FTDNA",
+      "url": "https://www.familytreedna.com/products/y-dna#/compare",
+      "description": "View and compare your Y-DNA results after testing"
+    },
+    {
+      "name": "ISOGG Wiki — Y-DNA Testing",
+      "url": "https://isogg.org/wiki/Y-chromosome_DNA_test",
+      "description": "Comprehensive guide to understanding Y-DNA testing for genealogy"
+    },
+    {
+      "name": "ISOGG Wiki — STR Markers",
+      "url": "https://isogg.org/wiki/Y-STR",
+      "description": "Technical reference for Y-STR markers used in genealogical testing"
+    },
+    {
+      "name": "FamilyTreeDNA Learning Center",
+      "url": "https://learn.familytreedna.com/y-dna-testing/",
+      "description": "FTDNA's own tutorials on interpreting Y-DNA results"
+    },
+    {
+      "name": "Berry Surname Y-DNA Project",
+      "url": "https://www.familytreedna.com/groups/berry/about",
+      "description": "The broader Berry surname DNA project at FTDNA (239 participants)"
+    }
+  ]
+}

@@ -1,0 +1,1277 @@
+{{ define "menu-container" }}{{ end }}
+{{ define "toc-container" }}{{ end }}
+
+{{ define "main" }}
+{{/* DNA Research Center — Single-page dynamic explorer
+     Data injected from data/dna_participants.json via Hugo data pipeline.
+     Pattern: Documents Explorer / Wheel of Time (JSON + dynamic JS + visible filters)
+     Authors: Lila (layout/CSS), Kate (JS/accessibility), Martha (content accuracy)
+*/}}
+<style>
+  .dna-page {
+    font-family: 'Source Serif 4', Georgia, serif;
+    background: rgba(245, 240, 232, 0.95);
+    color: #4a3728;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 24px 20px;
+    width: 100%;
+  }
+
+  .dna-page h1 {
+    font-family: 'Cinzel', serif;
+    font-size: clamp(1.4rem, 3vw, 1.8rem);
+    color: #2d4a2d;
+    text-align: center;
+    margin-bottom: 6px;
+    letter-spacing: 0.05em;
+  }
+
+  .dna-tagline {
+    font-family: 'Cinzel', serif;
+    font-size: clamp(0.9rem, 2vw, 1.1rem);
+    font-style: italic;
+    color: #5a7a3a;
+    letter-spacing: 0.04em;
+    margin-bottom: 8px;
+    text-align: center;
+  }
+
+  .dna-intro {
+    max-width: 42rem;
+    text-align: center;
+    font-size: 0.95rem;
+    line-height: 1.7;
+    color: #6b5040;
+    margin-bottom: 28px;
+  }
+
+  /* ── Section containers ── */
+  .dna-section {
+    width: 100%;
+    max-width: 850px;
+    margin-bottom: 32px;
+  }
+
+  .dna-section-header {
+    font-family: 'Cinzel', serif;
+    font-size: 1.15rem;
+    color: #2d4a2d;
+    border-bottom: 2px solid #c8b99a;
+    padding-bottom: 8px;
+    margin-bottom: 16px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    cursor: default;
+  }
+
+  .dna-section-header .toggle-icon {
+    font-size: 0.8rem;
+    transition: transform 0.2s;
+    cursor: pointer;
+    user-select: none;
+  }
+
+  .dna-section-header .toggle-icon.collapsed {
+    transform: rotate(-90deg);
+  }
+
+  .dna-collapsible {
+    overflow: hidden;
+    transition: max-height 0.3s ease;
+  }
+
+  .dna-collapsible.collapsed {
+    max-height: 0 !important;
+  }
+
+  /* ── Educational primer ── */
+  .dna-primer {
+    background: rgba(255, 255, 255, 0.6);
+    border: 1px solid #c8b99a;
+    border-radius: 6px;
+    padding: 20px 24px;
+    line-height: 1.7;
+    font-size: 0.92rem;
+    color: #5a4a3a;
+  }
+
+  .dna-primer h3 {
+    font-family: 'Cinzel', serif;
+    font-size: 1rem;
+    color: #2d4a2d;
+    margin: 18px 0 8px 0;
+  }
+
+  .dna-primer h3:first-child { margin-top: 0; }
+
+  .dna-primer p { margin-bottom: 10px; }
+
+  .dna-primer .key-term {
+    font-weight: 600;
+    color: #2d4a2d;
+  }
+
+  .dna-primer ul {
+    margin: 8px 0 12px 20px;
+    list-style: disc;
+  }
+
+  .dna-primer li { margin-bottom: 4px; }
+
+  /* ── Family lines visual ── */
+  .family-lines-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(190px, 1fr));
+    gap: 10px;
+    margin-bottom: 12px;
+  }
+
+  .family-line-card {
+    background: rgba(255, 255, 255, 0.7);
+    border: 1px solid #c8b99a;
+    border-left: 4px solid #2d4a2d;
+    border-radius: 4px;
+    padding: 12px 14px;
+    cursor: pointer;
+    transition: all 0.2s;
+    text-decoration: none;
+    color: inherit;
+    display: block;
+  }
+
+  .family-line-card:hover {
+    border-left-color: #5a7a3a;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+  }
+
+  .family-line-card.active {
+    background: rgba(45, 74, 45, 0.08);
+    border-left-color: #2d4a2d;
+    border-color: #2d4a2d;
+  }
+
+  .family-line-card.not-tested {
+    border-left-color: #c8b99a;
+    opacity: 0.6;
+    cursor: default;
+  }
+
+  .family-line-card .fl-name {
+    font-family: 'Cinzel', serif;
+    font-size: 0.88rem;
+    color: #2d4a2d;
+    font-weight: 600;
+    margin-bottom: 2px;
+  }
+
+  .family-line-card .fl-spouse {
+    font-size: 0.78rem;
+    color: #8a7a6a;
+    font-style: italic;
+  }
+
+  .family-line-card .fl-location {
+    font-size: 0.75rem;
+    color: #6b5040;
+    margin-top: 4px;
+  }
+
+  .family-line-card .fl-status {
+    font-size: 0.72rem;
+    margin-top: 6px;
+    padding: 2px 8px;
+    border-radius: 10px;
+    display: inline-block;
+  }
+
+  .fl-status.tested {
+    background: rgba(45, 74, 45, 0.12);
+    color: #2d4a2d;
+    border: 1px solid rgba(45, 74, 45, 0.25);
+  }
+
+  .fl-status.not-tested {
+    background: rgba(180, 160, 130, 0.15);
+    color: #8a7a6a;
+    border: 1px solid rgba(180, 160, 130, 0.3);
+  }
+
+  .family-lines-legend {
+    font-size: 0.8rem;
+    color: #8a7a6a;
+    text-align: center;
+    font-style: italic;
+  }
+
+  /* ── Participant table ── */
+  .dna-filters {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+    margin-bottom: 16px;
+    align-items: flex-end;
+  }
+
+  .dna-filter-group {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+  }
+
+  .dna-filter-group label {
+    font-family: 'Cinzel', serif;
+    font-size: 0.72rem;
+    color: #2d4a2d;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+  }
+
+  .dna-filter-group select {
+    background: #fff;
+    color: #4a3728;
+    border: 1px solid #c8b99a;
+    border-radius: 4px;
+    padding: 8px 12px;
+    font-size: 0.88rem;
+    font-family: 'Source Serif 4', Georgia, serif;
+    cursor: pointer;
+    min-width: 180px;
+    min-height: 44px;
+  }
+
+  .dna-filter-group select:focus {
+    outline: 2px solid #2d4a2d;
+    outline-offset: 1px;
+  }
+
+  .participant-table-wrap {
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    margin-bottom: 12px;
+  }
+
+  .participant-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.85rem;
+  }
+
+  .participant-table th {
+    font-family: 'Cinzel', serif;
+    font-size: 0.72rem;
+    color: #2d4a2d;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    padding: 8px 10px;
+    text-align: left;
+    border-bottom: 2px solid #c8b99a;
+    background: rgba(45, 74, 45, 0.04);
+    position: sticky;
+    top: 0;
+    z-index: 1;
+    white-space: nowrap;
+  }
+
+  .participant-table td {
+    padding: 8px 10px;
+    border-bottom: 1px solid rgba(200, 185, 154, 0.4);
+    vertical-align: middle;
+  }
+
+  .participant-table tr:hover td {
+    background: rgba(45, 74, 45, 0.04);
+  }
+
+  .participant-table .p-name {
+    font-weight: 600;
+    color: #2d4a2d;
+    white-space: nowrap;
+  }
+
+  .participant-table .p-number {
+    color: #8a7a6a;
+    font-size: 0.8rem;
+  }
+
+  .participant-table .p-line {
+    font-size: 0.8rem;
+  }
+
+  .p-line-badge {
+    padding: 2px 8px;
+    border-radius: 10px;
+    font-size: 0.72rem;
+    background: rgba(160, 110, 30, 0.1);
+    color: #7a5a18;
+    border: 1px solid rgba(160, 110, 30, 0.25);
+    white-space: nowrap;
+  }
+
+  .expand-markers-btn {
+    background: none;
+    border: 1px solid #c8b99a;
+    color: #2d4a2d;
+    padding: 4px 10px;
+    border-radius: 4px;
+    font-size: 0.75rem;
+    cursor: pointer;
+    font-family: 'Source Serif 4', serif;
+    white-space: nowrap;
+    min-height: 32px;
+  }
+
+  .expand-markers-btn:hover {
+    background: rgba(45, 74, 45, 0.08);
+  }
+
+  /* ── Marker detail row ── */
+  .marker-detail-row td {
+    padding: 0 !important;
+    border-bottom: 2px solid #c8b99a;
+  }
+
+  .marker-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 3px;
+    padding: 10px;
+    background: rgba(255, 255, 255, 0.5);
+  }
+
+  .marker-cell {
+    width: 32px;
+    height: 36px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    font-size: 0.7rem;
+    background: #fff;
+  }
+
+  .marker-cell .m-pos {
+    font-size: 0.55rem;
+    color: #aaa;
+    line-height: 1;
+  }
+
+  .marker-cell .m-val {
+    font-weight: 600;
+    color: #4a3728;
+    line-height: 1;
+  }
+
+  .marker-cell.mutation {
+    background: #fff3e0;
+    border-color: #e6a030;
+  }
+
+  .marker-cell.mutation .m-val {
+    color: #c05000;
+    font-weight: 700;
+  }
+
+  .marker-cell.missing {
+    background: #f5f5f5;
+    border-color: #e0e0e0;
+  }
+
+  .marker-cell.missing .m-val {
+    color: #ccc;
+  }
+
+  .marker-cell.match {
+    background: #e8f5e9;
+    border-color: #81c784;
+  }
+
+  .marker-cell.mismatch {
+    background: #ffebee;
+    border-color: #e57373;
+  }
+
+  .marker-cell.mismatch .m-val {
+    color: #c62828;
+    font-weight: 700;
+  }
+
+  /* ── Compare tool ── */
+  .compare-tool {
+    background: rgba(255, 255, 255, 0.6);
+    border: 1px solid #c8b99a;
+    border-radius: 6px;
+    padding: 20px 24px;
+  }
+
+  .compare-instructions {
+    font-size: 0.9rem;
+    color: #6b5040;
+    line-height: 1.6;
+    margin-bottom: 16px;
+  }
+
+  .compare-input-group {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    margin-bottom: 16px;
+  }
+
+  .compare-input-group label {
+    font-family: 'Cinzel', serif;
+    font-size: 0.8rem;
+    color: #2d4a2d;
+  }
+
+  .compare-input-group textarea {
+    width: 100%;
+    min-height: 60px;
+    padding: 10px;
+    border: 1px solid #c8b99a;
+    border-radius: 4px;
+    font-family: 'Source Code Pro', 'Courier New', monospace;
+    font-size: 0.85rem;
+    color: #4a3728;
+    resize: vertical;
+    box-sizing: border-box;
+  }
+
+  .compare-input-group textarea:focus {
+    outline: 2px solid #2d4a2d;
+    outline-offset: 1px;
+  }
+
+  .compare-input-group textarea::placeholder {
+    color: #b0a090;
+    font-style: italic;
+  }
+
+  .compare-buttons {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    margin-bottom: 16px;
+  }
+
+  .compare-btn {
+    background: #2d4a2d;
+    color: #f8f5ef;
+    border: none;
+    padding: 8px 20px;
+    border-radius: 4px;
+    font-family: 'Cinzel', serif;
+    font-size: 0.85rem;
+    cursor: pointer;
+    min-height: 44px;
+    transition: background 0.2s;
+  }
+
+  .compare-btn:hover { background: #3a5a3a; }
+
+  .compare-btn.secondary {
+    background: none;
+    color: #2d4a2d;
+    border: 1px solid #2d4a2d;
+  }
+
+  .compare-btn.secondary:hover {
+    background: rgba(45, 74, 45, 0.08);
+  }
+
+  .compare-results {
+    display: none;
+  }
+
+  .compare-results.visible { display: block; }
+
+  .compare-summary {
+    background: rgba(45, 74, 45, 0.06);
+    border: 1px solid rgba(45, 74, 45, 0.2);
+    border-radius: 4px;
+    padding: 16px;
+    margin-bottom: 16px;
+  }
+
+  .compare-summary h4 {
+    font-family: 'Cinzel', serif;
+    font-size: 0.95rem;
+    color: #2d4a2d;
+    margin-bottom: 8px;
+  }
+
+  .compare-summary .match-score {
+    font-size: 1.4rem;
+    font-weight: 700;
+    color: #2d4a2d;
+  }
+
+  .compare-summary .match-label {
+    font-size: 0.85rem;
+    color: #6b5040;
+  }
+
+  .compare-line-results {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+  }
+
+  .compare-line-result {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px 12px;
+    background: rgba(255, 255, 255, 0.7);
+    border: 1px solid #c8b99a;
+    border-radius: 4px;
+  }
+
+  .compare-line-result .clr-name {
+    font-weight: 600;
+    color: #2d4a2d;
+  }
+
+  .compare-line-result .clr-distance {
+    font-size: 0.85rem;
+  }
+
+  .distance-good { color: #2d6a2d; }
+  .distance-moderate { color: #8a6a2a; }
+  .distance-far { color: #8a4a4a; }
+
+  /* ── Mystery case ── */
+  .mystery-card {
+    background: rgba(255, 255, 255, 0.7);
+    border: 1px solid #c8b99a;
+    border-left: 4px solid #8a6a2a;
+    border-radius: 6px;
+    padding: 20px 24px;
+    line-height: 1.7;
+    font-size: 0.92rem;
+  }
+
+  .mystery-card h3 {
+    font-family: 'Cinzel', serif;
+    font-size: 1rem;
+    color: #8a6a2a;
+    margin-bottom: 10px;
+  }
+
+  .mystery-card .mystery-highlight {
+    background: rgba(138, 106, 42, 0.08);
+    border: 1px solid rgba(138, 106, 42, 0.2);
+    border-radius: 4px;
+    padding: 12px;
+    margin: 12px 0;
+    font-family: 'Source Code Pro', 'Courier New', monospace;
+    font-size: 0.82rem;
+    line-height: 1.5;
+    overflow-x: auto;
+  }
+
+  .mystery-card .mystery-vitals {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    gap: 4px 16px;
+    margin: 12px 0;
+    font-size: 0.88rem;
+  }
+
+  .mystery-card .vital-label {
+    font-weight: 600;
+    color: #2d4a2d;
+    white-space: nowrap;
+  }
+
+  .mystery-card .vital-value {
+    color: #6b5040;
+  }
+
+  .mystery-card .sons-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.82rem;
+    margin: 12px 0;
+  }
+
+  .mystery-card .sons-table th {
+    text-align: left;
+    padding: 6px 8px;
+    border-bottom: 1px solid #c8b99a;
+    font-family: 'Cinzel', serif;
+    font-size: 0.7rem;
+    color: #2d4a2d;
+    text-transform: uppercase;
+  }
+
+  .mystery-card .sons-table td {
+    padding: 4px 8px;
+    border-bottom: 1px solid rgba(200, 185, 154, 0.3);
+  }
+
+  /* ── Origins ── */
+  .origins-card {
+    background: rgba(255, 255, 255, 0.7);
+    border: 1px solid #c8b99a;
+    border-left: 4px solid #4a6a8a;
+    border-radius: 6px;
+    padding: 20px 24px;
+    line-height: 1.7;
+    font-size: 0.92rem;
+  }
+
+  .origins-stat {
+    font-size: 2rem;
+    font-weight: 700;
+    color: #2d4a2d;
+    font-family: 'Cinzel', serif;
+  }
+
+  /* ── Resources ── */
+  .resource-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 12px;
+  }
+
+  .resource-card {
+    background: rgba(255, 255, 255, 0.7);
+    border: 1px solid #c8b99a;
+    border-radius: 4px;
+    padding: 14px 16px;
+    text-decoration: none;
+    color: inherit;
+    display: block;
+    transition: border-color 0.2s, box-shadow 0.2s;
+  }
+
+  .resource-card:hover {
+    border-color: #2d4a2d;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+  }
+
+  .resource-card .rc-name {
+    font-family: 'Cinzel', serif;
+    font-size: 0.9rem;
+    color: #2d4a2d;
+    font-weight: 600;
+    margin-bottom: 4px;
+  }
+
+  .resource-card .rc-desc {
+    font-size: 0.82rem;
+    color: #6b5040;
+    line-height: 1.5;
+  }
+
+  /* ── Footer ── */
+  .dna-footer {
+    margin-top: 40px;
+    font-size: 0.75rem;
+    color: #b0a090;
+    text-align: center;
+    font-style: italic;
+  }
+
+  /* ── Responsive ── */
+  @media (max-width: 600px) {
+    .family-lines-grid {
+      grid-template-columns: 1fr;
+    }
+    .dna-filters {
+      flex-direction: column;
+      align-items: stretch;
+    }
+    .dna-filter-group select {
+      width: 100%;
+    }
+    .marker-cell {
+      width: 28px;
+      height: 32px;
+    }
+    .resource-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .dna-collapsible,
+    .family-line-card,
+    .resource-card,
+    .toggle-icon {
+      transition: none;
+    }
+  }
+</style>
+
+<div class="dna-page">
+
+<h1>DNA Research Center</h1>
+<p class="dna-tagline">Connecting Berry descendants through the science of DNA</p>
+<p class="dna-intro">
+  Since 2004, Berry family descendants have participated in Y-DNA testing to confirm and extend the genealogical connections traced through archival records. This page brings together all of our DNA research in one place &mdash; the test results, the science behind them, and the tools to help you see where you fit.
+</p>
+
+<!-- ═══════════════════════════════════════════════════════════════════
+     SECTION 1: What Is Y-DNA?
+     ═══════════════════════════════════════════════════════════════════ -->
+<div class="dna-section">
+  <div class="dna-section-header">
+    <span class="toggle-icon" data-target="primerContent" aria-label="Toggle section">&#9660;</span>
+    Understanding Y-DNA Testing
+  </div>
+  <div class="dna-collapsible" id="primerContent">
+    <div class="dna-primer">
+      <h3>What Is Y-DNA?</h3>
+      <p>Every person inherits DNA from both parents, but <span class="key-term">Y-DNA</span> is special: it passes only from father to son, virtually unchanged, generation after generation. This makes it a direct window into your <span class="key-term">paternal line</span> &mdash; your father, his father, his father's father, and so on back through centuries.</p>
+      <p>Because Y-DNA follows the surname in most Western cultures, men who share a surname and share Y-DNA markers are almost certainly related through a common male ancestor.</p>
+
+      <h3>What Are STR Markers?</h3>
+      <p><span class="key-term">STR markers</span> (Short Tandem Repeats) are specific locations on the Y chromosome where a short DNA pattern repeats a countable number of times. Each marker has a name (like DYS393) and a numerical value (like 14) that represents how many times that pattern repeats.</p>
+      <p>Testing companies like FamilyTreeDNA read these markers and report the values. Our Berry family project uses <span class="key-term">37-marker</span> and <span class="key-term">67-marker</span> panels.</p>
+
+      <h3>What Does &ldquo;Matching&rdquo; Mean?</h3>
+      <p>When two men have identical or nearly identical marker values, they <span class="key-term">match</span> &mdash; meaning they share a common paternal ancestor. The more markers tested and the more that match, the more recent that common ancestor is likely to be.</p>
+      <ul>
+        <li><strong>12-marker match:</strong> Suggests a possible relationship &mdash; worth investigating further</li>
+        <li><strong>25-marker match:</strong> Strong indication of a shared ancestor within a genealogical timeframe</li>
+        <li><strong>37-marker match:</strong> Very strong evidence of a close relationship</li>
+        <li><strong>67-marker match:</strong> Near-certain confirmation of a shared paternal line</li>
+      </ul>
+
+      <h3>What Are Mutations?</h3>
+      <p>Occasionally, a marker value changes by one count (up or down) when passed from father to son. These changes are called <span class="key-term">mutations</span>. Mutations are normal and expected over many generations &mdash; they help distinguish which branch of a family tree a person belongs to. In our charts below, mutations from the Berry family modal (most common pattern) are highlighted in <span style="color:#c05000;font-weight:600;">orange</span>.</p>
+
+      <h3>Can Women Use Y-DNA Testing?</h3>
+      <p>Women do not carry a Y chromosome, so Y-DNA testing is only available to males. However, a woman interested in her paternal Berry line can ask a male relative (father, brother, uncle, or male cousin) with an unbroken Berry male line to test on her behalf.</p>
+      <p>For descendants who connect to the Berry family through a female line, <span class="key-term">autosomal DNA testing</span> (offered by AncestryDNA, 23andMe, and FTDNA Family Finder) can reveal shared DNA segments with other Berry descendants regardless of gender.</p>
+
+      <h3>How Do I Get Tested?</h3>
+      <p>Order a Y-DNA test kit from <a href="https://www.familytreedna.com/" target="_blank" rel="noopener">FamilyTreeDNA</a>. The Y-37 panel is a good starting point. Once you receive your results, you can compare your markers to our Berry family data using the comparison tool below.</p>
+    </div>
+  </div>
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════════
+     SECTION 2: The Berry Y-DNA Project
+     ═══════════════════════════════════════════════════════════════════ -->
+<div class="dna-section">
+  <div class="dna-section-header">
+    <span class="toggle-icon" data-target="projectContent" aria-label="Toggle section">&#9660;</span>
+    The Berry Y-DNA Project
+  </div>
+  <div class="dna-collapsible" id="projectContent">
+    <div class="dna-primer">
+      <p>The Berry Y-DNA project was started by <span class="key-term">Carolyn (Cookie) Paulson</span>, who had spent years trying to locate the ancestors of her John Berry, born in North Carolina in 1815 and found in Rusk County, Texas, by the 1860 census. She had built a solid archival trail from John and Mary Howell Berry down to herself, but couldn't find who John's parents were.</p>
+      <p>Cookie convinced her cousin (participant #8) to take a Y-DNA test and became the project administrator. When Ben Henderson's uncle, <span class="key-term">W.P. Berry Jr.</span> (participant #18), also tested, the results came back on <span class="key-term">July 20, 2004</span>: they matched. The announcement was made that very day at the Wiley P. Berry family reunion.</p>
+      <p>It took three more years to discover that John Berry was actually the grandson of Robert Berry Jr., through George and Susan Aldridge Berry &mdash; a finding later confirmed by Victor Glenn Berry's book, <em>Wagons South Wagons West</em>.</p>
+      <p>Today the broader Berry surname project at FamilyTreeDNA has <span class="key-term">239 participants</span>, revealing at least <span class="key-term">18 unrelated Berry families</span> living in America. Of those 239, <span class="key-term">14 participants</span> match our Orange County Berry family &mdash; descendants of Robert and Elizabeth Cate Berry.</p>
+    </div>
+  </div>
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════════
+     SECTION 3: Family Lines Tested
+     ═══════════════════════════════════════════════════════════════════ -->
+<div class="dna-section">
+  <div class="dna-section-header">
+    Family Lines of Robert &amp; Elizabeth Cate Berry
+  </div>
+  <p style="font-size:0.88rem;color:#6b5040;margin-bottom:16px;">Robert and Elizabeth Cate Berry of Orange County, North Carolina, had eight sons. Six lines have been tested through Y-DNA. Click a tested line to filter the participant table below.</p>
+  <div class="family-lines-grid" id="familyLinesGrid"></div>
+  <p class="family-lines-legend">6 of 8 son lines tested &mdash; 14 confirmed Y-DNA participants</p>
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════════
+     SECTION 4: Y-DNA Participants
+     ═══════════════════════════════════════════════════════════════════ -->
+<div class="dna-section">
+  <div class="dna-section-header">
+    Y-DNA Participants
+    <span style="font-size:0.8rem;color:#8a7a6a;font-family:'Source Serif 4',serif;" id="participantCount"></span>
+  </div>
+  <div class="dna-filters">
+    <div class="dna-filter-group">
+      <label for="lineFilterDna">Family Line</label>
+      <select id="lineFilterDna">
+        <option value="all">All Lines</option>
+      </select>
+    </div>
+    <div class="dna-filter-group">
+      <label for="stateFilter">State</label>
+      <select id="stateFilter">
+        <option value="all">All States</option>
+      </select>
+    </div>
+  </div>
+  <div class="participant-table-wrap">
+    <table class="participant-table" id="participantTable">
+      <thead>
+        <tr>
+          <th>Name</th>
+          <th>#</th>
+          <th>Family Line</th>
+          <th>State</th>
+          <th>Mutations</th>
+          <th></th>
+        </tr>
+      </thead>
+      <tbody id="participantBody"></tbody>
+    </table>
+  </div>
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════════
+     SECTION 5: Compare Your DNA
+     ═══════════════════════════════════════════════════════════════════ -->
+<div class="dna-section">
+  <div class="dna-section-header">
+    <span class="toggle-icon" data-target="compareContent" aria-label="Toggle section">&#9660;</span>
+    Compare Your DNA
+  </div>
+  <div class="dna-collapsible" id="compareContent">
+    <div class="compare-tool">
+      <p class="compare-instructions">
+        If you have Y-DNA results from FamilyTreeDNA or another testing company, paste your first 12 or more marker values below (comma or space separated) to see how closely you match the Berry family. The more markers you enter, the more precise the comparison.
+      </p>
+      <div class="compare-input-group">
+        <label for="userMarkers">Your Y-DNA Marker Values</label>
+        <textarea id="userMarkers" placeholder="Example: 14, 24, 15, 10, 11, 14, 12, 12, 12, 13, 13, 29 ..." aria-describedby="compareHelp"></textarea>
+        <span id="compareHelp" style="font-size:0.78rem;color:#8a7a6a;">Enter values separated by commas, spaces, or dashes. First 12 markers minimum.</span>
+      </div>
+      <div class="compare-buttons">
+        <button class="compare-btn" id="compareBtn">Compare</button>
+        <button class="compare-btn secondary" id="compareClearBtn">Clear</button>
+      </div>
+      <div class="compare-results" id="compareResults">
+        <div class="compare-summary" id="compareSummary"></div>
+        <div class="compare-line-results" id="compareLineResults"></div>
+        <div style="margin-top:16px;">
+          <h4 style="font-family:'Cinzel',serif;font-size:0.9rem;color:#2d4a2d;margin-bottom:8px;">Marker-by-Marker Comparison</h4>
+          <div class="marker-grid" id="compareMarkerGrid"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════════
+     SECTION 6: The Robert T Berry Mystery
+     ═══════════════════════════════════════════════════════════════════ -->
+<div class="dna-section">
+  <div class="dna-section-header">
+    <span class="toggle-icon" data-target="mysteryContent" aria-label="Toggle section">&#9660;</span>
+    The Robert T Berry Mystery
+  </div>
+  <div class="dna-collapsible" id="mysteryContent">
+    <div class="mystery-card" id="mysteryCard"></div>
+  </div>
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════════
+     SECTION 7: Normandy Origins
+     ═══════════════════════════════════════════════════════════════════ -->
+<div class="dna-section">
+  <div class="dna-section-header">
+    <span class="toggle-icon" data-target="originsContent" aria-label="Toggle section">&#9660;</span>
+    Normandy Origins
+  </div>
+  <div class="dna-collapsible" id="originsContent">
+    <div class="origins-card">
+      <p><span class="origins-stat">20%</span></p>
+      <p>of all FamilyTreeDNA participants who share our family's unique first allele originate from the island of <span class="key-term">Jersey</span> &mdash; just off the coast of Normandy, France.</p>
+      <p>Because of our distinctive marker signature (beginning with DYS393 = 14), the Berry family had long suspected French origins. The concentration of genetic matches on Jersey &mdash; a Channel Island with deep Norman French roots &mdash; provides compelling evidence that the Berry family's paternal line traces back to Normandy before crossing to England and eventually to colonial Virginia.</p>
+      <p>This connection between DNA science and historical migration patterns is one of the most fascinating findings from our Y-DNA project.</p>
+    </div>
+  </div>
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════════
+     SECTION 8: Resources & Next Steps
+     ═══════════════════════════════════════════════════════════════════ -->
+<div class="dna-section">
+  <div class="dna-section-header">
+    Resources &amp; Next Steps
+  </div>
+  <div class="resource-grid" id="resourceGrid"></div>
+</div>
+
+<div class="dna-footer">berrytree.org &mdash; Berry Family DNA Research Center</div>
+
+</div><!-- /.dna-page -->
+
+<script>
+// ── Data ────────────────────────────────────────────────────────────
+const DNA = {{ os.ReadFile "data/dna_participants.json" | safeJS }};
+const participants = DNA.participants;
+const familyLines = DNA.family_lines;
+const modal = DNA.modal_values_37;
+const dysNames = DNA.dys_markers_37;
+const mystery = DNA.mystery_case;
+const resources = DNA.resources;
+
+// Line ID → display name
+const LINE_NAMES = {};
+familyLines.forEach(function(l) { LINE_NAMES[l.id] = l.ancestor; });
+
+// ── State ───────────────────────────────────────────────────────────
+let selectedLine = 'all';
+let selectedState = 'all';
+let expandedRows = new Set();
+
+// ── Collapsible sections ────────────────────────────────────────────
+document.querySelectorAll('.toggle-icon').forEach(function(icon) {
+  icon.addEventListener('click', function() {
+    var target = document.getElementById(icon.dataset.target);
+    if (!target) return;
+    icon.classList.toggle('collapsed');
+    if (target.classList.contains('collapsed')) {
+      target.classList.remove('collapsed');
+      target.style.maxHeight = target.scrollHeight + 'px';
+    } else {
+      target.style.maxHeight = target.scrollHeight + 'px';
+      requestAnimationFrame(function() {
+        target.style.maxHeight = '0';
+        target.classList.add('collapsed');
+      });
+    }
+  });
+  // Init: set max-height for open sections
+  var target = document.getElementById(icon.dataset.target);
+  if (target && !target.classList.contains('collapsed')) {
+    target.style.maxHeight = 'none';
+  }
+});
+
+// ── Family lines grid ───────────────────────────────────────────────
+function buildFamilyLines() {
+  var grid = document.getElementById('familyLinesGrid');
+  familyLines.forEach(function(line) {
+    var card = document.createElement('div');
+    card.className = 'family-line-card' + (line.tested ? '' : ' not-tested');
+    card.dataset.lineId = line.id;
+    var statusClass = line.tested ? 'tested' : 'not-tested';
+    var statusText = line.tested ? line.participant_count + ' participant' + (line.participant_count !== 1 ? 's' : '') : (line.reason || 'Not tested');
+    card.innerHTML =
+      '<div class="fl-name">' + line.ancestor + '</div>' +
+      (line.spouse ? '<div class="fl-spouse">&amp; ' + line.spouse + '</div>' : '<div class="fl-spouse" style="font-style:normal;color:#b0a090;">No spouse / no male heirs</div>') +
+      '<div class="fl-location">' + line.location + '</div>' +
+      '<span class="fl-status ' + statusClass + '">' + statusText + '</span>';
+
+    if (line.tested) {
+      card.addEventListener('click', function() {
+        if (selectedLine === line.id) {
+          selectedLine = 'all';
+          card.classList.remove('active');
+          document.getElementById('lineFilterDna').value = 'all';
+        } else {
+          selectedLine = line.id;
+          document.querySelectorAll('.family-line-card').forEach(function(c) { c.classList.remove('active'); });
+          card.classList.add('active');
+          document.getElementById('lineFilterDna').value = line.id;
+        }
+        renderParticipants();
+      });
+    }
+    grid.appendChild(card);
+  });
+}
+
+// ── Populate dropdowns ──────────────────────────────────────────────
+function populateFilters() {
+  var lineSelect = document.getElementById('lineFilterDna');
+  familyLines.filter(function(l) { return l.tested; }).forEach(function(l) {
+    var opt = document.createElement('option');
+    opt.value = l.id;
+    opt.textContent = l.ancestor;
+    lineSelect.appendChild(opt);
+  });
+
+  var stateSelect = document.getElementById('stateFilter');
+  var states = [...new Set(participants.map(function(p) { return p.state; }))].sort();
+  states.forEach(function(s) {
+    var opt = document.createElement('option');
+    opt.value = s;
+    opt.textContent = s;
+    stateSelect.appendChild(opt);
+  });
+}
+
+// ── Render participants ─────────────────────────────────────────────
+function renderParticipants() {
+  var tbody = document.getElementById('participantBody');
+  var countEl = document.getElementById('participantCount');
+
+  var filtered = participants.filter(function(p) {
+    if (selectedLine !== 'all' && p.family_line !== selectedLine) return false;
+    if (selectedState !== 'all' && p.state !== selectedState) return false;
+    return true;
+  });
+
+  countEl.textContent = '(' + filtered.length + ' of ' + participants.length + ')';
+
+  if (filtered.length === 0) {
+    tbody.innerHTML = '<tr><td colspan="6" style="text-align:center;color:#8a7a6a;padding:30px;font-style:italic;">No participants match the current filters.</td></tr>';
+    return;
+  }
+
+  var html = '';
+  filtered.forEach(function(p, idx) {
+    var lineName = LINE_NAMES[p.family_line] || p.family_line;
+    var mutCount = p.mutations_from_modal.length;
+    var mutText = mutCount === 0 ? '<span style="color:#8a7a6a;">None</span>' :
+      '<span style="color:#c05000;font-weight:600;">' + mutCount + ' mutation' + (mutCount > 1 ? 's' : '') + '</span>';
+    var rowId = 'row-' + p.ftdna_number;
+    var isExpanded = expandedRows.has(p.ftdna_number);
+
+    html += '<tr>' +
+      '<td class="p-name">' + p.name + '</td>' +
+      '<td class="p-number">#' + p.ftdna_number + '</td>' +
+      '<td><span class="p-line-badge">' + lineName + '</span></td>' +
+      '<td>' + p.state + '</td>' +
+      '<td>' + mutText + '</td>' +
+      '<td><button class="expand-markers-btn" data-ftdna="' + p.ftdna_number + '">' + (isExpanded ? 'Hide Markers' : 'View Markers') + '</button></td>' +
+      '</tr>';
+
+    if (isExpanded) {
+      html += '<tr class="marker-detail-row"><td colspan="6">' + buildMarkerGrid(p) + '</td></tr>';
+    }
+  });
+
+  tbody.innerHTML = html;
+
+  // Attach expand handlers
+  tbody.querySelectorAll('.expand-markers-btn').forEach(function(btn) {
+    btn.addEventListener('click', function() {
+      var num = parseInt(btn.dataset.ftdna);
+      if (expandedRows.has(num)) {
+        expandedRows.delete(num);
+      } else {
+        expandedRows.add(num);
+      }
+      renderParticipants();
+    });
+  });
+}
+
+function buildMarkerGrid(participant) {
+  var markers = participant.markers_37;
+  var mutations = {};
+  participant.mutations_from_modal.forEach(function(m) {
+    mutations[m.position - 1] = m;
+  });
+
+  var cells = '';
+  for (var i = 0; i < markers.length; i++) {
+    var val = markers[i];
+    var isMutation = mutations[i] !== undefined;
+    var isMissing = val === null;
+    var cls = 'marker-cell';
+    if (isMutation) cls += ' mutation';
+    if (isMissing) cls += ' missing';
+
+    cells += '<div class="' + cls + '" title="' + dysNames[i] + ' (Marker ' + (i + 1) + ')' + (isMutation ? ' — Mutation from modal ' + mutations[i].modal : '') + '">' +
+      '<span class="m-pos">' + (i + 1) + '</span>' +
+      '<span class="m-val">' + (isMissing ? '—' : val) + '</span>' +
+      '</div>';
+  }
+  return '<div class="marker-grid">' + cells + '</div>';
+}
+
+// ── Compare tool ────────────────────────────────────────────────────
+function parseMarkers(input) {
+  return input.replace(/[,\-\s]+/g, ' ').trim().split(' ')
+    .map(function(v) { return parseInt(v); })
+    .filter(function(v) { return !isNaN(v); });
+}
+
+function computeDistance(userMarkers, refMarkers) {
+  var compared = 0;
+  var mismatches = 0;
+  var len = Math.min(userMarkers.length, refMarkers.length);
+  for (var i = 0; i < len; i++) {
+    if (refMarkers[i] === null) continue;
+    compared++;
+    if (userMarkers[i] !== refMarkers[i]) mismatches++;
+  }
+  return { compared: compared, mismatches: mismatches, distance: mismatches };
+}
+
+function getLineModal(lineId) {
+  var lineParticipants = participants.filter(function(p) { return p.family_line === lineId; });
+  if (lineParticipants.length === 0) return null;
+  // Use first participant's markers as representative
+  return lineParticipants[0].markers_37;
+}
+
+document.getElementById('compareBtn').addEventListener('click', function() {
+  var input = document.getElementById('userMarkers').value;
+  var userMarkers = parseMarkers(input);
+  if (userMarkers.length < 12) {
+    alert('Please enter at least 12 marker values for a meaningful comparison.');
+    return;
+  }
+
+  var resultsDiv = document.getElementById('compareResults');
+  var summaryDiv = document.getElementById('compareSummary');
+  var lineResultsDiv = document.getElementById('compareLineResults');
+  var markerGridDiv = document.getElementById('compareMarkerGrid');
+
+  // Compare against modal
+  var modalResult = computeDistance(userMarkers, modal);
+  var markersUsed = Math.min(userMarkers.length, 37);
+
+  // Summary
+  var matchPct = Math.round(((modalResult.compared - modalResult.mismatches) / modalResult.compared) * 100);
+  summaryDiv.innerHTML =
+    '<h4>Comparison Results</h4>' +
+    '<p><span class="match-score">' + (modalResult.compared - modalResult.mismatches) + ' of ' + modalResult.compared + '</span> ' +
+    '<span class="match-label">markers match the Berry family modal (' + matchPct + '%)</span></p>' +
+    '<p style="font-size:0.85rem;color:#6b5040;margin-top:8px;">' +
+    (modalResult.mismatches === 0 ? 'Perfect match! Your Y-DNA is consistent with the Berry family signature.' :
+     modalResult.mismatches <= 2 ? 'Very close match. A genetic distance of ' + modalResult.mismatches + ' at ' + modalResult.compared + ' markers strongly suggests a shared Berry paternal ancestor.' :
+     modalResult.mismatches <= 4 ? 'Moderate match. A genetic distance of ' + modalResult.mismatches + ' may indicate a more distant connection. Consider testing at 67 markers for more clarity.' :
+     'Genetic distance of ' + modalResult.mismatches + ' suggests you may not share a recent paternal ancestor with this Berry family. However, you may still be connected through other lines — consider autosomal DNA testing.') +
+    '</p>';
+
+  // Per-line comparison
+  var lineResults = [];
+  familyLines.filter(function(l) { return l.tested; }).forEach(function(line) {
+    var lineMarkers = getLineModal(line.id);
+    if (!lineMarkers) return;
+    var result = computeDistance(userMarkers, lineMarkers);
+    lineResults.push({ line: line, result: result });
+  });
+  lineResults.sort(function(a, b) { return a.result.distance - b.result.distance; });
+
+  lineResultsDiv.innerHTML = '<p style="font-size:0.85rem;color:#6b5040;margin-bottom:8px;font-weight:600;">Distance by Family Line (lower is closer):</p>' +
+    lineResults.map(function(lr) {
+      var distClass = lr.result.distance === 0 ? 'distance-good' :
+                      lr.result.distance <= 2 ? 'distance-moderate' : 'distance-far';
+      return '<div class="compare-line-result">' +
+        '<span class="clr-name">' + lr.line.ancestor + ' Line</span>' +
+        '<span class="clr-distance ' + distClass + '">Distance: ' + lr.result.distance + ' / ' + lr.result.compared + '</span>' +
+        '</div>';
+    }).join('');
+
+  // Marker-by-marker grid
+  var cells = '';
+  for (var i = 0; i < markersUsed; i++) {
+    var modalVal = i < modal.length ? modal[i] : null;
+    var userVal = userMarkers[i];
+    var isMatch = modalVal !== null && userVal === modalVal;
+    var isMissing = modalVal === null;
+    var cls = 'marker-cell';
+    if (isMissing) cls += ' missing';
+    else if (isMatch) cls += ' match';
+    else cls += ' mismatch';
+
+    cells += '<div class="' + cls + '" title="' + (i < dysNames.length ? dysNames[i] : 'Marker ' + (i+1)) + ': yours=' + userVal + ', Berry modal=' + (modalVal !== null ? modalVal : '?') + '">' +
+      '<span class="m-pos">' + (i + 1) + '</span>' +
+      '<span class="m-val">' + userVal + '</span>' +
+      '</div>';
+  }
+  markerGridDiv.innerHTML = cells;
+
+  resultsDiv.classList.add('visible');
+});
+
+document.getElementById('compareClearBtn').addEventListener('click', function() {
+  document.getElementById('userMarkers').value = '';
+  document.getElementById('compareResults').classList.remove('visible');
+});
+
+// ── Mystery case ────────────────────────────────────────────────────
+function buildMysteryCase() {
+  var card = document.getElementById('mysteryCard');
+  var m = mystery;
+
+  // Build marker comparison display
+  var williamMarkers = m.markers_37.map(function(v, i) {
+    var modalV = modal[i];
+    if (v !== modalV) return '<span style="color:#c05000;font-weight:700;">' + v + '</span>';
+    return '' + v;
+  }).join('-');
+
+  var modalDisplay = modal.join('-');
+
+  var sonsHtml = m.eight_sons_1830.map(function(s) {
+    return '<tr>' +
+      '<td>' + s.name + '</td>' +
+      '<td>' + s.birth + '</td>' +
+      '<td>' + (s.age_1830 !== undefined && s.age_1830 !== null ? s.age_1830 : (s.died ? 'Died ' + s.died : '—')) + '</td>' +
+      '<td>' + (s.location_1830 || '—') + '</td>' +
+      '</tr>';
+  }).join('');
+
+  card.innerHTML =
+    '<h3>An Unsolved Connection: Robert T Berry of Alabama</h3>' +
+    '<p>A living descendant of <strong>Robert T Berry</strong> matches our William Berry line by <strong>66 out of 67 markers</strong> &mdash; an extraordinarily close match. Yet we have been unable to determine which son of Robert Berry (OC) this Alabama line descends from. This is an active, ongoing search.</p>' +
+
+    '<div class="mystery-highlight">' +
+    '<strong>William Berry Line:</strong><br>' + modalDisplay + '<br><br>' +
+    '<strong>Robert T Berry Line:</strong><br>' + williamMarkers +
+    '</div>' +
+    '<p style="font-size:0.85rem;color:#6b5040;">The only difference is <strong>Marker 1 (DYS393)</strong>: William line = 14, Robert T Berry = <span style="color:#c05000;font-weight:600;">13</span>. A single-step mutation over several generations.</p>' +
+
+    '<div class="mystery-vitals">' +
+    '<span class="vital-label">Full Name</span><span class="vital-value">' + m.full_name + '</span>' +
+    '<span class="vital-label">Born</span><span class="vital-value">' + m.birth_date + ' &mdash; ' + m.birth_place + '</span>' +
+    '<span class="vital-label">Died</span><span class="vital-value">' + m.death_date + ' &mdash; ' + m.death_place + '</span>' +
+    '<span class="vital-label">Buried</span><span class="vital-value">' + m.burial_place + ' (' + m.burial_date + ')</span>' +
+    '<span class="vital-label">Occupation</span><span class="vital-value">' + m.occupation + '</span>' +
+    '<span class="vital-label">Mother</span><span class="vital-value">' + m.mother_name + ' &mdash; ' + m.mother_birth_place + '</span>' +
+    '<span class="vital-label">Spouse</span><span class="vital-value">' + m.spouse + '</span>' +
+    '</div>' +
+
+    '<p style="font-size:0.88rem;margin-top:12px;">' + m.census_note + '</p>' +
+
+    '<h3 style="margin-top:18px;">Robert Berry\'s Eight Sons in 1830</h3>' +
+    '<p style="font-size:0.85rem;color:#6b5040;">Which line does Robert T Berry belong to?</p>' +
+    '<table class="sons-table">' +
+    '<thead><tr><th>Name</th><th>Born</th><th>Age / Status in 1830</th><th>Location in 1830</th></tr></thead>' +
+    '<tbody>' + sonsHtml + '</tbody>' +
+    '</table>' +
+    '<p style="font-size:0.85rem;color:#6b5040;margin-top:8px;font-style:italic;">Henry and Isaac Berry were not married and had no male offspring. If you have information about Robert T Berry\'s paternal line, <a href="/contact/">please contact us</a>.</p>';
+}
+
+// ── Resources ───────────────────────────────────────────────────────
+function buildResources() {
+  var grid = document.getElementById('resourceGrid');
+  resources.forEach(function(r) {
+    grid.innerHTML += '<a href="' + r.url + '" target="_blank" rel="noopener" class="resource-card">' +
+      '<div class="rc-name">' + r.name + '</div>' +
+      '<div class="rc-desc">' + r.description + '</div>' +
+      '</a>';
+  });
+}
+
+// ── Filter event listeners ──────────────────────────────────────────
+document.getElementById('lineFilterDna').addEventListener('change', function(e) {
+  selectedLine = e.target.value;
+  // Sync family line cards
+  document.querySelectorAll('.family-line-card').forEach(function(c) {
+    c.classList.toggle('active', c.dataset.lineId === selectedLine);
+  });
+  renderParticipants();
+});
+
+document.getElementById('stateFilter').addEventListener('change', function(e) {
+  selectedState = e.target.value;
+  renderParticipants();
+});
+
+// ── Init ────────────────────────────────────────────────────────────
+buildFamilyLines();
+populateFilters();
+renderParticipants();
+buildMysteryCase();
+buildResources();
+</script>
+{{ end }}
