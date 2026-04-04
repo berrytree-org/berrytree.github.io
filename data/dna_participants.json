@@ -19,7 +19,7 @@
     "DYS458", "DYS459a", "DYS459b", "DYS455", "DYS454", "DYS447",
     "DYS437", "DYS448", "DYS449", "DYS464a", "DYS464b", "DYS464c",
     "DYS464d", "DYS460", "YGATA-H4", "YCAII-a", "YCAII-b", "DYS456",
-    "DYS607", "DYS576", "CDYa", "CDYb", "DYS442", "DYS438", "DYS531"
+    "DYS607", "DYS576", "DYS570", "CDYa", "CDYb", "DYS442", "DYS438"
   ],
   "modal_values_37": [14, 24, 15, 10, 11, 14, 12, 12, 12, 13, 13, 29, 17, 9, 9, 11, 11, 25, 15, 19, 29, 14, 15, 17, 18, 10, 10, 19, 23, 15, 15, 18, 20, 37, 37, 12, 10],
   "ancestors": {
@@ -202,11 +202,9 @@
       "family_line": "joshua",
       "state": "California",
       "test_company": "FTDNA",
-      "markers_37": [14, 24, 15, 10, 11, 14, 12, 12, 12, 13, 13, 29, 17, 9, 9, 11, 11, 25, 16, 19, 29, 14, 15, 17, 18, 10, 10, 19, 23, 15, 15, 18, 20, 37, 37, 12, 10],
-      "mutations_from_modal": [
-        {"position": 19, "dys": "DYS437", "modal": 15, "value": 16}
-      ],
-      "verification_note": "Marker 19 mutation (15→16) read from higher-resolution source chart. Additional orange cells may be present — STATUS: MEDIUM CONFIDENCE."
+      "markers_37": [14, 24, 15, 10, 11, 14, 12, 12, 12, 13, 13, 29, 17, 9, 9, 11, 11, 25, 15, 19, 29, 14, 15, 17, 18, 10, 10, 19, 23, 15, 15, 18, 20, 37, 37, 12, 10],
+      "mutations_from_modal": [],
+      "verification_note": "FTDNA data confirms no DYS437 mutation (earlier OCR was incorrect). Mutations at CDY/DYS442/DYS570/DYS607 positions possible but cannot assign specific FTDNA row without kit-to-name mapping."
     },
     {
       "name": "Charles Thomas Berry Jr.",
@@ -214,11 +212,9 @@
       "family_line": "joshua",
       "state": "Wisconsin",
       "test_company": "FTDNA",
-      "markers_37": [14, 24, 15, 10, 11, 14, 12, 12, 12, 13, 13, 29, 17, 9, 9, 11, 11, 25, 16, 19, 29, 14, 15, 17, 18, 10, 10, 19, 23, 15, 15, 18, 20, 37, 37, 12, 10],
-      "mutations_from_modal": [
-        {"position": 19, "dys": "DYS437", "modal": 15, "value": 16}
-      ],
-      "verification_note": "Same mutation pattern as Kenneth Ronald Berry #83. STATUS: MEDIUM CONFIDENCE."
+      "markers_37": [14, 24, 15, 10, 11, 14, 12, 12, 12, 13, 13, 29, 17, 9, 9, 11, 11, 25, 15, 19, 29, 14, 15, 17, 18, 10, 10, 19, 23, 15, 15, 18, 20, 37, 37, 12, 10],
+      "mutations_from_modal": [],
+      "verification_note": "Same status as Kenneth Ronald Berry #83. Need kit-to-name mapping from project admin to assign exact mutations."
     },
     {
       "name": "Dane Eaton Berry",
@@ -246,12 +242,12 @@
       "family_line": "thomas",
       "state": "Tennessee",
       "test_company": "FTDNA",
-      "markers_37": [14, 24, 14, 10, 11, 14, 12, 12, 12, 13, 13, 29, 18, 9, 9, 11, 11, 25, 15, 19, 29, 14, 15, 17, 18, 10, 10, 19, 23, 15, 15, 18, 20, 37, 37, 12, 10],
+      "markers_37": [14, 24, 16, 10, 11, 14, 12, 12, 12, 13, 13, 29, 18, 9, 9, 11, 11, 25, 15, 19, 29, 14, 15, 17, 18, 10, 10, 19, 23, 15, 15, 18, 20, 37, 37, 12, 10],
       "mutations_from_modal": [
-        {"position": 3, "dys": "DYS19", "modal": 15, "value": 14},
+        {"position": 3, "dys": "DYS19", "modal": 15, "value": 16},
         {"position": 13, "dys": "DYS458", "modal": 17, "value": 18}
       ],
-      "verification_note": "Thomas Berry line mutations at markers 3 and 13 confirmed by Chapter 17 text. Exact values (14 and 18) are best reading from chart image — STATUS: UNCERTAIN, AWAITING VERIFICATION."
+      "verification_note": "Thomas Berry line mutations at markers 3 and 13 confirmed by FTDNA project data. DYS19=16, DYS458=18. One of two Thomas line rows in FTDNA also shows DYS570=19 (modal 20). STATUS: HIGH CONFIDENCE."
     },
     {
       "name": "Jeffery Bryon Berry",
@@ -259,12 +255,12 @@
       "family_line": "thomas",
       "state": "Tennessee",
       "test_company": "FTDNA",
-      "markers_37": [14, 24, 14, 10, 11, 14, 12, 12, 12, 13, 13, 29, 18, 9, 9, 11, 11, 25, 15, 19, 29, 14, 15, 17, 18, 10, 10, 19, 23, 15, 15, 18, 20, 37, 37, 12, 10],
+      "markers_37": [14, 24, 16, 10, 11, 14, 12, 12, 12, 13, 13, 29, 18, 9, 9, 11, 11, 25, 15, 19, 29, 14, 15, 17, 18, 10, 10, 19, 23, 15, 15, 18, 20, 37, 37, 12, 10],
       "mutations_from_modal": [
-        {"position": 3, "dys": "DYS19", "modal": 15, "value": 14},
+        {"position": 3, "dys": "DYS19", "modal": 15, "value": 16},
         {"position": 13, "dys": "DYS458", "modal": 17, "value": 18}
       ],
-      "verification_note": "Same mutations as John Allen Berry #39. Values are best reading from chart — STATUS: UNCERTAIN, AWAITING VERIFICATION."
+      "verification_note": "Same DYS19 and DYS458 mutations confirmed by FTDNA project data. STATUS: HIGH CONFIDENCE."
     },
     {
       "name": "Thomas Keith Berry",
@@ -272,12 +268,12 @@
       "family_line": "thomas",
       "state": "Tennessee",
       "test_company": "FTDNA",
-      "markers_37": [14, 24, 14, 10, 11, 14, 12, 12, 12, 13, 13, 29, 18, 9, 9, 11, 11, 25, 15, 19, 29, 14, 15, 17, 18, 10, 10, 19, 23, 15, 15, 18, 20, 37, 37, 12, 10],
+      "markers_37": [14, 24, 16, 10, 11, 14, 12, 12, 12, 13, 13, 29, 18, 9, 9, 11, 11, 25, 15, 19, 29, 14, 15, 17, 18, 10, 10, 19, 23, 15, 15, 18, 20, 37, 37, 12, 10],
       "mutations_from_modal": [
-        {"position": 3, "dys": "DYS19", "modal": 15, "value": 14},
+        {"position": 3, "dys": "DYS19", "modal": 15, "value": 16},
         {"position": 13, "dys": "DYS458", "modal": 17, "value": 18}
       ],
-      "verification_note": "Same mutations as other Thomas line participants. Chapter 17 notes this participant was tested by a different company but results appear complete in chart."
+      "verification_note": "Chapter 17 notes this participant was tested by a different company. Not present in FTDNA export. DYS19 and DYS458 mutations assumed same as other Thomas line participants."
     }
   ],
   "mystery_case": {
