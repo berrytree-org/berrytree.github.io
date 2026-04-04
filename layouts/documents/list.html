@@ -9,8 +9,8 @@
 <style>
   .doc-explorer {
     font-family: 'Source Serif 4', Georgia, serif;
-    background: #1a2e1a;
-    color: #f0e8d0;
+    background: rgba(245, 240, 232, 0.95);
+    color: #4a3728;
     min-height: 100vh;
     display: flex;
     flex-direction: column;
@@ -22,7 +22,7 @@
   .doc-explorer h1 {
     font-family: 'Cinzel', serif;
     font-size: clamp(1.4rem, 3vw, 1.8rem);
-    color: #c8a84b;
+    color: #2d4a2d;
     text-align: center;
     margin-bottom: 6px;
     letter-spacing: 0.05em;
@@ -32,7 +32,7 @@
     font-family: 'Cinzel', serif;
     font-size: clamp(0.9rem, 2vw, 1.1rem);
     font-style: italic;
-    color: #8faf6f;
+    color: #5a7a3a;
     letter-spacing: 0.04em;
     margin-bottom: 8px;
   }
@@ -42,7 +42,7 @@
     text-align: center;
     font-size: 0.95rem;
     line-height: 1.7;
-    color: #c8b99a;
+    color: #6b5040;
     margin-bottom: 28px;
   }
 
@@ -66,15 +66,15 @@
   .doc-filter-group label {
     font-family: 'Cinzel', serif;
     font-size: 0.72rem;
-    color: #8faf6f;
+    color: #2d4a2d;
     letter-spacing: 0.06em;
     text-transform: uppercase;
   }
 
   .doc-filter-group select {
-    background: #243424;
-    color: #f0e8d0;
-    border: 1px solid #4a6a4a;
+    background: #fff;
+    color: #4a3728;
+    border: 1px solid #c8b99a;
     border-radius: 4px;
     padding: 8px 12px;
     font-size: 0.9rem;
@@ -85,9 +85,9 @@
   }
 
   .doc-filter-group select:focus {
-    outline: 2px solid #c8a84b;
+    outline: 2px solid #2d4a2d;
     outline-offset: 1px;
-    border-color: #c8a84b;
+    border-color: #2d4a2d;
   }
 
   /* ── Type Toggle Pills ── */
@@ -103,9 +103,9 @@
   .doc-type-btn {
     padding: 6px 14px;
     border-radius: 999px;
-    border: 1px solid #4a6a4a;
-    background: #243424;
-    color: #8faf6f;
+    border: 1px solid #c8b99a;
+    background: rgba(45, 74, 45, 0.06);
+    color: #4a3728;
     font-size: 0.78rem;
     font-family: 'Cinzel', serif;
     cursor: pointer;
@@ -117,28 +117,38 @@
   }
 
   .doc-type-btn.active {
-    background: #4a6a4a;
-    color: #f0e8d0;
-    border-color: #c8a84b;
+    background: #2d4a2d;
+    color: #f8f5ef;
+    border-color: #2d4a2d;
   }
 
   .doc-type-btn:hover {
+    background: rgba(45, 74, 45, 0.15);
+    color: #2d4a2d;
+  }
+
+  .doc-type-btn.active:hover {
     background: #3a5a3a;
-    color: #f0e8d0;
+    color: #f8f5ef;
   }
 
   .doc-type-btn:focus-visible {
-    outline: 2px solid #c8a84b;
+    outline: 2px solid #2d4a2d;
     outline-offset: 2px;
   }
 
   .doc-type-btn .pill-count {
     font-family: 'Source Serif 4', serif;
     font-size: 0.7rem;
-    background: rgba(200, 168, 75, 0.25);
-    color: #c8a84b;
+    background: rgba(45, 74, 45, 0.15);
+    color: #2d4a2d;
     padding: 1px 6px;
     border-radius: 8px;
+  }
+
+  .doc-type-btn.active .pill-count {
+    background: rgba(255, 255, 255, 0.2);
+    color: #f8f5ef;
   }
 
   /* ── Results Header ── */
@@ -148,7 +158,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    border-bottom: 1px solid #4a6a4a;
+    border-bottom: 1px solid #c8b99a;
     padding-bottom: 8px;
     margin-bottom: 16px;
   }
@@ -156,18 +166,18 @@
   .doc-results-title {
     font-family: 'Cinzel', serif;
     font-size: 1rem;
-    color: #c8a84b;
+    color: #2d4a2d;
   }
 
   .doc-results-count {
     font-size: 0.85rem;
-    color: #6a8a6a;
+    color: #8a7a6a;
   }
 
   .doc-results-sort {
-    background: #243424;
-    color: #f0e8d0;
-    border: 1px solid #4a6a4a;
+    background: #fff;
+    color: #4a3728;
+    border: 1px solid #c8b99a;
     border-radius: 4px;
     padding: 4px 10px;
     font-size: 0.8rem;
@@ -176,7 +186,7 @@
   }
 
   .doc-results-sort:focus {
-    outline: 2px solid #c8a84b;
+    outline: 2px solid #2d4a2d;
     outline-offset: 1px;
   }
 
@@ -190,9 +200,9 @@
   }
 
   .doc-result-card {
-    background: #243424;
-    border: 1px solid #3a5a3a;
-    border-left: 4px solid #4a6a4a;
+    background: rgba(255, 255, 255, 0.7);
+    border: 1px solid #c8b99a;
+    border-left: 4px solid #c8b99a;
     border-radius: 4px;
     padding: 14px 18px;
     transition: border-left-color 0.2s, box-shadow 0.2s;
@@ -202,12 +212,12 @@
   }
 
   .doc-result-card:hover {
-    border-left-color: #c8a84b;
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+    border-left-color: #2d4a2d;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
   }
 
   .doc-result-card:focus-visible {
-    outline: 2px solid #c8a84b;
+    outline: 2px solid #2d4a2d;
     outline-offset: 2px;
   }
 
@@ -222,14 +232,14 @@
   .doc-result-title {
     font-family: 'Cinzel', serif;
     font-size: 1rem;
-    color: #c8a84b;
+    color: #2d4a2d;
     font-weight: 600;
     line-height: 1.3;
   }
 
   .doc-result-date {
     font-size: 0.85rem;
-    color: #8a8a6a;
+    color: #8a7a6a;
     white-space: nowrap;
     font-style: italic;
   }
@@ -237,7 +247,7 @@
   .doc-result-summary {
     font-size: 0.88rem;
     line-height: 1.55;
-    color: #c8b99a;
+    color: #6b5040;
     margin-bottom: 8px;
   }
 
@@ -255,26 +265,26 @@
     letter-spacing: 0.03em;
   }
 
-  .doc-badge-type    { background: #2a4a2a; color: #8faf6f; border: 1px solid #3a6a3a; }
-  .doc-badge-family  { background: #3a3a1a; color: #FFA500; border: 1px solid #5a5a2a; }
-  .doc-badge-loc     { background: #2a3a4a; color: #6aafc8; border: 1px solid #3a5a6a; }
-  .doc-badge-gen     { background: #3a2a3a; color: #c88ac8; border: 1px solid #5a3a5a; }
-  .doc-badge-images  { background: #2a2a2a; color: #9a9a7a; border: 1px solid #4a4a3a; }
+  .doc-badge-type    { background: rgba(45, 74, 45, 0.1);   color: #2d4a2d; border: 1px solid rgba(45, 74, 45, 0.25); }
+  .doc-badge-family  { background: rgba(160, 110, 30, 0.1); color: #7a5a18; border: 1px solid rgba(160, 110, 30, 0.25); }
+  .doc-badge-loc     { background: rgba(60, 100, 140, 0.1); color: #3a6080; border: 1px solid rgba(60, 100, 140, 0.25); }
+  .doc-badge-gen     { background: rgba(120, 60, 120, 0.1); color: #7a3a7a; border: 1px solid rgba(120, 60, 120, 0.25); }
+  .doc-badge-images  { background: rgba(100, 100, 80, 0.1); color: #5a5a4a; border: 1px solid rgba(100, 100, 80, 0.25); }
 
   /* Category left-border colors */
-  .doc-result-card[data-type="will"]       { border-left-color: #8a4a8a; }
-  .doc-result-card[data-type="deed"]       { border-left-color: #c8a84b; }
-  .doc-result-card[data-type="estate"]     { border-left-color: #8a6a4a; }
+  .doc-result-card[data-type="will"]       { border-left-color: #9a5a9a; }
+  .doc-result-card[data-type="deed"]       { border-left-color: #b89830; }
+  .doc-result-card[data-type="estate"]     { border-left-color: #9a7a4a; }
   .doc-result-card[data-type="census"]     { border-left-color: #4a8a8a; }
-  .doc-result-card[data-type="marriage"]   { border-left-color: #8a4a6a; }
+  .doc-result-card[data-type="marriage"]   { border-left-color: #9a4a6a; }
   .doc-result-card[data-type="military"]   { border-left-color: #6a4a8a; }
   .doc-result-card[data-type="legal"]      { border-left-color: #4a6a8a; }
   .doc-result-card[data-type="collection"] { border-left-color: #6a8a4a; }
-  .doc-result-card[data-type="document"]   { border-left-color: #5a5a5a; }
+  .doc-result-card[data-type="document"]   { border-left-color: #8a8a8a; }
 
   .doc-no-results {
     text-align: center;
-    color: #5a7a5a;
+    color: #8a7a6a;
     font-style: italic;
     padding: 40px 20px;
     font-size: 1rem;
@@ -282,8 +292,8 @@
 
   .doc-clear-filters {
     background: none;
-    border: 1px solid #c8a84b;
-    color: #c8a84b;
+    border: 1px solid #2d4a2d;
+    color: #2d4a2d;
     padding: 6px 16px;
     border-radius: 4px;
     font-family: 'Cinzel', serif;
@@ -294,14 +304,14 @@
   }
 
   .doc-clear-filters:hover {
-    background: #c8a84b;
-    color: #1a2e1a;
+    background: #2d4a2d;
+    color: #f8f5ef;
   }
 
   .doc-explorer-footer {
     margin-top: 40px;
     font-size: 0.75rem;
-    color: #3a5a3a;
+    color: #b0a090;
     text-align: center;
     font-style: italic;
   }
