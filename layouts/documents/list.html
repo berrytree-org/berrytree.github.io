@@ -1,0 +1,622 @@
+{{ define "menu-container" }}{{ end }}
+{{ define "toc-container" }}{{ end }}
+{{ define "main" }}
+{{/* Documents Explorer — Dynamic filtered view
+     Modeled on the Wheel of Time timeline pattern.
+     Data injected from data/documents.json via Hugo data pipeline.
+     Authors: Lila (layout/CSS), Kate (JS), Vincent (polish), Andrew (copy)
+*/}}
+<style>
+  .doc-explorer {
+    font-family: 'Source Serif 4', Georgia, serif;
+    background: #1a2e1a;
+    color: #f0e8d0;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 24px 20px;
+    width: 100%;
+  }
+
+  .doc-explorer h1 {
+    font-family: 'Cinzel', serif;
+    font-size: clamp(1.4rem, 3vw, 1.8rem);
+    color: #c8a84b;
+    text-align: center;
+    margin-bottom: 6px;
+    letter-spacing: 0.05em;
+  }
+
+  .doc-explorer-tagline {
+    font-family: 'Cinzel', serif;
+    font-size: clamp(0.9rem, 2vw, 1.1rem);
+    font-style: italic;
+    color: #8faf6f;
+    letter-spacing: 0.04em;
+    margin-bottom: 8px;
+  }
+
+  .doc-explorer-intro {
+    max-width: 42rem;
+    text-align: center;
+    font-size: 0.95rem;
+    line-height: 1.7;
+    color: #c8b99a;
+    margin-bottom: 28px;
+  }
+
+  /* ── Filter Bar ── */
+  .doc-filters {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 14px;
+    justify-content: center;
+    margin-bottom: 20px;
+    width: 100%;
+    max-width: 800px;
+  }
+
+  .doc-filter-group {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+  }
+
+  .doc-filter-group label {
+    font-family: 'Cinzel', serif;
+    font-size: 0.72rem;
+    color: #8faf6f;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+  }
+
+  .doc-filter-group select {
+    background: #243424;
+    color: #f0e8d0;
+    border: 1px solid #4a6a4a;
+    border-radius: 4px;
+    padding: 8px 12px;
+    font-size: 0.9rem;
+    font-family: 'Source Serif 4', Georgia, serif;
+    cursor: pointer;
+    min-width: 180px;
+    min-height: 44px;
+  }
+
+  .doc-filter-group select:focus {
+    outline: 2px solid #c8a84b;
+    outline-offset: 1px;
+    border-color: #c8a84b;
+  }
+
+  /* ── Type Toggle Pills ── */
+  .doc-type-toggles {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    justify-content: center;
+    margin-bottom: 20px;
+    max-width: 800px;
+  }
+
+  .doc-type-btn {
+    padding: 6px 14px;
+    border-radius: 999px;
+    border: 1px solid #4a6a4a;
+    background: #243424;
+    color: #8faf6f;
+    font-size: 0.78rem;
+    font-family: 'Cinzel', serif;
+    cursor: pointer;
+    transition: all 0.2s;
+    min-height: 44px;
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+  }
+
+  .doc-type-btn.active {
+    background: #4a6a4a;
+    color: #f0e8d0;
+    border-color: #c8a84b;
+  }
+
+  .doc-type-btn:hover {
+    background: #3a5a3a;
+    color: #f0e8d0;
+  }
+
+  .doc-type-btn:focus-visible {
+    outline: 2px solid #c8a84b;
+    outline-offset: 2px;
+  }
+
+  .doc-type-btn .pill-count {
+    font-family: 'Source Serif 4', serif;
+    font-size: 0.7rem;
+    background: rgba(200, 168, 75, 0.25);
+    color: #c8a84b;
+    padding: 1px 6px;
+    border-radius: 8px;
+  }
+
+  /* ── Results Header ── */
+  .doc-results-header {
+    width: 100%;
+    max-width: 800px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid #4a6a4a;
+    padding-bottom: 8px;
+    margin-bottom: 16px;
+  }
+
+  .doc-results-title {
+    font-family: 'Cinzel', serif;
+    font-size: 1rem;
+    color: #c8a84b;
+  }
+
+  .doc-results-count {
+    font-size: 0.85rem;
+    color: #6a8a6a;
+  }
+
+  .doc-results-sort {
+    background: #243424;
+    color: #f0e8d0;
+    border: 1px solid #4a6a4a;
+    border-radius: 4px;
+    padding: 4px 10px;
+    font-size: 0.8rem;
+    font-family: 'Source Serif 4', serif;
+    cursor: pointer;
+  }
+
+  .doc-results-sort:focus {
+    outline: 2px solid #c8a84b;
+    outline-offset: 1px;
+  }
+
+  /* ── Document Cards ── */
+  .doc-results-list {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    width: 100%;
+    max-width: 800px;
+  }
+
+  .doc-result-card {
+    background: #243424;
+    border: 1px solid #3a5a3a;
+    border-left: 4px solid #4a6a4a;
+    border-radius: 4px;
+    padding: 14px 18px;
+    transition: border-left-color 0.2s, box-shadow 0.2s;
+    text-decoration: none;
+    display: block;
+    color: inherit;
+  }
+
+  .doc-result-card:hover {
+    border-left-color: #c8a84b;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+  }
+
+  .doc-result-card:focus-visible {
+    outline: 2px solid #c8a84b;
+    outline-offset: 2px;
+  }
+
+  .doc-result-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 12px;
+    margin-bottom: 6px;
+  }
+
+  .doc-result-title {
+    font-family: 'Cinzel', serif;
+    font-size: 1rem;
+    color: #c8a84b;
+    font-weight: 600;
+    line-height: 1.3;
+  }
+
+  .doc-result-date {
+    font-size: 0.85rem;
+    color: #8a8a6a;
+    white-space: nowrap;
+    font-style: italic;
+  }
+
+  .doc-result-summary {
+    font-size: 0.88rem;
+    line-height: 1.55;
+    color: #c8b99a;
+    margin-bottom: 8px;
+  }
+
+  .doc-result-meta {
+    display: flex;
+    gap: 6px;
+    flex-wrap: wrap;
+  }
+
+  .doc-badge {
+    font-size: 0.68rem;
+    padding: 2px 8px;
+    border-radius: 10px;
+    font-family: 'Cinzel', serif;
+    letter-spacing: 0.03em;
+  }
+
+  .doc-badge-type    { background: #2a4a2a; color: #8faf6f; border: 1px solid #3a6a3a; }
+  .doc-badge-family  { background: #3a3a1a; color: #FFA500; border: 1px solid #5a5a2a; }
+  .doc-badge-loc     { background: #2a3a4a; color: #6aafc8; border: 1px solid #3a5a6a; }
+  .doc-badge-gen     { background: #3a2a3a; color: #c88ac8; border: 1px solid #5a3a5a; }
+  .doc-badge-images  { background: #2a2a2a; color: #9a9a7a; border: 1px solid #4a4a3a; }
+
+  /* Category left-border colors */
+  .doc-result-card[data-type="will"]       { border-left-color: #8a4a8a; }
+  .doc-result-card[data-type="deed"]       { border-left-color: #c8a84b; }
+  .doc-result-card[data-type="estate"]     { border-left-color: #8a6a4a; }
+  .doc-result-card[data-type="census"]     { border-left-color: #4a8a8a; }
+  .doc-result-card[data-type="marriage"]   { border-left-color: #8a4a6a; }
+  .doc-result-card[data-type="military"]   { border-left-color: #6a4a8a; }
+  .doc-result-card[data-type="legal"]      { border-left-color: #4a6a8a; }
+  .doc-result-card[data-type="collection"] { border-left-color: #6a8a4a; }
+  .doc-result-card[data-type="document"]   { border-left-color: #5a5a5a; }
+
+  .doc-no-results {
+    text-align: center;
+    color: #5a7a5a;
+    font-style: italic;
+    padding: 40px 20px;
+    font-size: 1rem;
+  }
+
+  .doc-clear-filters {
+    background: none;
+    border: 1px solid #c8a84b;
+    color: #c8a84b;
+    padding: 6px 16px;
+    border-radius: 4px;
+    font-family: 'Cinzel', serif;
+    font-size: 0.8rem;
+    cursor: pointer;
+    min-height: 44px;
+    transition: all 0.2s;
+  }
+
+  .doc-clear-filters:hover {
+    background: #c8a84b;
+    color: #1a2e1a;
+  }
+
+  .doc-explorer-footer {
+    margin-top: 40px;
+    font-size: 0.75rem;
+    color: #3a5a3a;
+    text-align: center;
+    font-style: italic;
+  }
+
+  /* ── Responsive ── */
+  @media (max-width: 600px) {
+    .doc-filters {
+      flex-direction: column;
+      align-items: stretch;
+    }
+    .doc-filter-group select {
+      width: 100%;
+    }
+    .doc-results-header {
+      flex-direction: column;
+      gap: 8px;
+      align-items: flex-start;
+    }
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .doc-result-card,
+    .doc-type-btn {
+      transition: none;
+    }
+  }
+</style>
+
+<div class="doc-explorer">
+
+<h1>Historical Documents</h1>
+<p class="doc-explorer-tagline">Families not forgotten. Records that preserve the past.</p>
+<p class="doc-explorer-intro">
+  What you will find here is the paperwork of real lives — wills that name children by name, deeds that mark the land a family cleared, marriage bonds written in a careful hand, and census records that place our people in a particular county on a particular day. This collection spans three centuries and reaches from colonial Virginia through the Carolinas, Georgia, Alabama, Texas, Ohio, and beyond.
+</p>
+
+<!-- FILTERS -->
+<div class="doc-filters">
+  <div class="doc-filter-group">
+    <label for="docTypeFilter">Record Type</label>
+    <select id="docTypeFilter">
+      <option value="all">All Record Types</option>
+    </select>
+  </div>
+  <div class="doc-filter-group">
+    <label for="docFamilyFilter">Family Line</label>
+    <select id="docFamilyFilter">
+      <option value="all">All Family Lines</option>
+    </select>
+  </div>
+  <div class="doc-filter-group">
+    <label for="docLocationFilter">Location</label>
+    <select id="docLocationFilter">
+      <option value="all">All Locations</option>
+    </select>
+  </div>
+  <div class="doc-filter-group">
+    <label for="docGenFilter">Generation</label>
+    <select id="docGenFilter">
+      <option value="all">All Generations</option>
+    </select>
+  </div>
+  <div class="doc-filter-group" style="justify-content: flex-end;">
+    <button class="doc-clear-filters" id="docClearFilters">Clear All</button>
+  </div>
+</div>
+
+<!-- TYPE TOGGLE PILLS -->
+<div class="doc-type-toggles" id="docTypeToggles"></div>
+
+<!-- RESULTS -->
+<div class="doc-results-header">
+  <span class="doc-results-title">Documents <span class="doc-results-count" id="docResultCount"></span></span>
+  <select class="doc-results-sort" id="docSortOrder" aria-label="Sort order">
+    <option value="date-asc">Oldest First</option>
+    <option value="date-desc">Newest First</option>
+    <option value="alpha">A – Z</option>
+    <option value="type">By Type</option>
+  </select>
+</div>
+
+<div class="doc-results-list" id="docResultList">
+  <div class="doc-no-results">Loading documents...</div>
+</div>
+
+<div class="doc-explorer-footer">berrytree.org &mdash; Berry Family Document Archive</div>
+
+</div>
+
+<script>
+// ── Document data ──────────────────────────────────────────────────
+const DOCS = {{ os.ReadFile "data/documents.json" | safeJS }};
+const documents = DOCS.documents;
+
+// ── Type display names ──────────────────────────────────────────────
+const TYPE_NAMES = {
+  will: 'Will / Probate',
+  deed: 'Deed / Land',
+  estate: 'Estate Record',
+  census: 'Census',
+  marriage: 'Marriage Record',
+  military: 'Military Record',
+  legal: 'Legal Document',
+  collection: 'Document Collection',
+  document: 'General Document'
+};
+
+// ── State ───────────────────────────────────────────────────────────
+let selectedType     = 'all';
+let selectedFamily   = 'all';
+let selectedLocation = 'all';
+let selectedGen      = 'all';
+let sortOrder        = 'date-asc';
+let activeTypes      = new Set(Object.keys(TYPE_NAMES));
+
+// ── Populate dropdowns from data ────────────────────────────────────
+function populateDropdowns() {
+  // Record Type
+  const typeSelect = document.getElementById('docTypeFilter');
+  const types = [...new Set(documents.map(d => d.type))].sort();
+  types.forEach(t => {
+    const opt = document.createElement('option');
+    opt.value = t;
+    opt.textContent = TYPE_NAMES[t] || t;
+    typeSelect.appendChild(opt);
+  });
+
+  // Family Line
+  const familySelect = document.getElementById('docFamilyFilter');
+  const families = [...new Set(documents.map(d => d.ancestor_family).filter(Boolean))].sort();
+  families.forEach(f => {
+    const opt = document.createElement('option');
+    opt.value = f;
+    opt.textContent = f;
+    familySelect.appendChild(opt);
+  });
+
+  // Location — collect states (longer location names likely states)
+  const locSelect = document.getElementById('docLocationFilter');
+  const allLocs = [];
+  documents.forEach(d => { if (d.locations) allLocs.push(...d.locations); });
+  const states = [...new Set(allLocs)].sort();
+  states.forEach(s => {
+    const opt = document.createElement('option');
+    opt.value = s;
+    opt.textContent = s;
+    locSelect.appendChild(opt);
+  });
+
+  // Generation
+  const genSelect = document.getElementById('docGenFilter');
+  const gens = [...new Set(documents.map(d => d.generation).filter(g => g !== null && g !== undefined))].sort((a, b) => a - b);
+  gens.forEach(g => {
+    const opt = document.createElement('option');
+    opt.value = g;
+    opt.textContent = 'Generation ' + g;
+    genSelect.appendChild(opt);
+  });
+}
+
+// ── Type toggle pills ───────────────────────────────────────────────
+function buildTypeToggles() {
+  const container = document.getElementById('docTypeToggles');
+  const typeCounts = {};
+  documents.forEach(d => { typeCounts[d.type] = (typeCounts[d.type] || 0) + 1; });
+
+  Object.entries(TYPE_NAMES).forEach(([key, label]) => {
+    if (!typeCounts[key]) return;
+    const btn = document.createElement('button');
+    btn.className = 'doc-type-btn active';
+    btn.dataset.type = key;
+    btn.innerHTML = label + ' <span class="pill-count">' + typeCounts[key] + '</span>';
+    btn.setAttribute('aria-pressed', 'true');
+    btn.addEventListener('click', function() {
+      if (activeTypes.has(key)) {
+        activeTypes.delete(key);
+        btn.classList.remove('active');
+        btn.setAttribute('aria-pressed', 'false');
+      } else {
+        activeTypes.add(key);
+        btn.classList.add('active');
+        btn.setAttribute('aria-pressed', 'true');
+      }
+      renderDocuments();
+    });
+    container.appendChild(btn);
+  });
+}
+
+// ── Filter + Sort ───────────────────────────────────────────────────
+function getFilteredDocuments() {
+  let filtered = documents.filter(function(d) {
+    if (!activeTypes.has(d.type)) return false;
+    if (selectedType !== 'all' && d.type !== selectedType) return false;
+    if (selectedFamily !== 'all' && d.ancestor_family !== selectedFamily) return false;
+    if (selectedLocation !== 'all') {
+      if (!d.locations || !d.locations.includes(selectedLocation)) return false;
+    }
+    if (selectedGen !== 'all') {
+      if (d.generation === null || d.generation === undefined || String(d.generation) !== String(selectedGen)) return false;
+    }
+    return true;
+  });
+
+  // Sort
+  switch (sortOrder) {
+    case 'date-asc':
+      filtered.sort(function(a, b) { return (a.date_start || 9999) - (b.date_start || 9999); });
+      break;
+    case 'date-desc':
+      filtered.sort(function(a, b) { return (b.date_start || 0) - (a.date_start || 0); });
+      break;
+    case 'alpha':
+      filtered.sort(function(a, b) { return a.title.localeCompare(b.title); });
+      break;
+    case 'type':
+      filtered.sort(function(a, b) { return a.type.localeCompare(b.type) || a.title.localeCompare(b.title); });
+      break;
+  }
+
+  return filtered;
+}
+
+// ── Render ──────────────────────────────────────────────────────────
+function renderDocuments() {
+  var list = document.getElementById('docResultList');
+  var countEl = document.getElementById('docResultCount');
+  var filtered = getFilteredDocuments();
+
+  countEl.textContent = '(' + filtered.length + ' of ' + documents.length + ')';
+
+  if (filtered.length === 0) {
+    list.innerHTML = '<div class="doc-no-results">No documents match the current filters. Try adjusting your selections above.</div>';
+    return;
+  }
+
+  list.innerHTML = filtered.map(function(d) {
+    var badges = '';
+    badges += '<span class="doc-badge doc-badge-type">' + (TYPE_NAMES[d.type] || d.type) + '</span>';
+    if (d.ancestor_family) {
+      badges += '<span class="doc-badge doc-badge-family">' + d.ancestor_family + '</span>';
+    }
+    if (d.locations && d.locations.length > 0) {
+      // Show first 2 locations to avoid clutter
+      var locs = d.locations.slice(0, 2).join(', ');
+      if (d.locations.length > 2) locs += '…';
+      badges += '<span class="doc-badge doc-badge-loc">' + locs + '</span>';
+    }
+    if (d.generation !== null && d.generation !== undefined) {
+      badges += '<span class="doc-badge doc-badge-gen">Gen ' + d.generation + '</span>';
+    }
+    if (d.has_images && d.image_count > 0) {
+      badges += '<span class="doc-badge doc-badge-images">' + d.image_count + ' image' + (d.image_count !== 1 ? 's' : '') + '</span>';
+    }
+
+    return '<a href="' + d.link + '" class="doc-result-card" data-type="' + d.type + '">' +
+      '<div class="doc-result-top">' +
+        '<span class="doc-result-title">' + d.title + '</span>' +
+        (d.date_display ? '<span class="doc-result-date">' + d.date_display + '</span>' : '') +
+      '</div>' +
+      '<div class="doc-result-summary">' + d.summary + '</div>' +
+      '<div class="doc-result-meta">' + badges + '</div>' +
+    '</a>';
+  }).join('');
+}
+
+// ── Wire up controls ────────────────────────────────────────────────
+document.getElementById('docTypeFilter').addEventListener('change', function(e) {
+  selectedType = e.target.value;
+  renderDocuments();
+});
+
+document.getElementById('docFamilyFilter').addEventListener('change', function(e) {
+  selectedFamily = e.target.value;
+  renderDocuments();
+});
+
+document.getElementById('docLocationFilter').addEventListener('change', function(e) {
+  selectedLocation = e.target.value;
+  renderDocuments();
+});
+
+document.getElementById('docGenFilter').addEventListener('change', function(e) {
+  selectedGen = e.target.value;
+  renderDocuments();
+});
+
+document.getElementById('docSortOrder').addEventListener('change', function(e) {
+  sortOrder = e.target.value;
+  renderDocuments();
+});
+
+document.getElementById('docClearFilters').addEventListener('click', function() {
+  selectedType = 'all';
+  selectedFamily = 'all';
+  selectedLocation = 'all';
+  selectedGen = 'all';
+  document.getElementById('docTypeFilter').value = 'all';
+  document.getElementById('docFamilyFilter').value = 'all';
+  document.getElementById('docLocationFilter').value = 'all';
+  document.getElementById('docGenFilter').value = 'all';
+
+  // Re-activate all type pills
+  activeTypes = new Set(Object.keys(TYPE_NAMES));
+  document.querySelectorAll('.doc-type-btn').forEach(function(btn) {
+    btn.classList.add('active');
+    btn.setAttribute('aria-pressed', 'true');
+  });
+
+  renderDocuments();
+});
+
+// ── Init ────────────────────────────────────────────────────────────
+populateDropdowns();
+buildTypeToggles();
+renderDocuments();
+</script>
+{{ end }}

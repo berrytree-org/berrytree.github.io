@@ -58,7 +58,7 @@ George Berry and his father acquired **640 acres** of land together in 1824. Thi
   <div class="photo-caption">Fayette County, Alabama — where Robert Berry Jr. and his family settled in 1824</div>
 </div>
 
-- [Land grant to Robert Berry Jr. and his son George Berry, 1824](/documents/land-grant-robert-berry-jr/) — Fayette County, Alabama, signed by President James Monroe
+- [Land grant to Robert Berry Jr. and his son George Berry, 1824](/documents/land-grant-to-robert-berry-jr/) — Fayette County, Alabama, signed by President James Monroe
 
 Catherine Berry Pickle and her husband Jacob also listed in Fayette County, Alabama, in 1830. They later removed to Monroe, Mississippi, and listed there in the 1840 census.
 
