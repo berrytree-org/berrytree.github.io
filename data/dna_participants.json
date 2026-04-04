@@ -10,8 +10,12 @@
     "first_match_date": "2004-07-20",
     "normandy_origin_percentage": 20,
     "description": "Y-DNA testing results for descendants of Robert & Elizabeth Cate Berry of Orange County, NC",
-    "data_sources": "OCR from ydnapicchart.jpg, cross-referenced with site text and Chapter 17 of Frontier America",
-    "generated": "2026-04-04"
+    "data_sources": "FTDNA Berry Family DNA Project export, cross-referenced with site text and Chapter 17 of Frontier America",
+    "generated": "2026-04-04",
+    "current_project_admins": ["Geoff Blackburn OAM", "Michelle Leonard"],
+    "current_project_coadmins": ["Bill Rodgers", "Patrick Berry"],
+    "current_project_members": 732,
+    "haplogroup": "R-U152 > Z56 > BY3548 > Z43 > Z145 > BY1823"
   },
   "dys_markers_37": [
     "DYS393", "DYS390", "DYS19", "DYS391", "DYS385a", "DYS385b",
@@ -344,5 +348,42 @@
       "url": "https://www.familytreedna.com/groups/berry/about",
       "description": "The broader Berry surname DNA project at FTDNA (239 participants)"
     }
-  ]
+  ],
+  "ftdna_kit_mapping": {
+    "note": "Kit numbers from FTDNA project export (2026-04-04). Grouped by marker pattern. Need project admin to map kit numbers to participant names for the unassigned group.",
+    "william_line_kits": {
+      "status": "confirmed",
+      "description": "4 kits with perfect modal match — all William Berry line, but individual assignment unknown",
+      "kits": ["130368", "139565", "214669", "19390"],
+      "ancestor_fields": {
+        "214669": "Robert Berry, 1730-1814",
+        "19390": "Robert Berry, b.circa1730, unknown origin"
+      }
+    },
+    "thomas_line_kits": {
+      "status": "confirmed",
+      "description": "2 kits with DYS19=16 and DYS458=18 — Thomas Berry line (John Allen #39 and Jeffery Bryon #44)",
+      "kits": ["37125", "33728"],
+      "marker_differences": {
+        "37125": "DYS19=16, DYS458=18, DYS570=19",
+        "33728": "DYS19=16, DYS458=18"
+      }
+    },
+    "unassigned_kits": {
+      "status": "pending — need kit-to-name mapping from project admin",
+      "description": "6 kits belonging to Billy Wayne #8, David Lee #101, Kenneth Ronald #83, Charles Thomas #116, Dane Eaton #35, Billy J. #122 — but cannot assign which is which",
+      "kits": [
+        {"kit": "80064", "test": "Y-DNA37", "differences": "DYS570=19, CDYa=36, CDYb=38"},
+        {"kit": "12910", "test": "Y-DNA67", "differences": "CDYa=36"},
+        {"kit": "130331", "test": "Y-DNA111", "differences": "CDYa=36"},
+        {"kit": "106258", "test": "Y-DNA37", "differences": "DYS442=13"},
+        {"kit": "118832", "test": "Y-DNA37", "differences": "DYS442=13, CDYb=38"},
+        {"kit": "28846", "test": "Big Y-500", "differences": "DYS607=16, CDYa=36", "ancestor_field": "Robert Berry, b. 1729, Princess Anne County, VA"}
+      ]
+    },
+    "not_in_ftdna": {
+      "description": "2 participants tested at different companies — not in FTDNA export",
+      "participants": ["Shelby Dale Berry #236 (John line)", "Thomas Keith Berry #180 (Thomas line)"]
+    }
+  }
 }
