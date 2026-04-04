@@ -175,8 +175,10 @@
       "family_line": "robert-jr",
       "state": "Alabama",
       "test_company": "FTDNA",
-      "markers_37": [14, 24, 15, 10, 11, 14, 12, 12, 12, 13, 13, 29, 17, 9, 9, 11, 11, 25, 15, 19, 29, 14, 15, 17, 18, 10, 10, 19, 23, 15, 15, 18, 20, 37, 37, 12, 10],
-      "mutations_from_modal": []
+      "markers_37": [14, 24, 15, 10, 11, 14, 12, 12, 12, 13, 13, 29, 17, 9, 9, 11, 11, 25, 15, 19, 29, 14, 15, 17, 18, 10, 10, 19, 23, 15, 15, 18, 20, 36, 37, 12, 10],
+      "mutations_from_modal": [
+        {"position": 34, "dys": "CDYa", "modal": 37, "value": 36}
+      ]
     },
     {
       "name": "David Lee Berry",
@@ -184,9 +186,10 @@
       "family_line": "robert-jr",
       "state": "Alabama",
       "test_company": "FTDNA",
-      "markers_37": [14, 24, 15, 10, 11, 14, 12, 12, 12, 13, 13, 29, 17, 9, 9, 11, 11, 25, 15, 19, 29, 14, 15, 17, 18, 10, 10, 19, 23, 15, 15, 18, 20, 37, 37, 12, 10],
-      "mutations_from_modal": [],
-      "verification_note": "Orange-highlighted mutations visible in source chart at approximately markers 33-36; values could not be reliably read from image. Using modal values pending verification."
+      "markers_37": [14, 24, 15, 10, 11, 14, 12, 12, 12, 13, 13, 29, 17, 9, 9, 11, 11, 25, 15, 19, 29, 14, 15, 17, 18, 10, 10, 19, 23, 15, 15, 18, 20, 37, 37, 13, 10],
+      "mutations_from_modal": [
+        {"position": 36, "dys": "DYS442", "modal": 12, "value": 13}
+      ]
     },
     {
       "name": "Shelby Dale Berry",
@@ -206,9 +209,12 @@
       "family_line": "joshua",
       "state": "California",
       "test_company": "FTDNA",
-      "markers_37": [14, 24, 15, 10, 11, 14, 12, 12, 12, 13, 13, 29, 17, 9, 9, 11, 11, 25, 15, 19, 29, 14, 15, 17, 18, 10, 10, 19, 23, 15, 15, 18, 20, 37, 37, 12, 10],
-      "mutations_from_modal": [],
-      "verification_note": "FTDNA data confirms no DYS437 mutation (earlier OCR was incorrect). Mutations at CDY/DYS442/DYS570/DYS607 positions possible but cannot assign specific FTDNA row without kit-to-name mapping."
+      "markers_37": [14, 24, 15, 10, 11, 14, 12, 12, 12, 13, 13, 29, 17, 9, 9, 11, 11, 25, 15, 19, 29, 14, 15, 17, 18, 10, 10, 19, 23, 15, 15, 18, 19, 36, 38, 12, 10],
+      "mutations_from_modal": [
+        {"position": 33, "dys": "DYS570", "modal": 20, "value": 19},
+        {"position": 34, "dys": "CDYa", "modal": 37, "value": 36},
+        {"position": 35, "dys": "CDYb", "modal": 37, "value": 38}
+      ]
     },
     {
       "name": "Charles Thomas Berry Jr.",
@@ -216,9 +222,11 @@
       "family_line": "joshua",
       "state": "Wisconsin",
       "test_company": "FTDNA",
-      "markers_37": [14, 24, 15, 10, 11, 14, 12, 12, 12, 13, 13, 29, 17, 9, 9, 11, 11, 25, 15, 19, 29, 14, 15, 17, 18, 10, 10, 19, 23, 15, 15, 18, 20, 37, 37, 12, 10],
-      "mutations_from_modal": [],
-      "verification_note": "Same status as Kenneth Ronald Berry #83. Need kit-to-name mapping from project admin to assign exact mutations."
+      "markers_37": [14, 24, 15, 10, 11, 14, 12, 12, 12, 13, 13, 29, 17, 9, 9, 11, 11, 25, 15, 19, 29, 14, 15, 17, 18, 10, 10, 19, 23, 15, 15, 18, 20, 37, 38, 13, 10],
+      "mutations_from_modal": [
+        {"position": 35, "dys": "CDYb", "modal": 37, "value": 38},
+        {"position": 36, "dys": "DYS442", "modal": 12, "value": 13}
+      ]
     },
     {
       "name": "Dane Eaton Berry",
@@ -226,9 +234,11 @@
       "family_line": "david-j",
       "state": "Georgia",
       "test_company": "FTDNA",
-      "markers_37": [14, 24, 15, 10, 11, 14, 12, 12, 12, 13, 13, 29, 17, 9, 9, 11, 11, 25, 15, 19, 29, 14, 15, 17, 18, 10, 10, 19, 23, 15, 15, 18, 20, 37, 37, 12, 10],
-      "mutations_from_modal": [],
-      "verification_note": "Orange-highlighted mutations visible in source chart; positions and values could not be reliably read from image. Using modal values pending verification."
+      "markers_37": [14, 24, 15, 10, 11, 14, 12, 12, 12, 13, 13, 29, 17, 9, 9, 11, 11, 25, 15, 19, 29, 14, 15, 17, 18, 10, 10, 19, 23, 15, 16, 18, 20, 36, 37, 12, 10],
+      "mutations_from_modal": [
+        {"position": 31, "dys": "DYS607", "modal": 15, "value": 16},
+        {"position": 34, "dys": "CDYa", "modal": 37, "value": 36}
+      ]
     },
     {
       "name": "Billy J. Berry",
@@ -236,9 +246,10 @@
       "family_line": "david-j",
       "state": "Alabama",
       "test_company": "FTDNA",
-      "markers_37": [14, 24, 15, 10, 11, 14, 12, 12, 12, 13, 13, 29, 17, 9, 9, 11, 11, 25, 15, 19, 29, 14, 15, 17, 18, 10, 10, 19, 23, 15, 15, 18, 20, 37, 37, 12, 10],
-      "mutations_from_modal": [],
-      "verification_note": "Orange-highlighted mutations visible in source chart; positions and values could not be reliably read from image. Using modal values pending verification."
+      "markers_37": [14, 24, 15, 10, 11, 14, 12, 12, 12, 13, 13, 29, 17, 9, 9, 11, 11, 25, 15, 19, 29, 14, 15, 17, 18, 10, 10, 19, 23, 15, 15, 18, 20, 36, 37, 12, 10],
+      "mutations_from_modal": [
+        {"position": 34, "dys": "CDYa", "modal": 37, "value": 36}
+      ]
     },
     {
       "name": "John Allen Berry",
@@ -259,25 +270,24 @@
       "family_line": "thomas",
       "state": "Tennessee",
       "test_company": "FTDNA",
-      "markers_37": [14, 24, 16, 10, 11, 14, 12, 12, 12, 13, 13, 29, 18, 9, 9, 11, 11, 25, 15, 19, 29, 14, 15, 17, 18, 10, 10, 19, 23, 15, 15, 18, 20, 37, 37, 12, 10],
+      "markers_37": [14, 24, 16, 10, 11, 14, 12, 12, 12, 13, 13, 29, 18, 9, 9, 11, 11, 25, 15, 19, 29, 14, 15, 17, 18, 10, 10, 19, 23, 15, 15, 18, 19, 37, 37, 12, 10],
       "mutations_from_modal": [
         {"position": 3, "dys": "DYS19", "modal": 15, "value": 16},
-        {"position": 13, "dys": "DYS458", "modal": 17, "value": 18}
-      ],
-      "verification_note": "Same DYS19 and DYS458 mutations confirmed by FTDNA project data. STATUS: HIGH CONFIDENCE."
+        {"position": 13, "dys": "DYS458", "modal": 17, "value": 18},
+        {"position": 33, "dys": "DYS570", "modal": 20, "value": 19}
+      ]
     },
     {
       "name": "Thomas Keith Berry",
       "ftdna_number": 180,
       "family_line": "thomas",
       "state": "Tennessee",
-      "test_company": "FTDNA",
-      "markers_37": [14, 24, 16, 10, 11, 14, 12, 12, 12, 13, 13, 29, 18, 9, 9, 11, 11, 25, 15, 19, 29, 14, 15, 17, 18, 10, 10, 19, 23, 15, 15, 18, 20, 37, 37, 12, 10],
+      "test_company": "Other",
+      "markers_37": [14, 24, 15, 10, 11, 14, 12, 12, 12, 13, 13, 29, 18, 9, 9, 11, 11, 25, 15, 19, 29, 14, 15, 17, 18, 10, 10, 19, 23, 15, null, null, null, null, null, 12, 10],
       "mutations_from_modal": [
-        {"position": 3, "dys": "DYS19", "modal": 15, "value": 16},
         {"position": 13, "dys": "DYS458", "modal": 17, "value": 18}
       ],
-      "verification_note": "Chapter 17 notes this participant was tested by a different company. Not present in FTDNA export. DYS19 and DYS458 mutations assumed same as other Thomas line participants."
+      "note": "Tested at different company. DYS19=15 (does NOT share the DYS19=16 mutation of John #39 and Jeff #44). Missing markers at positions 31-35."
     }
   ],
   "mystery_case": {
@@ -361,25 +371,26 @@
       }
     },
     "thomas_line_kits": {
-      "status": "confirmed",
-      "description": "2 kits with DYS19=16 and DYS458=18 — Thomas Berry line (John Allen #39 and Jeffery Bryon #44)",
-      "kits": ["37125", "33728"],
-      "marker_differences": {
-        "37125": "DYS19=16, DYS458=18, DYS570=19",
-        "33728": "DYS19=16, DYS458=18"
+      "status": "confirmed — matched by unique DYS570 mutation",
+      "kits": {
+        "37125": "Jeffery Bryon Berry #44 (DYS19=16, DYS458=18, DYS570=19)",
+        "33728": "John Allen Berry #39 (DYS19=16, DYS458=18)"
       }
     },
-    "unassigned_kits": {
-      "status": "pending — need kit-to-name mapping from project admin",
-      "description": "6 kits belonging to Billy Wayne #8, David Lee #101, Kenneth Ronald #83, Charles Thomas #116, Dane Eaton #35, Billy J. #122 — but cannot assign which is which",
-      "kits": [
-        {"kit": "80064", "test": "Y-DNA37", "differences": "DYS570=19, CDYa=36, CDYb=38"},
-        {"kit": "12910", "test": "Y-DNA67", "differences": "CDYa=36"},
-        {"kit": "130331", "test": "Y-DNA111", "differences": "CDYa=36"},
-        {"kit": "106258", "test": "Y-DNA37", "differences": "DYS442=13"},
-        {"kit": "118832", "test": "Y-DNA37", "differences": "DYS442=13, CDYb=38"},
-        {"kit": "28846", "test": "Big Y-500", "differences": "DYS607=16, CDYa=36", "ancestor_field": "Robert Berry, b. 1729, Princess Anne County, VA"}
-      ]
+    "matched_by_mutation_pattern": {
+      "status": "confirmed — matched by cross-referencing original chart data with FTDNA export",
+      "kits": {
+        "80064": "Kenneth Ronald Berry #83 (DYS570=19, CDYa=36, CDYb=38)",
+        "106258": "David Lee Berry #101 (DYS442=13)",
+        "118832": "Charles Thomas Berry Jr. #116 (CDYb=38, DYS442=13)",
+        "28846": "Dane Eaton Berry #35 (DYS607=16, CDYa=36)"
+      }
+    },
+    "unresolved_pair": {
+      "status": "pending — both have only CDYa=36, cannot distinguish",
+      "description": "Billy Wayne Berry #8 and Billy J. Berry #122 both have CDYa=36 as their only mutation. Need project admin to identify which kit is which.",
+      "kits": ["12910", "130331"],
+      "participants": ["Billy Wayne Berry #8 (Robert Jr. line)", "Billy J. Berry #122 (David J. line)"]
     },
     "not_in_ftdna": {
       "description": "2 participants tested at different companies — not in FTDNA export",
