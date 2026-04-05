@@ -1,14 +1,16 @@
 ---
-title: "Joshua Berry NC Tree"
+title: "Joshua Berry Family Tree"
+aliases:
+  - /ancestors/joshberrytree/
 ---
 
-{{< ancestor-chain gen3="Joshua Berry × Nancy Ellison/Allison" loc3="Orange County, NC" />}}
+{{< ancestor-chain gen3="Joshua Berry × Nancy Ellison" loc3="Orange County, North Carolina" link3="/ancestors/joshua-berry-sr/" />}}
 
 ## Joshua Berry from North Carolina
 
 <div class="gen-tree">
-<div class="gen gen-3"><span class="gen-label">Gen 3</span> Joshua Berry 1769 - 1838 d: 08 Oct 1838 N.C.</div>
-<div class="gen gen-3 gen-spouse">+Nancy Ellison/Allison 1775 - 1850 m: 28 Jan 1792 N.C. d:cir 1850 N.C.</div>
+<div class="gen gen-3"><span class="gen-label">Gen 3</span> <a href="/ancestors/joshua-berry-sr/">Joshua Berry</a> 1769 - 1838 d: 08 Oct 1838 N.C.</div>
+<div class="gen gen-3 gen-spouse">+Nancy Ellison/Allison 1775 - 1850 m: 28 Jan 1792 N.C. d: cir 1850 N.C.</div>
 <div class="gen gen-4"><span class="gen-label">Gen 4</span> Robert Berry 1792 -</div>
 <div class="gen gen-4 gen-spouse">+Sally Cates</div>
 <div class="gen gen-5"><span class="gen-label">Gen 5</span> Sarah Berry 1836 -</div>
@@ -36,7 +38,7 @@ title: "Joshua Berry NC Tree"
 <div class="gen gen-6"><span class="gen-label">Gen 6</span> Albert Allen Murdock 1875 - 1963 d: 10 Jan 1963</div>
 <div class="gen gen-6 gen-spouse">+Elizabeth Orpah (May) Smith 1875 m: 10 Nov 1903 d: 25 May 1960</div>
 <div class="gen gen-5"><span class="gen-label">Gen 5</span> Albert Murdock 1845 -</div>
-<div class="gen gen-4"><span class="gen-label">Gen 4</span> Joshua Berry 1801 - 1879 d: 29 May 1879 in Benton County Iowa</div>
+<div class="gen gen-4"><span class="gen-label">Gen 4</span> <a href="/ancestors/joshua-berry-ohio/">Joshua Berry</a> 1801 - 1879 d: 29 May 1879 in Benton County Iowa</div>
 <div class="gen gen-5 gen-spouse">+Anna Thorpe 1800 - 1887 m: Abt. 1820 d: Aft. 1887</div>
 <div class="gen gen-5"><span class="gen-label">Gen 5</span> Harrison Berry 1824 -</div>
 <div class="gen gen-5 gen-spouse">+Elizabeth Jane Ferguson 1827 - m: 27 Sep 1845</div>
@@ -44,7 +46,7 @@ title: "Joshua Berry NC Tree"
 <div class="gen gen-5"><span class="gen-label">Gen 5</span> Lewis E. Berry 1826  d: 06 Mar 1907 in Witchita, Sedgwick County, Kansas</div>
 <div class="gen gen-5 gen-spouse">+Eliza Hayward 1833 - 1878 m: 20 Mar 1851 d: 14 May 1878</div>
 <div class="gen gen-6"><span class="gen-label">Gen 6</span> Charles Berry 1852 - 1860 d: Bef. 1860</div>
-<div class="gen gen-6"><span class="gen-label">Gen 6</span> Harrison Berry 1854 - 1934 d: 29 Jan 1934 in Pueblo, pieblo County, Colorado</div>
+<div class="gen gen-6"><span class="gen-label">Gen 6</span> Harrison Berry 1854 - 1934 d: 29 Jan 1934 in Pueblo, Pieblo County, Colorado</div>
 <div class="gen gen-6 gen-spouse">+Henerietta Havens m: 09 Aug 1873 in Linn County Ohio</div>
 <div class="gen gen-6 gen-spouse">*2nd Wife of Harrison Berry:</div>
 <div class="gen gen-6 gen-spouse">+Sarah A. B. Hammon m: 28 Dec 1881 in Wichita Kansas</div>
@@ -190,7 +192,7 @@ title: "Joshua Berry NC Tree"
 <div class="gen gen-8 gen-spouse">+Pat Smith</div>
 <div class="gen gen-7"><span class="gen-label">Gen 7</span> Vermona Berry 1889 d: 1900</div>
 <div class="gen gen-7"><span class="gen-label">Gen 7</span> Orion Weaver Berry 1892 d: 08 Mar 1972 in Evansville Indiana</div>
-<div class="gen gen-7 gen-spouse">+Reathal Alta Moore b 1903 m: 08 Aug 1925 in Carterville, Williamson Co. Illinois d: 04 Dec 1986 in Colorado Springs Colarado</div>
+<div class="gen gen-7 gen-spouse">+Reathal Alta Moore b 1903 m: 08 Aug 1925 in Carterville, Williamson Co. Illinois d: 04 Dec 1986 in Colorado Springs Colorado</div>
 <div class="gen gen-8"><span class="gen-label">Gen 8</span> Rethal Estelle Berry 1927 -</div>
 <div class="gen gen-8"><span class="gen-label">Gen 8</span> Nora Orine Berry 1928 -</div>
 <div class="gen gen-8"><span class="gen-label">Gen 8</span> Wanda Marie Berry 1937 -</div>
@@ -201,9 +203,9 @@ title: "Joshua Berry NC Tree"
 <div class="gen gen-8 gen-spouse">+Nelda McMurtrey</div>
 <div class="gen gen-8"><span class="gen-label">Gen 8</span> Myra Rose Crist 1924 -</div>
 <div class="gen gen-7"><span class="gen-label">Gen 7</span> Katherine Berry 1896 d: 22 Aug 1966 in Williamson Co. Illinois</div>
-<div class="gen gen-7 gen-spouse">+Benjamin Franklin Moake 1892 m: Abt. 1913 d: 09 Feb 1979 in Williamson Co. Illinios</div>
-<div class="gen gen-8"><span class="gen-label">Gen 8</span> Donovan Jack Moake 1914 d: 22 Mar 1985 in Belleville,St.Clair Co. Ill</div>
-<div class="gen gen-8 gen-spouse">+Bertha Marie Barns 1917 m: 06 Apr 1943 in San Antonio Bear Co. Texas d: 14 Feb 2007 in Carlindville Macoupin Ill</div>
+<div class="gen gen-7 gen-spouse">+Benjamin Franklin Moake 1892 m: Abt. 1913 d: 09 Feb 1979 in Williamson Co. Illinois</div>
+<div class="gen gen-8"><span class="gen-label">Gen 8</span> Donovan Jack Moake 1914 d: 22 Mar 1985 in Belleville, St. Clair Co. Ill</div>
+<div class="gen gen-8 gen-spouse">+Bertha Marie Barns 1917 m: 06 Apr 1943 in San Antonio Bear Co. Texas d: 14 Feb 2007 in Carlinville Macoupin Ill</div>
 <div class="gen gen-8"><span class="gen-label">Gen 8</span> Lorene Moake 1916 - 2007 d: 2007</div>
 <div class="gen gen-8"><span class="gen-label">Gen 8</span> Robert Moake 1918 d: 15 Mar 1985 in Los Angeles California</div>
 <div class="gen gen-8"><span class="gen-label">Gen 8</span> Frank Moake 1923 d: 01 Sep 1998</div>
@@ -218,7 +220,7 @@ title: "Joshua Berry NC Tree"
 <div class="gen gen-6"><span class="gen-label">Gen 6</span> Thomas Berry 1857 -</div>
 <div class="gen gen-6"><span class="gen-label">Gen 6</span> Edward Berry 1859 -</div>
 <div class="gen gen-6"><span class="gen-label">Gen 6</span> William Berry 1862 -</div>
-<div class="gen gen-6"><span class="gen-label">Gen 6</span> Decator Berry 1867-</div>
+<div class="gen gen-6"><span class="gen-label">Gen 6</span> Decator Berry 1867 -</div>
 <div class="gen gen-6"><span class="gen-label">Gen 6</span> Gains Berry</div>
 <div class="gen gen-4"><span class="gen-label">Gen 4</span> Nancy Berry 1810 d: Mar 1883 in Orange Co. N.C.</div>
 <div class="gen gen-4"><span class="gen-label">Gen 4</span> Charlotte Berry 1813 d: Bef. 1883</div>
@@ -256,13 +258,11 @@ title: "Joshua Berry NC Tree"
 <div class="gen gen-6"><span class="gen-label">Gen 6</span> Beulah B. Berry 1891 -</div>
 <div class="gen gen-6"><span class="gen-label">Gen 6</span> Arthur Eli Berry 1896 - 1913 d: 23 Mar 1913</div>
 <div class="gen gen-6"><span class="gen-label">Gen 6</span> Llena C Berry 1898 -</div>
-<div class="gen gen-5"><span class="gen-label">Gen 5</span> Doctor Edward Berry 1865 - 1923 d: 01 Jul 1923 in. N.C.</div>
+<div class="gen gen-5"><span class="gen-label">Gen 5</span> Doctor Edward Berry 1865 - 1923 d: 01 Jul 1923 in N.C.</div>
 <div class="gen gen-5 gen-spouse">+Mary Frances 1866 - 1942 d: 13 Sep 1942</div>
 <div class="gen gen-6"><span class="gen-label">Gen 6</span> Bryant Berry 1902 -</div>
 <div class="gen gen-6 gen-spouse">+Annie L</div>
 <div class="gen gen-5"><span class="gen-label">Gen 5</span> Elli Berry 1862 -</div>
-<div class="gen gen-5"><span class="gen-label">Gen 5</span> Mollie L Berry 1869 - 1937 d: 25 Nov 1937 in. N.C.</div>
-
-<a href="/ancestors/joshberrytree/"><strong>GOTO TOP OF PAGE</strong></a>
+<div class="gen gen-5"><span class="gen-label">Gen 5</span> Mollie L Berry 1869 - 1937 d: 25 Nov 1937 in N.C.</div>
 
 </div>

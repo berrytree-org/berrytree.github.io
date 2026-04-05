@@ -1,13 +1,15 @@
 ---
-title: "Thomas Berry Tree"
+title: "Thomas Berry Family Tree"
+aliases:
+  - /ancestors/tberrytree/
 ---
 
-{{< ancestor-chain gen3="Thomas Berry × Sarah Cate" loc3="Orange County, NC → Tennessee" />}}
+{{< ancestor-chain gen3="Thomas Berry × Sarah Cate" loc3="Orange County, NC → Wayne County, TN" link3="/ancestors/thomas-berry/" />}}
 
 ## Thomas Berry Family Tree in Tennessee
 
 <div class="gen-tree">
-<div class="gen gen-3"><span class="gen-label">Gen 3</span> Thomas Berry b. 1772 d: Bef. 16 Apr 1812 Probably Wsm Co. TN</div>
+<div class="gen gen-3"><span class="gen-label">Gen 3</span> <a href="/ancestors/thomas-berry/">Thomas Berry</a> b. 1772 d: Bef. 16 Apr 1812 Probably Wsm Co. TN</div>
 <div class="gen gen-3 gen-spouse">+Sarah Cate 1781 - 1875 m: 11 Aug 1800 Orange Co N.C. d: 07 Mar 1875 TN</div>
 
 <div class="gen gen-4"><span class="gen-label">Gen 4</span> Eleanor Berry b. 1801 d: Abt. 1880 in Wayne County Tenn</div>
@@ -270,7 +272,7 @@ title: "Thomas Berry Tree"
 <div class="gen gen-9"><span class="gen-label">Gen 9</span> Lowel E. Dickey 1943 - 1979 d: 1979</div>
 <div class="gen gen-8 gen-spouse">+Stella Blalock</div>
 <div class="gen gen-10"><span class="gen-label">Gen 10</span> Ann Dickey</div>
-,+Keith Husky
+<div class="gen gen-10 gen-spouse">+Keith Husky</div>
 <div class="gen gen-9"><span class="gen-label">Gen 9</span> Betty Jo Dickey 1947 - 1991 d: 1991 in Florence Ala</div>
 <div class="gen gen-9 gen-spouse">+Gary Crader</div>
 <div class="gen gen-10"><span class="gen-label">Gen 10</span> James Joseph Crader 1964 -</div>
@@ -387,7 +389,7 @@ title: "Thomas Berry Tree"
 <div class="gen gen-10"><span class="gen-label">Gen 10</span> [3] Zachary Nathan Holt 1988 -</div>
 <div class="gen gen-10 gen-spouse">*2nd Husband of Robin Jacqueline Forrest:</div>
 <div class="gen gen-10 gen-spouse">+Jeffrey O'Neal Allred 1962 - m: 07 Mar 1992</div>
-7 Dylan Jeffrey Allred 1992 -
+<div class="gen gen-10"><span class="gen-label">Gen 10</span> Dylan Jeffrey Allred 1992 -</div>
 <div class="gen gen-8"><span class="gen-label">Gen 8</span> James David Berry 1939 -</div>
 <div class="gen gen-8 gen-spouse">+Betty Sue Brown 1941 - m: 10 Oct 1960</div>
 <div class="gen gen-9"><span class="gen-label">Gen 9</span> Cynthia Louise Berry 1962 -</div>
@@ -503,7 +505,7 @@ title: "Thomas Berry Tree"
 <div class="gen gen-7"><span class="gen-label">Gen 7</span> J. B. Harper 1911  d: 1996 in Wayne County Tenn</div>
 <div class="gen gen-7 gen-spouse">+Vera Wilson 1914 - m: 10 Jul 1932</div>
 <div class="gen gen-8"><span class="gen-label">Gen 8</span> Agnes Lavell Harper 1933 -</div>
-,,,,,,,,+Jack Bowers
+<div class="gen gen-8 gen-spouse">+Jack Bowers</div>
 <div class="gen gen-9"><span class="gen-label">Gen 9</span> Jack Bowers 1958 -</div>
 <div class="gen gen-7"><span class="gen-label">Gen 7</span> Chesley Cyle Harper 1913 d: 20 Dec 1991</div>
 <div class="gen gen-7 gen-spouse">+Fern Wilson</div>
