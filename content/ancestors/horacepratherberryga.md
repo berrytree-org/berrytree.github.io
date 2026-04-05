@@ -37,7 +37,9 @@ Horace Prather Berry's brothers and sisters
  
 <ul>
 	<li>David Horace Berry changed name from Herman Horace Berry</li>
-	<li><strong><a href="/images/lucille-and-herman-berry-1920.jpg"><img class="alignnone size-full wp-image-5110" src="/images/lucille-and-herman-berry-1920.jpg" alt="Lucille and Herman Berry 1920" width="398" height="528" /></a></strong></li>
+</ul>
+
+<a href="/images/lucille-and-herman-berry-1920.jpg"><img class="alignnone size-full wp-image-5110" src="/images/lucille-and-herman-berry-1920.jpg" alt="Lucille and Herman Berry 1920" width="398" height="528" /></a>
 </ul>
 <h3><strong>Horace Herman and his sister Lucille Berry about 1920</strong></h3>
 Lucille Berry 1921 Cullman Alabama
@@ -70,29 +72,7 @@ Lucile Berry after she was an adult
 
 Horace and Luke # Four need more info
 
- 
 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
 <p>This picture was taken in 1936 # Five need more info</p>
 <p><a href="/images/1938-035.jpg"><img class="wp-image-5132 alignleft" src="/images/1938-035.jpg" alt="1938-035" width="226" height="339" /></a></p>
 <a href="/images/1944-030.jpg"><img class="wp-image-5134 alignright" src="/images/1944-030.jpg" alt="1944-030" width="217" height="414" /></a>
@@ -101,19 +81,7 @@ Horace and Luke # Four need more info
 
 The picture on the left was taken in 1938 and the one on the right was taken in 1944.
 
- 
 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
 
 <a href="/images/horace-herman-berry.jpg"><img class="alignnone wp-image-5135" src="/images/horace-herman-berry.jpg" alt="Horace Herman Berry" width="237" height="368" /></a>
 
@@ -125,9 +93,7 @@ The picture on the left was taken in 1938 and the one on the right was taken in 
 
 <a href="/ancestors/horacepratherberryga/">Return to the top of Page</a>
 
- 
 
- 
 
 CENSUS INFORMATION
 <blockquote>“ TO Be Researched”

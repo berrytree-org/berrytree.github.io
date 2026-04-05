@@ -49,14 +49,14 @@ ANCESTORS:
 
 <a href="/images/walter-glenn-and-leone-floyd-berry.jpg"><img class="wp-image-5626 alignright" src="/images/walter-glenn-and-leone-floyd-berry.jpg" alt="Walter Glenn and Leone Floyd Berry" width="172" height="252" /></a>
 
- 
+
 
 The picture on the right was taken of Walter Glen and Leone P. Berry at a much later date. Walter Glen Berry was born Etowah County, Alabama on January 15 1880 and died in Henry County, Georgia on May 2 1951 at the age of 71. Leone Paschall Floyd was born on October 24th 1881 in Henry County, Georgia and died in Henry County, Georgia on October 10 1966 at the age of 85. The couple was married on December 22th  1901. The couple were married for almost 50 years.
 
 <a href="/images/walter-glen-berry-grave.jpg"><img class="alignnone size-full wp-image-5801" src="/images/walter-glen-berry-grave.jpg" alt="Walter Glen Berry Grave" width="713" height="736" /></a>
 <h3> <a href="/images/walter-glens-wife-grave.jpg"><img class="alignnone size-full wp-image-5803" src="/images/walter-glens-wife-grave.jpg" alt="Walter Glens wife grave" width="297" height="179" /></a></h3>
 <h3> Updated November 20, 2007 & October 18 2015 & December 28 2015</h3>
- 
+
 <blockquote> 
 
 <em><a href="#">Return to top of Page</a></em></blockquote>

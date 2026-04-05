@@ -86,19 +86,11 @@ Claude and Freda Kennedy Berry with their daughter Claudia A. Berry Bircheat.
 
 Enoch M and Edna Stuart Berry's boys with Estelle, Winfred Berry's wife.
 
- 
 
- 
-
- 
-
- 
 
 <a href="/images/bottom-right-2.jpg"><img class="size-full wp-image-5037 alignright" src="/images/bottom-right-2.jpg" alt="bottom right 2" width="236" height="323" /></a>
 
- 
 
- 
 
 Claude and Freda Kennedy Berry with Claudia A Berry 1947 or 1948
 

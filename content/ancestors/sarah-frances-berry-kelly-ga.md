@@ -28,7 +28,9 @@ ANCESTORS:
 
 <strong>U.S. City Directories, 1822-1995 for James M Kelley Georgia Griffin 1927</strong><strong>Griffin, Georgia, City Directory, 1927</strong>
 
-<a href="/images/james-matin-kelly-1927-p-11.jpg"><img class="alignnone size-full wp-image-5750" src="/images/james-matin-kelly-1927-p-11.jpg" alt="James Matin Kelly 1927 p 11" width="716" height="784" /></a><a href="/images/james-matin-kelly-1927-p-2.jpg"><img class="alignnone size-full wp-image-5751" src="/images/james-matin-kelly-1927-p-2.jpg" alt="James Matin Kelly 1927 p 2" width="710" height="672" /></a>
+<a href="/images/james-matin-kelly-1927-p-11.jpg"><img class="alignnone size-full wp-image-5750" src="/images/james-matin-kelly-1927-p-11.jpg" alt="James Matin Kelly 1927 p 11" width="716" height="784" /></a>
+
+<a href="/images/james-matin-kelly-1927-p-2.jpg"><img class="alignnone size-full wp-image-5751" src="/images/james-matin-kelly-1927-p-2.jpg" alt="James Matin Kelly 1927 p 2" width="710" height="672" /></a>
 
 <a href="/images/sarah-france-kelly-city-directory-1927.jpg"><img class="alignnone size-full wp-image-5748" src="/images/sarah-france-kelly-city-directory-1927.jpg" alt="Sarah France Kelly City Directory 1927" width="848" height="146" /></a>
 <p><strong>1930 Georgia Griffin Spalding County Page 1</strong></p>
@@ -42,8 +44,6 @@ ANCESTORS:
 
 <a href="/images/sarah-florence-berry-kelly-grave-1876-1954.jpg"><img class="alignnone size-full wp-image-5770" src="/images/sarah-florence-berry-kelly-grave-1876-1954.jpg" alt="Sarah Florence Berry Kelly Grave 1876 1954" width="717" height="666" /></a>
 
- 
 
- 
 
 <a href="#">Return to top of Page</a>
