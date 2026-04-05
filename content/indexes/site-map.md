@@ -210,6 +210,8 @@ weight: 4
 
 - [James P. Berry NC](/ancestors/jamespberrync/)
 
+- [James Thomas Wilson NC](/ancestors/james-thomas-wilson/)
+
 - [Jesse Lee Berry](/ancestors/jesseleeberry/)
 
 - [Jesse Lee Berry’s children](/ancestors/jesseleechildren/)
