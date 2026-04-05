@@ -18,7 +18,9 @@ On the back of the picture above
 
 <a href="/images/scan-29-five.jpg"><img class="alignnone size-full wp-image-6137" src="/images/scan-29-five.jpg" alt="SCAN 29 five" width="1270" height="731" /></a>
 
-<a href="/images/scan-29-four.jpg"><img class="alignnone size-full wp-image-6138" src="/images/scan-29-four.jpg" alt="SCAN 29 four" width="797" height="787" /></a><a href="/images/scan-29-one.jpg"><img class="alignnone size-full wp-image-6139" src="/images/scan-29-one.jpg" alt="SCAN 29 ONE" width="648" height="784" /></a>
+<a href="/images/scan-29-four.jpg"><img class="alignnone size-full wp-image-6138" src="/images/scan-29-four.jpg" alt="SCAN 29 four" width="797" height="787" /></a>
+
+<a href="/images/scan-29-one.jpg"><img class="alignnone size-full wp-image-6139" src="/images/scan-29-one.jpg" alt="SCAN 29 ONE" width="648" height="784" /></a>
 
 <a href="/images/scan-29.jpg"><img class="alignnone size-full wp-image-6140" src="/images/scan-29.jpg" alt="SCAN 29" width="1337" height="777" /></a>
 

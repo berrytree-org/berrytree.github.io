@@ -31,11 +31,7 @@ title: "Elizabeth Berry"
 The slave Doll mentioned in Robert Berry's will as Elizabeth Berry's inheritance is also mentioned in the letter from Auburn Alabama in 1862. <span>Joseph C. Berry married Virginia Echols on November 13th 1840 In Macon County, Alabama. I do not know if this couple has a connection to Preston W. Berry or Obadiah Echols.</span></p>
 <strong><a href="/images/robertswill.jpg"><img class=" size-thumbnail wp-image-1670 alignleft" src="/images/robertswill.jpg" alt="robertswill" width="150" height="150" /></a></strong>Refer to Robert Berry's 1812 <a href="/images/robertswill.jpg"><strong>Will</strong></a> for Elizabeth Berry's inheritance.
 
- 
 
- 
-
- 
 <h3><strong>Children:</strong></h3>
 <strong>Elizabeth Berry's only child:
 </strong>

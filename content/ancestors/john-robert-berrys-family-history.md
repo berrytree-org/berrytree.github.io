@@ -30,7 +30,7 @@ Children of John Robert and and Elizabeth Berry:
 </ul>
 <a href="/ancestors/fiddleton-1891/">Fiddleton Map</a>
 
-Left to Right: Wiley P. B<img class="  wp-image-1471 alignleft" src="/images/jrberrychildren640large.jpg" alt="jrberrychildren640large" width="319" height="421" />erry, Ada Lee Berry Rogers, Mary Berry Webb, Willie A Berry, and Thomas Ewart Berry.
+Left to Right: Wiley P. Berry, Ada Lee Berry Rogers, Mary Berry Webb, Willie A Berry, and Thomas Ewart Berry.
 
 This picture was taken before 1963 at Berrys Grove Baptist Church These were five of the nine children of John  Robert and Elizabeth Frances Bowling Berry.
 

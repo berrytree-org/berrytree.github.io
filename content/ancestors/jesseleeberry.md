@@ -10,7 +10,9 @@ ANCESTORS
 	<li>Generation  David J. and Mary Blaylock Berry, Orange County, North Carolina. & GA.</li>
 	<li>Generation  Robert and Elizabeth Everett Berry, NC and Georgia</li>
 </ol>
-<p><strong>JESSE LEE BERRY</strong> was born on December 2, 1852 in Roswell, Cobb County Georgia. Jesse Lee married Nancy Ann Henry who was born December 30 1857 <img class=" alignright" src="/images/jesseleeberry300.jpg" alt="" /> in Ellenwood, Clayton Co., Georgia. They were married December 16 1874 in Clayton County Georgia. Nancy was the daughter of Edward Zachary "Zack" Henry and Mary Ann Mitchell. Zack's Father was Jesse G. Henry and Nancy Hammock. Mary Ann's father was Thomas Mitchell, son of Hinchey Mitchell and Elizabeth Ruff (daughter of William Ruff and Rebecca). In the picture of Jesse Lee on the left there seems to be a faded date of July 1875 written on the picture. He would have been 22 Yrs 7 Months old.</p>
+<img class="alignright" src="/images/jesseleeberry300.jpg" alt="Jesse Lee Berry" />
+
+<p><strong>JESSE LEE BERRY</strong> was born on December 2, 1852 in Roswell, Cobb County Georgia. Jesse Lee married Nancy Ann Henry who was born December 30 1857 in Ellenwood, Clayton Co., Georgia. They were married December 16 1874 in Clayton County Georgia. Nancy was the daughter of Edward Zachary "Zack" Henry and Mary Ann Mitchell. Zack's Father was Jesse G. Henry and Nancy Hammock. Mary Ann's father was Thomas Mitchell, son of Hinchey Mitchell and Elizabeth Ruff (daughter of William Ruff and Rebecca). In the picture of Jesse Lee on the right there seems to be a faded date of July 1875 written on the picture. He would have been 22 Yrs 7 Months old.</p>
 <p> CHILDREN:</p>
 
 <ol>
@@ -21,7 +23,9 @@ ANCESTORS
 	<li><a href="/documents/william-oscar-berry-ga/">William Oscar Berry</a> b. 30 Mar. 1878.</li>
 	<li><a href="/ancestors/walterglenberryga/">Walter Glen Berry</a>  b. 15 Jan. 1880.</li>
 </ol>
-<a href="/images/jesse-lee-children.jpg"><img class="wp-image-5349 alignnone" src="/images/jesse-lee-children.jpg" alt="Jesse lee children" width="419" height="282" /></a><a href="/images/walter-glenn-and-leonefloyd-eddie-elizabeth-berry808.jpg"><img class="alignnone wp-image-5623" src="/images/walter-glenn-and-leonefloyd-eddie-elizabeth-berry808.jpg" alt="Walter Glenn and Leone(Floyd) Eddie Elizabeth Berry808" width="209" height="284" /></a>
+<a href="/images/jesse-lee-children.jpg"><img class="alignnone size-full wp-image-5349" src="/images/jesse-lee-children.jpg" alt="Jesse lee children" width="419" height="282" /></a>
+
+<a href="/images/walter-glenn-and-leonefloyd-eddie-elizabeth-berry808.jpg"><img class="alignnone wp-image-5623" src="/images/walter-glenn-and-leonefloyd-eddie-elizabeth-berry808.jpg" alt="Walter Glenn and Leone(Floyd) Eddie Elizabeth Berry808" width="209" height="284" /></a>
 
 In the picture above you see five of Jesse Lee and Nancy Berry's six children. Jesse Lee's children from left to right: Sarah Florence, William Oscar, <a href="/ancestors/albertedgar/">Albert Edgar </a>(Dane Berry's grandfather), <a href="/ancestors/addie-lena-berry/">Addie Lena</a>, Cora Mae. Billy's grandfather, <a href="/ancestors/walterglenberryga/">Walter Glenn Berry</a>, on the right was the only child not in the group picture.
 <p>The picture of Jesse Lee standing beside His prize winning cotton bale was taken at the Alabama State fair.</p>
@@ -66,8 +70,9 @@ Bible page from Joyce Rape Harrison :Jessy L Berry born December 2, 1851
 <figure><a href="/images/jesse-lee-and-nancy-berry.jpg"><img class="size-full wp-image-5646" src="/images/jesse-lee-and-nancy-berry.jpg" alt="Jessie Lee Berry and Nancy Ann Henery Berry" width="1380" height="1932" /></a> Jessie Lee Berry and Nancy Ann Henery Berry</figure>
 
 VIEW JESSE LEE BERRY'S DEATH CERTIFICATE
-<h2><strong><a href="/images/jesse-lee-berry-death-certificate-april-10-1934.jpg"><img class="alignnone size-full wp-image-5654" src="/images/jesse-lee-berry-death-certificate-april-10-1934.jpg" alt="Jesse Lee Berry Death certificate April 10 1934" width="638" height="557" /></a>
-</strong><strong>Jesse Lee Berry was born on December 2nd 1852 in Cobb  County Georgia and died on April 10th 1924 in Columbus, Muscogee County, Georgia. Jesse Lee Berry's sister, Mrs. J. S. Mcvickers, signed his death certificate.</strong></h2>
+<a href="/images/jesse-lee-berry-death-certificate-april-10-1934.jpg"><img class="alignnone size-full wp-image-5654" src="/images/jesse-lee-berry-death-certificate-april-10-1934.jpg" alt="Jesse Lee Berry Death certificate April 10 1934" width="638" height="557" /></a>
+
+<p><strong>Jesse Lee Berry was born on December 2nd 1852 in Cobb  County Georgia and died on April 10th 1924 in Columbus, Muscogee County, Georgia. Jesse Lee Berry's sister, Mrs. J. S. Mcvickers, signed his death certificate.</strong></p>
 <a href="/images/jesse-lee-berry-grave-1924.jpg"><img class="alignnone size-full wp-image-5685" src="/images/jesse-lee-berry-grave-1924.jpg" alt="Jesse Lee Berry Grave 1924" width="713" height="668" /></a>
 <p><strong>1930 Georgia, Griffin Spalding Census</strong></p>
 <a href="/images/sarah-florence-nannie-berry-1930-part-one.jpg"><img class="alignnone size-full wp-image-5760" src="/images/sarah-florence-nannie-berry-1930-part-one.jpg" alt="Sarah Florence Nannie Berry 1930 Part one" width="1788" height="183" /></a>Sarah France Kelly (Widow)  her mother, Nanny Berry, and her grandmother. Mary Ann Henry Wiggins living in her Boarding house  known as the KELLY HOUSE. Kelly's daughter, Lizzie Mcleroy, age 30 is found on the next page of the 1930 Census. Lizzie was also a widow.

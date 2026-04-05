@@ -22,7 +22,9 @@ John Berry  Married Mary Howell in Fayette County Alabama about 1837 Their youn
 
 Francis Marion Berry was born in Rusk County Texas on 23 Feb 1861 & died 08 Jan 1943 in Cleveland Oklahoma.Fannie Lillie Hudspeth was born 09 Jun 1873 and died 17 Jul 1934 in Cleveland Oklahoma.
 
-Francis Marion Berry and  Fannie Lillie Hudspeth were married about 1890.<a href="/images/cropped-fmb.jpg"><img class="alignnone size-full wp-image-6115" src="/images/cropped-fmb.jpg" alt="cropped FMB" width="692" height="459" /></a>
+Francis Marion Berry and  Fannie Lillie Hudspeth were married about 1890.
+
+<a href="/images/cropped-fmb.jpg"><img class="alignnone size-full wp-image-6115" src="/images/cropped-fmb.jpg" alt="cropped FMB" width="692" height="459" /></a>
 
 Francis Marion Berry and  Fannie Lillie Hudspeth below
 
@@ -35,16 +37,25 @@ Francis Marion Berry and  Fannie Lillie Hudspeth below
 	<li><strong>Mary Frances Berry</strong> b: 22 Feb 1893  Lexington Oklahoma                                                          d: 23 Sep 1974 Pawnee Oklahoma</li>
 	<li><strong>Frank William Berry </strong>b: 25 Mar 1895 Lexington Oklahoma                                           d:04 Dec 1895 Tribble Oklahoma<strong> Died Young</strong></li>
 	<li><strong>Marion Alexander Berry </strong>b: 22 Sep 1896 Lexington Oklahoma                                     d: 06 Aug 1978 Cushing Oklahoma</li>
-	<li><strong>Robert Alonzo Berry</strong> ( Lonnie) b: 23 May 1899 Lexington Oklahoma                             d: 31 Jul 1983 P0nca City Oklahoma<a href="/images/robert-alonzo-berry.jpg"><img class="alignnone size-full wp-image-6091" src="/images/robert-alonzo-berry.jpg" alt="Robert Alonzo Berry" width="771" height="775" /></a></li>
-	<li>Carrie Melinda Berry b: 21 Dec 1900 Lexington Oklahoma.                                                     d: 26 May 1972 Sunray Texas<a href="/images/carry-melinda-berry.jpg"><img class="alignnone size-full wp-image-6088" src="/images/carry-melinda-berry.jpg" alt="Carry Melinda Berry" width="792" height="784" /></a></li>
-	<li>Clarence Emory Berry b: 26 Jan 1903 Lexington Oklahoma<a href="/images/clarence-elroy-berry.jpg"><img class="alignnone size-full wp-image-6089" src="/images/clarence-elroy-berry.jpg" alt="Clarence Elroy Berry" width="787" height="776" /></a></li>
+	<li><strong>Robert Alonzo Berry</strong> ( Lonnie) b: 23 May 1899 Lexington Oklahoma                             d: 31 Jul 1983 P0nca City Oklahoma</li>
+	<li>Carrie Melinda Berry b: 21 Dec 1900 Lexington Oklahoma.                                                     d: 26 May 1972 Sunray Texas</li>
+	<li>Clarence Emory Berry b: 26 Jan 1903 Lexington Oklahoma</li>
 	<li>John Emory Berry b: 16 Dec 1904 Lexington Oklahoma                                                            d: 27 Jun 1910 Tribble Oklahoma <strong>Died Youmg</strong><a href="/images/little-john-emery-berry.jpg"><img class="alignnone size-full wp-image-6090" src="/images/little-john-emery-berry.jpg" alt="Little John Emery Berry" width="621" height="789" /></a></li>
-	<li>Thomas Wallace Berry b: 26 Oct 1906 Lexington Oklahoma                                             d: 25 Apr 1986 Littlefield Lamb Texas<a href="/images/thomas-walace-berry.jpg"><img class="alignnone size-full wp-image-6096" src="/images/thomas-walace-berry.jpg" alt="Thomas Walace Berry" width="795" height="783" /></a></li>
+	<li>Thomas Wallace Berry b: 26 Oct 1906 Lexington Oklahoma                                             d: 25 Apr 1986 Littlefield Lamb Texas</li>
 	<li>Sarah Edith Berry b:12 Sep 1908  Lexington Pottawatomie, Oklahoma</li>
 	<li>Fannie Lillie Berry b: 15 Dec 1909  Lexington Pottawatomie, Oklahoma</li>
 	<li>Ira Eugene Berry b: 23 Feb 1912 Lexington Pottawatomie, Oklahoma</li>
 	<li>Allice Estelle Berry b: 04 Oct 1913 Lexington Pottawatomie, Oklahoma</li>
 </ul>
+
+<a href="/images/robert-alonzo-berry.jpg"><img class="alignnone size-full wp-image-6091" src="/images/robert-alonzo-berry.jpg" alt="Robert Alonzo Berry" width="771" height="775" /></a>
+
+<a href="/images/carry-melinda-berry.jpg"><img class="alignnone size-full wp-image-6088" src="/images/carry-melinda-berry.jpg" alt="Carry Melinda Berry" width="792" height="784" /></a>
+
+<a href="/images/clarence-elroy-berry.jpg"><img class="alignnone size-full wp-image-6089" src="/images/clarence-elroy-berry.jpg" alt="Clarence Elroy Berry" width="787" height="776" /></a>
+
+<a href="/images/thomas-walace-berry.jpg"><img class="alignnone size-full wp-image-6096" src="/images/thomas-walace-berry.jpg" alt="Thomas Walace Berry" width="795" height="783" /></a>
+
 <a href="/images/lonnie-berry.jpg"><img class="alignnone size-full wp-image-6119" src="/images/lonnie-berry.jpg" alt="Lonnie Berry" width="456" height="778" /></a>
 <p>    Robert Alonzo Berry (Lonnie) in his car</p>
 <p><a href="/images/clarence-berry-in-lonnies-car.jpg"><img class="alignnone size-full wp-image-6120" src="/images/clarence-berry-in-lonnies-car.jpg" alt="Clarence Berry in Lonnies Car" width="574" height="950" /></a></p>
