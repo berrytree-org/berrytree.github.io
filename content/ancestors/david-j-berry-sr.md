@@ -31,7 +31,7 @@ David and Mary's first child together was likely **Sarah "Sally" Berry**, born a
 
 ### Life in Orange County
 
-The family lived in Orange County, North Carolina, through at least 1824. Their youngest child, **Joshua M. Berry**, was born there on April 13, 1824 — all of David and Mary's children were born in North Carolina. David appeared in the Orange County census in 1800, 1810, and 1820.
+The family lived in Orange County, North Carolina, through at least 1824. Their youngest child, **Joshua M. Berry**, was born there on April 13, 1824, all of David and Mary's children were born in North Carolina. David appeared in the Orange County census in 1800, 1810, and 1820.
 
 In September 1821, David and his brother Henry sold a slave girl in Person County. David had inherited a slave but none of his father's land — the plantation was willed to his younger brother Henry Berry in 1814. David was the last of Robert and Elizabeth Cate Berry's children to leave home.
 
@@ -58,7 +58,7 @@ Joshua M. Berry and his wife Elizabeth Cates Berry had two sons killed at a rail
 
 <h2 class="ancestor-section">Children of David J. Berry and Mary Blalock</h2>
 
-David and Mary had eleven children. All were born in North Carolina before the family moved to Georgia. Below you will find what is known about each child. Children with more detailed records have their own pages — look for the arrow (→) next to their name.
+David and Mary had eleven children. All were born in North Carolina before the family moved to Georgia. Below you will find what is known about each child. Children with more detailed records have their own pages, look for the arrow (→) next to their name.
 
 <ol class="children-list">
 
@@ -82,7 +82,7 @@ David and Mary had eleven children. All were born in North Carolina before the f
   <div class="child-name">3. Winifred Berry</div>
   <div class="child-dates">Born c. 1800, Orange County, NC</div>
   <div class="child-details">
-    Married <strong>Joshua Norman</strong> on September 19, 1820 in Orange County, North Carolina. Joshua was born around 1790 in North Carolina and died November 13, 1832 in Henry County, Georgia — he was a young man when he died. The family probably went to Georgia around 1828 when David J. Berry and the rest of his family did. David J. Berry and Joshua Norman are both listed in the 1830 Georgia census. After Joshua's death, Winifred lived with her son David Norman and appears in the 1850 and 1860 Georgia census records. They had two children: <strong>David Norman</strong> and <strong>Lucinda Norman</strong>.
+    Married <strong>Joshua Norman</strong> on September 19, 1820 in Orange County, North Carolina. Joshua was born around 1790 in North Carolina and died November 13, 1832 in Henry County, Georgia, he was a young man when he died. The family probably went to Georgia around 1828 when David J. Berry and the rest of his family did. David J. Berry and Joshua Norman are both listed in the 1830 Georgia census. After Joshua's death, Winifred lived with her son David Norman and appears in the 1850 and 1860 Georgia census records. They had two children: <strong>David Norman</strong> and <strong>Lucinda Norman</strong>.
   </div>
 </li>
 
@@ -167,7 +167,7 @@ David and Mary had eleven children. All were born in North Carolina before the f
 
 <h2 class="ancestor-section">Family Reunions</h2>
 
-The descendants of David and Mary Blalock Berry have gathered several times in the 2000s — reconnecting family lines that had been separated for nearly 180 years.
+The descendants of David and Mary Blalock Berry have gathered several times in the 2000s, reconnecting family lines that had been separated for nearly 180 years.
 
 <div class="photo-gallery">
 
@@ -199,7 +199,7 @@ The descendants of David and Mary Blalock Berry have gathered several times in t
 <div class="tree-link">
   <a href="/family-lines/david-j-berry-family-tree/">
     View the Full David J. Berry Family Tree
-    <span class="tree-link-sub">Five generations of descendants — from Generation 3 through Generation 8</span>
+    <span class="tree-link-sub">Five generations of descendants, from Generation 3 through Generation 8</span>
   </a>
 </div>
 

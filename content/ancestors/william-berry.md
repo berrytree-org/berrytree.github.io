@@ -25,13 +25,13 @@ aliases:
 
 ## The Story of William Berry
 
-William Berry was born about 1775 in Orange County, North Carolina, one of the youngest children of Robert and Elizabeth Cate Berry. On **August 11, 1799**, he married **Hannah Cate**, the daughter of William and Elizabeth Smith (Messersmith) Cate. The following year, on August 12, 1800, William's brother Thomas Berry married Hannah's sister Sarah Cate — making the two Berry brothers married to two Cate sisters.
+William Berry was born about 1775 in Orange County, North Carolina, one of the youngest children of Robert and Elizabeth Cate Berry. On **August 11, 1799**, he married **Hannah Cate**, the daughter of William and Elizabeth Smith (Messersmith) Cate. The following year, on August 12, 1800, William's brother Thomas Berry married Hannah's sister Sarah Cate, making the two Berry brothers married to two Cate sisters.
 
 ### The Expedition to Tennessee
 
 William and Hannah had three sons, all born in Orange County, North Carolina. In the spring of 1808, William and his brother Thomas Berry left their wives and children behind while they went to Tennessee to locate land for homesteading. Neither brother ever lived in Orange County again.
 
-**Hannah Cate listed as head of household** in the 1810 Orange County census — the very first listing after her father-in-law Robert Berry. This confirms William was gone by 1810.
+**Hannah Cate listed as head of household** in the 1810 Orange County census, the very first listing after her father-in-law Robert Berry. This confirms William was gone by 1810.
 
 ### The Abandonment
 

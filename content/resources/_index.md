@@ -2,7 +2,7 @@
 title: "Resources"
 weight: 10
 bookCollapseSection: true
-description: "Genealogy resources for Berry family researchers — databases, North Carolina and Virginia archives, DNA testing guidance, research standards, and recommended reading."
+description: "Genealogy resources for Berry family researchers, databases, North Carolina and Virginia archives, DNA testing guidance, research standards, and recommended reading."
 ---
 
 # Genealogy Resources
@@ -17,11 +17,11 @@ A curated guide for researchers tracing the Robert and Elizabeth Cate Berry fami
 |---|---|
 | [FamilySearch.org](https://www.familysearch.org) | Free access to billions of records; strong NC/VA colonial holdings |
 | [Ancestry.com](https://www.ancestry.com) | Census records, vital records, trees (subscription) |
-| [FindMyPast](https://www.findmypast.com) | Strong British Isles records — useful for PAC-era origins research |
+| [FindMyPast](https://www.findmypast.com) | Strong British Isles records, useful for PAC-era origins research |
 | [Fold3](https://www.fold3.com) | Military records; Revolutionary War, Civil War pension files |
-| [HeritageQuest Online](https://www.heritagequestonline.com) | Free via many public libraries — US Census and genealogy books |
+| [HeritageQuest Online](https://www.heritagequestonline.com) | Free via many public libraries, US Census and genealogy books |
 | [WikiTree](https://www.wikitree.com) | Collaborative, source-cited family tree; Berry family profiles exist |
-| [FamilyTreeDNA](https://www.familytreedna.com) | Y-DNA and mtDNA testing — Berry Y-DNA project active here |
+| [FamilyTreeDNA](https://www.familytreedna.com) | Y-DNA and mtDNA testing, Berry Y-DNA project active here |
 | [23andMe](https://www.23andme.com) | Autosomal DNA; cousin matching |
 | [GEDmatch](https://www.gedmatch.com) | Cross-platform DNA comparison tool |
 
@@ -55,7 +55,7 @@ A curated guide for researchers tracing the Robert and Elizabeth Cate Berry fami
 Our Y-DNA project documents living male descendants of Robert Berry. If you are a male Berry (or believe you may descend through a male Berry line), consider testing.
 
 - **Testing company:** [FamilyTreeDNA](https://www.familytreedna.com/products/y-dna)
-- **Project:** Orange County NC Berrys — search for it in FTDNA's project directory
+- **Project:** Orange County NC Berrys, search for it in FTDNA's project directory
 - **Coordinator:** Contact us via the [Contact page](/contact/)
 - **Current status:** 14 confirmed participants; matches documented across 6 of the 8 sons of Robert & Elizabeth Cate Berry
 - See the [DNA pages](/dna/) for full results and methodology
@@ -66,11 +66,11 @@ Our Y-DNA project documents living male descendants of Robert Berry. If you are 
 
 **Martha's Note:** This site follows the standards of the [Board for Certification of Genealogists (BCG)](https://bcgcertification.org/) and the [Genealogical Proof Standard (GPS)](https://bcgcertification.org/ethics-standards/). All conclusions should be:
 
-1. **Reasonably exhaustive search** — consult all relevant record types
-2. **Complete and accurate citations** — document every source
-3. **Analysis and correlation** — compare conflicting evidence carefully
-4. **Resolution of conflicts** — address contradictions explicitly
-5. **Soundly reasoned conclusion** — write it out
+1. **Reasonably exhaustive search**, consult all relevant record types
+2. **Complete and accurate citations**, document every source
+3. **Analysis and correlation**, compare conflicting evidence carefully
+4. **Resolution of conflicts**, address contradictions explicitly
+5. **Soundly reasoned conclusion**, write it out
 
 Citations on this site follow **Mills, Elizabeth Shown. *Evidence Explained.* Baltimore: Genealogical Publishing Company, 2007.**
 

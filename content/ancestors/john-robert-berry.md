@@ -45,7 +45,7 @@ A great deal happened between the 1850 census and the 1860 census. By 1860, John
 
 The Civil War was about to begin, and John Robert Berry enlisted as a private in the **Confederate Army on October 6, 1861**. He was placed in **Company E, 31st Regiment, North Carolina Infantry**. He was only 19 years old.
 
-His first cousin Jesse Blalock, William A. Blalock, and William H. Blalock all enlisted on the same day. Jesse Blalock died on June 27, 1863, of typhoid fever. William H. Blalock died on May 28, 1863, of disease — most likely typhoid fever. There are no records to indicate what happened to William A. Blalock.
+His first cousin Jesse Blalock, William A. Blalock, and William H. Blalock all enlisted on the same day. Jesse Blalock died on June 27, 1863, of typhoid fever. William H. Blalock died on May 28, 1863, of disease, most likely typhoid fever. There are no records to indicate what happened to William A. Blalock.
 
 John Robert was **captured at the Battle of Cold Harbor** while serving in the 31st Regiment Co. E on **May 3, 1864**. He spent the rest of the war in a **Union Prison Camp in Elmira, New York**. When the war ended, he had to take an oath of allegiance to the United States. After he was paroled, he was returned to Hillsborough, North Carolina, by train.
 

@@ -16,7 +16,7 @@ bookToc: false
 
 If you're a descendant of Robert and Elizabeth Cate Berry, welcome home. This site was built for you — by family, for family — to preserve the story of where we came from and the people who made us who we are. Whether you're a lifelong researcher or just discovering your Berry roots, you belong here.
 
-This site is dedicated to the genealogy of **Robert Berry** and **Elizabeth Cate Berry** and their descendants — a family whose roots stretch from Princess Anne County, Virginia, through the Carolina piedmont, and across the American frontier. It spans more than four centuries and ten generations.
+This site is dedicated to the genealogy of **Robert Berry** and **Elizabeth Cate Berry** and their descendants, a family whose roots stretch from Princess Anne County, Virginia, through the Carolina piedmont, and across the American frontier. It spans more than four centuries and ten generations.
 
 ## Explore the Site
 
@@ -30,7 +30,7 @@ This site is dedicated to the genealogy of **Robert Berry** and **Elizabeth Cate
 | [Marriages](/marriages/) | Berry family marriage bonds and records |
 | [Indexes](/indexes/) | Alphabetical, family tree, and name indexes |
 | [Family Lines](/family-lines/) | Family line relationship mapping |
-| [Pictures](/pictures/) | Photo directory — generations of the Berry family |
+| [Pictures](/pictures/) | Photo directory, generations of the Berry family |
 | [Contact](/contact/) | Contact us or submit a research request |
 | [About](/about/) | About the researchers behind this site |
 
@@ -38,7 +38,7 @@ This site is dedicated to the genealogy of **Robert Berry** and **Elizabeth Cate
 
 ## The Family at a Glance
 
-Robert Berry (OC) arrived in Orange County, North Carolina in 1751, having come from Princess Anne County, Virginia. He married **Elizabeth Cate** around 1757–1759 and together they raised ten children on their Fiddleton Plantation. Their descendants spread west and south — to Georgia, Alabama, Tennessee, Texas, Ohio, and beyond.
+Robert Berry (OC) arrived in Orange County, North Carolina in 1751, having come from Princess Anne County, Virginia. He married **Elizabeth Cate** around 1757–1759 and together they raised ten children on their Fiddleton Plantation. Their descendants spread west and south, to Georgia, Alabama, Tennessee, Texas, Ohio, and beyond.
 
 **Generation 1 — Founders**
 [Robert Berry (PAC)](/ancestors/robert-berry-pac/) × Mary Williamson — *Princess Anne County, Virginia*
