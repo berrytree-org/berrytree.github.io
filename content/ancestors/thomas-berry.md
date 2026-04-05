@@ -25,13 +25,13 @@ bookToc: true
 
 Thomas Berry was born about 1772 in Orange County, North Carolina, one of the ten children of Robert and Elizabeth Cate Berry. On **August 12, 1800**, he married **Sarah Cate**, the daughter of William and Elizabeth Messersmith Cate. Sarah was born on December 27, 1782.
 
-Sarah's older sister **Hannah Cate** had married Thomas's brother **William Berry** one year earlier, on August 11, 1799. The two Cate sisters married two Berry brothers — a connection that would have lasting significance for their descendants, who are double first cousins.
+Sarah's older sister **Hannah Cate** had married Thomas's brother **William Berry** one year earlier, on August 11, 1799. The two Cate sisters married two Berry brothers, a connection that would have lasting significance for their descendants, who are double first cousins.
 
 ### The Expedition West
 
 Thomas and Sarah had two children — **David** and **Eleanor** — both born in Orange County, North Carolina. In 1806, Thomas sold his property in preparation for an upcoming expedition to search for new land in the west. Several young men may have been leaving Orange County at the time, hoping to find free government land in Georgia or Tennessee.
 
-William Berry accompanied his brother Thomas on this journey. Hannah Berry listed as head of household in the 1810 Orange County census — the very first listing after her father-in-law Robert Berry. This confirms William was away from home.
+William Berry accompanied his brother Thomas on this journey. Hannah Berry listed as head of household in the 1810 Orange County census, the very first listing after her father-in-law Robert Berry. This confirms William was away from home.
 
 Sarah, David, and Eleanor moved in with Hannah and her children sometime between 1806 and 1810. They were most likely living in the house on Patrick Rutherford's former plantation, which Robert Berry had purchased from Rutherford's sons in 1787.
 
@@ -54,7 +54,7 @@ After Thomas's death, Sarah eventually made it to Tennessee with her two childre
   <div class="photo-caption">Marriage bond for Sarah Cate Berry and John Pigg, Williamson County, Tennessee, December 11, 1815</div>
 </div>
 
-After her second husband died, Sarah opened an inn just off the Natchez Trace — and this is where **Cypress Inn, Tennessee**, got its name.
+After her second husband died, Sarah opened an inn just off the Natchez Trace, and this is where **Cypress Inn, Tennessee**, got its name.
 
 In 2008, distant cousins gathered in Wayne County, Tennessee, for a Thomas and Sarah Cate Berry Pigg reunion. Cousins came from California, Alabama, North Carolina, Maryland, and locally from Wayne County. A new monument was placed at Sarah's grave.
 
@@ -98,7 +98,7 @@ Thomas and Sarah had two children, both born in Orange County, North Carolina, b
 
 <h2 class="ancestor-section">Census Records</h2>
 
-{{< census-summary summary="Thomas Berry and Sarah Cate listed together in the 1800 Orange County census. By 1810, Thomas was gone — Sarah and her children were living with her sister Hannah Cate Berry." >}}
+{{< census-summary summary="Thomas Berry and Sarah Cate listed together in the 1800 Orange County census. By 1810, Thomas was gone, Sarah and her children were living with her sister Hannah Cate Berry." >}}
 
 - **1800** — Thomas Berry and Sarah Cate Berry listed as husband and wife in Orange County, North Carolina
 - **1810** — Sarah Cate Berry and her sister Hannah Cate Berry were living together with their six children in Orange County, North Carolina (Thomas was dead or away)

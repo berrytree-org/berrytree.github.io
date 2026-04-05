@@ -25,7 +25,7 @@ bookToc: true
 
 Joshua Berry was born about 1766 in Orange County, North Carolina, and was one of the ten children of Robert and Elizabeth Cate Berry. He married **Nancy Ellison** on **January 20, 1792** and lived his entire life in Orange County, where he died on **October 8, 1838**.
 
-Joshua and Nancy had nine children. Unlike several of his siblings who left North Carolina for Georgia, Alabama, or Tennessee, Joshua remained in Orange County. His son Joshua Berry Jr. was the one who eventually moved — first to Ohio, then Indiana, and finally Iowa.
+Joshua and Nancy had nine children. Unlike several of his siblings who left North Carolina for Georgia, Alabama, or Tennessee, Joshua remained in Orange County. His son Joshua Berry Jr. was the one who eventually moved, first to Ohio, then Indiana, and finally Iowa.
 
 Joshua was listed in the 1790 Orange County census along with his father Robert Berry and brother Robert Berry Jr.
 
@@ -58,7 +58,7 @@ Joshua and Nancy had nine children, all born in Orange County, North Carolina.
 <li class="child-entry has-page">
   <div class="child-name"><a href="/ancestors/joshua-berry-ohio/">4. Joshua Berry Jr.</a></div>
   <div class="child-dates">Born April 15, 1801, Orange County, NC — Died May 29, 1879, Benton County, Iowa</div>
-  <div class="child-details">Married <strong>Anna Thorpe</strong> c. 1819. Joshua Jr. migrated west — to Gallia County, Ohio (1830), Boone County, Indiana (1840s), and finally Benton County, Iowa (1854). He and Anna had 10 children, all born in Ohio. Joshua is buried at Mount Pleasant Cemetery in Canton Township, Benton County, Iowa.</div>
+  <div class="child-details">Married <strong>Anna Thorpe</strong> c. 1819. Joshua Jr. migrated west, to Gallia County, Ohio (1830), Boone County, Indiana (1840s), and finally Benton County, Iowa (1854). He and Anna had 10 children, all born in Ohio. Joshua is buried at Mount Pleasant Cemetery in Canton Township, Benton County, Iowa.</div>
 </li>
 
 <li class="child-entry">
@@ -70,7 +70,7 @@ Joshua and Nancy had nine children, all born in Orange County, North Carolina.
 <li class="child-entry">
   <div class="child-name">6. Lewis Berry</div>
   <div class="child-dates">Born in Orange County, NC — Died 1858, Orange County, NC</div>
-  <div class="child-details">Lewis Berry died during the worldwide flu epidemic of 1858. His mother Nancy Ellison Berry may have also died from the flu — she did not appear in the 1860 Census. Lewis's son <strong>Ira Berry</strong> is a well-documented descendant.</div>
+  <div class="child-details">Lewis Berry died during the worldwide flu epidemic of 1858. His mother Nancy Ellison Berry may have also died from the flu, she did not appear in the 1860 Census. Lewis's son <strong>Ira Berry</strong> is a well-documented descendant.</div>
 </li>
 
 <li class="child-entry">

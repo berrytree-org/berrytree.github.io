@@ -31,11 +31,11 @@ Robert Berry Jr. was originally believed to have married James Camp's sister, Ma
 
 From Henry Waggoner's will (Orange County NC Book A, Page 330), we learned the names of Henry and Katriana Waggoner's children, including daughters Mary Waggoner (who married Robert Berry Jr.) and Judith Waggoner (who married Peter Aldridge). Their son George Waggoner married Robert's sister Mary Berry.
 
-**On February 4, 1786**, Robert Berry Junior was the bondsman for Peter Aldridge and Judith Waggoner's marriage. In 1810, Peter Aldridge and his family were living just a few farms away from Robert Berry Jr. in Person County, North Carolina. Robert Junior's first son George Berry married Susanna Aldridge, Peter and Judith Waggoner Aldridge's daughter — binding the Berry and Waggoner families even closer together.
+**On February 4, 1786**, Robert Berry Junior was the bondsman for Peter Aldridge and Judith Waggoner's marriage. In 1810, Peter Aldridge and his family were living just a few farms away from Robert Berry Jr. in Person County, North Carolina. Robert Junior's first son George Berry married Susanna Aldridge, Peter and Judith Waggoner Aldridge's daughter, binding the Berry and Waggoner families even closer together.
 
 Robert also posted bond for Catherine Waggoner in the estate of James Waggoner deceased in November 1791.
 
-Robert and Mary named their first two children **Catherine Berry** (born 1785) and **George Berry** (born about 1790) — honoring both families.
+Robert and Mary named their first two children **Catherine Berry** (born 1785) and **George Berry** (born about 1790), honoring both families.
 
 ### Life in North Carolina
 
@@ -57,14 +57,14 @@ George Berry and his father acquired **640 acres** of land together in 1824. Thi
   <a href="/images/fayettesign.jpg">
     <img src="/images/fayettesign.jpg" alt="Fayette County, Alabama sign" />
   </a>
-  <div class="photo-caption">Fayette County, Alabama — where Robert Berry Jr. and his family settled in 1824</div>
+  <div class="photo-caption">Fayette County, Alabama, where Robert Berry Jr. and his family settled in 1824</div>
 </div>
 
 - [Land grant to Robert Berry Jr. and his son George Berry, 1824](/documents/land-grant-to-robert-berry-jr/) — Fayette County, Alabama, signed by President James Monroe
 
 Catherine Berry Pickle and her husband Jacob also listed in Fayette County, Alabama, in 1830. They later removed to Monroe, Mississippi, and listed there in the 1840 census.
 
-None of Robert Berry Junior's family have been found in any 1820 census — they were most likely all in transit from Orange County, North Carolina, to Fayette County, Alabama.
+None of Robert Berry Junior's family have been found in any 1820 census, they were most likely all in transit from Orange County, North Carolina, to Fayette County, Alabama.
 
 ### Robert's Death and Burial
 
@@ -90,7 +90,7 @@ After seeing the only hand-shaped headstone at the Pleasant Hill cemetery in Ber
   <div class="photo-caption">Left: Fieldstone headstone at Fiddleton Cemetery, Orange County, NC. Right: Matching fieldstone at Pleasant Hill Cemetery, Berry, Alabama. Both are the only hand-shaped markers in their respective cemeteries.</div>
 </div>
 
-There are several other field stones being used as grave markers right next to Thompson Berry's headstone. This part of the church cemetery appears to be the original Pleasant Hill Methodist Church Cemetery. Robert Berry Junior's youngest son Thompson Berry and his wife are also buried there. Thompson's headstone notes he was born in Orange County, North Carolina — all of Robert Berry Junior's children were born in North Carolina.
+There are several other field stones being used as grave markers right next to Thompson Berry's headstone. This part of the church cemetery appears to be the original Pleasant Hill Methodist Church Cemetery. Robert Berry Junior's youngest son Thompson Berry and his wife are also buried there. Thompson's headstone notes he was born in Orange County, North Carolina, all of Robert Berry Junior's children were born in North Carolina.
 
 ---
 
@@ -148,7 +148,7 @@ Robert and Mary had seven children, all born in Orange County, North Carolina. T
 
 <h2 class="ancestor-section">Census Records</h2>
 
-{{< census-summary summary="Robert Berry Jr. listed in Orange County, NC, from 1790 through 1810, then in Fayette County, Alabama, from 1830 through 1840. No census has been found for 1820 — the family was likely in transit to Alabama." >}}
+{{< census-summary summary="Robert Berry Jr. listed in Orange County, NC, from 1790 through 1810, then in Fayette County, Alabama, from 1830 through 1840. No census has been found for 1820, the family was likely in transit to Alabama." >}}
 
 - **1790** — Robert Berry Jr. listed in Orange County, North Carolina (property owner)
 - **1800** — Robert Berry Jr. listed in Orange County, North Carolina

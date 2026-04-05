@@ -1,7 +1,7 @@
 ---
 title: "Contact Us"
 weight: 11
-description: "Contact the Berry family research team — connect with distant cousins, share your research, or request information about the Robert and Elizabeth Cate Berry family."
+description: "Contact the Berry family research team, connect with distant cousins, share your research, or request information about the Robert and Elizabeth Cate Berry family."
 ---
 
 ### To contact us, email: {{< email address="berrytree@thgnetworks.com" label="berrytree@thgnetworks.com" >}}
@@ -24,7 +24,7 @@ As more and more contacts were made we began to finally expand our research and 
 
 ### Let us know your privacy preference
 
-**Option 1:** Include the statement **"I would like to know and research with my distant Berry Cousins."** with your message — we will reply to your question and your email address will be placed on a private list shared only with other Robert and Elizabeth Cate Berry family researchers.
+**Option 1:** Include the statement **"I would like to know and research with my distant Berry Cousins."** with your message, we will reply to your question and your email address will be placed on a private list shared only with other Robert and Elizabeth Cate Berry family researchers.
 
 **Option 2:** If you don't include that statement, we will reply to your question and your email will not be shared with anyone. The choice is entirely yours.
 
