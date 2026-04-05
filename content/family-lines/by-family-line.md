@@ -12,17 +12,17 @@ title: "By Family Line"
 
 - [Gen 3 John & Martha Stepp Berry NC & GA.](/ancestors/johnberry/)
 
-- [Gen 3 Joshua & Nancy Ellison Berry, NC.](/ancestors/joshberrytree/)
+- [Gen 3 Joshua & Nancy Ellison Berry, NC.](/family-lines/joshua-berry-family-tree/)
 
 - [Gen 3 Isaac & Lydia Berry, NC](/family-lines/isaac-berry-family-tree/)
 
-- [Gen 3 Elizabeth Berry NC](/ancestors/elizabeth/)
+- [Gen 3 Elizabeth Berry NC](/family-lines/elizabeth-berry-family-tree/)
 
-- [Gen 3  Thomas and Sarah Cate Berry NC, TN.](/ancestors/tberrytree/)
+- [Gen 3 Thomas and Sarah Cate Berry NC, TN.](/family-lines/thomas-berry-family-tree/)
 
 - [Gen 3 David J. and Mary Blalock Berry NC, GA.](/ancestors/djbtree/)
 
-- Gen 3 William and First wife Hannah Cate Berry NC.
+- [Gen 3 William and First wife Hannah Cate Berry NC.](/family-lines/william-berry-family-tree/)
 
 - Gen 3 William Berry and Unknown Second Family &  Unknown location
 
