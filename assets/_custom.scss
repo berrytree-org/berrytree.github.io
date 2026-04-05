@@ -1988,3 +1988,117 @@ p > strong:first-child {
     display: none !important;
   }
 }
+
+// =============================================================
+// Contact Form — Formspree Option A Staging
+// Author: Lila (Chief Web Designer)
+// =============================================================
+
+#berry-contact-form {
+  max-width: 640px;
+  margin: 1.5rem 0 2rem;
+
+  .contact-field {
+    margin-bottom: 1.25rem;
+  }
+
+  label {
+    display: block;
+    font-weight: 600;
+    margin-bottom: 0.35rem;
+    color: #2d4a22;
+    font-size: 0.95rem;
+  }
+
+  .required {
+    color: #b44;
+  }
+
+  input[type="text"],
+  input[type="email"],
+  select,
+  textarea {
+    width: 100%;
+    padding: 0.6rem 0.75rem;
+    border: 1px solid #c4cbb8;
+    border-radius: 4px;
+    background: #fdfcf8;
+    font-family: inherit;
+    font-size: 0.95rem;
+    color: #333;
+    transition: border-color 0.2s ease, box-shadow 0.2s ease;
+
+    &:focus {
+      outline: none;
+      border-color: #4a7c34;
+      box-shadow: 0 0 0 3px rgba(74, 124, 52, 0.15);
+    }
+
+    &::placeholder {
+      color: #999;
+    }
+  }
+
+  select {
+    appearance: none;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8'%3E%3Cpath d='M1 1l5 5 5-5' stroke='%23666' stroke-width='1.5' fill='none'/%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    background-position: right 0.75rem center;
+    padding-right: 2rem;
+    cursor: pointer;
+  }
+
+  textarea {
+    resize: vertical;
+    min-height: 120px;
+  }
+
+  .contact-checkbox {
+    label {
+      display: flex;
+      align-items: flex-start;
+      gap: 0.5rem;
+      font-weight: normal;
+      line-height: 1.5;
+      cursor: pointer;
+    }
+
+    input[type="checkbox"] {
+      width: auto;
+      margin-top: 0.25rem;
+      flex-shrink: 0;
+      accent-color: #4a7c34;
+    }
+
+    .checkbox-note {
+      display: block;
+      font-size: 0.85rem;
+      color: #666;
+      margin-top: 0.25rem;
+    }
+  }
+
+  .contact-submit {
+    display: inline-block;
+    padding: 0.7rem 2rem;
+    background: #4a7c34;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    font-family: inherit;
+    font-size: 1rem;
+    font-weight: 600;
+    letter-spacing: 0.03em;
+    cursor: pointer;
+    transition: background 0.2s ease, box-shadow 0.2s ease;
+
+    &:hover {
+      background: #3d6a2b;
+      box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
+    }
+
+    &:active {
+      background: #335a24;
+    }
+  }
+}

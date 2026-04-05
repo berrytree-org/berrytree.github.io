@@ -2,15 +2,70 @@
 title: "Contact Us"
 weight: 11
 description: "Contact the Berry family research team, connect with distant cousins, share your research, or request information about the Robert and Elizabeth Cate Berry family."
+bookToc: false
 ---
 
-### To contact us, email: {{< email address="berrytree@thgnetworks.com" label="berrytree@thgnetworks.com" >}}
+## Send Us a Message
+
+Use the form below to reach the Berry family research team. We'll respond as soon as we can.
+
+<form id="berry-contact-form" action="https://formspree.io/f/maqllvbp" method="POST">
+
+  <div class="contact-field">
+    <label for="contact-name">Your Name <span class="required">*</span></label>
+    <input type="text" id="contact-name" name="name" required placeholder="Full name">
+  </div>
+
+  <div class="contact-field">
+    <label for="contact-email">Your Email <span class="required">*</span></label>
+    <input type="email" id="contact-email" name="email" required placeholder="you@example.com">
+  </div>
+
+  <div class="contact-field">
+    <label for="contact-line">Family Line (if known)</label>
+    <select id="contact-line" name="family_line">
+      <option value="">— Select a line —</option>
+      <option value="William">William Berry line</option>
+      <option value="Robert Jr.">Robert Berry Jr. line</option>
+      <option value="John">John Berry line</option>
+      <option value="Joshua">Joshua Berry line</option>
+      <option value="Thomas">Thomas Berry line</option>
+      <option value="David J.">David J. Berry line</option>
+      <option value="Henry">Henry Berry line</option>
+      <option value="Mary">Mary Berry line</option>
+      <option value="Unknown">Not sure / researching</option>
+    </select>
+  </div>
+
+  <div class="contact-field">
+    <label for="contact-message">Message <span class="required">*</span></label>
+    <textarea id="contact-message" name="message" rows="8" required placeholder="Tell us about your Berry connection, share your research, or ask a question..."></textarea>
+  </div>
+
+  <div class="contact-field contact-checkbox">
+    <label>
+      <input type="checkbox" name="share_with_cousins" value="yes">
+      <strong>I would like to know and research with my distant Berry Cousins.</strong>
+      <span class="checkbox-note">If checked, your email will be shared with other consenting Robert and Elizabeth Cate Berry family researchers. If unchecked, your email stays private.</span>
+    </label>
+  </div>
+
+  <!-- Formspree honeypot for spam protection -->
+  <input type="text" name="_gotcha" style="display:none">
+
+  <button type="submit" class="contact-submit">Send Message</button>
+
+</form>
+
+---
+
+### Prefer email?
+
+You can also reach us directly: {{< email address="berrytree@thgnetworks.com" label="berrytree@thgnetworks.com" >}}
 
 *Email address is encoded to protect against spam harvesters.*
 
-Please note: If you would like to be introduced to other cousins who are researching our Berry line, please let us know by including the following statement in your message: **"I would like to know and research with my distant Berry Cousins."**
-
-When we determine that you are a descendant of Robert Berry and Elizabeth Cate, we will send you a list of email addresses and contact information for other consenting Berry cousins who are also researching our Berry family. We will always try to protect your privacy.
+---
 
 ### A note from Benjamin Henderson (1930–2020)
 
@@ -20,15 +75,7 @@ When we determine that you are a descendant of Robert Berry and Elizabeth Cate, 
 
 As more and more contacts were made we began to finally expand our research and once we started using Y-DNA our knowledge really expanded rapidly. Matching YDNA is all we need to prove that any male is a member of our large family. It recently occurred to me that our current website provided no way to accomplish this. Connecting in the younger generations is so important. You are the researchers who will carry on this research after our generation can no longer participate."
 
-*This site is now maintained by Ben's family. His wish — that younger generations carry on the research — remains our guiding purpose.*
-
-### Let us know your privacy preference
-
-**Option 1:** Include the statement **"I would like to know and research with my distant Berry Cousins."** with your message, we will reply to your question and your email address will be placed on a private list shared only with other Robert and Elizabeth Cate Berry family researchers.
-
-**Option 2:** If you don't include that statement, we will reply to your question and your email will not be shared with anyone. The choice is entirely yours.
-
-Additionally, if you have any source information (links, census data, citations, wills, birth or death records) you would like to share with the site and your cousins, please include them with your message. Thanks!
+*This site is now maintained by Ben's family. His wish, that younger generations carry on the research, remains our guiding purpose.*
 
 ---
 
@@ -39,7 +86,5 @@ We are actively seeking descendants related to a James Berry (b. ~1800, North Ca
 [View full details →](/contact/request-for-information/)
 
 ---
-
-*Last Updated: 2021-02-09*
 
 *Copyright © 2021 W. A. Henderson and Berrytree.org*
