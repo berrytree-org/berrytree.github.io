@@ -2102,3 +2102,84 @@ p > strong:first-child {
     }
   }
 }
+
+// =============================================================
+// WORDPRESS IMAGE ALIGNMENT — Legacy text-wrap fix
+// Handles .alignleft, .alignright, .alignnone, .aligncenter
+// from unconverted WordPress ancestor pages.
+// Scoped to .book-page .markdown for content area only.
+// Owner: Lila
+// =============================================================
+
+.book-page .markdown {
+
+  // -- Shared image defaults --
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+
+  // -- Float left --
+  .alignleft,
+  img.alignleft {
+    float: left;
+    margin: 0.4rem 1.25rem 0.75rem 0;
+    max-width: 45%;
+  }
+
+  // -- Float right --
+  .alignright,
+  img.alignright {
+    float: right;
+    margin: 0.4rem 0 0.75rem 1.25rem;
+    max-width: 45%;
+  }
+
+  // -- Centered (block) --
+  .aligncenter,
+  img.aligncenter {
+    display: block;
+    margin: 1rem auto;
+    float: none;
+  }
+
+  // -- No alignment (inline-block default) --
+  .alignnone,
+  img.alignnone {
+    display: block;
+    margin: 1rem 0;
+    float: none;
+    max-width: 100%;
+  }
+
+  // -- Clear floats after paragraphs containing floated images --
+  p::after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+  // -- Clearfix for figures and standalone floated images --
+  figure {
+    margin: 1rem 0;
+    max-width: 100%;
+
+    img {
+      max-width: 100%;
+      height: auto;
+    }
+  }
+
+  // -- Responsive: stack floated images on small screens --
+  @media (max-width: 600px) {
+    .alignleft,
+    img.alignleft,
+    .alignright,
+    img.alignright {
+      float: none;
+      display: block;
+      margin: 1rem auto;
+      max-width: 100%;
+    }
+  }
+}
