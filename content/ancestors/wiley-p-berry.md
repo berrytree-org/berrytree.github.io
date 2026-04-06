@@ -1,10 +1,10 @@
 ---
 title: "Wiley P. Berry"
+description: "Wiley P. Berry (1869–1965) of Orange County, North Carolina, son of John Robert Berry, was a tobacco farmer, hunter, and Orange County Commissioner."
 weight: 14
 bookToc: true
 ---
 
-<div class="ancestor-page">
 
 {{< breadcrumb trail="Home|/|Ancestors|/ancestors/|Family Lines|/family-lines/|Wiley P. Berry" >}}
 
@@ -19,49 +19,39 @@ bookToc: true
   parents="John Robert Berry and Elizabeth Frances Bowling, Orange County, NC"
 >}}
 
-## The Story of Wiley P. Berry
+## **The Story of Wiley P. Berry**
 
-<div class="photo-feature">
-  <a href="/images/berryhome.jpg">
-    <img src="/images/berryhome.jpg" alt="Wiley P. Berry family home" />
-  </a>
-  <div class="photo-caption">The Berry family home, built by Wiley P. Berry on 100 acres given to him by his father John Robert Berry</div>
-</div>
+  {{< img-float src="/images/berryhome.jpg" alt="Wiley P. Berry family home" >}}
+  The Berry family home, built by Wiley P. Berry on 100 acres given to him by his father John Robert Berry
 
 **Wiley P. Berry** was born in Orange County, North Carolina, on September 8, 1869. He died on May 12, 1965. W. P. Berry was my grandfather and I have a lot of memories and stories to record about my grandparents.
 
-<div class="photo-feature photo-pair">
-  <div>
-    <img src="/images/wptintype.jpg" alt="Wiley P. Berry tintype, circa 1890" />
-    <div class="photo-caption">Tintype of Wiley P. Berry, circa 1890 — the oldest picture I have of my grandfather</div>
-  </div>
-  <div>
-    <img src="/images/idaann6.jpg" alt="Ida Ann Wilson, age 6, 1882" />
-    <div class="photo-caption">Ida Ann Wilson, tintype taken in 1882 when she was 6 years old</div>
-  </div>
-</div>
+
+    {{< img-float src="/images/wptintype.jpg" alt="Wiley P. Berry tintype, circa 1890" >}}
+    Tintype of Wiley P. Berry, circa 1890 — the oldest picture I have of my grandfather
+
+
+    {{< img-float src="/images/idaann6.jpg" alt="Ida Ann Wilson, age 6, 1882" >}}
+    Ida Ann Wilson, tintype taken in 1882 when she was 6 years old
+
 
 Grandpa married my grandmother on June 2, 1895, at the home of her parents, Charles Eli and Mary Jane (Molly) Coleman Wilson. The bride's father had prepared a room above his kitchen for their first honeymoon night. Naturally all of the bridal party and family members gathered in the kitchen and made lots of interesting remarks in very loud voices. The next morning was Sunday and the newlyweds were leading the family procession in their own buggy to church which was several miles away. Grandma raised her umbrella and lowered it behind her back so Grandpa could kiss her without the family seeing. **My how customs have changed.**
 
-<div class="photo-feature photo-pair">
-  <div>
-    <img src="/images/wpbsr.jpg" alt="Wiley P. Berry, possibly 1895" />
-    <div class="photo-caption">This picture may have been taken in 1895 when Grandpa got married or graduated from school</div>
-  </div>
-  <div>
-    <img src="/images/wpbyf.jpg" alt="Wiley P. Berry young family, circa 1902" />
-    <div class="photo-caption">Young family picture, probably taken around 1902. Mary Elizabeth Berry (Aunt Maye) standing beside her father was about two years old and William Eugene Berry (Uncle Gene) age five was beside his mother.</div>
-  </div>
-</div>
 
-After my grandparents were married, Grandpa's father John Robert Berry gave Grandpa and his bride 100 acres of land, and Grandpa built the house that you see at the top of this page.
+    {{< img-float src="/images/wpbsr.jpg" alt="Wiley P. Berry, possibly 1895" >}}
+    This picture may have been taken in 1895 when Grandpa got married or graduated from school
 
-### Life on the Farm
 
-<div class="photo-feature">
-  <img src="/images/idaandwileyp.jpg" alt="Ida Ann Wilson Berry and Wiley P. Berry Sr." />
-  <div class="photo-caption">Ida Ann Wilson Berry and Wiley P. Berry Sr. sitting on the south end of the porch that faced Brown Road</div>
-</div>
+    {{< img-float src="/images/wpbyf.jpg" alt="Wiley P. Berry young family, circa 1902" >}}
+    Young family picture, probably taken around 1902. Mary Elizabeth Berry (Aunt Maye) standing beside her father was about two years old and William Eugene Berry (Uncle Gene) age five was beside his mother.
+
+
+After my grandparents were married, Grandpa's father [John Robert Berry](/ancestors/john-robert-berry/) gave Grandpa and his bride 100 acres of land, and Grandpa built the house that you see at the top of this page.
+
+### **Life on the Farm**
+
+  {{< img-float src="/images/idaandwileyp.jpg" alt="Ida Ann Wilson Berry and Wiley P. Berry Sr." >}}
+  Ida Ann Wilson Berry and Wiley P. Berry Sr. sitting on the south end of the porch that faced Brown Road
 
 Grandpa was a tobacco farmer and also trapped wild animals for their pelts. I am reasonably sure he learned these vocations from his father. I can remember seeing the furs stretched on drying boards hanging on the west side of Grandpa's house. Mother told me that when Grandpa sold his tobacco in Durham, NC, or Danville, VA, he would return home with his wagon loaded with new shoes, bolts of cotton material, sugar, coffee, and other staples for the next year.
 
@@ -69,124 +59,106 @@ Grandpa was a great hunter and fisherman and even in the thirties would take tri
 
 In 1932 Grandpa was elected County Commissioner for Orange County, North Carolina. He served the county in that office until 1936.
 
-<div class="photo-feature">
-  <a href="/images/tbb640.jpg">
-    <img src="/images/tbb640.jpg" alt="W.P. Berry and Brothers" />
-  </a>
-  <div class="photo-caption">W.P. Berry and Brothers</div>
-</div>
+  {{< img-float src="/images/tbb640.jpg" alt="W.P. Berry and Brothers" >}}
+  W.P. Berry and Brothers
 
 ---
 
-<h2 class="ancestor-section">Children of Wiley P. Berry and Ida Ann Wilson Berry</h2>
+## **Children of Wiley P. Berry and Ida Ann Wilson Berry**
 
 <ol class="children-list">
 
 <li class="child-entry has-page">
-  <div class="child-name"><a href="/documents/williameugeneberrync/">1. William Eugene Berry</a></div>
-  <div class="child-dates">Born Orange County, NC — eldest son</div>
-  <div class="child-details">
+  [1. William Eugene Berry](/documents/williameugeneberrync/)
+  Born Orange County, NC — eldest son
+
     Grandpa died at the home of his oldest son, Eugene Berry, on May 12, 1965.
-  </div>
+
 </li>
 
 <li class="child-entry">
-  <div class="child-name">2. Mary Elizabeth Berry</div>
-  <div class="child-dates">Born August 23, 1899 — Died November 13, 1957</div>
-  <div class="child-details">
+  2. Mary Elizabeth Berry
+  Born August 23, 1899 — Died November 13, 1957
+
     Known as Aunt Maye.
-  </div>
+
 </li>
 
 <li class="child-entry">
-  <div class="child-name">3. Thomas Young Berry</div>
-  <div class="child-dates">Born May 11, 1903 — Died June 8, 1925</div>
-  <div class="child-details">
+  3. Thomas Young Berry
+  Born May 11, 1903 — Died June 8, 1925
+
     Died of typhoid fever at age 22. Thomas and Hattie Davis were planning to be married later that same month.
-  </div>
+
 </li>
 
 <li class="child-entry has-page">
-  <div class="child-name"><a href="/ancestors/sallymalenaberrync/">4. Sally Malena Berry</a></div>
-  <div class="child-dates">Born July 20, 1908 — Died March 19, 2002</div>
-  <div class="child-details">
+  [4. Sally Malena Berry](/ancestors/sallymalenaberrync/)
+  Born July 20, 1908 — Died March 19, 2002
+
     Ben Henderson's mother.
-  </div>
+
 </li>
 
 <li class="child-entry has-page">
-  <div class="child-name"><a href="/ancestors/woodrowwilsonberrync/">5. Woodrow Wilson Berry</a></div>
-  <div class="child-dates">Born April 3, 1912 — Died May 3, 1989</div>
+  [5. Woodrow Wilson Berry](/ancestors/woodrowwilsonberrync/)
+  Born April 3, 1912 — Died May 3, 1989
 </li>
 
 <li class="child-entry has-page">
-  <div class="child-name"><a href="/ancestors/wileyharoldberrync/">6. Wiley Harold Berry</a></div>
-  <div class="child-dates">Born March 9, 1914 — Died June 24, 2006</div>
+  [6. Wiley Harold Berry](/ancestors/wileyharoldberrync/)
+  Born March 9, 1914 — Died June 24, 2006
 </li>
 
 <li class="child-entry">
-  <div class="child-name">7. Infant Son</div>
-  <div class="child-dates">Born September 23, 1916 — Died September 23, 1916</div>
+  7. Infant Son
+  Born September 23, 1916 — Died September 23, 1916
 </li>
 
 <li class="child-entry has-page">
-  <div class="child-name"><a href="/ancestors/wileypberryjrnc/">8. Wiley P. Berry Jr.</a></div>
-  <div class="child-dates">Born September 1, 1919 — Died August 18, 2007</div>
+  [8. Wiley P. Berry Jr.](/ancestors/wileypberryjrnc/)
+  Born September 1, 1919 — Died August 18, 2007
 </li>
 
 </ol>
 
 ---
 
-## The 1925 Family Portrait
+## **The 1925 Family Portrait**
 
-<div class="photo-feature">
-  <a href="/images/bfamily1925.jpg">
-    <img src="/images/bfamily1925.jpg" alt="Berry family, 1925" />
-  </a>
-  <div class="photo-caption">The Berry family, 1925. Left to right: Sally Malena Berry (age 17), Mary Elizabeth Berry (age 27), Woodrow Wilson Berry (age 13), William Eugene Berry (age 29), Wiley Harold Berry (age 11), Ida Ann Wilson Berry (age 49), Wiley P. Berry Jr. (age 6), and Wiley P. Berry Sr. (age 56).</div>
-</div>
+  {{< img-float src="/images/bfamily1925.jpg" alt="Berry family, 1925" >}}
+  The Berry family, 1925. Left to right: Sally Malena Berry (age 17), Mary Elizabeth Berry (age 27), Woodrow Wilson Berry (age 13), William Eugene Berry (age 29), Wiley Harold Berry (age 11), Ida Ann Wilson Berry (age 49), Wiley P. Berry Jr. (age 6), and Wiley P. Berry Sr. (age 56).
 
 This picture was taken in 1925. This picture was most likely taken about June the 10th, 1925. I say this because my Uncle Thomas Young Berry died on June 8, 1925, from typhoid fever. I think this picture may have been taken after his funeral. Thomas was only 22 years old.
 
-<div class="photo-feature">
-  <img src="/images/tyb.jpg" alt="Thomas Young Berry" />
-  <div class="photo-caption">Thomas Young Berry — he and Hattie Davis were planning to be married later that same month</div>
-</div>
+  {{< img-float src="/images/tyb.jpg" alt="Thomas Young Berry" >}}
+  Thomas Young Berry — he and Hattie Davis were planning to be married later that same month
 
 These were all of the children that Wiley P. and Ida Ann Berry raised to adulthood.
 
 ---
 
-## The Loss of Grandma Berry
+## **The Loss of Grandma Berry**
 
-<div class="photo-feature photo-pair">
-  <div>
-    <a href="/images/grandpa-and-grandma-berry.jpg">
-      <img src="/images/grandpa-and-grandma-berry.jpg" alt="Wiley P. Berry and Ida Ann Wilson Berry" />
-    </a>
-    <div class="photo-caption">Grandpa and Grandma Berry — this picture was taken shortly before Grandma was killed</div>
-  </div>
-  <div>
-    <img src="/images/gmberry.jpg" alt="Ida Ann Wilson Berry on the bumper of their 1934 Plymouth" />
-    <div class="photo-caption">Grandma sitting on the bumper of their 1934 Plymouth</div>
-  </div>
-</div>
+
+    {{< img-float src="/images/grandpa-and-grandma-berry.jpg" alt="Wiley P. Berry and Ida Ann Wilson Berry" >}}
+    Grandpa and Grandma Berry — this picture was taken shortly before Grandma was killed
+
+
+    {{< img-float src="/images/gmberry.jpg" alt="Ida Ann Wilson Berry on the bumper of their 1934 Plymouth" >}}
+    Grandma sitting on the bumper of their 1934 Plymouth
+
 
 Tragedy struck our Berry family once again on May 4, 1941, when my grandmother was hit and killed by an automobile. Grandma was sixty-five years old at the time of the accident and most likely would have lived a great many more years. Her father died at the age of 96.
 
 I remember that Grandma Berry was concerned about the war that was going on in Europe and she thought our country would be drawn into it. Since the Japanese attacked Pearl Harbor on December 7, 1941, Grandma never knew anything at all about World War Two.
 
-<div class="photo-feature">
-  <a href="/images/wp-children-1941.jpg">
-    <img src="/images/wp-children-1941.jpg" alt="Berry children at their mother's funeral, May 1941" />
-  </a>
-  <div class="photo-caption">The children gathered for their mother, Ida Ann Wilson Berry's, funeral in May 1941</div>
-</div>
+  {{< img-float src="/images/wp-children-1941.jpg" alt="Berry children at their mother's funeral, May 1941" >}}
+  The children gathered for their mother, Ida Ann Wilson Berry's, funeral in May 1941
 
 ---
 
-## Census Records
+## **Census Records**
 
 Little River Township, Orange County, North Carolina
 
@@ -197,14 +169,10 @@ Little River Township, Orange County, North Carolina
 - W.P. Berry listed in the 1930 Orange County, North Carolina, Census
 - W.P. Berry listed in the 1940 Orange County, North Carolina, Census
 
-### 1950 Orange County, North Carolina Census
+### **1950 Orange County, North Carolina Census**
 
-<div class="photo-feature">
-  <a href="/images/1950-census-wiley-p-berry.jpg">
-    <img src="/images/1950-census-wiley-p-berry.jpg" alt="Wiley P. Berry, 1950 Cheeks Township, Orange County, North Carolina, Census" />
-  </a>
-  <div class="photo-caption">1950 Census, Cheeks Township, Orange County, North Carolina — Enumeration District 68-24, Page 18. Source: FamilySearch.</div>
-</div>
+  {{< img-float src="/images/1950-census-wiley-p-berry.jpg" alt="Wiley P. Berry, 1950 Cheeks Township, Orange County, North Carolina, Census" >}}
+  1950 Census, Cheeks Township, Orange County, North Carolina — Enumeration District 68-24, Page 18. Source: FamilySearch.
 
 Enumerated April 13, 1950. Wiley P. Berry age 80, widowed, living with his oldest son William Eugene Berry's family:
 
@@ -214,6 +182,5 @@ Enumerated April 13, 1950. Wiley P. Berry age 80, widowed, living with his oldes
 
 ---
 
-<a href="#">Back to Top</a>
+[Back to Top](#)
 
-</div>

@@ -1,6 +1,8 @@
 ---
 title: "Dora Ellen Turley Home"
+description: "Photograph of the George Robert and Dora Ellen Turley Pace home."
 ---
 
-<a href="/images/dora-turleys-home-large.jpg"><img class="alignnone size-full wp-image-3402" src="/images/dora-turleys-home-large.jpg" alt="Dora Turleys home large" width="996" height="701" /></a>
-<p><strong>George Robert and Dora Ellen Turley Pace Home</strong></p>
+{{< img-float src="/images/dora-turleys-home-large.jpg" alt="George Robert and Dora Ellen Turley Pace family home" >}}
+
+**George Robert and [Dora Ellen Turley](/ancestors/doraellenturleyga) Pace Home**

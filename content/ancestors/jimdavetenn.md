@@ -1,43 +1,84 @@
 ---
-title: "James David Berry Tenn"
+title: "James David Berry"
+description: "James David Berry, son of Isaac and Amanda Josephine Blackwood Berry, born 1865 in Wayne County, Tennessee."
+weight: 1
+bookToc: true
 ---
 
-<h2>James David Berry , son of Isaac and Amanda Josephine Blackwood Berry</h2>
-ANCESTORS
+<div class="ancestor-page">
 
-Generation 1 Robert and Elizabeth Cate Berry
+{{< breadcrumb trail="Home|/|Ancestors|/ancestors/|Family Lines|/family-lines/|James David Berry" >}}
 
-Generation 2 Thomas and Sarah Cate Berry
+{{< ancestor-chain gen3="Thomas Berry × Sarah Cate" loc3="Orange County, NC → Tennessee" link3="/ancestors/thomas-berry/" gen4="David Berry × Elizabeth Shipman" loc4="Tennessee" gen5="Isaac Berry × Amanda Josephine Blackwood" loc5="Wayne County, Tennessee" link5="/ancestors/iassctenn/" gen6="James David Berry × Millissa Harlow" loc6="Wayne County, Tennessee" />}}
 
-Generation 3 David and Elizabeth Shipman Berry
+{{< ancestor-profile
+  name="James David Berry"
+  gen="6"
+  born="September 15, 1865, Wayne County, Tennessee"
+  died="May 30, 1930, Wayne County, Tennessee"
+  spouse="Millissa Harlow (married c. 1888, died November 6, 1914)"
+  parents="Isaac Berry and Amanda Josephine Blackwood Berry, Wayne County, Tennessee"
+>}}
 
-Generation 4 Isaac and Amanda Josephine Blackwood Berry
+## **The Story of James David Berry**
 
-<strong>JIM DAVE BERRY</strong> was born in Wayne County Tennessee on the 15th Day of September 1865 He was the first child of <img src="/images/jdberrytenn.jpg" alt="" />Isaac and Amanda Josephine Blackwood Berry. The picture at the top of this page is Jim Dave Berry's house. <strong>The people in the picture in front of Jim Dave's house are from left to right are: Farm Hand: Robert Benson, Ode Berry, Ernest John Berry, Thelma Berry, Emma Lee Stutts Berry, Obie Berry, Jim Dave Berry, and Cove Berry</strong><strong> VIEW PICTURE</strong>
-It still is standing and you can <strong>VIEW</strong> how it looks today.<strong>
-Jim Dave and Milissa Harlow were married about 1888.
-Milissa was born on September 17 1865 and died on November 6th 1914. Milissa was only 49 years old when she died.
-These are the FOUR children who were born to this union and lived to adulthood:
-</strong>
+{{< img-float src="/images/jdberrytenn.jpg" alt="James David Berry's house with family members in front" >}}
 
-<strong><strong> 1.<a href="/ancestors/odetenn/"> Ode Berry</a> b Dec, 2 1888 d Feb. 8, 1951
-2. Gertrude Berry b Oct. 8, 1892 d Mar. 14, 1910
-3. Cove Berry b Mar. 11, 1894 d Nov. 28 1941
-4. Obie Berry Dec 22,1897 d May 10, 1968</strong></strong>
+**Jim Dave Berry** was born in Wayne County Tennessee on the 15th Day of September 1865 He was the first child of [Isaac and Amanda Josephine Blackwood Berry](/ancestors/iassctenn/). The picture at the top of this page is Jim Dave Berry's house. **The people in the picture in front of Jim Dave's house are from left to right are:** Farm Hand: Robert Benson, Ode Berry, Ernest John Berry, Thelma Berry, Emma Lee Stutts Berry, Obie Berry, Jim Dave Berry, and Cove Berry.
 
-<strong>JAMES DAVID BERRY'S PICTURE IS ON THE RIGHT </strong>
-<h2><strong><strong><strong><a href="#">
-</a></strong></strong></strong><strong><strong><strong>Jim David Berry (son of Isaac Berry) lived in Tennessee his entire life</strong></strong></strong></h2>
-<h3><strong><strong>November 2, 2007</strong></strong></h3>
-<strong><strong>CENSUS INFORMATION and NEIGHBORS</strong></strong>
-<blockquote><strong><strong>“Jim David Berry listed as head of household from 1900 until 1930 ”</strong></strong></blockquote>
-<h3></h3>
-<strong><strong>JIM DAVID BERRY was born on September 15th 1865 and was listed in Isaac's 1870 census</strong></strong>
+Jim Dave and **Milissa Harlow** were married about 1888. <!-- UNSOURCED -->
+Milissa was born on September 17 1865 and died on November 6th 1914. Milissa was only 49 years old when she died. <!-- UNSOURCED -->
 
-<strong><strong> Jim David Berry was 4 years old In Isaac Berry's 1870 Wayne County Census
-Jim David Berry was 14 years old in Isaac Berry's 1880 Wayne County Census Census
-Jim Dave Berry in Wayne County Tennessee 1900 Census
-JimDave Berry in 1910 Wayne County Tennessee Census
-Jim Dave Berry in 1920 Wayne County Tennessee Census
-Jim Dave Berry in 1930 Wayne County Tennessee Census
-</strong></strong>
+---
+
+<h2 class="ancestor-section">Children of James David Berry</h2>
+
+These are the four children who were born to this union and lived to adulthood:
+
+<ol class="children-list">
+
+<li class="child-entry">
+  <div class="child-name">1. <a href="/ancestors/odetenn/">Ode Berry</a></div>
+  <div class="child-dates">Born December 2, 1888 — Died February 8, 1951</div>
+</li>
+
+<li class="child-entry">
+  <div class="child-name">2. Gertrude Berry</div>
+  <div class="child-dates">Born October 8, 1892 — Died March 14, 1910</div>
+</li>
+
+<li class="child-entry">
+  <div class="child-name">3. Cove Berry</div>
+  <div class="child-dates">Born March 11, 1894 — Died November 28, 1941</div>
+</li>
+
+<li class="child-entry">
+  <div class="child-name">4. Obie Berry</div>
+  <div class="child-dates">Born December 22, 1897 — Died May 10, 1968</div>
+</li>
+
+</ol>
+
+---
+
+<h2 class="ancestor-section">Census Records</h2>
+
+{{< census-summary summary="Jim David Berry listed as head of household from 1900 until 1930. He appeared in Isaac's census as a child in 1870 and 1880." >}}
+
+- **1870** — Jim David Berry was 4 years old in Isaac Berry's Wayne County Census
+- **1880** — Jim David Berry was 14 years old in Isaac Berry's Wayne County Census
+- **1900** — Jim Dave Berry in Wayne County Tennessee Census
+- **1910** — Jim Dave Berry in Wayne County Tennessee Census
+- **1920** — Jim Dave Berry in Wayne County Tennessee Census
+- **1930** — Jim Dave Berry in Wayne County Tennessee Census
+
+---
+
+<div class="tree-link">
+  <a href="/family-lines/">
+    View Berry Family Lines
+    <span class="tree-link-sub">Thomas Berry descendants</span>
+  </a>
+</div>
+
+</div>

@@ -1,30 +1,49 @@
 ---
 title: "Enoch Meril Berry Ga"
+description: "Enoch Meril Berry, son of Robert Riley and Martha 'Mattie' Stark Berry, Georgia."
+bookToc: true
 ---
 
-<h2>Enoch Meril Berry, Son Of Robert Riley And Martha "Mattie"Stark Berry</h2>
-ANCESTORS
+<div class="ancestor-page">
 
-Generation 1 Robert and Elizabeth Cate Berry
+{{< breadcrumb trail="Home|/|Ancestors|/ancestors/|Family Lines|/family-lines/|Enoch Meril Berry" >}}
 
-Generation 2 David J. and Mary Blalock Berry
+{{< ancestor-chain gen1="Robert Berry × Mary Williamson" loc1="Princess Anne County, Virginia" link1="/ancestors/robert-berry-pac/" gen2="Robert Berry × Elizabeth Cate" loc2="Orange County, North Carolina" link2="/ancestors/robert-berry-oc/" gen3="David J. Berry × Mary Blalock" loc3="Orange County, NC → Georgia" link3="/ancestors/david-j-berry-sr/" gen4="Robert Berry × Elizabeth Everitt Berry" loc4="Georgia" gen5="Robert Riley Berry × Martha 'Mattie' Stark" loc5="Georgia" />}}
 
-Generation 3 Robert and Elizabeth Everitt Berry Berry
+{{< ancestor-profile
+  name="Enoch Meril Berry"
+  gen="6"
+  born="Georgia"
+  died="Unknown"
+  parents="Robert Riley Berry and Martha 'Mattie' Stark Berry"
+>}}
 
-Generation 4 Robert Riley and Mattie Stark Berry
-<h2>Enoch Meril Berry</h2>
 RESEARCH NEEDS TO BE DONE ON THIS COUSIN
 
-<strong>CHILDREN :</strong>
-<ul>
-	<li>Chester Ira Berry </li>
-	<li>ESTER SLONE </li>
-	<li></li>
-	<li></li>
-</ul>
-<h2><strong>TO be Researched</strong></h2>
-<h3>January 8, 2008</h3>
-CENSUS INFORMATION
-<blockquote>“ TO Be Researched”
+<h2 class="ancestor-section">Children of Enoch Meril Berry</h2>
 
- </blockquote>
+- Chester Ira Berry <!-- UNSOURCED -->
+- Ester Slone <!-- UNSOURCED -->
+
+---
+
+<h2 class="ancestor-section">To Be Researched</h2>
+
+**January 8, 2008**
+
+---
+
+<h2 class="ancestor-section">Census Information</h2>
+
+> "TO Be Researched"
+
+---
+
+<div class="tree-link">
+  <a href="/family-lines/david-j-berry-family-tree/">
+    View the Full David J. Berry Family Line
+    <span class="tree-link-sub">David J. and Mary Blalock Berry descendants</span>
+  </a>
+</div>
+
+</div>

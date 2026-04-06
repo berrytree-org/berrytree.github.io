@@ -1,29 +1,62 @@
 ---
-title: "Mary Frances Crow Tx"
+title: "Mary Frances Crow (TX)"
+description: "Mary Frances Crow, daughter of Joshua and Mary Aliceann Elizabeth Barton Crow, married Thomas C. Guthrie."
+bookToc: true
 ---
 
-<h2>Mary Frances Crow is the daughter of Joshua and Mary Aliceann Elizabeth Barton Crow</h2>
-ANCESTORS
-<ol>
-	<li>Generation Robert and Mary Williamson Berry. Princess Anne County, Virginia.</li>
-	<li>Generation Robert and Elizabeth Cate Berry, Orange County, North Carolina.</li>
-	<li>Generation  David J. and Mary Blalock Berry</li>
-	<li>Generation  Thomas Howard and Mary Berry Barton</li>
-	<li>Generation  Joshua and Mary Aliceann Elizabeth Barton Crow</li>
-</ol>
-<strong>Mary Frances Crow married Thomas C. Guthrie
-NEED: INFORMATION ON THIS FAMILY</strong>
+<div class="ancestor-page">
 
-<strong>CHILDREN :</strong>
-<ul>
-	<li><strong><a href="/documents/lelawillievirginiaguthrie/">Lela Willie Virginia Guthrie</a> married Lonzo (Lonnie) Joseph Hunt</strong> )</li>
-	<li><strong>Need research on any additional children</strong></li>
-</ul>
-<h2><strong>Virginia and Lonzo Joseph Hunt</strong></h2>
-<h3>October 8, 2008</h3>
-<strong>CENSUS INFORMATION</strong>
-<blockquote>
-<ul>
-	<li>Need census information of this family</li>
-</ul>
-</blockquote>
+{{< breadcrumb trail="Home|/|Ancestors|/ancestors/|Family Lines|/family-lines/|Mary Frances Crow" >}}
+
+{{< ancestor-chain
+  gen3="David J. Berry × Mary Blalock"
+  link3="/ancestors/david-j-berry-sr/"
+  loc3="Orange County, NC → Georgia"
+  gen4="Thomas Howard Barton × Mary Berry"
+  loc4=""
+  gen5="Joshua Crow × Mary Aliceann Elizabeth Barton"
+  loc5=""
+  gen6="Mary Frances Crow × Thomas C. Guthrie"
+  loc6=""
+  link6="/ancestors/maryfrancescrowtx/"
+/>}}
+
+{{< ancestor-profile
+  name="Mary Frances Crow"
+  gen="6"
+  born=""
+  died=""
+  spouse="Thomas C. Guthrie"
+  parents="Joshua Crow and Mary Aliceann Elizabeth Barton Crow"
+>}}
+
+**Mary Frances Crow married Thomas C. Guthrie.**
+
+**NEED: INFORMATION ON THIS FAMILY**
+
+---
+
+<h2 class="ancestor-section">Children of Mary Frances Crow and Thomas C. Guthrie</h2>
+
+<ol class="children-list">
+
+<li class="child-entry">
+  <div class="child-name">1. <a href="/documents/lelawillievirginiaguthrie/">Lela Willie Virginia Guthrie</a></div>
+  <div class="child-details">Married Lonzo (Lonnie) Joseph Hunt.</div>
+</li>
+
+</ol>
+
+- **Need research on any additional children**
+
+---
+
+<h2 class="ancestor-section">Census Information</h2>
+
+- Need census information of this family
+
+---
+
+*October 8, 2008*
+
+</div>

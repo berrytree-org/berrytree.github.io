@@ -1,31 +1,42 @@
 ---
 title: "Robert Marion Barton Ga"
+description: "Robert Marion Barton, son of Mary Berry and Thomas Howard Barton, Clayton County Georgia."
+bookToc: true
 ---
 
-<h2>Robert Marion Barton is the son of Mary Berry and her husband Thomas Howard Barton</h2>
-ANCESTORS
+<div class="ancestor-page">
 
-Generation 1 Robert and Mary Williamson Berry Princess Anne County VA.
+{{< breadcrumb trail="Home|/|Ancestors|/ancestors/|Family Lines|/family-lines/|Robert Marion Barton" >}}
 
-Generation 2 Robert and Elizabeth Cate Berry Orange County NC
+{{< ancestor-chain gen1="Robert Berry × Mary Williamson" loc1="Princess Anne County, Virginia" link1="/ancestors/robert-berry-pac/" gen2="Robert Berry × Elizabeth Cate" loc2="Orange County, North Carolina" link2="/ancestors/robert-berry-oc/" gen3="David J. Berry × Mary Blalock" loc3="Orange County, NC → Georgia" link3="/ancestors/david-j-berry-sr/" gen4="Thomas Howard Barton × Mary Berry" link4="/ancestors/maryberrybartonga/" loc4="Clayton County, Georgia" />}}
 
-Generation 3 David J. and Mary Blalock Berry Clayton County GA
+{{< ancestor-profile
+  name="Robert Marion Barton"
+  gen="5"
+  born="Clayton County, Georgia"
+  died="Unknown"
+  spouse="Mary E. Birdwell"
+  parents="Thomas Howard Barton and Mary Berry"
+>}}
 
-Generation 4  Mary Berry and Thomas Howard Barton
+<h2 class="ancestor-section">Children of Robert Marion Barton</h2>
 
-Generation 5<strong> Robert Marion Barton </strong>
-Was born in Clayton County Georgia. Robert married Mary E. Birdwell
+- **Yancy Pascal Barton** <!-- UNSOURCED -->
+- I need information on any other children from this family
 
-<strong>CHILDREN :</strong>
-<ul>
-	<li><strong>Yancy Pascal Barton</strong></li>
-	<li>I need information on any other children from this family</li>
-</ul>
-<h2><strong>Robert Marion Barton</strong></h2>
-<h3>October 8, 2008</h3>
-<strong>CENSUS INFORMATION</strong>
-<blockquote>
-<ul>
-	<li>Needs Research 1860</li>
-</ul>
-</blockquote>
+---
+
+<h2 class="ancestor-section">Census Information</h2>
+
+> - Needs Research 1860
+
+---
+
+<div class="tree-link">
+  <a href="/family-lines/david-j-berry-family-tree/">
+    View the Full David J. Berry Family Line
+    <span class="tree-link-sub">David J. and Mary Blalock Berry descendants</span>
+  </a>
+</div>
+
+</div>

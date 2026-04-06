@@ -1,16 +1,17 @@
 {{/*
   ancestor-chain shortcode
-  Renders the standard Gen 1 / Gen 2 / Gen 3 ancestor preamble
-  used at the top of every family tree page.
+  Renders the standard ancestor lineage preamble at the top of every ancestor page.
+  Gen 1 and Gen 2 are hardcoded (Robert Berry lines). Gen 3–9 are optional parameters.
 
   Parameters:
-    gen3  (string)  — Gen 3 couple, e.g. "Thomas Berry × Sarah Cate"
-    loc3  (string)  — Gen 3 location, e.g. "Orange County, NC → Tennessee"
-    link3 (string)  — optional URL for Gen 3 subject
+    gen3–gen9   (string)  — Couple name, e.g. "Thomas Berry × Sarah Cate"
+    loc3–loc9   (string)  — Location, e.g. "Orange County, NC → Tennessee"
+    link3–link9 (string)  — Optional URL for that generation
 
   Usage:
     {{< ancestor-chain gen3="Thomas Berry × Sarah Cate" loc3="Orange County, NC → Tennessee" />}}
-    {{< ancestor-chain gen3="David J. Berry × Mary Blalock" loc3="Orange County, NC → Fayette County, GA" link3="/ancestors/david-j-berry-sr/" />}}
+    {{< ancestor-chain gen3="David J. Berry × Mary Blalock" loc3="OC, NC → GA" link3="/ancestors/david-j-berry-sr/"
+      gen4="Sarah Berry × William A. Cates" loc4="Clayton County, Georgia" link4="/ancestors/sarahberrycatesga/" />}}
 */}}
 <div class="ancestor-chain">
   <div class="ancestor-line">
@@ -23,16 +24,21 @@
     <a href="/ancestors/robert-berry-oc/">Robert Berry × Elizabeth Cate</a>
     — Orange County, North Carolina
   </div>
-  {{- if .Get "gen3" }}
+  {{- range $i := seq 3 9 }}
+  {{- $genKey := printf "gen%d" $i }}
+  {{- $locKey := printf "loc%d" $i }}
+  {{- $linkKey := printf "link%d" $i }}
+  {{- with $.Get $genKey }}
   <div class="ancestor-line">
-    <span class="gen-label">Gen 3</span>
-    {{- if .Get "link3" -}}
-      <a href="{{ .Get "link3" }}">{{ .Get "gen3" }}</a>
+    <span class="gen-label">Gen {{ $i }}</span>
+    {{- with $.Get $linkKey -}}
+      <a href="{{ . }}">{{ $.Get $genKey }}</a>
     {{- else -}}
-      {{ .Get "gen3" }}
+      {{ $.Get $genKey }}
     {{- end -}}
-    {{- if .Get "loc3" }} — {{ .Get "loc3" }}{{ end }}
+    {{- with $.Get $locKey }} — {{ . }}{{ end }}
   </div>
+  {{- end }}
   {{- end }}
   {{- .Inner -}}
 </div>

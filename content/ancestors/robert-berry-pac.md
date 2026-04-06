@@ -1,12 +1,12 @@
 ---
 title: "Robert Berry (PAC)"
+description: "Robert Berry of Princess Anne County, Virginia, married Mary Williamson and was the father of Robert Berry (OC) who settled Orange County, North Carolina."
 weight: 9
 bookToc: true
 aliases:
   - /ancestors/robertberrypac/
 ---
 
-<div class="ancestor-page">
 
 {{< breadcrumb trail="Home|/|Ancestors|/ancestors/|Family Lines|/family-lines/|Robert Berry (PAC)" >}}
 
@@ -21,15 +21,15 @@ aliases:
   parents="Unknown — most likely born in England"
 >}}
 
-## The Story of Robert Berry (PAC)
+## **The Story of Robert Berry (PAC)**
 
-**Robert Berry (PAC)** of South Norfolk County, Virginia, married **Mary Williamson** and established a home in **Princess Anne County, Virginia**, which is now known as Virginia Beach, Virginia. Robert and Mary had two sons. The oldest was Richard Berry and the baby was **[Robert Berry "Orange County, NC" (OC)](/ancestors/robert-berry-oc/)** who was born about 1729. Robert Berry (PAC) wrote his will in 1730 and died shortly after Robert Berry (Orange County, NC) was born.
+**Robert Berry (PAC)** of South Norfolk County, Virginia, married **Mary Williamson** and established a home in **Princess Anne County, Virginia**, which is now known as Virginia Beach, Virginia. Robert and Mary had two sons. The oldest was Richard Berry and the baby was **[Robert Berry "Orange County, NC" (OC)](/ancestors/robert-berry-oc/)** who was born about 1729. Robert Berry (PAC) wrote his will in 1730 and died shortly after Robert Berry (Orange County, NC) was born. <!-- UNSOURCED -->
 
 At this time it is uncertain who Robert Berry's (PAC) parents were, but most likely Robert (PAC) was born in England. This is supported by the fact that most of the early settlers in and around Jamestown, Virginia, came from England. Most of the Scotch-Irish came into Maryland and into central North Carolina through the Shenandoah Valley of Virginia.
 
 ---
 
-## Mary Williamson's Ancestors
+## **Mary Williamson's Ancestors**
 
 Robert Berry's wife Mary Williamson came from a well-documented family in Princess Anne County.
 
@@ -57,97 +57,77 @@ Robert Berry's (OC) paternal grandmother, Ann Foster, was born in England in 162
 
 ---
 
-## Robert Berry's Will — 1730
+## **Robert Berry's Will — 1730**
 
-<div class="photo-feature">
-  <a href="/images/robert-berry-1730-pac-will.jpg">
-    <img src="/images/robert-berry-1730-pac-will.jpg" alt="Robert Berry's 1730 will from Princess Anne County, Virginia" />
-  </a>
-  <div class="photo-caption">Robert Berry's 1730 will, Princess Anne County, Virginia</div>
-</div>
+  {{< img-float src="/images/robert-berry-1730-pac-will.jpg" alt="Robert Berry's 1730 will from Princess Anne County, Virginia" >}}
+  Robert Berry's 1730 will, Princess Anne County, Virginia
 
-<div class="photo-feature">
-  <a href="/images/robert-berry-transcribed-will.jpg">
-    <img src="/images/robert-berry-transcribed-will.jpg" alt="Transcription of Robert Berry's 1730 will" />
-  </a>
-  <div class="photo-caption">A transcription of Robert Berry's (PAC) 1730 will</div>
-</div>
+  {{< img-float src="/images/robert-berry-transcribed-will.jpg" alt="Transcription of Robert Berry's 1730 will" >}}
+  A transcription of Robert Berry's (PAC) 1730 will
 
 The two witnesses to this will were Bartho (Bartholomew) Williamson and Sarah S. Mathias. Bartho was Mary Williamson's brother and Sarah S. Mathias was her sister. Robert Berry (PAC) named his wife Mary, his two sons Richard Berry and Robert Berry (OC), and in the 12th line he states "all my children in the estate."
 
-### Richard Williamson's Will
+### **Richard Williamson's Will**
 
 For proof of the relationship of Mary Williamson Berry's family, view the will of her father Richard Williamson.
 
-<div class="photo-feature">
-  <a href="/images/richard-williamsons-will-pac.jpg">
-    <img src="/images/richard-williamsons-will-pac.jpg" alt="Richard Williamson's will, Princess Anne County, Virginia" />
-  </a>
-  <div class="photo-caption">Richard Williamson's will, Princess Anne County, Virginia — proof of the Williamson family relationships</div>
-</div>
+  {{< img-float src="/images/richard-williamsons-will-pac.jpg" alt="Richard Williamson's will, Princess Anne County, Virginia" >}}
+  Richard Williamson's will, Princess Anne County, Virginia — proof of the Williamson family relationships
 
 ---
 
-## After Robert Berry's Death
+## **After Robert Berry's Death**
 
-After Robert Berry (PAC) died, his wife apparently lived until 1746, because that is when Robert Berry (OC) indentured himself to Samuel Hollowell. Robert Berry (OC) appeared in the court of Princess Anne County, Virginia, on the 19th day of August 1746 to ask the court to indenture him to Samuel Hollowell to learn the carpenter trade. I think Robert had to be at least 17 years old in order to do that. Samuel Hollowell is believed to have been married into the Berry family and was most likely Robert Berry's (OC) brother-in-law.
+After Robert Berry (PAC) died, his wife apparently lived until 1746, because that is when Robert Berry (OC) indentured himself to Samuel Hollowell. Robert Berry (OC) appeared in the court of Princess Anne County, Virginia, on the 19th day of August 1746 to ask the court to indenture him to Samuel Hollowell to learn the carpenter trade. I think Robert had to be at least 17 years old in order to do that. Samuel Hollowell is believed to have been married into the Berry family and was most likely Robert Berry's (OC) brother-in-law. <!-- UNSOURCED -->
 
-<div class="photo-feature">
-  <a href="/images/samuel-hollowell-church-job.jpg">
-    <img src="/images/samuel-hollowell-church-job.jpg" alt="Samuel Hollowell Church Contract" />
-  </a>
-  <div class="photo-caption">Samuel Hollowell Church Contract — Hollowell was Robert Berry (OC)'s master during his carpentry apprenticeship</div>
-</div>
+  {{< img-float src="/images/samuel-hollowell-church-job.jpg" alt="Samuel Hollowell Church Contract" >}}
+  Samuel Hollowell Church Contract — Hollowell was Robert Berry (OC)'s master during his carpentry apprenticeship
 
 ---
 
-## Robert Berry (OC)'s Journey to North Carolina
+## **Robert Berry (OC)'s Journey to North Carolina**
 
 Robert Berry (OC) traveled from Princess Anne County, Virginia, up the James River and to Petersburg, Virginia. This is where he followed the old Indian trail that ran from Virginia into Georgia. When Robert Berry (OC) crossed the Flatt River he headed north until he reached the west branch which traversed into the area that is now in Person County near the Orange County line. Robert Berry's Granville Land Grant is about a mile south of this boundary line.
 
-<div class="photo-feature">
-  <a href="/images/route-to-nc-from-va.jpg">
-    <img src="/images/route-to-nc-from-va.jpg" alt="Route from Princess Anne County, Virginia, to Orange County, North Carolina" />
-  </a>
-  <div class="photo-caption">The route Robert Berry (OC) traveled from Princess Anne County, Virginia, to Orange County, North Carolina</div>
-</div>
+  {{< img-float src="/images/route-to-nc-from-va.jpg" alt="Route from Princess Anne County, Virginia, to Orange County, North Carolina" >}}
+  The route Robert Berry (OC) traveled from Princess Anne County, Virginia, to Orange County, North Carolina
 
 After Robert Berry (OC) was granted his Granville Land Grant, he named his new plantation "Fiddleton." There is a Fittleton in Wiltshire County, England.
 
 ---
 
-<h2 class="ancestor-section">Children of Robert and Mary Williamson Berry (PAC)</h2>
+## **Children of Robert and Mary Williamson Berry (PAC)**
 
 <ol class="children-list">
 
 <li class="child-entry">
-  <div class="child-name">1. Richard Berry</div>
-  <div class="child-dates">Born Princess Anne County, Virginia</div>
-  <div class="child-details">
-    We think he remained in Virginia. Richard Berry married Catherine. Deed records confirm he was still in Princess Anne County as late as January 10, 1787. For more detail, see the <a href="/ancestors/robert-berry-oc/#roberts-brother-richard-berry">Richard Berry section</a> on the Robert Berry (OC) page.
-  </div>
+  1. Richard Berry
+  Born Princess Anne County, Virginia
+
+    We think he remained in Virginia. Richard Berry married Catherine. Deed records confirm he was still in Princess Anne County as late as January 10, 1787. For more detail, see the [Richard Berry section](/ancestors/robert-berry-oc/#roberts-brother-richard-berry) on the Robert Berry (OC) page.
+
 </li>
 
 <li class="child-entry has-page">
-  <div class="child-name"><a href="/ancestors/robert-berry-oc/">2. Robert Berry (OC)</a></div>
-  <div class="child-dates">Born c. 1729, Princess Anne County, Virginia — Died 1814, Orange County, North Carolina</div>
-  <div class="child-details">
-    Married <strong>Elizabeth Cate</strong> c. 1759 in Orange County, North Carolina. Robert left Virginia in 1751 and established Fiddleton Plantation in what became Orange County, NC. He and Elizabeth had ten children, all born in Orange County. Robert served as a Private in the North Carolina Continental Line during the Revolutionary War.
-  </div>
+  [2. Robert Berry (OC)](/ancestors/robert-berry-oc/)
+  Born c. 1729, Princess Anne County, Virginia — Died 1814, Orange County, North Carolina
+
+    Married **Elizabeth Cate** c. 1759 in Orange County, North Carolina. Robert left Virginia in 1751 and established Fiddleton Plantation in what became Orange County, NC. He and Elizabeth had ten children, all born in Orange County. Robert served as a Private in the North Carolina Continental Line during the Revolutionary War.
+
 </li>
 
 <li class="child-entry">
-  <div class="child-name">3. Daughters (names unknown)</div>
-  <div class="child-details">
+  3. Daughters (names unknown)
+
     The will references "all my children in the estate," indicating there were likely additional children beyond the two named sons. None of the daughters' names are known at this time.
-  </div>
+
 </li>
 
 </ol>
 
 ---
 
-<h2 class="ancestor-section">Sources and Research</h2>
+## **Sources and Research**
 
 - [Robert Berry Source List](/ancestors/rb2sourcelist/) — Compiled sources for the Robert Berry (PAC) line
 - [Robert Berry Resource List](/ancestors/rbresourcelist/) — Additional research resources
@@ -155,11 +135,6 @@ After Robert Berry (OC) was granted his Granville Land Grant, he named his new p
 
 ---
 
-<div class="tree-link">
-  <a href="/ancestors/robert-berry-oc/">
-    Continue to Robert Berry (OC)
-    <span class="tree-link-sub">Robert and Mary's son who settled Orange County, North Carolina, in 1751</span>
-  </a>
-</div>
+  [Continue to Robert Berry (OC)
+    Robert and Mary's son who settled Orange County, North Carolina, in 1751](/ancestors/robert-berry-oc/)
 
-</div>

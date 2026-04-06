@@ -1,33 +1,56 @@
 ---
 title: "David Lee Berry Ohio"
+description: "David Lee Berry, son of William Thomas Jr. and Mattie Lee Herrin Berry, Berry DNA Project Participant #101."
+bookToc: true
 ---
 
-<h2>David Lee Berry, son of William Thomas Jr. Mattie Lee Herrin Berry</h2>
-<h3><strong>Ancestors:</strong></h3>
-Generation 1 <a href="/ancestors/robertberrypac/">Robert and Mary Williamson Berry</a>
+<div class="ancestor-page">
 
-Generation 2 <a title="Robert" href="/ancestors/robert/">Robert and Elizabeth Cate Berry</a>
+{{< breadcrumb trail="Home|/|Ancestors|/ancestors/|Family Lines|/family-lines/|David Lee Berry" >}}
 
-Generation 3 <a title="Robertberryjr" href="/ancestors/robertberryjr/">Robert Jr and Mary Waggoner Berry</a>
+{{< ancestor-chain gen3="Robert Berry Jr. × Mary Waggoner" loc3="NC → Fayette County, Alabama" link3="/ancestors/robert-berry-jr/" gen4="Thompson × Roseann Gutman Berry" loc4="" gen5="Henry Bradford × Malissa Jefferies Berry" loc5="" gen6="William Thomas Sr. × Louisa Bertha Minns Berry" loc6="" gen7="William Thomas Jr. × Mattie Lee Herrin Berry" loc7="" gen8="David Lee Berry" loc8="" />}}
 
-Generation 4 <a title="Thompsonberryala" href="/ancestors/thompsonberryala/">Thompson and Roseann Gutman Berry</a>
+{{< ancestor-profile
+  name="David Lee Berry"
+  gen="8"
+  born="1949"
+  spouse="Married, name not listed"
+  parents="William Thomas Jr. and Mattie Lee Herrin Berry"
+>}}
 
-Generation 5 Henry Bradford and Malissa Jefferies Berry
+**David Lee Berry** was born 1949. <!-- UNSOURCED --> David Lee Berry is Participant #101 in the Berry DNA Project.
 
-Generation 6 William Thomas Sr. and Lousia Bertha Minns Berry
+He is married and has two children.
 
-Generation 7 William Thomas jr. and Mattie Lee Herrin Berry
+---
 
-<strong>David Lee Berry</strong> was born 1949. David Lee Berry Is Participant # 101 In The Berry DNA Project.
+<h2 class="ancestor-section">Children of David Lee Berry</h2>
 
-He Is Married And Has Two Children
-<h3><strong>Children :</strong></h3>
-<ol>
-	<li>Living Female Berry</li>
-	<li>Living Male Berry</li>
+<ol class="children-list">
+
+<li class="child-entry">
+  <div class="child-name">1. Living Female Berry</div>
+</li>
+
+<li class="child-entry">
+  <div class="child-name">2. Living Male Berry</div>
+</li>
+
 </ol>
-<h3><strong>To Be Researched:</strong></h3>
-<h3><strong>Census Information:</strong></h3>
-<blockquote>“ TO Be Researched”
 
- </blockquote>
+---
+
+<h2 class="ancestor-section">Census Records</h2>
+
+{{< census-summary summary="To be researched." >}}
+
+---
+
+<div class="tree-link">
+  <a href="/family-lines/robert-berry-juniors-family-tree/">
+    View the Full Robert Berry Jr. Family Line
+    <span class="tree-link-sub">Robert Berry Jr. descendants</span>
+  </a>
+</div>
+
+</div>

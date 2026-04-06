@@ -1,20 +1,41 @@
 ---
 title: "Herman Fantom Maners Jr."
+description: "Herman Fantom Maners Jr., son of Addie Lena Berry and Hampton Fantom Maners of Spalding, Georgia and Guilford County, North Carolina."
+bookToc: true
 ---
 
-Ancestors:
-<ol>
-	<li>Generation Robert and Mary Williamson Berry, Princess Anne County. Virginia.</li>
-	<li>Generation Robert and Elizabeth Cate Berry, Orange County, North Carolina.</li>
-	<li>David J. and Mary Blaylock Berry, Orange County, North Carolina. & Georgia</li>
-	<li>Robert and Elizabeth Everett Berry, Georgia, Fayette & Milton Counties.</li>
-	<li>Jesse Lee and Nancy Ann Henry Berry, Georgia and Alabama</li>
-	<li>Addie Lena Berry and Hampton Fantom Manners,  Spaulding GA & Guilford County, North Carolina.</li>
-</ol>
-<a href="/images/herman-f.-maners-jr.-draft-registration.jpg"><img class="alignnone size-full wp-image-5410" src="/images/herman-f.-maners-jr.-draft-registration.jpg" alt="Herman F. Maners Jr. Draft Registration" width="1203" height="796" /></a>
+<div class="ancestor-page">
 
-<a href="/images/herman-f-maners-jr.-marriage-record.jpg"><img class="alignnone size-full wp-image-5412" src="/images/herman-f-maners-jr.-marriage-record.jpg" alt="Herman F Maners Jr. Marriage record" width="999" height="767" /></a>
-<p><strong>Herman Fanton and Mazie Myrtle Anderson Manors had one daughter.</strong></p>
-<a href="/images/william-thomas-maners-death-certificate.jpg"><img class="alignnone size-full wp-image-5402" src="/images/william-thomas-maners-death-certificate.jpg" alt="William Thomas Maners Death Certificate" width="916" height="787" /></a>
+{{< breadcrumb trail="Home|/|Ancestors|/ancestors/|Herman Fantom Maners Jr." >}}
 
-<a href="#">Return to top of Page</a>
+{{< ancestor-chain gen3="David J. Berry × Mary Blalock" loc3="Orange County, NC → Georgia" link3="/ancestors/david-j-berry-sr/" gen4="Robert Berry × Elizabeth Everett" loc4="Georgia, Fayette & Milton Counties" gen5="Jesse Lee Berry × Nancy Ann Henry" loc5="Georgia and Alabama" link5="/ancestors/jesseleeberry/" gen6="Addie Lena Berry × Hampton Fantom Maners" loc6="Spalding, GA & Guilford County, NC" link6="/ancestors/addie-lena-berry/" gen7="Herman Fantom Maners Jr." loc7="Guilford County, North Carolina" />}}
+
+{{< ancestor-profile
+  name="Herman Fantom Maners Jr."
+  gen="7"
+  born="Guilford County, North Carolina"
+  died=""
+  spouse="Mazie Myrtle Anderson"
+  parents="Addie Lena Berry and Hampton Fantom Maners, Spalding, GA & Guilford County, NC"
+>}}
+
+## **Herman Fantom Maners Jr.**
+
+{{< img-float src="/images/herman-f.-maners-jr.-draft-registration.jpg" alt="World War II draft registration card for Herman F. Maners Jr." >}}
+
+{{< img-float src="/images/herman-f-maners-jr.-marriage-record.jpg" alt="Marriage record for Herman F. Maners Jr." >}}
+
+**Herman Fanton and Mazie Myrtle Anderson Maners had one daughter.** <!-- UNSOURCED -->
+
+{{< img-float src="/images/william-thomas-maners-death-certificate.jpg" alt="Death certificate for William Thomas Maners" >}}
+
+---
+
+<div class="tree-link">
+  <a href="/family-lines/">
+    Return to Family Lines
+    <span class="tree-link-sub">Berry family descendants</span>
+  </a>
+</div>
+
+</div>
