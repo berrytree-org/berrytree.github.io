@@ -3,10 +3,7 @@ title: "William Cate's Estate Sale"
 description: "Items purchased by Robert Berry Sr. and family at the estate sale of their father-in-law, William Cate, in 1803."
 ---
 
-<div style="background: linear-gradient(135deg, #1a2e1a, #2d4a2d); color: #e8dcc8; padding: 1.5rem 2rem; border-radius: 6px; margin-bottom: 1.5rem; border-left: 4px solid #c8a84b;">
-<h2 style="color: #c8a84b; margin: 0 0 0.5rem 0; font-size: 1.3rem;">William Cate's Estate Sale — 1803</h2>
-<p style="margin: 0; line-height: 1.6; font-size: 0.95rem;">Items purchased by Robert Berry Sr. and family at the estate sale of their father-in-law, William Cate.</p>
-</div>
+{{< info-banner title="William Cate's Estate Sale — 1803" subtitle="Items purchased by Robert Berry Sr. and family at the estate sale of their father-in-law, William Cate." >}}
 
 {{< img-float src="/images/willcatesale.jpg" alt="willcatesale" side="center" >}}
 

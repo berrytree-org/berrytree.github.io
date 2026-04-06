@@ -6,10 +6,7 @@ aliases:
   - /ancestors/known-surnames-of-berry-inlaws/
 ---
 
-<div style="background: linear-gradient(135deg, #1a2e1a, #2d4a2d); color: #e8dcc8; padding: 1.5rem 2rem; border-radius: 6px; margin-bottom: 1.5rem; border-left: 4px solid #c8a84b;">
-<h2 style="color: #c8a84b; margin: 0 0 0.5rem 0; font-size: 1.3rem;">291 Families Connected to Our Berry Line</h2>
-<p style="margin: 0; line-height: 1.6; font-size: 0.95rem;">Spanning eight generations from Princess Anne County, Virginia to points across the American South and West.</p>
-</div>
+{{< info-banner title="291 Families Connected to Our Berry Line" subtitle="Spanning eight generations from Princess Anne County, Virginia to points across the American South and West." >}}
 
 The following 291 surnames represent the families who married into the Berry line descending from Robert and Elizabeth Cate Berry of Orange County, North Carolina. These names have been gathered from census records, marriage bonds, wills, deeds, family bibles, and correspondence with descendants over many years of research. If you recognize your family name in this list, you may be connected to our Berry family. We love meeting new cousins and sharing research, so please reach out through our [Contact](/contact/) page.
 

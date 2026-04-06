@@ -3,10 +3,7 @@ title: "Berry Wills and Deeds from PAC, 1691–1755"
 description: "Twelve Berry family entries from Princess Anne County, Virginia, deed books covering 1691 to 1755."
 ---
 
-<div style="background: linear-gradient(135deg, #1a2e1a, #2d4a2d); color: #e8dcc8; padding: 1.5rem 2rem; border-radius: 6px; margin-bottom: 1.5rem; border-left: 4px solid #c8a84b;">
-<h2 style="color: #c8a84b; margin: 0 0 0.5rem 0; font-size: 1.3rem;">Berry Wills & Deeds — Princess Anne County, Virginia</h2>
-<p style="margin: 0; line-height: 1.6; font-size: 0.95rem;">12 Berry family entries from deed books 1–7, 1691–1755. Abstracted by Anne Mailing.</p>
-</div>
+{{< info-banner title="Berry Wills & Deeds — Princess Anne County, Virginia" subtitle="12 Berry family entries from deed books 1–7, 1691–1755. Abstracted by Anne Mailing." >}}
 
 Only 12 listings were found for Berry wills and deeds in Princess Anne County, Virginia, and only three Berrys appeared in the Virginia 1704 quit rent rolls. In the list below, **wd** = will dated, **wp** = will probated.
 

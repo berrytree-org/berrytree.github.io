@@ -4,10 +4,7 @@ description: "Intermarriage connections between the Aldridge, Berry, Farquhar, a
 weight: 14
 ---
 
-<div style="background: linear-gradient(135deg, #1a2e1a, #2d4a2d); color: #e8dcc8; padding: 1.5rem 2rem; border-radius: 6px; margin-bottom: 1.5rem; border-left: 4px solid #c8a84b;">
-<h2 style="color: #c8a84b; margin: 0 0 0.5rem 0; font-size: 1.3rem;">The Aldridge, Berry, Farquhar & Waggoner Connection</h2>
-<p style="margin: 0; line-height: 1.6; font-size: 0.95rem;">Four families intermarried across multiple generations from Orange County, NC, to Fayette County, Alabama, and Burnet County, Texas.</p>
-</div>
+{{< info-banner title="The Aldridge, Berry, Farquhar & Waggoner Connection" subtitle="Four families intermarried across multiple generations from Orange County, NC, to Fayette County, Alabama, and Burnet County, Texas." >}}
 
 There are several marriages in different Berry lines involving these four families.
 

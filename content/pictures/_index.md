@@ -4,10 +4,7 @@ weight: 9
 description: "Photographs of Berry family descendants spanning multiple generations, from the David Berry line, the William Berry line, and beyond."
 ---
 
-<div style="background: linear-gradient(135deg, #1a2e1a, #2d4a2d); color: #e8dcc8; padding: 1.5rem 2rem; border-radius: 6px; margin-bottom: 1.5rem; border-left: 4px solid #c8a84b;">
-<h2 style="color: #c8a84b; margin: 0 0 0.5rem 0; font-size: 1.3rem;">Berry Family Picture Albums</h2>
-<p style="margin: 0; line-height: 1.6; font-size: 0.95rem;">Photographs of the Robert and Elizabeth Cate Berry family spanning multiple generations and family lines.</p>
-</div>
+{{< info-banner title="Berry Family Picture Albums" subtitle="Photographs of the Robert and Elizabeth Cate Berry family spanning multiple generations and family lines." >}}
 
 ## **Picture Albums Of The Robert And Elizabeth Cate Berry Family**
 

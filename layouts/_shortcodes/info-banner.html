@@ -1,0 +1,16 @@
+{{/*
+  info-banner shortcode
+  Forest/gold banner for Info and Reference pages.
+  Replaces per-page inline HTML with a single maintainable component.
+
+  Parameters:
+    title    (string) — Banner heading text
+    subtitle (string) — One-line description below the title
+
+  Usage:
+    {{< info-banner title="Page Title Here" subtitle="Brief description of the page content." >}}
+*/}}
+<div class="info-banner" role="banner">
+  <p class="info-banner-title">{{ .Get "title" }}</p>
+  <p class="info-banner-subtitle">{{ .Get "subtitle" }}</p>
+</div>
