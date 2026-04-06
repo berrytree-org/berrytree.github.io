@@ -2,14 +2,11 @@
 title: "James Berry Tenn"
 ---
 
+## James Berry, son of Joshua Berry and Nancy Ellison Berry
 
-## James Berry, son of Joshua Berry And Nancy Ellison Berry
-### Ancestors:
-Generation 1. Robert and Mary Williamson Berry Princess Anne, County Virginia.
-
-Generation 2. Robert and Elizabeth Cate Berry Orange County, North Carolina.
-
-Generation 3. Joshua and Nancy Ellison Berry Orange County, North Carolina.
+- **Gen 1** Robert Berry × Mary Williamson — Princess Anne County, Virginia
+- **Gen 2** Robert Berry × Elizabeth Cate — Orange County, North Carolina
+- **Gen 3** Joshua Berry × Nancy Ellison — Orange County, North Carolina
 
 James Berry was born in 1800 in Orange County, North Carolina.
 James Berry and Mary Parker were married in North Carolina about 1829. Their first three daughters were born in North Carolina. The oldest daughter, Nancy, was born in 1830. The youngest daughter, Delila, was born in North Carolina in 1836 and was 14 years old in the 1850 Smith County, Tennessee census. The oldest child born in Tennessee  was, Martha,  who was 11 years old in 1850.

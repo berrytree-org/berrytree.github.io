@@ -2,7 +2,13 @@
 title: "John and Martha Stepp Berry"
 ---
 
-## John Berry is the son of Robert and Elizabeth Cate Berry
+## John Berry, son of Robert and Elizabeth Cate Berry
+
+- **Gen 1** Robert Berry × Mary Williamson — Princess Anne County, Virginia
+- **Gen 2** Robert Berry × Elizabeth Cate — Orange County, North Carolina
+- **Gen 3** John Berry × Martha Stepp — Orange County, NC → Jackson County, Georgia
+
+> **Book Chapter:** Read the full story in [Chapter 5: John Berry](/books/frontier-america/ch05-john-berry/) from *Our Berrys in Frontier America*
 
 {{< img-float src="/images/john-berry-martha-stepp.jpg" alt="John Berry Martha Stepp" >}}
 

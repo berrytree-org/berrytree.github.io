@@ -2,19 +2,13 @@
 title: "Robert Clark Berry Ga"
 ---
 
-## Robert Clark Berry, Son Of Robert Riley And Martha “Mattie”Stark Berry
+## Robert Clark Berry, son of Robert Riley and Martha “Mattie” Starke Berry
 
-ANCESTORS
-
-- Generation Robert and Marry Williamson Berry, Princess Anne County, Georgia.
-
-- Generation Robert and Elizabeth Cate Berry, Orange County, North Carolina.
-
-- Generation David J. and Mary Blalock Berry, Orange County, North Carolina, and Georgia
-
-- Generation Robert and Elizabeth Everett Berry, Georgia.
-
-- Generation Robert Riley and Martha “Mattie” Starke Berry
+- **Gen 1** Robert Berry × Mary Williamson — Princess Anne County, Virginia
+- **Gen 2** Robert Berry × Elizabeth Cate — Orange County, North Carolina
+- **Gen 3** David J. Berry × Mary Blalock — Orange County, NC → Georgia
+- **Gen 4** Robert Berry × Elizabeth Everett — Georgia
+- **Gen 5** Robert Riley Berry × Martha “Mattie” Starke — Georgia
 
 - **Gen 6** [Horace Prather Berry](/ancestors/robert-c-berry-alabama/) November 18 1870 – January 18 1958
 - **Gen 6** William Riley Berry died 1873
