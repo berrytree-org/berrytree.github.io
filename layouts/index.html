@@ -134,22 +134,123 @@
     font-style: italic;
   }
 
-  /* ── Home page: suppress Book theme chrome, go full-bleed ── */
-  body.book-kind-home .book-menu,
-  body.book-kind-home .book-toc,
-  body.book-kind-home .book-header,
-  body.book-kind-home .book-menu-overlay {
-    display: none !important;
+  /* ── MOBILE: suppress Book theme chrome, go full-bleed ── */
+  @media (max-width: 56rem) {
+    body.book-kind-home .book-menu,
+    body.book-kind-home .book-toc,
+    body.book-kind-home .book-header,
+    body.book-kind-home .book-menu-overlay {
+      display: none !important;
+    }
+
+    body.book-kind-home .container.flex {
+      display: block !important;
+    }
+
+    body.book-kind-home .book-page {
+      padding: 0 !important;
+      max-width: 100% !important;
+      min-width: 0 !important;
+    }
   }
 
-  body.book-kind-home .container.flex {
-    display: block !important;
-  }
+  /* ── DESKTOP: restore sidebar, hide hamburger, hero bleeds full-viewport ── */
+  @media (min-width: 56.01rem) {
+    .hb-btn,
+    .hb-overlay,
+    .hb-panel {
+      display: none !important;
+    }
 
-  body.book-kind-home .book-page {
-    padding: 0 !important;
-    max-width: 100% !important;
-    min-width: 0 !important;
+    /* No TOC or header needed on homepage */
+    body.book-kind-home .book-toc,
+    body.book-kind-home .book-header {
+      display: none !important;
+    }
+
+    /* Sidebar floats over the page — hero fills full viewport behind it */
+    body.book-kind-home .book-menu {
+      position: fixed;
+      top: 0;
+      left: 0;
+      height: 100vh;
+      z-index: 20;
+    }
+
+    /* Content area spans full viewport width */
+    body.book-kind-home .book-page {
+      padding: 0 !important;
+      max-width: 100% !important;
+      min-width: 0 !important;
+      width: 100%;
+    }
+
+    body.book-kind-home .container {
+      max-width: 100%;
+    }
+
+    /* Hero fills the full window — sidebar floats on top */
+    .home-hero {
+      width: 100%;
+    }
+
+    /* Content below hero gets left margin so it doesn't hide behind sidebar */
+    .home-section,
+    .home-homestead,
+    .home-footer {
+      margin-left: 16rem;
+    }
+
+    /* ── Homepage sidebar: forest green with gold text ── */
+    body.book-kind-home .book-menu-content {
+      background-color: #0e1e0e !important;
+      background-image: none !important;
+      backdrop-filter: none !important;
+      -webkit-backdrop-filter: none !important;
+      border-right: 1px solid #2a4a2a !important;
+      height: 100%;
+      overflow-y: auto;
+    }
+
+    /* Brand heading — gold */
+    body.book-kind-home .book-brand {
+      color: #c8a84b;
+    }
+
+    /* Nav links — gold with green hover */
+    body.book-kind-home .book-menu nav a {
+      color: #c8a84b;
+      font-weight: 600;
+    }
+
+    body.book-kind-home .book-menu nav a:hover {
+      color: #f0e8d0;
+      background-color: rgba(200, 168, 75, 0.12);
+    }
+
+    body.book-kind-home .book-menu nav a:focus {
+      outline-color: #c8a84b;
+    }
+
+    /* Search bar — cream background */
+    body.book-kind-home .book-search input {
+      background-color: rgba(245, 240, 232, 0.9) !important;
+      border-color: #2a4a2a !important;
+      color: #1a2e1a;
+    }
+
+    body.book-kind-home .book-search input:focus {
+      background-color: rgba(245, 240, 232, 1) !important;
+      outline-color: #c8a84b;
+    }
+
+    /* Stats, cards, homestead, footer stay in the sidebar layout */
+    .home-section,
+    .home-homestead,
+    .home-footer {
+      position: relative;
+      z-index: 1;
+    }
   }
 
   /* ── Hero ── */
