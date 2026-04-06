@@ -1,5 +1,6 @@
 ---
 title: "Proof Page"
+description: "Evidence connecting Robert Berry of Orange County, NC, to Princess Anne County, Virginia, through the Williamson and Kempe families."
 ---
 
 <div style="background: linear-gradient(135deg, #1a2e1a, #2d4a2d); color: #e8dcc8; padding: 1.5rem 2rem; border-radius: 6px; margin-bottom: 1.5rem; border-left: 4px solid #c8a84b;">
@@ -7,7 +8,7 @@ title: "Proof Page"
 <p style="margin: 0; line-height: 1.6; font-size: 0.95rem;">Evidence linking Robert Berry of Orange County, NC, to Princess Anne County, Virginia, through the Williamson and Kempe families.</p>
 </div>
 
-### **Robert Berry of Orange County NC was born in Princess Ann County Virginia about 1729**
+### **Robert Berry of Orange County NC was born in Princess Ann County Virginia about 1729** <!-- UNSOURCED -->
 ANCESTORS
 1. Generation  Roger Williamson and Ann Foster, South Norfolk County, Virginia.
 2. Generation  Richard Williamson and Mary Kempe, Princess Anne County, Virginia.
@@ -34,7 +35,7 @@ Deed Book 5 p 11 Indenture 5 Aug 1735 Roger Williamson leased to Edward Thurston
 	Nicholson Jno Norfolk County, 1704
 	Nicholson Wm Norfolk County, 1704
 - **James Craford** found in 1755 OC Tax list page 6
-- **Crawford Wm Capt** Princess Anne County, 1704{{< img-float src="/images/wmcraford.jpg" >}}
+- **Crawford Wm Capt** Princess Anne County, 1704{{< img-float src="/images/wmcraford.jpg" alt="William Crawford land release document, Princess Anne County, Virginia" >}}
 - **William Craford** Release of land (see image above)in Princess Ann County Va
 
 ---
@@ -44,7 +45,7 @@ Aug 1751 On the motion of **William Martin** it is ordered that he have the ____
 ---
 
 - **1755 tax list Orange County NC Tax List page 7 Robert Berry (OC)** found on 1755 OC Tax list page 7. Made Entry for Granville Land Grant, Feb 6 1752
-- **Berrey Robert (PAC)** Norfolk County 1704 died in 1730 Princess Ann County VA.
+- **Berrey Robert (PAC)** Norfolk County 1704 died in 1730 <!-- UNSOURCED --> Princess Ann County VA.
 - **William Hartin (Martin)** found in 1755 OC Tax list page 7
 - **William Martin** found in court Document above **Aug 1751** Princes Ann County Va.
 - **Robert Berry Made Entry for Granville Land Grant on February 6th 1752 Matthew and Sarah Williamson Mathias** were **Robert Berry's (OC)** Uncle and Aunt

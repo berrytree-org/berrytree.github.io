@@ -1,5 +1,6 @@
 ---
 title: "Extended Site Map"
+description: "Complete index of all pages on berrytree.org including census records, documents, ancestor pages, and research resources."
 weight: 5
 ---
 

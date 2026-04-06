@@ -1,5 +1,6 @@
 ---
 title: "Francis Marion Berry"
+description: "Francis Marion Berry (1861-1943), son of John Berry and Mary Howell, from Rusk County, Texas, to Cleveland, Oklahoma."
 ---
 
 - **Gen 1** Robert Berry × Mary Williamson — Princess Anne County, Virginia
@@ -8,7 +9,7 @@ title: "Francis Marion Berry"
 - **Gen 4** George Berry × Susanna Aldridge — North Carolina & Fayette County, Alabama
 - **Gen 5** John Berry × Mary Howell — Fayette County, Alabama & Rusk County, Texas
 - **Gen 6** Francis Marion Berry × Fannie Lillie Hudspeth
-John Berry was born in Person County North Carolina in 1815. his parents were George and Susan Aldridge.  They were married after George Berry completed his tour of duty in the war of 1812 John Berry was about five years old when he left North Carolina with his father George, and mother Susanna Berry,  his grandfather Robert Berry Jr.and his Grandmother Mary Waggoner Berry.
+John Berry was born in Person County North Carolina in 1815. <!-- UNSOURCED --> his parents were George and Susan Aldridge.  They were married after George Berry completed his tour of duty in the war of 1812 John Berry was about five years old when he left North Carolina with his father George, and mother Susanna Berry,  his grandfather [Robert Berry Jr.](/ancestors/robert-berry-jr/)and his Grandmother Mary Waggoner Berry.
 
 Congress made public lands available in Tuscaloosa Alabama on April 24 1820.  Robert Berry Jr. listed in the 1810 Person County Census but it appears he and his family left North Carolina before the 1820 census was taken in Person County
 
@@ -16,11 +17,11 @@ Congress made public lands available in Tuscaloosa Alabama on April 24 1820.  Ro
 
 Robert Berry Jr and his son George were granted 80 acers of land  in what became Fayette County Alabama in April  26 1824.
 
-John Berry  Married Mary Howell in Fayette County Alabama about 1837 Their youngest son was named Francis Marion Berry
+John Berry  Married Mary Howell in Fayette County Alabama about 1837 <!-- UNSOURCED --> Their youngest son was named Francis Marion Berry
 
 Francis Marion Berry was born in Rusk County Texas on 23 Feb 1861 & died 08 Jan 1943 in Cleveland Oklahoma.Fannie Lillie Hudspeth was born 09 Jun 1873 and died 17 Jul 1934 in Cleveland Oklahoma.
 
-Francis Marion Berry and  Fannie Lillie Hudspeth were married about 1890.
+Francis Marion Berry and  Fannie Lillie Hudspeth were married about 1890. <!-- UNSOURCED -->
 
 {{< img-float src="/images/cropped-fmb.jpg" alt="cropped FMB" >}}
 

@@ -1,5 +1,6 @@
 ---
 title: "Berry Family Name List"
+description: "Directory of all known descendants of Robert and Elizabeth Cate Berry, organized by generation and family line."
 ---
 
 <div style="background: linear-gradient(135deg, #1a2e1a, #2d4a2d); color: #e8dcc8; padding: 1.5rem 2rem; border-radius: 6px; margin-bottom: 1.5rem; border-left: 4px solid #c8a84b;">
@@ -7,15 +8,15 @@ title: "Berry Family Name List"
 <p style="margin: 0; line-height: 1.6; font-size: 0.95rem;">All known descendants of Robert and Elizabeth Cate Berry, organized by generation and family line.</p>
 </div>
 
-## Robert and Elizabeth Cate Berry's Descendants
-#### 1St Generation:
+**Robert and Elizabeth Cate Berry's Descendants**
+**1St Generation:**
 
 **Robert Berry & Mary Williamson Robert Berry & Mary Williamson's Children:**
-#### 2nd Generation:
+**2nd Generation:**
 1. **[Robert Berry](/ancestors/robert-berry-oc/)**
 2. **[Richard Berry](/ancestors/robertberrypac/)**
-### Robert & Elizabeth Cate Berry's Children:
-#### 3 rd Generation:
+**Robert & Elizabeth Cate Berry's Children:**
+**3 rd Generation:**
 1. **[Mary Berry](/ancestors/maryberry/)**
 2. **[Robert Berry Jr.](/ancestors/robertberryjr/) **
 3. **[John Berry](/ancestors/johnberry/)**
@@ -28,13 +29,13 @@ title: "Berry Family Name List"
 10. **[Henry Berry](/ancestors/henryberry/)**
 
 **William & Hannah Cate Berry's Children**
-#### 4th Generation:
+**4th Generation:**
 1. **[William C. Berry](/documents/williamchildren/)**
 2. **[Robert C. Berry](/documents/williamchildren/) **
 3. **[Thomas Person Berry](/documents/williamchildren/)**
 
 **William & Hannah Cate Berry's Grandchildren**
-#### 5th Generation:
+**5th Generation:**
 
 **William Clarence & Sally Bowles Berry's Children**
 1. **[Roann Frances Berry](/ancestors/roannfrances/)**
@@ -72,7 +73,7 @@ title: "Berry Family Name List"
 6. **[George Washington Berry](/ancestors/robertcberryalabama/)**
 
 **Joshua & Nancy Ellison Berry's Children**
-#### 4th Generation:
+**4th Generation:**
 1. **[Charlotte Berry](/ancestors/joshuachildren/)**
 2. **[James Berry](/ancestors/joshuachildren/)**
 3. **[Eli Berry](/ancestors/joshuachildren/)**
@@ -88,10 +89,10 @@ title: "Berry Family Name List"
 13. **[William G. Berry](/ancestors/davidjchildren/)**
 14. **Thomas G.Berry **
 15. **[Joshua M.Berry](/ancestors/davidjchildren/) Thomas & Sarah Cate Berry's Children**
-#### 4th Generation:
+**4th Generation:**
 1. **[David II Berry](/ancestors/thomasberrync/)**
 2. **[Eleanor Berry](/ancestors/thomasberrync/) Thomas & Sarah Cate Berry's Grandchildren**
-#### 5th Generation:
+**5th Generation:**
 
 **David II & Elizabeth Shipman Berry's Children**
 1. **[Annie Berry](/ancestors/davidsonoftom/)**
@@ -107,17 +108,17 @@ title: "Berry Family Name List"
 11. **[David Berry](/ancestors/davidsonoftom/)**
 12. **[Martha Berry](/ancestors/davidsonoftom/)**
 13. **[Irvin Berry](/ancestors/davidsonoftom/) John & Martha Stepp Berry's Children**
-#### 4th Generation:
+**4th Generation:**
 1. **[Polly Berry](/ancestors/johnberry/)**
 2. **[Betsy Berry](/ancestors/johnberry/)**
 3. **[Robert Berry](/ancestors/johnberry/)**
 4. **[Joshua Berry](/ancestors/johnberry/)**
 5. **[William Berry](/ancestors/johnberry/) Isaac & Lydia Berry's Daughter**
-#### 4th Generation:
+**4th Generation:**
 1. **Mary Ann Berry  Henry Berry & Fanny Ashley's Daughter**
-#### 4th Generation:
+**4th Generation:**
 **[Mary Ann Ashley Berry](/ancestors/henryberry/) Henry Berry & Fanny Ashley's Grandchildren**
-#### 5th Generation:
+**5th Generation:**
 
 **Mary Ashley Berry & Thomas King's Children**
 1. **[William King](/ancestors/henryberry/)**
@@ -127,13 +128,13 @@ title: "Berry Family Name List"
 5. **[Mary King](/ancestors/henryberry/)**
 6. **[Susan King](/ancestors/henryberry/)**
 7. **[Judy King](/ancestors/henryberry/) John & Mary Berry Camp's Children**
-#### 4th Generation:
+**4th Generation:**
 1. **[John Camp](/ancestors/maryberry/)**
 2. **[Sarah Camp](/ancestors/maryberry/)**
 3. **[Robert Berry Camp](/ancestors/maryberry/)**
 4. **[Joseph Camp](/ancestors/maryberry/)**
 5. **[Starling Camp](/ancestors/maryberry/) David J.& Mary Blalock Berry's Children**
-#### 4th Generation:
+**4th Generation:**
 1. **[Sarah Winferd Berry](/ancestors/sarahberrycatesga/)**
 2. **[Winifred Berry](/ancestors/winiifredncga/)**
 3. **[David J. Berry Jr.](/ancestors/davidsodavid/)**
@@ -145,7 +146,7 @@ title: "Berry Family Name List"
 9. **[William G. Berry](/documents/williamgsodavid/)**
 10. **[Thomas Berry](/ancestors/thomassodavid/)**
 11. **[Joshua Berry](/ancestors/davidjchildren/) David J.& Mary Blalock Berry's Grandchildren**
-#### 5th Generation:
+**5th Generation:**
 
 **Mary Polly Berry & William Abraham Cates'Children**
 1. **[Alfred Cates](/ancestors/sarahberrycatesga/)**
@@ -184,14 +185,14 @@ title: "Berry Family Name List"
 3. **[Mary Berry](/ancestors/joshuaberryga/)**
 4. **[Angelina Berry](/ancestors/joshuaberryga/)**
 5. **[Joshua M Berry](/ancestors/joshuaberryga/) Robert Berry Jr. & Mary Camp's Children**
-#### 4th Generation:
+**4th Generation:**
 1. **[Catherine Berry](/ancestors/rbjchildren/)**
 2. **[George Berry](/ancestors/rbjchildren/)**
 3. **[John Berry](/ancestors/rbjchildren/)**
 4. **[Henry Berry](/ancestors/rbjchildren/)**
 5. **[Thompson Berry](/ancestors/rbjchildren/)**
 6. **[David Middleton Berry](/ancestors/rbjchildren/) Robert Berry Jr. & Mary Camp's Grandchildren**
-#### 5th Generation:
+**5th Generation:**
 
 **Jacob Pickle & Catherine Berry's Children**
 1. **[Mary Pickle](/ancestors/catherineberrync/)**

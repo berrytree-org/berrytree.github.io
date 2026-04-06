@@ -1,5 +1,6 @@
 ---
 title: "Albert Edgar Berry"
+description: "Albert Edgar Berry (1881-1964), son of Jesse Lee and Nancy Ann Henry Berry, from Georgia and Alabama."
 ---
 
 ## **Albert Edgar Berry, son of Jesse Lee and Nancy Ann Henry Berry**
@@ -12,11 +13,11 @@ title: "Albert Edgar Berry"
 - **Gen 6** Albert Edgar Berry × Ella Claudia Dorton — Georgia
 {{< img-float src="/images/jesse-lee-children.jpg" alt="Jesse lee children" >}}
 
-**L to R. Sarah Florence Berry Kelly, William Oscar Berry, Albert Edgar Berry, Addie Lena Berry Maners, Cora Mae Berry McVickers, Walter Glenn Berry is not shown in this picture Albert Edgar Berry **was born on December 28, 1881 in Etowah County Alabama. Albert died om May 23, 1964. He and his first wife are buried at Bethany Baptist Church Cemetery,  Henry County, Georgia. Albert Edgar Berry and **Ella Claudia Dorton**  were married on the 23 January 1905. She was born February 2, 1880 and died February 15 1916.
+**L to R. Sarah Florence Berry Kelly, William Oscar Berry, Albert Edgar Berry, Addie Lena Berry Maners, Cora Mae Berry McVickers, Walter Glenn Berry is not shown in this picture Albert Edgar Berry **was born on December 28, 1881 <!-- UNSOURCED --> in Etowah County Alabama. Albert died om May 23, 1964. He and his first wife are buried at Bethany Baptist Church Cemetery,  Henry County, Georgia. Albert Edgar Berry and **Ella Claudia Dorton**  were married on the 23 January 1905. She was born February 2, 1880 <!-- UNSOURCED --> and died February 15 1916. <!-- UNSOURCED -->
 
 {{< img-float src="/images/a-e-berry-claudia-dorton-marriage-license-sharp.jpg" alt="A E Berry Claudia Dorton Marriage License Sharp" >}}
 
-In 1910, Albert Edgar, his wife **Ella Claudia**, and his two children, Eunice and William were living in Muskogee County, GA next to Jesse Lee Berry.William Lamar Berry was born in Henry county in 1910. There may be two possibilities His mother may have gone back home to Henry County to have her baby or William Lamar Berry was born before the family moved to Muscogee, Georgia  Eunice Mary, went by the name Mary in the 1920 and 1930 census,  the oldest child, Eunice, being born in 1906 and William in 1908.  Both children's ages are confirmed in the 1910 census.
+In 1910, Albert Edgar, his wife **Ella Claudia**, and his two children, Eunice and William were living in Muskogee County, GA next to [Jesse Lee Berry](/ancestors/jesseleeberry/).William Lamar Berry was born in Henry county in 1910. There may be two possibilities His mother may have gone back home to Henry County to have her baby or William Lamar Berry was born before the family moved to Muscogee, Georgia  Eunice Mary, went by the name Mary in the 1920 and 1930 census,  the oldest child, Eunice, being born in 1906 and William in 1908.  Both children's ages are confirmed in the 1910 census.
 
 Larger views of the two census forms below can be seen by clicking on the forms themselves. This Census was taken in Nances, Muscogee, Georgia in 1910. This cropped form was taken from the full census form shown below it. Edgar Berry and his wife and two children were living beside his father, Jesse Lee Berry, in the 1910 census.
 
@@ -38,7 +39,7 @@ Ella Claudia Dorton Berry died on February 15th 1916.
 
 Sometimes after 1910, Albert Edgar Berry and his family migrated back to Henry County, GA. Ella Berry was 7 in the 1920 census. Albert Edgar was living in Henry County in 1918 when he registered for the Draft.
 
-On October 15th 1917 Albert Edgar Berry apparently Married to Minnie Lawson  but this marriage must not have lasted very long.
+On October 15th 1917 Albert Edgar Berry apparently Married <!-- UNSOURCED --> to Minnie Lawson  but this marriage must not have lasted very long.
 
 The marriage licenses below dated October 15 1917 and the draft registration dated  September 12, 1918 answers a long standing question.  Ella Claudia died on February 16th 1916. Albert's draft card states he is married. Although it says Spouse: Mrs.. A.E. Berry,.The family was puzzled because they all believed he was a Widow at the time Albert registered for the draft
 
@@ -74,7 +75,7 @@ In the 1930 census, Nancy Ann Henry Berry, Jesse Lee's wife is living in Griffin
 
 {{< img-float src="/images/albert-lee-berry-2.jpg" alt="Albert Lee Berry 2" side="left" >}}
 
-In the 1920 census Albert was living as a widower in Henry County Georgia with his three children, Mary Eunice (14), William (11), and Ella (7). and Madelle Williams as a servant. Albert Edgar and Maydelle had two children after the 1820 census was enumerated. Albert Lee Berry (Picture on the left) was born  in Columbus Georgia on March 17 1921 and died in Racine Wisconsin on March 28 2008. and Ruby was born  in 1923. .
+In the 1920 census Albert was living as a widower in Henry County Georgia with his three children, Mary Eunice (14), William (11), and Ella (7). and Madelle Williams as a servant. Albert Edgar and Maydelle had two children after the 1820 census was enumerated. Albert Lee Berry (Picture on the left) was born  in Columbus Georgia on March 17 1921 <!-- UNSOURCED --> and died in Racine Wisconsin on March 28 2008. <!-- UNSOURCED --> and Ruby was born  in 1923. <!-- UNSOURCED --> .
 
 
 
@@ -90,8 +91,8 @@ Albert Edgar Berry has not been located in any 1930 or 1940 census. He did show 
 
 {{< img-float src="/images/albert-e.-berry-1941.jpg" alt="Albert E. Berry 1941" >}}
 ### **Children of Albert Edgar and Ella Claudia Dorton Berry:**
-- Eunice Berry born 1906
-- [William Lamar Berry born 1908](/documents/williamlamar/)
+- Eunice Berry born 1906 <!-- UNSOURCED -->
+- [William Lamar Berry born 1908](/documents/williamlamar/) <!-- UNSOURCED -->
 - Living Berry by second wife
 - Living Berry by second wife children
 **Albert Edgar Berry Grave Information Below:**

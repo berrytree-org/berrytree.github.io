@@ -1,5 +1,6 @@
 ---
 title: "Orange County NC Marriage Bonds A - C"
+description: "Index of Orange County, North Carolina marriage bonds from surnames A through C, including 15 Berry family bonds from 1797 to 1857."
 ---
 
 <div style="background: linear-gradient(135deg, #1a2e1a, #2d4a2d); color: #e8dcc8; padding: 1.5rem 2rem; border-radius: 6px; margin-bottom: 1.5rem; border-left: 4px solid #c8a84b;">

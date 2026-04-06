@@ -1,15 +1,16 @@
 ---
 title: "James Berry Tenn"
+description: "James Berry (b. 1800), son of Joshua and Nancy Ellison Berry, who migrated from Orange County, NC, to Smith County, Tennessee."
 ---
 
-## James Berry, son of Joshua Berry and Nancy Ellison Berry
+## **James Berry, son of Joshua Berry and Nancy Ellison Berry**
 
 - **Gen 1** Robert Berry × Mary Williamson — Princess Anne County, Virginia
 - **Gen 2** Robert Berry × Elizabeth Cate — Orange County, North Carolina
 - **Gen 3** Joshua Berry × Nancy Ellison — Orange County, North Carolina
 
-James Berry was born in 1800 in Orange County, North Carolina.
-James Berry and Mary Parker were married in North Carolina about 1829. Their first three daughters were born in North Carolina. The oldest daughter, Nancy, was born in 1830. The youngest daughter, Delila, was born in North Carolina in 1836 and was 14 years old in the 1850 Smith County, Tennessee census. The oldest child born in Tennessee  was, Martha,  who was 11 years old in 1850.
+James Berry was born in 1800 in Orange County, North Carolina. <!-- UNSOURCED -->
+James Berry and Mary Parker were married in North Carolina about 1829. <!-- UNSOURCED --> Their first three daughters were born in North Carolina. The oldest daughter, Nancy, was born in 1830. The youngest daughter, Delila, was born in North Carolina in 1836 and was 14 years old in the 1850 Smith County, Tennessee census. The oldest child born in Tennessee  was, Martha,  who was 11 years old in 1850.
 This means James and Mary were in North Carolina in 1836 and in Tennessee in 1839.
 I have no absolute proof that the James Berry on this page is related to us but all the facts indicate he was..
 {{< img-float src="/images/roberttojoshua.jpg" alt="roberttojoshua" >}}
@@ -18,8 +19,8 @@ I have no absolute proof that the James Berry on this page is related to us but 
 **This property lies west of Lick Creek and is about half of Robert Berry's Original 1757 Granville Land Grant.**
 
 **Facts supporting my theory that James is the son of Joshua and Nancy Ellison Berry:**
-1. Joshua an Nancy Berry had a son named James.
-2. James Berry was a witness on the deed from his grandfather, Robert Berry, to his Father, Joshua Berry, on February 24 1811.
+1. [Joshua](/ancestors/joshuaberry/) an Nancy Berry had a son named James.
+2. James Berry was a witness on the deed from his grandfather, [Robert Berry](/ancestors/robert-berry-oc/), to his Father, Joshua Berry, on February 24 1811.
 3. James Berry in the 1850 Smith County, Tennessee Census, was the right age.
 4. James and Mary Parker Berry named two of their daughters, Nancy and Delila.
 5. Our James Berry had a mother and a sister named Nancy and another sister named Delila.
@@ -61,7 +62,7 @@ Rank in: private.
 Rank out: Private
 Film Number M231 roll 1
 
-Thomas Allen must have died in the Civil War
+Thomas Allen must have died in the Civil War <!-- UNSOURCED -->
 
 Tennessee State Marriages. 1780-2002
 
@@ -101,7 +102,7 @@ FHL Film Number: 1299708
 - Cora Marks, F, age 11
 - Marshal Marks, M, age 7 months, born October 12 1879
 
-Martha V. Berry Marks  must have died from childbirth complications when or shortly after Marshal Marks was born.
+Martha V. Berry Marks  must have died from childbirth complications when or shortly after Marshal Marks was born. <!-- UNSOURCED -->
 
 Burton Marks married Mary (Last Name unknown) in 1883
 
@@ -113,7 +114,7 @@ Burton Marks married Mary (Last Name unknown) in 1883
 - Marshal Marks, M, age 20
 
 At this time nothing else is known about the other children who were listed in the 1850 Smith County Census.
-**James and Mary Parker Berry were born in Orange County, NC, and died in Smith County, Tennessee.**
+**James and Mary Parker Berry were born in Orange County, NC, and died in Smith County, Tennessee.** <!-- UNSOURCED -->
 Some Central Tennessee Counties where some of our Berry Ancestors homesteaded and live today. Nashville is in Davidson County.
 
 {{< img-float src="/images/central-tennessee-counties.jpg" alt="CENTRAL TENNESSEE COUNTIES" side="center" >}}

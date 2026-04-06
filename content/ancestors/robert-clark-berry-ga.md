@@ -1,8 +1,9 @@
 ---
 title: "Robert Clark Berry Ga"
+description: "Robert Clark Berry (1874-1955), son of Robert Riley and Martha Starke Berry, married Mary Nix in Georgia."
 ---
 
-## Robert Clark Berry, son of Robert Riley and Martha “Mattie” Starke Berry
+## **Robert Clark Berry, son of Robert Riley and Martha “Mattie” Starke Berry**
 
 - **Gen 1** Robert Berry × Mary Williamson — Princess Anne County, Virginia
 - **Gen 2** Robert Berry × Elizabeth Cate — Orange County, North Carolina
@@ -11,13 +12,13 @@ title: "Robert Clark Berry Ga"
 - **Gen 5** Robert Riley Berry × Martha “Mattie” Starke — Georgia
 
 - **Gen 6** [Horace Prather Berry](/ancestors/robert-c-berry-alabama/) November 18 1870 – January 18 1958
-- **Gen 6** William Riley Berry died 1873
+- **Gen 6** William Riley Berry died 1873 <!-- UNSOURCED -->
 - **Gen 6** [Robert Clark Berry](/ancestors/robert-clark-berry-ga/)
 - **Gen 6** Sarah Francis Leola Berry
 - **Gen 6** [Emma Ailene Berry](/ancestors/robert-clark-berry-ga/) 1878-19??
-- **Gen 6** Jason Miles Berry died 1880
+- **Gen 6** Jason Miles Berry died 1880 <!-- UNSOURCED -->
 - **Gen 6** [Enoch Meril Berry 1881 – 1961](/ancestors/enoch-m-berry-page/)
-- **Gen 6** Mary Elizabeth Berry 1886 – 1887
+- **Gen 6** Mary Elizabeth Berry 1886 – 1887 <!-- UNSOURCED -->
 
 **Gen 6 Robert Clark Berry** married Mary Nix
 
@@ -52,7 +53,7 @@ RESEARCH NEEDS TO BE DONE ON THIS COUSIN
 
 **To be Researched**
 
-### January 8, 2008
+### **January 8, 2008**
 
 CENSUS INFORMATION
 
