@@ -4,10 +4,7 @@ description: "Complete index of all pages on berrytree.org including census reco
 weight: 5
 ---
 
-<div style="background: linear-gradient(135deg, #1a2e1a, #2d4a2d); color: #e8dcc8; padding: 1.5rem 2rem; border-radius: 6px; margin-bottom: 1.5rem; border-left: 4px solid #c8a84b;">
-<h2 style="color: #c8a84b; margin: 0 0 0.5rem 0; font-size: 1.3rem;">Extended Site Map</h2>
-<p style="margin: 0; line-height: 1.6; font-size: 0.95rem;">Complete index of census records, document pages, ancestor pages, and research resources on berrytree.org.</p>
-</div>
+{{< info-banner title="Extended Site Map" subtitle="Complete index of census records, document pages, ancestor pages, and research resources on berrytree.org." >}}
 
 ### **[1790 Census Index](/ancestors/1790censusindex/)**
 1790 CENSUS INDEX

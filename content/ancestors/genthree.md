@@ -3,10 +3,7 @@ title: "Robert Berry and Elizabeth Cate Berry's Children"
 description: "Overview of Robert and Elizabeth Cate Berry's ten children, their spouses, and their migrations from Orange County, North Carolina."
 ---
 
-<div style="background: linear-gradient(135deg, #1a2e1a, #2d4a2d); color: #e8dcc8; padding: 1.5rem 2rem; border-radius: 6px; margin-bottom: 1.5rem; border-left: 4px solid #c8a84b;">
-<h2 style="color: #c8a84b; margin: 0 0 0.5rem 0; font-size: 1.3rem;">Robert and Elizabeth Cate Berry's Ten Children</h2>
-<p style="margin: 0; line-height: 1.6; font-size: 0.95rem;">Generation 3 of the Berry family, circa 1760–1858. All ten children were born in Orange County, North Carolina.</p>
-</div>
+{{< info-banner title="Robert and Elizabeth Cate Berry's Ten Children" subtitle="Generation 3 of the Berry family, circa 1760–1858. All ten children were born in Orange County, North Carolina." >}}
 
 - **Gen 1** [Robert Berry × Mary Williamson](/ancestors/robertberrypac/) — Princess Anne County, Virginia
 - **Gen 2** [Robert Berry × Elizabeth Cate](/ancestors/robert-berry-oc/) — Orange County, North Carolina

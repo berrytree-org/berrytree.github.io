@@ -1437,6 +1437,31 @@ p > strong:first-child {
   }
 }
 
+// Info-page banner — forest/gold gradient for reference and info pages
+// Replaces per-page inline HTML. Title uses <p> not <h2> to avoid
+// heading hierarchy conflicts (Jim's #29 fix).
+.info-banner {
+  background: linear-gradient(135deg, #1a2e1a, #2d4a2d);
+  color: #e8dcc8;
+  padding: 1.5rem 2rem;
+  border-radius: 6px;
+  margin-bottom: 1.5rem;
+  border-left: 4px solid #c8a84b;
+
+  .info-banner-title {
+    color: #c8a84b;
+    margin: 0 0 0.5rem 0;
+    font-size: 1.3rem;
+    font-weight: 700;
+  }
+
+  .info-banner-subtitle {
+    margin: 0;
+    line-height: 1.6;
+    font-size: 0.95rem;
+  }
+}
+
 // Chapter navigation — Previous / TOC / Next
 // V5: Flexbox layout replaces pipe-separated inline links
 .book-chapter-nav {

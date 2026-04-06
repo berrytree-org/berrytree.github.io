@@ -3,10 +3,7 @@ title: "Proof Page"
 description: "Evidence connecting Robert Berry of Orange County, NC, to Princess Anne County, Virginia, through the Williamson and Kempe families."
 ---
 
-<div style="background: linear-gradient(135deg, #1a2e1a, #2d4a2d); color: #e8dcc8; padding: 1.5rem 2rem; border-radius: 6px; margin-bottom: 1.5rem; border-left: 4px solid #c8a84b;">
-<h2 style="color: #c8a84b; margin: 0 0 0.5rem 0; font-size: 1.3rem;">Proof of the Berry-Williamson Connection</h2>
-<p style="margin: 0; line-height: 1.6; font-size: 0.95rem;">Evidence linking Robert Berry of Orange County, NC, to Princess Anne County, Virginia, through the Williamson and Kempe families.</p>
-</div>
+{{< info-banner title="Proof of the Berry-Williamson Connection" subtitle="Evidence linking Robert Berry of Orange County, NC, to Princess Anne County, Virginia, through the Williamson and Kempe families." >}}
 
 ### **Robert Berry of Orange County NC was born in Princess Ann County Virginia about 1729** <!-- UNSOURCED -->
 ANCESTORS

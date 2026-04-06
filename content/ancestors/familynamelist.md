@@ -3,10 +3,7 @@ title: "Berry Family Name List"
 description: "Directory of all known descendants of Robert and Elizabeth Cate Berry, organized by generation and family line."
 ---
 
-<div style="background: linear-gradient(135deg, #1a2e1a, #2d4a2d); color: #e8dcc8; padding: 1.5rem 2rem; border-radius: 6px; margin-bottom: 1.5rem; border-left: 4px solid #c8a84b;">
-<h2 style="color: #c8a84b; margin: 0 0 0.5rem 0; font-size: 1.3rem;">Berry Family Descendant Directory</h2>
-<p style="margin: 0; line-height: 1.6; font-size: 0.95rem;">All known descendants of Robert and Elizabeth Cate Berry, organized by generation and family line.</p>
-</div>
+{{< info-banner title="Berry Family Descendant Directory" subtitle="All known descendants of Robert and Elizabeth Cate Berry, organized by generation and family line." >}}
 
 **Robert and Elizabeth Cate Berry's Descendants**
 **1St Generation:**
