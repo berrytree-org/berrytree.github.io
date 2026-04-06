@@ -1,61 +1,82 @@
 ---
 title: "Robert T Berry"
+description: "Robert T Berry, a YDNA match to the William Berry line, born circa 1849 in Coosa County, Alabama."
+bookToc: true
 ---
 
-<ul>
-	<li>Robert T Berry has a descendant who matches My William Berry YDNA by 66 of 77 markers</li>
-</ul>
-At the present time we do not know who his father was but here is what we do Know
-<ol>
-	<li>Robert Berry and Mary Williamson Princess Ann County Virginia</li>
-	<li>Robert Berry and Elizabeth Cate Orange County NC</li>
-	<li>Berry Unknown</li>
-	<li>Robert T Berry (Susan Roberson is Robert T Berry's mother)</li>
-</ol>
-What we know
-<ul>
-	<li>Ruben and Elizabeth Blankenship Coosa County Alabama</li>
-	<li>Edith Blankenship is the daughter of Ruben and Elizabeth Blankenship</li>
-	<li>Edith Blankenship Married Thomas Roberson in Bibb County Alabama July 9 1823</li>
-	<li>Susan Roberson was living with her mother Eda (Edith) Roberson was living on the next farm adjoining her Father and Mother and listed head of household in the 1850 Coosa County Alabama Census shown below  and her husband Thomas Roberson was gone.</li>
-</ul>
-<img class="" src="/images/1850-susan-roberson-coosa-county-ala-copy.jpg" alt="1850 Susan Roberson coosa county ALA copy" width="619" height="334" />
+<div class="ancestor-page">
 
-<a href="/images/d-a-roberson-1870-age-8-a-.jpg"><img class="alignnone size-full wp-image-8909" src="/images/d-a-roberson-1870-age-8-a-.jpg" alt="D A Roberson 1870 age 8 A" width="1150" height="464" /></a>
+{{< breadcrumb trail="Home|/|Ancestors|/ancestors/|Family Lines|/family-lines/|Robert T Berry" >}}
+
+{{< ancestor-chain gen3="Berry Unknown" loc3="" gen4="Robert T Berry" loc4="Coosa County, Alabama" />}}
+
+{{< ancestor-profile
+  name="Robert T Berry"
+  gen="4"
+  born="c. 1849, Coosa County, Alabama"
+  died=""
+  spouse="Dorothy Ann Robinson"
+  parents="Susan Roberson (father unknown, Berry line via YDNA)"
+>}}
+
+- Robert T Berry has a descendant who matches My [William Berry](/ancestors/william-berry/) YDNA by 66 of 77 markers
+At the present time we do not know who his father was but here is what we do Know
+1. [Robert Berry and Mary Williamson](/ancestors/robert-berry-oc/) Princess Ann County Virginia
+2. [Robert Berry and Elizabeth Cate](/ancestors/robert-berry-oc/) Orange County NC
+3. Berry Unknown
+4. Robert T Berry (Susan Roberson is Robert T Berry's mother)
+
+**What we know**
+- Ruben and Elizabeth Blankenship Coosa County Alabama
+- Edith Blankenship is the daughter of Ruben and Elizabeth Blankenship <!-- UNSOURCED -->
+- Edith Blankenship Married Thomas Roberson in Bibb County Alabama July 9 1823 <!-- UNSOURCED -->
+- Susan Roberson was living with her mother Eda (Edith) Roberson was living on the next farm adjoining her Father and Mother and listed head of household in the 1850 Coosa County Alabama Census shown below and her husband Thomas Roberson was gone.
+
+{{< img-float src="/images/1850-susan-roberson-coosa-county-ala-copy.jpg" alt="1850 Census record showing Susan Roberson in Coosa County, Alabama" >}}
+
+{{< img-float src="/images/d-a-roberson-1870-age-8-a-.jpg" alt="1870 Census record showing D.A. Roberson age 8" >}}
 
 D A Roberson was Dorothy Ann Roberson Age 8 and the daughter of Elishia Roberson Age 48 as seen in the above 1870 Census. This means she was born in 1862.
 
-<a href="/images/june-5-1880-robert-t-berry-family-chart-.jpg"><img class="alignnone size-full wp-image-8903" src="/images/june-5-1880-robert-t-berry-family-chart-.jpg" alt="June 5 1880 Robert T Berry family chart" width="898" height="298" /></a>
+{{< img-float src="/images/june-5-1880-robert-t-berry-family-chart-.jpg" alt="June 5, 1880 Census chart for Robert T. Berry family" >}}
 
-Something happened to Thomas Roberson between 1830 and 1850 because Eda Roberson was still listing her married name  in the 1850 Census above.  Robert Roberson age 3/12 is really Robert T Berry who was born in 1849.
+Something happened to Thomas Roberson between 1830 and 1850 because Eda Roberson was still listing her married name in the 1850 Census above. Robert Roberson age 3/12 is really Robert T Berry who was born in 1849. <!-- UNSOURCED -->
 
-<a href="/images/rt-berry-marriage-record-b-copy.jpg"><img class="alignnone size-full wp-image-8901" src="/images/rt-berry-marriage-record-b-copy.jpg" alt="RT BERRY marriage record B copy" width="1436" height="603" /></a>
+{{< img-float src="/images/rt-berry-marriage-record-b-copy.jpg" alt="Marriage record for Robert T. Berry" >}}
 
-<a href="/images/june-29-1900-chart.jpg"><img class="alignnone size-full wp-image-8893" src="/images/june-29-1900-chart.jpg" alt="June 29 1900 chart" width="1069" height="451" /></a>
+{{< img-float src="/images/june-29-1900-chart.jpg" alt="June 29, 1900 Census chart for Robert T. Berry family" >}}
 
-<a href="/images/april-26-1910-chart.jpg"><img class="alignnone size-full wp-image-8894" src="/images/april-26-1910-chart.jpg" alt="April 26 1910 chart" width="944" height="480" /></a>
+{{< img-float src="/images/april-26-1910-chart.jpg" alt="April 26, 1910 Census chart for Robert T. Berry family" >}}
 
-<a href="/images/january-12-13-1920-chart.jpg"><img class="alignnone size-full wp-image-8895" src="/images/january-12-13-1920-chart.jpg" alt="January 12 & 13 1920 chart" width="1098" height="285" /></a>
+{{< img-float src="/images/january-12-13-1920-chart.jpg" alt="January 12-13, 1920 Census chart for Robert T. Berry family" >}}
 
-<a href="/images/april-7-1930-chart.jpg"><img class="alignnone size-full wp-image-8896" src="/images/april-7-1930-chart.jpg" alt="April 7 1930 chart" width="1080" height="326" /></a>
+{{< img-float src="/images/april-7-1930-chart.jpg" alt="April 7, 1930 Census chart for Robert T. Berry family" >}}
 
-<a href="/images/april-1-1940-chart.jpg"><img class="alignnone size-full wp-image-8897" src="/images/april-1-1940-chart.jpg" alt="April 1 1940 chart" width="1069" height="296" /></a>
+{{< img-float src="/images/april-1-1940-chart.jpg" alt="April 1, 1940 Census chart for Robert T. Berry family" >}}
 
-<a href="/images/susan-roberson-marriage.jpg"><img class="alignnone size-full wp-image-8912" src="/images/susan-roberson-marriage.jpg" alt="Susan Roberson Marriage" width="1012" height="604" /></a>
+{{< img-float src="/images/susan-roberson-marriage.jpg" alt="Marriage record for Susan Roberson" >}}
 
-<a href="/images/sarah-e-and-william-fagrave.jpg"><img class="alignnone size-full wp-image-8899" src="/images/sarah-e-and-william-fagrave.jpg" alt="Sarah E and William FAgrave" width="1054" height="407" /></a>
+{{< img-float src="/images/sarah-e-and-william-fagrave.jpg" alt="Find A Grave record for Sarah E. and William" >}}
 
- 
+In 1920 Robert T Berrys wife was listed as Mary Ann. This led to speculation that Robert T Berry had remarried. In the chart below the birth year was the same. Dorothy Ann Robinson Berry is buried beside her Husband
 
-In 1920 Robert T Berrys wife was listed as Mary Ann. This led to speculation that Robert T Berry had remarried. In the chart below the birth year was the same. Dorothy Ann  Robinson Berry is buried beside her Husband
+{{< img-float src="/images/dorothy-ann-berry-chart.jpg" alt="Chart showing Dorothy Ann Robinson Berry birth and death dates" >}}
 
-<a href="/images/dorothy-ann-berry-chart.jpg"><img class="alignnone size-full wp-image-8876" src="/images/dorothy-ann-berry-chart.jpg" alt="Dorothy Ann Berry chart" width="1025" height="561" /></a>
+{{< img-float src="/images/robert-t-berryfind-a-grave.jpg" alt="Find A Grave memorial for Robert T. Berry" >}}
 
-<a href="/images/robert-t-berryfind-a-grave.jpg"><img class="alignnone size-full wp-image-8817" src="/images/robert-t-berryfind-a-grave.jpg" alt="Robert T BerryFind a Grave" width="1094" height="639" /></a>
+**Sarah E Berry was likely named Sarah Elizabeth Berry and nicknamed Lizzie by her family. She was not with the family in every census but was listed as Sarah E Berry in most of them She was the daughter of Robert T and Dorothy Ann Berry. The chart below should explain that Lizzie Berry and Sarah E. Berry is really the same person** <!-- UNSOURCED -->
 
- 
+{{< img-float src="/images/sarah-elizabeth-mcwilliams-chart.jpg" alt="Chart showing Sarah Elizabeth Berry McWilliams identity" >}}
 
-<strong>Sarah E Berry was likely named Sarah Elizabeth Berry and nicknamed Lizzie by her family. She was not with the family in every census but was listed as Sarah E Berry in most of them She was the daughter of Robert T and Dorothy Ann Berry. The chart below should explain that Lizzie Berry and Sarah E. Berry is really the same person</strong>
+{{< img-float src="/images/mrs-dotha-ann-berry-1940-d-social-security.jpg" alt="Social Security record for Mrs. Dotha Ann Berry, 1940" >}}
 
-<a href="/images/sarah-elizabeth-mcwilliams-chart.jpg"><img class="alignnone size-full wp-image-8889" src="/images/sarah-elizabeth-mcwilliams-chart.jpg" alt="Sarah Elizabeth McWilliams Chart" width="1082" height="462" /></a>
-<p><a href="/images/mrs-dotha-ann-berry-1940-d-social-security.jpg"><img class="alignnone size-full wp-image-8905" src="/images/mrs-dotha-ann-berry-1940-d-social-security.jpg" alt="Mrs Dotha Ann Berry 1940 D Social security" width="576" height="302" /></a></p>
+---
+
+<div class="tree-link">
+  <a href="/family-lines/william-berry-family-tree/">
+    View the Full William Berry Family Line
+    <span class="tree-link-sub">William Berry descendants</span>
+  </a>
+</div>
+
+</div>

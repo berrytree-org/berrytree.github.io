@@ -1,32 +1,56 @@
 ---
-title: "Ruby Alyene Hunt Tx"
+title: "Ruby Alyene Hunt (TX)"
+description: "Ruby Alyene Hunt Vinson, born 1916 in Minden, Rusk County, Texas, descendant of Robert and Elizabeth Cate Berry."
+bookToc: true
 ---
 
-<h2>Ruby Alyene Hunt Vinson</h2>
-ANCESTORS
-<ol>
-	<li>Generation Robert and Mary Williamson Berry: Princess Anne Coumty: Virginia.</li>
-	<li>Generation  Robert and Elizabeth Cate Berry: Orange County, North Carolina.</li>
-	<li>Generation  David J. and Mary Blalock Berry: NC and GA</li>
-	<li>Generation  Thomas Howard and Mary Berry Barton</li>
-	<li>Generation  Joshua and Mary Aliceann Elizabeth Barton Crow</li>
-	<li>Generation  Thomas C. and Mary Frances Crow Guthrie</li>
-	<li>Generation  Lela Gutherie and Lonnie Joseph Hunt</li>
-</ol>
-<figure><img src="/images/rubyahuntvinson.jpg " alt="" width="195" height="258" /><figcaption>Ruby Alyene Hunt</figcaption></figure>
+<div class="ancestor-page">
 
-<strong>
-Ruby Alyene Hunt </strong>was born on July 22nd 1916 in Minden, Rusk County Texas and Died on November 7th 1982 in Henderson, Rusk County Texas. She married Robert Raymond Vinson who was born on November 25th 1903 in New London, Rusk County Texas. Robert died on June 13th 1979 in Henderson, Rusk County Texas. They are burried in Plesant Hill Cemetery between Henderson and Overton in Rusk County.
+{{< breadcrumb trail="Home|/|Ancestors|/ancestors/|Family Lines|/family-lines/|Ruby Alyene Hunt" >}}
 
-<strong>CHILDREN :</strong>
-<ul>
-	<li><strong>Needs to Be Researched many may be living </strong></li>
-</ul>
-<h3><strong>Robert Raymond and Ruby Alyene Hunt Vinson Lived and died in Rusk County Texas</strong></h3>
-<strong>CENSUS INFORMATION</strong>
-<blockquote>
-<ul>
-	<li><strong><strong> 1920 Ruby Alyene Hunt: was living with her parents </strong></strong></li>
-	<li><strong><strong>1930 Ruby Alyene Hunt: was living with her parents</strong></strong></li>
-</ul>
-</blockquote>
+{{< ancestor-chain
+  gen3="David J. Berry × Mary Blalock"
+  link3="/ancestors/david-j-berry-sr/"
+  loc3="Orange County, NC → Georgia"
+  gen4="Thomas Howard Barton × Mary Berry"
+  loc4=""
+  gen5="Joshua Crow × Mary Aliceann Elizabeth Barton"
+  loc5=""
+  gen6="Thomas C. Guthrie × Mary Frances Crow"
+  loc6=""
+  gen7="Lonnie Joseph Hunt × Lela Guthrie"
+  loc7=""
+  gen8="Ruby Alyene Hunt × Robert Raymond Vinson"
+  loc8="Minden, Rusk County, TX"
+  link8="/ancestors/rubyalyenehunttx/"
+/>}}
+
+{{< ancestor-profile
+  name="Ruby Alyene Hunt"
+  gen="8"
+  born="July 22, 1916, Minden, Rusk County, Texas"
+  died="November 7, 1982, Henderson, Rusk County, Texas"
+  spouse="Robert Raymond Vinson (b. November 25, 1903; d. June 13, 1979)"
+  parents="Lela Guthrie Hunt and Lonnie Joseph Hunt"
+>}}
+
+{{< img-float src="/images/rubyahuntvinson.jpg" caption="Ruby Alyene Hunt" alt="Portrait of Ruby Alyene Hunt Vinson" >}}
+
+**Ruby Alyene Hunt** was born on July 22nd 1916 in Minden, Rusk County Texas and died on November 7th 1982 in Henderson, Rusk County Texas. She married Robert Raymond Vinson who was born on November 25th 1903 in New London, Rusk County Texas. Robert died on June 13th 1979 in Henderson, Rusk County Texas. They are buried in Pleasant Hill Cemetery between Henderson and Overton in Rusk County.
+
+---
+
+<h2 class="ancestor-section">Children</h2>
+
+- **Needs to be researched, many may be living.**
+
+Robert Raymond and Ruby Alyene Hunt Vinson lived and died in Rusk County Texas.
+
+---
+
+<h2 class="ancestor-section">Census Information</h2>
+
+- 1920 Ruby Alyene Hunt: was living with her parents
+- 1930 Ruby Alyene Hunt: was living with her parents
+
+</div>

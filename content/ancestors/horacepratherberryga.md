@@ -1,101 +1,163 @@
 ---
 title: "Horace Prather Berry Ga"
+description: "Horace Prather Berry, son of Robert Riley and Martha 'Mattie' Stark Berry, Georgia."
+bookToc: true
 ---
 
-<h2>Horace Prather Berry, Son Of Robert Riley And Martha "Mattie"Stark Berry</h2>
-ANCESTORS
-<ol>
-	<li>Generation Robert and Mary Williamson Berry. Princess Anne County, Virginia.</li>
-	<li>Generation Robert and Elizabeth Cate Berry, Orange County, North Carolina.</li>
-	<li>Generation  David J. and Mary Blalock Berry, NC and GA.</li>
-	<li>Generation  Robert and Elizabeth Everitt Berry Berry, Georgia.</li>
-	<li>Generation  Robert Riley and Mattie Stark Berry</li>
-</ol>
-Horace Prather Berry's brothers and sisters
-<ul>
-	<li><strong>Gen 6</strong> William Riley Berry died 1873</li>
-	<li><strong>Gen 6 </strong><a href="/ancestors/robertclarkberryga/"><strong> </strong>Robert Clark Berry</a></li>
-	<li><strong>Gen 6 </strong>Sarah Francis Leola Berry</li>
-	<li><strong>Gen 6 </strong><a href="/documents/williamaaronturleyga/">Emma Ailene Berry</a> 1878-19??</li>
-	<li><strong>Gen 6 </strong>Jason Miles Berry died 1880</li>
-	<li><strong>Gen 6</strong><a href="/ancestors/enoch-m-berry-page/"><strong> </strong>Enoch Meril Berry 1881 - 1961</a></li>
-	<li><strong>Gen 6 </strong>Mary Elizabeth Berry 1886 - 1887</li>
-</ul>
-<p><strong>6. Horace Prather Berry 1870-1957</strong></p>
-<a href="/images/hp-and-mary-florence.jpg"><img class="size-full wp-image-5118 aligncenter" src="/images/hp-and-mary-florence.jpg" alt="Hp and Mary Florence" width="432" height="611" /></a>
-<p>Horace Prather  and Mary Florence Berry</p>
-<strong>Children of Horace Prather Berry:</strong>
-<ul>
-	<li>Manuel Lee Berry 26 May 1901-13 Feb 1944-Sacramento California</li>
-	<li>Elvie Riley Berry 30 Jul 1903-02 Dec 1931-Jefferson County Alabama</li>
-	<li>William Henry Merrill Berry-16 Mar 1905-08 Jun 1976-Shasta County California</li>
-	<li>Addie Ola Ileane Berry-11 Jul 1906-11 Mar 1991</li>
-	<li>Minnie Myrtle Berry-12 Apr 1908-Jul 1985-San Diego County Ca</li>
-	<li>Alma Grace Berry-16 Sep 1910-08 May 2002</li>
-	<li>Lessie Lorena Berry-1912</li>
-</ul>
- 
-<ul>
-	<li>David Horace Berry changed name from Herman Horace Berry</li>
-</ul>
+<div class="ancestor-page">
 
-<a href="/images/lucille-and-herman-berry-1920.jpg"><img class="alignnone size-full wp-image-5110" src="/images/lucille-and-herman-berry-1920.jpg" alt="Lucille and Herman Berry 1920" width="398" height="528" /></a>
-</ul>
-<h3><strong>Horace Herman and his sister Lucille Berry about 1920</strong></h3>
+{{< breadcrumb trail="Home|/|Ancestors|/ancestors/|Family Lines|/family-lines/|Horace Prather Berry Ga" >}}
+
+{{< ancestor-chain
+  gen3="David J. Berry × Mary Blalock" loc3="Orange County, NC → Georgia" link3="/ancestors/david-j-berry-sr/"
+  gen4="Robert Berry × Elizabeth Everitt" loc4="Milton County, Georgia" link4="/ancestors/robert-clark-berry-ga/"
+  gen5="Robert Riley Berry × Martha Stark" loc5="Milton County, GA → Cullman County, AL" link5="/ancestors/robertrileyberryga/"
+  gen6="Horace Prather Berry × Mary Florence Johnson" loc6="Cullman County, Alabama" link6="/ancestors/horacepratherberryga/"
+/>}}
+
+{{< ancestor-profile
+  name="Horace Prather Berry"
+  gen="6"
+  born="1870"
+  died="1957"
+  spouse="Mary Florence Johnson"
+  parents="Robert Riley and Martha 'Mattie' Stark Berry"
+>}}
+
+## **The Story of Horace Prather Berry**
+
+### **Horace Prather Berry's Brothers and Sisters**
+
+- **Gen 6** William Riley Berry died 1873 <!-- UNSOURCED -->
+- **Gen 6** [Robert Clark Berry](/ancestors/robert-clark-berry-ga/) <!-- UNSOURCED -->
+- **Gen 6** Sarah Francis Leola Berry <!-- UNSOURCED -->
+- **Gen 6** [Emma Ailene Berry](/documents/williamaaronturleyga/) 1878-19?? <!-- UNSOURCED -->
+- **Gen 6** Jason Miles Berry died 1880 <!-- UNSOURCED -->
+- **Gen 6** [Enoch Meril Berry 1881 - 1961](/ancestors/enoch-m-berry-page/) <!-- UNSOURCED -->
+- **Gen 6** Mary Elizabeth Berry 1886 - 1887 <!-- UNSOURCED -->
+
+### **Horace Prather Berry 1870-1957**
+
+{{< img-float src="/images/hp-and-mary-florence.jpg" alt="Horace Prather Berry and Mary Florence Berry, portrait" side="center" >}}
+
+Horace Prather and Mary Florence Berry
+
+---
+
+<h2 class="ancestor-section">Children of Horace Prather Berry</h2>
+
+<ol class="children-list">
+
+<li class="child-entry">
+  <div class="child-name">1. Manuel Lee Berry</div>
+  <div class="child-dates">May 26, 1901 – February 13, 1944, Sacramento, California</div>
+  <div class="child-details"><!-- UNSOURCED --></div>
+</li>
+
+<li class="child-entry">
+  <div class="child-name">2. Elvie Riley Berry</div>
+  <div class="child-dates">July 30, 1903 – December 2, 1931, Jefferson County, Alabama</div>
+  <div class="child-details"><!-- UNSOURCED --></div>
+</li>
+
+<li class="child-entry">
+  <div class="child-name">3. William Henry Merrill Berry</div>
+  <div class="child-dates">March 16, 1905 – June 8, 1976, Shasta County, California</div>
+  <div class="child-details"><!-- UNSOURCED --></div>
+</li>
+
+<li class="child-entry">
+  <div class="child-name">4. Addie Ola Ileane Berry</div>
+  <div class="child-dates">July 11, 1906 – March 11, 1991</div>
+  <div class="child-details"><!-- UNSOURCED --></div>
+</li>
+
+<li class="child-entry">
+  <div class="child-name">5. Minnie Myrtle Berry</div>
+  <div class="child-dates">April 12, 1908 – July 1985, San Diego County, California</div>
+  <div class="child-details"><!-- UNSOURCED --></div>
+</li>
+
+<li class="child-entry">
+  <div class="child-name">6. Alma Grace Berry</div>
+  <div class="child-dates">September 16, 1910 – May 8, 2002</div>
+  <div class="child-details"><!-- UNSOURCED --></div>
+</li>
+
+<li class="child-entry">
+  <div class="child-name">7. Lessie Lorena Berry</div>
+  <div class="child-dates">Born 1912</div>
+  <div class="child-details"><!-- UNSOURCED --></div>
+</li>
+
+<li class="child-entry">
+  <div class="child-name">8. David Horace Berry</div>
+  <div class="child-details">Changed name from Herman Horace Berry. <!-- UNSOURCED --></div>
+</li>
+
+</ol>
+
+---
+
+<h2 class="ancestor-section">Family Photographs</h2>
+
+{{< img-float src="/images/lucille-and-herman-berry-1920.jpg" alt="Lucille and Herman Horace Berry, circa 1920" >}}
+
+**Horace Herman and his sister Lucille Berry about 1920**
+
 Lucille Berry 1921 Cullman Alabama
 
-<a href="/images/lucille-berry-1929-cullman-alabama.jpg"><img class="wp-image-5121 aligncenter" src="/images/lucille-berry-1929-cullman-alabama.jpg" alt="Lucille Berry 1929 Cullman Alabama" width="139" height="240" /></a>
+{{< img-float src="/images/lucille-berry-1929-cullman-alabama.jpg" alt="Lucille Berry, 1929, Cullman Alabama" side="center" >}}
 
- 
-
-<a href="/images/horace-prather-berry-family-picture.jpg"><img class="alignnone size-full wp-image-5112" src="/images/horace-prather-berry-family-picture.jpg" alt="Horace Prather Berry family picture" width="623" height="451" /></a>
+{{< img-float src="/images/horace-prather-berry-family-picture.jpg" alt="Horace Prather Berry family group portrait" >}}
 
 (Left to Right) Manuel Lee (Jack) Berry, Myrtle Berry, Horace Prather Berry, Alma Grace Berry, William Henry (Bill) Berry, Mary Florence Johnson Berry, Lorena Berry, Elvie Riley Berry & Addie Ola Ileana Berry
 
-<a href="/images/1941david-horace-herman-berry.jpg"><img class="alignnone size-full wp-image-5123" src="/images/1941david-horace-herman-berry.jpg" alt="1941David Horace Herman Berry" width="3939" height="2487" /></a>
+{{< img-float src="/images/1941david-horace-herman-berry.jpg" alt="David Horace Herman Berry, 1941" >}}
 
-# One need more info
+**One - need more info**
 
-<a href="/images/1941-086.jpg"><img class="size-full wp-image-5124 aligncenter" src="/images/1941-086.jpg" alt="1941-086" width="3162" height="2702" /></a>
+{{< img-float src="/images/1941-086.jpg" alt="Unidentified Berry family photo, 1941" side="center" >}}
 
-# Two need more info
+**Two - need more info**
 
-<a href="/images/lucille-berry-after-she-was-grown.jpg"><img class="alignnone size-full wp-image-5139" src="/images/lucille-berry-after-she-was-grown.jpg" alt="Lucille Berry after she was grown" width="291" height="495" /></a>
+{{< img-float src="/images/lucille-berry-after-she-was-grown.jpg" alt="Lucille Berry as an adult" >}}
 
 Lucile Berry after she was an adult
 
-# Three need more info
+**Three - need more info**
 
-<a href="/images/hoace-berry-luke-having-fun.jpg"><img class="alignnone wp-image-5200" src="/images/hoace-berry-luke-having-fun.jpg" alt="Hoace Berry Luke having fun" width="274" height="396" /></a>
+{{< img-float src="/images/hoace-berry-luke-having-fun.jpg" alt="Horace Berry and Luke having fun" >}}
 
-<a href="/images/1936-012.jpg"><img class="wp-image-5126 alignright" src="/images/1936-012.jpg" alt="1936-012" width="395" height="559" /></a>
+{{< img-float src="/images/1936-012.jpg" alt="Berry family photo, 1936" side="right" >}}
 
-Horace and Luke # Four need more info
+Horace and Luke **Four - need more info**
 
+This picture was taken in 1936 **Five - need more info**
 
-<p>This picture was taken in 1936 # Five need more info</p>
-<p><a href="/images/1938-035.jpg"><img class="wp-image-5132 alignleft" src="/images/1938-035.jpg" alt="1938-035" width="226" height="339" /></a></p>
-<a href="/images/1944-030.jpg"><img class="wp-image-5134 alignright" src="/images/1944-030.jpg" alt="1944-030" width="217" height="414" /></a>
+{{< img-float src="/images/1938-035.jpg" alt="Berry family photo, 1938" side="left" >}}
 
- 
+{{< img-float src="/images/1944-030.jpg" alt="Berry family photo, 1944" side="right" >}}
 
 The picture on the left was taken in 1938 and the one on the right was taken in 1944.
 
+{{< img-float src="/images/horace-herman-berry.jpg" alt="Horace Herman Berry, portrait" >}}
 
+{{< img-float src="/images/horace-berry-headstone.jpg" alt="Horace Prather Berry headstone" >}}
 
-<a href="/images/horace-herman-berry.jpg"><img class="alignnone wp-image-5135" src="/images/horace-herman-berry.jpg" alt="Horace Herman Berry" width="237" height="368" /></a>
+---
 
- 
+<h2 class="ancestor-section">Census Records</h2>
 
-<a href="/images/horace-berry-headstone.jpg"><img class="alignnone size-full wp-image-5130" src="/images/horace-berry-headstone.jpg" alt="Horace Berry headstone" width="624" height="464" /></a>
+{{< census-summary summary="To be researched." >}}
 
- 
+---
 
-<a href="/ancestors/horacepratherberryga/">Return to the top of Page</a>
+<div class="tree-link">
+  <a href="/family-lines/david-j-berry-family-tree/">
+    View the Full David J. Berry Family Line
+    <span class="tree-link-sub">Descendants of David J. and Mary Blalock Berry</span>
+  </a>
+</div>
 
-
-
-CENSUS INFORMATION
-<blockquote>“ TO Be Researched”
-
- </blockquote>
+</div>

@@ -1,30 +1,55 @@
 ---
 title: "Mary Jori Berry Ga"
+description: "Mary Jori Berry, daughter of Robert and Elizabeth Everitt Berry, Fayette County Georgia."
+bookToc: true
 ---
 
-<h2>Mary Jori Berry, Daughter of Robert and Elizabeth Everitt Berry</h2>
-ANCESTORS
+<div class="ancestor-page">
 
-Generation 1 Robert and Elizabeth Cate Berry
+{{< breadcrumb trail="Home|/|Ancestors|/ancestors/|Family Lines|/family-lines/|Mary Jori Berry" >}}
 
-Generation 2 David J. and Mary Blalock Berry
+{{< ancestor-chain gen1="Robert Berry × Mary Williamson" loc1="Princess Anne County, Virginia" link1="/ancestors/robert-berry-pac/" gen2="Robert Berry × Elizabeth Cate" loc2="Orange County, North Carolina" link2="/ancestors/robert-berry-oc/" gen3="David J. Berry × Mary Blalock" loc3="Orange County, NC → Georgia" link3="/ancestors/david-j-berry-sr/" gen4="Robert Berry × Elizabeth Everitt Berry" loc4="Georgia" />}}
 
-Generation 3 Robert and Elizabeth Everett Berry Berry
+{{< ancestor-profile
+  name="Mary Jori Berry"
+  gen="5"
+  born="June 11, 1836 (Bible page states 1835)"
+  died="July 4, 1890, Fayette County, Georgia"
+  spouse="Nathan Turley — born August 25, 1838, died December 26, 1923"
+  parents="Robert Berry and Elizabeth Everitt Berry"
+>}}
 
-<strong>MARY JORI BERRY</strong> born June 11 1836 and died July 4th 1890 in Fayette County Georgia. On her parents bible page it states she was born in 1835 <strong>VIEW BIBLE PAGE</strong> <img src="/images/nathanturleysmall.jpg" alt="nathanturleyandmaryjberrygeorgia" />in Mary J Berry grew up in the Roswell Georgia area of Milton County Georgia. In 1930 Milton County Georgia was renamed Fulton County Georgia. Mary J. Berry married Nathan Turley born August 25, 1838 and died December 26. 1923 <strong>The picture on the right is of Nathan Turley There are no pictures known to exist of Mary J. Berry. Click on the picture to view a larger image.</strong> Nathan and Mary J Berry Turley had four Children
+{{< img-float src="/images/nathanturleysmall.jpg" alt="Nathan Turley, husband of Mary Jori Berry, portrait" >}} Mary J Berry grew up in the Roswell Georgia area of Milton County Georgia. In 1930 Milton County Georgia was renamed Fulton County Georgia. Mary J. Berry married Nathan Turley born August 25, 1838 and died December 26, 1923. <!-- UNSOURCED --> **The picture on the right is of Nathan Turley. There are no pictures known to exist of Mary J. Berry. Click on the picture to view a larger image.** Nathan and Mary J Berry Turley had four Children
 
-<strong>CHILDREN :</strong>
-<ul>
-	<li><a href="/ancestors/nathanielarieturleyga/">Nathaniel Aire Turley</a> b 1873 d in 1937</li>
-	<li><a href="/ancestors/marylouturleyga/">Mary Lou Turley</a> b June 22 1877 d March 18 1956</li>
-	<li><a href="/ancestors/doraellenturleyga/">Dora E. Turley</a> b April 11, 1874 d June 6, 1915</li>
-	<li><a href="/documents/williamaaronturleyga/">William A. Turley</a> b August 26 1879 d November 6, 1960</li>
-</ul>
-<img src="/images/nathanturleyheadstonegasmall.jpg" alt="nathanturleyheadstone" />
+<h2 class="ancestor-section">Children of Mary Jori Berry</h2>
+
+- [Nathaniel Aire Turley](/ancestors/nathanielarieturleyga/) b 1873 d in 1937 <!-- UNSOURCED -->
+- [Mary Lou Turley](/ancestors/marylouturleyga/) b June 22 1877 d March 18 1956 <!-- UNSOURCED -->
+- [Dora E. Turley](/ancestors/doraellenturleyga/) b April 11, 1874 d June 6, 1915 <!-- UNSOURCED -->
+- [William A. Turley](/ancestors/william-aaron-turley-ga/) b August 26 1879 d November 6, 1960 <!-- UNSOURCED -->
+
+{{< img-float src="/images/nathanturleyheadstonegasmall.jpg" alt="Headstone for Nathan Turley and Mary Jori Berry Turley, Willeo Cemetery, Georgia" >}}
 
 On the left side of this page you will see a headstone for Nathan Turley and Mary Jori Berry Turley. This headstone is located in the Willeo Cemetery, Between Marietta and Roswell Georgia.
-<strong>To view a larger image of this picture</strong> <strong>CLICK ON THE SMALL IMAGE</strong>
-<h2><strong>Mary J. Berry and Nathan Turley lived between Marietta and Roswell Georgia.</strong></h2>
-<h3>January 9, 2008</h3>
-CENSUS INFORMATION
-<blockquote>“ TO Be Researched”</blockquote>
+**To view a larger image of this picture CLICK ON THE SMALL IMAGE**
+
+## **Mary J. Berry and Nathan Turley lived between Marietta and Roswell Georgia.**
+
+**January 9, 2008**
+
+---
+
+<h2 class="ancestor-section">Census Information</h2>
+
+> "TO Be Researched"
+
+---
+
+<div class="tree-link">
+  <a href="/family-lines/david-j-berry-family-tree/">
+    View the Full David J. Berry Family Line
+    <span class="tree-link-sub">David J. and Mary Blalock Berry descendants</span>
+  </a>
+</div>
+
+</div>

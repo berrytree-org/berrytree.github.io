@@ -1,22 +1,43 @@
 ---
 title: "Martin Adolphus Maners"
+description: "Martin Adolphus (Dock) Maners, youngest of four brothers, son of Herman and Addie Lena Berry Maners Sr., born November 20, 1920."
+bookToc: true
 ---
 
-Ancestors:
-<ol>
-	<li>Generation Robert and Mary Williamson Berry, Princess Anne County. Virginia.</li>
-	<li>Generation Robert and Elizabeth Cate Berry, Orange County, North Carolina.</li>
-	<li>David J. and Mary Blaylock Berry, Orange County, North Carolina. & Georgia</li>
-	<li>Robert and Elizabeth Everett Berry, Georgia, Fayette & Milton Counties.</li>
-	<li>Jesse Lee and Nancy Ann Henry Berry, Georgia and Alabama</li>
-	<li>Addie Lena Berry and Hampton Fantom Manners,  Spaulding GA & Guilford County, North Carolina.</li>
-</ol>
-<a href="/images/martin-adolphus-maners-ww-2-draft-registration.jpg"><img class="alignnone size-full wp-image-5405" src="/images/martin-adolphus-maners-ww-2-draft-registration.jpg" alt="Martin Adolphus Maners WW 2 Draft Registration" width="1115" height="745" /></a>
+<div class="ancestor-page">
 
-<a href="/images/martin-adolphus-maners-marriage-certificate.jpg"><img class="alignnone size-full wp-image-5407" src="/images/martin-adolphus-maners-marriage-certificate.jpg" alt="Martin Adolphus Maners Marriage Certificate" width="974" height="755" /></a>
+{{< breadcrumb trail="Home|/|Ancestors|/ancestors/|Martin Adolphus Maners" >}}
 
-<a href="/images/mamers-family-city-directory-high-point-1939.jpg"><img class="alignnone size-full wp-image-5448" src="/images/mamers-family-city-directory-high-point-1939.jpg" alt="Mamers Family city Directory High Point 1939" width="565" height="119" /></a>
+{{< ancestor-chain gen3="David J. Berry × Mary Blalock" loc3="Orange County, NC → Georgia" link3="/ancestors/david-j-berry-sr/" gen4="Robert Berry × Elizabeth Everett" loc4="Georgia, Fayette & Milton Counties" gen5="Jesse Lee Berry × Nancy Ann Henry" loc5="Georgia and Alabama" link5="/ancestors/jesseleeberry/" gen6="Addie Lena Berry × Hampton Fantom Maners" loc6="Spalding, GA & Guilford County, NC" link6="/ancestors/addie-lena-berry/" gen7="Martin Adolphus Maners × Annie Marie Smith" loc7="High Point, NC & Charlotte, NC" />}}
+
+{{< ancestor-profile
+  name="Martin Adolphus Maners"
+  gen="7"
+  born="November 20, 1920"
+  died="March 30, 2008, Charlotte, Mecklenburg County, North Carolina"
+  spouse="Annie Marie Smith (married December 24, 1938, Chesterfield, SC)"
+  parents="Herman Fantom Maners Sr. and Addie Lena Berry, Guilford County, NC"
+>}}
+
+## **Martin Adolphus Maners**
+
+{{< img-float src="/images/martin-adolphus-maners-ww-2-draft-registration.jpg" alt="World War II draft registration card for Martin Adolphus Maners" >}}
+
+{{< img-float src="/images/martin-adolphus-maners-marriage-certificate.jpg" alt="Marriage certificate for Martin Adolphus Maners and Annie Marie Smith" >}}
+
+{{< img-float src="/images/mamers-family-city-directory-high-point-1939.jpg" alt="Maners family listing in 1939 High Point, North Carolina city directory" >}}
 
 Maners Family in the 1939 High Point City Directory
 
-Herman and Addie Lena Berry Maners Sr. were the parents of Martin Adolphus (Dock) Berry. He was the youngest of four brothers and was born on November 20th 1920. Martin Adolphus Berry married Annie Marie Smith on December 24th 1938 in Chesterfield, South Carolina.They had four children in a span of 14 years. Martin Adolphus Berry died on March 30th 2008 in Charlotte, Mecklenburg County, North Carolina at the age of 87.
+Herman and Addie Lena Berry Maners Sr. were the parents of Martin Adolphus (Dock) Maners. He was the youngest of four brothers and was born on November 20th 1920. <!-- UNSOURCED --> Martin Adolphus Maners married Annie Marie Smith on December 24th 1938 in Chesterfield, South Carolina. <!-- UNSOURCED --> They had four children in a span of 14 years. Martin Adolphus Maners died on March 30th 2008 in Charlotte, Mecklenburg County, North Carolina at the age of 87. <!-- UNSOURCED -->
+
+---
+
+<div class="tree-link">
+  <a href="/family-lines/">
+    Return to Family Lines
+    <span class="tree-link-sub">Berry family descendants</span>
+  </a>
+</div>
+
+</div>

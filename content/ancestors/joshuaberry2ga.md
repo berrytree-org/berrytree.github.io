@@ -1,40 +1,61 @@
 ---
 title: "Joshua Berry Jr. Ga"
+description: "Joshua Berry Jr., born about 1867 in Georgia, grandson of David J. Berry, killed in a train accident in 1921."
+bookToc: true
 ---
 
-<h2>Joshua Berry Jr. born in Georgia Was the Grand-son of David J. Berry</h2>
-ANCESTORS
+<div class="ancestor-page">
 
-Generation 1 Robert and Elizabeth Cate Berry
+{{< breadcrumb trail="Home|/|Ancestors|/ancestors/|Family Lines|/family-lines/|Joshua Berry Jr. Ga" >}}
 
-Generation 2 David J. and Mary Blalock Berry
+{{< ancestor-chain
+  gen3="David J. Berry × Mary Blalock" loc3="Orange County, NC → Georgia" link3="/ancestors/david-j-berry-sr/"
+  gen4="Joshua Berry × Elizabeth J. Cates" loc4="North Carolina → Georgia" link4="/ancestors/joshuaberryga/"
+  gen5="Joshua Berry Jr. × Tommie" loc5="Clayton County, Georgia" link5="/ancestors/joshuaberry2ga/"
+/>}}
 
-Generation 3 Joshua and Elizabeth J. Cates Berry
+{{< ancestor-profile
+  name="Joshua Berry Jr."
+  gen="5"
+  born="c. 1867, Georgia"
+  died="1921, Clayton County, Georgia (train accident)"
+  spouse="Tommie (determined from 1920 census)"
+  parents="Joshua and Elizabeth J. Cates Berry"
+>}}
 
-<strong>Joshua Berry</strong> was born about 1867 in Georgia. He was married to a woman named Tommie as determined by the 1920 census below. Joshua and his brother were killed in a car train accident in 1921
-<strong>VIEW</strong> Joshua Berry's Death Certificate
+> **Book Chapter:** Read more about the Joshua Berry family in [Chapter 10: David J. Berry](/books/frontier-america/ch10-david-j-berry/) from *Our Berrys in Frontier America*
 
- 
-<ul>
-	<li>Joshua Berry b 1867 d 1921 in a car <a href="/images/berrybrothers.pdf">train accident Newspaper Clipping</a></li>
-</ul>
- 
+## **The Story of Joshua Berry Jr.**
 
-<strong>CHILDREN :</strong>
-<h3><strong>Joshua Berry Jr. was living next door to Joshua Berry his father in the 1900 Census</strong></h3>
-<h3>January 12, 2008</h3>
-CENSUS INFORMATION
-<blockquote>“ Joshua Berry was a Farmer in Clayton County Georgia”
+Joshua Berry was born about 1867 in Georgia. He was married to a woman named Tommie as determined by the 1920 census below. Joshua and his brother were killed in a car train accident in 1921.
 
- 
-<ul>
-	<li>Joshua Berry Grandson of David J. Berry in the 1900 Clayton County Georgia Census</li>
-</ul>
-<ul>
-	<li>Joshua Berry Grandson of David J. Berry in the 1910 Clayton County Census</li>
-</ul>
- 
-<ul>
-	<li>Joshua Berry Grandson of (David J. Berry) in the 1920 Clayton county Georgia Census</li>
-</ul>
-</blockquote>
+**VIEW** Joshua Berry's Death Certificate
+
+- Joshua Berry b 1867 d 1921 in a car [train accident Newspaper Clipping](/images/berrybrothers.pdf)
+
+---
+
+<h2 class="ancestor-section">Children of Joshua Berry Jr.</h2>
+
+Joshua Berry Jr. was living next door to Joshua Berry his father in the 1900 Census. <!-- UNSOURCED -->
+
+---
+
+<h2 class="ancestor-section">Census Records</h2>
+
+{{< census-summary summary="Joshua Berry was a Farmer in Clayton County Georgia." >}}
+
+- **1900** — Joshua Berry, grandson of [David J. Berry](/ancestors/david-j-berry-sr/), in the 1900 Clayton County Georgia Census
+- **1910** — Joshua Berry, grandson of David J. Berry, in the 1910 Clayton County Census
+- **1920** — Joshua Berry, grandson of David J. Berry, in the 1920 Clayton County Georgia Census
+
+---
+
+<div class="tree-link">
+  <a href="/family-lines/david-j-berry-family-tree/">
+    View the Full David J. Berry Family Line
+    <span class="tree-link-sub">Descendants of David J. and Mary Blalock Berry</span>
+  </a>
+</div>
+
+</div>

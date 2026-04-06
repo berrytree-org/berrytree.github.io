@@ -1,42 +1,65 @@
 ---
 title: "Mary A. Berry NC"
+description: "Mary A. Berry (1873–1963), daughter of John Robert Berry and Elizabeth Frances Bowling, Orange County, North Carolina."
+bookToc: true
 ---
 
-<h2>Mary A. Berry, was the Daughter of John Robert Berry from Orange County, NC</h2>
-ANCESTORS
+<div class="ancestor-page">
 
-Generation 1 Robert and Mary Williamson Berry
+{{< breadcrumb trail="Home|/|Ancestors|/ancestors/|Family Lines|/family-lines/|Mary A. Berry" >}}
 
-Generation 2 Robert and Elizabeth Cate Berry
+{{< ancestor-chain gen3="William Berry × Hannah Cate" loc3="Orange County, NC" link3="/ancestors/william-berry/" gen4="Thomas Person Berry × Sarah Lunsford" loc4="Orange County, NC" link4="/ancestors/thomas-person-berry/" gen5="John Robert Berry × Elizabeth Frances Bowling" loc5="Orange County, NC" link5="/ancestors/john-berry-detail/" gen6="Mary A. Berry × James G. Holeman / James Ormond Webb" loc6="Orange County, NC" />}}
 
-Generation 3 William Berry and Hannah Cate
+{{< ancestor-profile
+  name="Mary A. Berry"
+  gen="6"
+  born="May 18, 1873"
+  died="May 23, 1963"
+  spouse="1st: James G. Holeman (married June 25, 1896) — 2nd: James Ormond Webb (married January 27, 1904)"
+  parents="John Robert Berry and Elizabeth Frances Bowling, Orange County, NC"
+>}}
 
-Generation 4 Thomas Person Berry and Sarah Lunsford
+## **The Story of Mary A. Berry**
 
-Generation 5 John Robert Berry and Elizabeth Frances Bowling
+**Mary W. Berry** was born May 18, 1873 and died in May 23, 1963. <!-- UNSOURCED --> Mary W. Holeman is listed living in the home of her father [John Robert Berry](/ancestors/john-berry-detail/) in 1900 Census. We have recently found that Mary W. Berry was first married to James G. Holeman on June 25th 1896. He was the son of James and Emma B. Holeman from Orange County, NC. Her second marriage was to James Ormond Webb on January 27th 1904. In the 1910 census she was listed as the wife of James O. Webb and they had a 5 year old son named James O. Webb Jr. James Ormond Webb Sr. was born in 1859 and died in June 19th 1936. His parents were Sidney Smith Webb and Elizabeth Ellen Morrow. Both Jim and Mary Berry Webb are buried at Bethleham Presbyterian Church cemetery in Orange County Cemetery, Orange County, NC. **CLICK HERE TO VIEW A PICTURE OF MARY.** This picture was taken after 1947 and before 1965. There were only two children born to this union.
 
-<strong>Mary W. Berry</strong> was born May 18, 1873 and died in May 23, 1963. Mary W. Holeman is listed living in the home of her father John Robert Berry in 1900 Census. We have recently found that Mary W. Berry was first married to James G. Holeman on June 25th 1896. He was the son of James and Emma B. Holeman from Orange County, NC. Her second marriage was to James Ormond Webb on January 27th 1904. In the 1910 census she was listed as the wife of James O. Webb and they had a 5 year old son named James O. Webb Jr. James Ormond Webb Sr. was born in 1859 and died in June 19th 1936. His parents were Sidney Smith Webb and Elizabeth Ellen Morrow Both Jim and Mary Berry Webb are buried at Bethleham Presbyterian Church cemetery in Orange County Cemetery, Orange County, NC. <strong>CLICK HERE TO VIEW A PICTURE OF MARY.</strong>This picture was taken after 1947 and before 1965. There were only two children born to this union.
+---
 
-<strong>CHILDREN:</strong>
-<ul>
-	<li>James O. Webb Jr. b 1905 d unknown
+<h2 class="ancestor-section">Children of Mary A. Berry</h2>
 
- </li>
-	<li>Myra Webb b Oct 26 1907 d July 24 2005
+<ol class="children-list">
 
- </li>
-</ul>
-<h3><strong>James Ormond Webb died in 1936</strong></h3>
-<h3>Page Updated on May 1st 2012</h3>
-<strong> CENSUS INFORMATION</strong>
-<blockquote>“ James and Mary Berry Webb were in Orange County in 1910 and 1920”
-<ul>
-	<li>James and Mary Berry Webb in the 1910 census</li>
-</ul>
-<ul>
-	<li>James and Mary Berry Webb in the 1920 census</li>
-</ul>
-<ul>
-	<li>I can not locate the Webb family in the 1930 census</li>
-</ul>
-</blockquote>
+<li class="child-entry">
+  <div class="child-name">1. James O. Webb Jr.</div>
+  <div class="child-dates">Born 1905; died unknown</div>
+</li>
+
+<li class="child-entry">
+  <div class="child-name">2. Myra Webb</div>
+  <div class="child-dates">Born October 26, 1907; died July 24, 2005</div>
+</li>
+
+</ol>
+
+**James Ormond Webb died in 1936**
+
+---
+
+<h2 class="ancestor-section">Census Records</h2>
+
+{{< census-summary summary="James and Mary Berry Webb were in Orange County in 1910 and 1920." >}}
+
+- James and Mary Berry Webb in the **1910** census
+- James and Mary Berry Webb in the **1920** census
+- I can not locate the Webb family in the 1930 census
+
+---
+
+<div class="tree-link">
+  <a href="/family-lines/william-berry-family-tree/">
+    View the Full William Berry Family Line
+    <span class="tree-link-sub">Descendants of William and Hannah Cate Berry</span>
+  </a>
+</div>
+
+</div>

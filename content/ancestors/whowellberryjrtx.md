@@ -1,49 +1,88 @@
 ---
-title: "Willie Howell Berry Jr. Tx"
+title: "Willie Howell Berry Jr. (TX)"
+description: "Willie Howell Berry Jr., son of Willie Howell and Sarah May Berry, born 1917 in Berry Flat, Borden, Texas."
+bookToc: true
 ---
 
-<h2>Willie Howell Berry Jr, son of Willie Howell and Sarah May Berry</h2>
-ANCESTORS
-<ol>
-	<li>Generation Robert and Mary Williamson Berry. Princess Anne County, Virginia.</li>
-	<li>Generation Robert and Elizabeth Cate Berry, Orange County, North Carolina.</li>
-	<li>Generation  Robert Jr and Mary Waggoner Berry, NC and Fayette County, Alabama.</li>
-	<li>Generation  George and Susan Berry, NC and Fayette County, Alabama.</li>
-	<li>Generation  John and Mary Howell Berry, Fayette County, Alabama.</li>
-	<li>Generation  Alexander Howell and Josephine Prescilla Berry Texas</li>
-	<li>Generation  Willie Howell and Sarah May Berry, Texas</li>
-</ol>
- 
+<div class="ancestor-page">
 
-<strong>WILLIE H</strong><img class=" alignleft" src="/images/dubandjoyce.jpg" alt="williehowellberry" /><strong>OWELL BERRY Jr.</strong> was born on June 2nd 1917 in Berry Flat, Borden Texas. He married (Living Wilson.)
+{{< breadcrumb trail="Home|/|Ancestors|/ancestors/|Family Lines|/family-lines/|Willie Howell Berry Jr." >}}
+
+{{< ancestor-chain
+  gen3="Robert Berry Jr. × Mary Waggoner"
+  link3="/ancestors/robert-berry-jr/"
+  loc3="Orange County, NC → Fayette County, AL"
+  gen4="George Berry × Susan Berry"
+  link4="/ancestors/georgeberrytx/"
+  loc4="NC → Fayette County, AL"
+  gen5="John Berry × Mary Howell"
+  link5="/ancestors/john-berry-tx/"
+  loc5="Fayette County, AL"
+  gen6="Alexander Howell Berry × Josephine Prescilla"
+  loc6="Texas"
+  gen7="Willie Howell Berry × Sarah May"
+  link7="/ancestors/whowellberrytx/"
+  loc7="Texas"
+  gen8="Willie Howell Berry Jr. × (Living Wilson)"
+  loc8="Berry Flat, Borden, TX"
+  link8="/ancestors/whowellberryjrtx/"
+/>}}
+
+{{< ancestor-profile
+  name="Willie Howell Berry Jr."
+  gen="8"
+  born="June 2, 1917, Berry Flat, Borden, Texas"
+  died=""
+  spouse="(Living Wilson)"
+  parents="Willie Howell Berry and Sarah May Berry"
+>}}
+
+**Willie H** {{< img-float src="/images/dubandjoyce.jpg" alt="Willie Howell Berry Jr. with his wife and young niece" side="left" >}} **owell Berry Jr.** was born on June 2nd 1917 in Berry Flat, Borden Texas. He married (Living Wilson.)
 The picture on the right was taken in Colorado in 1982.
-Some of the Willie Howell Berry's Descendants.
-The picture on the left is Willy Howell Berry Jr.
-, his wife and young neice.
+Some of the [Willie Howell Berry's](/ancestors/whowellberrytx/) Descendants.
+The picture on the left is Willie Howell Berry Jr., his wife and young niece.
 Click on the Pictures to see a larger view.
 The picture on the lower right is W.H. Berry Jr. and his wife on his 70th birthday.
-<img class=" alignleft" src="/images/whowellbreunionsmall1982.jpg" alt="williehowellberryreunion1982" /><img src="/images/whberry70a.jpg" alt="whbat70" />
+{{< img-float src="/images/whowellbreunionsmall1982.jpg" alt="Willie Howell Berry family reunion, 1982" side="left" >}}{{< img-float src="/images/whberry70a.jpg" alt="W.H. Berry Jr. and his wife on his 70th birthday" >}}
 
- 
-
-Mary Howell married John Berry Cir 1838
-Willie Howell Berry Jr. is their Great Grand-son
+Mary Howell married [John Berry](/ancestors/john-berry-tx/) Cir 1838.
+Willie Howell Berry Jr. is their Great Grand-son.
 Willie Howell Berry Jr and his wife had three children.
-<ul>
-	<li>CHILDREN</li>
-	<li><strong>BILLY WAYNE BERRY (FROM THE ROBERT BERRY JR. LINE)
-(DONOR No 8 IN THE BERRY DNA PROJECT)</strong></li>
-	<li>Living Female Berry</li>
-	<li>Living Female Berry</li>
-</ul>
-<h3><strong>Willie Howell Berry Jr was born in Texas. </strong></h3>
-<h3>December 11, 2007 Updated 10/19/2015</h3>
-CENSUS INFORMATION
-<blockquote>“ Since there are no later Census available you can only find Willie Howell Jr. listed in Lamb County Texas in his Father's listings ”
-<ul>
-	<li>Willie Howell Berry Jr was 2and 1/2 years old in his father's 1920 Texas Census</li>
-</ul>
-<ul>
-	<li>Willie Howell Berry Jr was 12 years old in his father's 1930 Texas Census</li>
-</ul>
-</blockquote>
+
+---
+
+<h2 class="ancestor-section">Children of Willie Howell Berry Jr.</h2>
+
+<ol class="children-list">
+
+<li class="child-entry">
+  <div class="child-name">1. Billy Wayne Berry</div>
+  <div class="child-details">From the <a href="/ancestors/robert-berry-jr/">Robert Berry Jr.</a> line. Donor No 8 in the Berry DNA Project.</div>
+</li>
+
+<li class="child-entry">
+  <div class="child-name">2. Living Female Berry</div>
+</li>
+
+<li class="child-entry">
+  <div class="child-name">3. Living Female Berry</div>
+</li>
+
+</ol>
+
+---
+
+<h2 class="ancestor-section">Census Information</h2>
+
+{{< census-summary summary="Since there are no later Census available you can only find Willie Howell Jr. listed in Lamb County Texas in his Father's listings" >}}
+
+- Willie Howell Berry Jr was 2 and 1/2 years old in his father's 1920 Texas Census
+- Willie Howell Berry Jr was 12 years old in his father's 1930 Texas Census
+
+---
+
+**Willie Howell Berry Jr was born in Texas.**
+
+*December 11, 2007 — Updated 10/19/2015*
+
+</div>

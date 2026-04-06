@@ -1,31 +1,55 @@
 ---
 title: "Nathaniel Arie Turley Ga"
+description: "Nathaniel Arie Turley, son of Nathan and Mary Jori Berry Turley, Milton County, Georgia."
+bookToc: true
 ---
 
-<h2>Nathaniel Arie Turley, Son Of Nathan And Mary Jori Berry Turley</h2>
-ANCESTORS
+<div class="ancestor-page">
 
-Generation 1 Robert and Elizabeth Cate Berry
+{{< breadcrumb trail="Home|/|Ancestors|/ancestors/|Family Lines|/family-lines/|Nathaniel Arie Turley" >}}
 
-Generation 2 David J. and Mary Blalock Berry
+{{< ancestor-chain gen3="David J. Berry × Mary Blalock" loc3="Orange County, NC → Georgia" link3="/ancestors/david-j-berry-sr/" gen4="Robert Berry × Elizabeth Everitt Berry" loc4="Georgia" gen5="Mary Jori Berry × Nathan Turley" loc5="Milton County, Georgia" gen6="Nathaniel Arie Turley" loc6="Milton County, Georgia" />}}
 
-Generation 3 Robert and Elizabeth Everitt Berry Berry
+{{< ancestor-profile
+  name="Nathaniel Arie Turley"
+  gen="6"
+  born="c. 1873, Milton County, Georgia"
+  died="1937, buried in Ponder Cemetery"
+  spouse="1st: Mettie A. Haley (married November 25, 1900) — 2nd: Nancy B. Garrison (married January 6, 1926)"
+  parents="Nathan Turley and Mary Jori Berry"
+>}}
 
-Generation 4 Mary Jori Berry Turley and Nathan Turley
+{{< img-float src="/images/natandwilliamturleygasmall.jpg" alt="Nathaniel Arie Turley and his brother William Aaron Turley, Georgia" side="left" >}}
 
- 
+**NATHANIEL ARIE TURLEY** was born about 1873 in Milton County Georgia. <!-- UNSOURCED --> He died in 1937 and was buried in Ponder Cemetery. <!-- UNSOURCED --> Arie, as he was known by the family, was married twice. He married Mettie A. Haley on November 25, 1900. <!-- UNSOURCED --> When Mettie died, Arie married Nancy B. Garrison on January 6, 1926. <!-- UNSOURCED --> There were no children born to either of these unions.
 
-<strong>NA</strong><img class=" alignleft" src="/images/natandwilliamturleygasmall.jpg" alt="nathanturleyandwilliamturlweygeorgia" /><strong>THANIEL ARIE TURLEY</strong>, was born about 1873 in Milton County Georgia. He died in 1937 and was buried in Ponder Cemetery. Arie, as he was known by the family was married twice. he married Mettie A. Haley on November 25, 1900. When Mettie died Arie married Nancy B. Garrison on January 6, 1926. There were no children born to either
-of these unions.
-The picture on the right side of this page is of the Nathaniel Arie and his brother Willian Aaron Turley Arie is on the left and William Aaron Turley is on the right in this picture. <strong>
-Click on the pictures to view a larger image.</strong>
+The picture on the left side of this page is of Nathaniel Arie and his brother [William Aaron Turley](/ancestors/william-aaron-turley-ga/). Arie is on the left and William Aaron Turley is on the right in this picture.
 
-<strong>CHILDREN :</strong>
+Click on the pictures to view a larger image.
 
- 
-<h2><strong>Nathaniel Arie Turley was born in Milton county Georgia</strong></h2>
-<h3>January 9, 2008</h3>
-CENSUS INFORMATION
-<blockquote>“ TO Be Researched”
+---
 
- </blockquote>
+<h2 class="ancestor-section">Children</h2>
+
+None.
+
+**Nathaniel Arie Turley was born in Milton County Georgia.**
+
+**January 9, 2008**
+
+---
+
+<h2 class="ancestor-section">Census Records</h2>
+
+{{< census-summary summary="To be researched." >}}
+
+---
+
+<div class="tree-link">
+  <a href="/family-lines/david-j-berry-family-tree/">
+    View the Full David J. Berry Family Line
+    <span class="tree-link-sub">David J. Berry descendants</span>
+  </a>
+</div>
+
+</div>

@@ -1,46 +1,52 @@
 ---
 title: "Amanda Emiline Berry Ga"
+description: "Amanda Emiline Berry, daughter of Isaac Martin and Mary Ellen Anderson Berry, Georgia."
+bookToc: true
 ---
 
-<h2>Amanda Emiline Berry, Daughter of Isaac Martin and Mary Ellen Anderson Berry</h2>
-<h3><strong>Ancestors:</strong></h3>
-Generation 1 Robert and Elizabeth Cate Berry
+<div class="ancestor-page">
 
-Generation 2 David J. and Mary Blalock Berry
+{{< breadcrumb trail="Home|/|Ancestors|/ancestors/|Family Lines|/family-lines/|Amanda Emiline Berry" >}}
 
-Generation 3 Robert and Elizabeth Everitt Berry Berry
+{{< ancestor-chain gen1="Robert Berry × Mary Williamson" loc1="Princess Anne County, Virginia" link1="/ancestors/robert-berry-pac/" gen2="Robert Berry × Elizabeth Cate" loc2="Orange County, North Carolina" link2="/ancestors/robert-berry-oc/" gen3="David J. Berry × Mary Blalock" loc3="Orange County, NC → Georgia" link3="/ancestors/david-j-berry-sr/" gen4="Robert Berry × Elizabeth Everitt Berry" loc4="Georgia" gen5="Isaac Martin Berry × Mary Ellen Anderson" link5="/ancestors/isaacmartinberryga/" loc5="Georgia" />}}
 
-Generation 4 Isaac Martin and Mary Ellen Anderson Berry and Elizabeth Everitt Berry
-
-<strong>Amanda Emiline Berry</strong> born September 22nd 1856 in Georgia and died on May 14th 1925.
+{{< ancestor-profile
+  name="Amanda Emiline Berry"
+  gen="6"
+  born="September 22, 1856, Georgia"
+  died="May 14, 1925"
+  parents="Isaac Martin Berry and Mary Ellen Anderson Berry"
+>}}
 
 RESEARCH NEEDS TO BE DONE ON THIS COUSIN
 
-<strong>Children:
-</strong>
-<ul>
-	<li>Georgia Amanda Crawford</li>
-	<li></li>
-</ul>
-<h3><strong>To be researched:</strong></h3>
-<h3><strong>Census information:</strong></h3>
-<blockquote>“ TO Be Researched”
-<ul>
-	<li>TO Be Researched</li>
-</ul>
-<ul>
-	<li>To Be Researched</li>
-</ul>
-<ul>
-	<li>To Br Researched</li>
-</ul>
-<ul>
-	<li>To Be Researched</li>
-</ul>
-<ul>
-	<li>To Be Researched</li>
-</ul>
-<ul>
-	<li>To Be Researched</li>
-</ul>
-</blockquote>
+<h2 class="ancestor-section">Children of Amanda Emiline Berry</h2>
+
+- Georgia Amanda Crawford <!-- UNSOURCED -->
+
+---
+
+<h2 class="ancestor-section">To Be Researched</h2>
+
+---
+
+<h2 class="ancestor-section">Census Information</h2>
+
+> "TO Be Researched"
+> - TO Be Researched
+> - To Be Researched
+> - To Be Researched
+> - To Be Researched
+> - To Be Researched
+> - To Be Researched
+
+---
+
+<div class="tree-link">
+  <a href="/family-lines/david-j-berry-family-tree/">
+    View the Full David J. Berry Family Line
+    <span class="tree-link-sub">David J. and Mary Blalock Berry descendants</span>
+  </a>
+</div>
+
+</div>

@@ -1,77 +1,124 @@
 ---
-title: "George Berry Tx"
+title: "George Berry (TX)"
+description: "George Berry, son of Robert Berry Jr. and Mary Waggoner Berry, born circa 1790 in Orange County, North Carolina."
+bookToc: true
 ---
 
-<h2>George Berry, son of Robert Berry Jr. And Mary Waggoner Berry</h2>
-ANCESTORS
-<ol>
-	<li>Generation Robert and Mary Williamson Berry Princess Anne County, Virginia.</li>
-	<li>Generation Robert and Elizabeth Cate Berry Orange County, North Carolina.</li>
-	<li>Generation Robert Jr and Waggoner Berry NC & Fayette County Alabama.</li>
-</ol>
-<strong>George Berry</strong> was born Cir 1790 in Orange County North Carolina. George was killed in Texas before 1850
-George had served in the North Carolina Militia in the war of 1812. He enlisted as a private in
-Capt. John Bradshaw's Company in the North Carolina Millitia.
-1814 Muster: 4th Regiment, 7th Company.
-He was discharged as a private and his service made him eligable for land grants in Fayette County Alabama.
-George Berry's service in Texas also made his heirs elegible for more land grants in Texas
-George Berry married <strong>Susanna Aldridge</strong> about 1814.
+<div class="ancestor-page">
 
-Robert Berry Jr. was the bondsman for Peter Aldridge and Judith Waggoner  February 4th 1786. They were the parents of Susanna Aldridge.
-<strong>Susanna Aldridge was born 1792 (1850 census).
-Susanna also inherited some property from her father in 1814. (see the estate record below) </strong>
+{{< breadcrumb trail="Home|/|Ancestors|/ancestors/|Family Lines|/family-lines/|George Berry (TX)" >}}
 
-Estate Record of Peter Aldridge naming George and Susanna Berry
+{{< ancestor-chain
+  gen3="Robert Berry Jr. × Mary Waggoner"
+  link3="/ancestors/robert-berry-jr/"
+  loc3="Orange County, NC → Fayette County, AL"
+  gen4="George Berry × Susanna Aldridge"
+  loc4="Orange County, NC → Fayette County, AL → Texas"
+  link4="/ancestors/georgeberrytx/"
+/>}}
 
-<a href="/images/peter-aldridge-estate-settlement-person-county-1816.jpg"><img class="alignnone size-full wp-image-4449" src="/images/peter-aldridge-estate-settlement-person-county-1816.jpg" alt="Peter Aldridge estate settlement Person county 1816" width="911" height="133" /></a>
+{{< ancestor-profile
+  name="George Berry"
+  gen="4"
+  born="c. 1790, Orange County, North Carolina"
+  died="Before 1850, Texas"
+  spouse="Susanna Aldridge (married c. 1814)"
+  parents="Robert Berry Jr. and Mary Waggoner Berry"
+>}}
 
-Susanna Aldridge Berry's parents were Peter & Judith Waggoner Aldridge
+**George Berry** was born c. 1790 in Orange County North Carolina. George was killed in Texas before 1850. George had served in the North Carolina Militia in the war of 1812. He enlisted as a private in Capt. John Bradshaw's Company in the North Carolina Militia. 1814 Muster: 4th Regiment, 7th Company. He was discharged as a private and his service made him eligible for land grants in Fayette County Alabama. George Berry's service in Texas also made his heirs eligible for more land grants in Texas.
 
-Estate Sale of James Farquhar In Person County
+George Berry married **Susanna Aldridge** about 1814.
 
-<a href="/images/james-farquhar-estate-sale-1814.jpg"><img class="alignnone size-full wp-image-4451" src="/images/james-farquhar-estate-sale-1814.jpg" alt="James Farquhar Estate sale 1814" width="841" height="473" /></a>
+[Robert Berry Jr.](/ancestors/robert-berry-jr/) was the bondsman for Peter Aldridge and Judith Waggoner February 4th 1786. They were the parents of Susanna Aldridge.
 
-Aldridge to Farquhar Land Sale in Person County, NC.
+**Susanna Aldridge was born 1792 (1850 census).** Susanna also inherited some property from her father in 1814. (see the estate record below)
 
-<a href="/images/aldridge-to-farquhar-1817.jpg"><img class="alignnone size-full wp-image-4453" src="/images/aldridge-to-farquhar-1817.jpg" alt="Aldridge to Farquhar 1817" width="1361" height="107" /></a>
+### **Estate Record of Peter Aldridge naming George and Susanna Berry**
 
-George Berr'ys Record of Service in the War of 1812
+{{< img-float src="/images/peter-aldridge-estate-settlement-person-county-1816.jpg" alt="Peter Aldridge estate settlement, Person County, 1816" >}}
+
+Susanna Aldridge Berry's parents were Peter & Judith Waggoner Aldridge.
+
+### **Estate Sale of James Farquhar in Person County**
+
+{{< img-float src="/images/james-farquhar-estate-sale-1814.jpg" alt="James Farquhar estate sale, 1814" >}}
+
+### **Aldridge to Farquhar Land Sale in Person County, NC.**
+
+{{< img-float src="/images/aldridge-to-farquhar-1817.jpg" alt="Aldridge to Farquhar land sale, 1817" >}}
+
+### **George Berry's Record of Service in the War of 1812**
 
 SOURCE: SOLDIERS of the WAR OF 1812 Person County N.C. pages 105 & 106
 
-<strong> Fayette County Ala Probate Records p 263: </strong>
+### **Fayette County Ala Probate Records p 263:**
 
 George Berry Estate, Henry Berry Administrator:
 
-Susan Berry, Widow: Heirs: <strong>John Berry</strong> (Rusk County Texas), Henry Berry, James Berry, Moses Ray (Husband of Susan Berry) Mary Brasher (Wife of James H. Brasher), George Berry (minor heir) September 1851
+Susan Berry, Widow: Heirs: **[John Berry](/ancestors/john-berry-tx/)** (Rusk County Texas), Henry Berry, James Berry, Moses Ray (Husband of Susan Berry) Mary Brasher (Wife of James H. Brasher), George Berry (minor heir) September 1851
 
-CHILDREN :
-<ul>
-	<li><a href="/ancestors/johnberrytx/">John Berry</a> b 1815 in Orange County NC d May 1862 in Rusk County Texas</li>
-	<li>Henry C. Berry cir 1820 d Unknown</li>
-	<li><a href="/ancestors/susanberryalatx/">Susan Berry</a> Cir 1825 d after 1880 Gregg Texas</li>
-	<li>Mary Ann Berry Cir 1830 d Unknown</li>
-	<li>George W.Berry Cir 1830 d Unknown</li>
-	<li>James Berry August 3, 1835 d February 24, 1877</li>
-</ul>
-********************************************************************************************************
-<ul>
-	<li>James H. and Mary Ann Berry Brasher were in Rusk County Texas in 1856</li>
-	<li>George W. and Mary Ellen Dobbins Berry went to Rusk County Texas</li>
-	<li>James Berry married Mary Elizabeth McClure in Rusk County Texas in 1855.</li>
-	<li>John Berry's oldest daughter married Frances M. McClure a relative of Mary McClure.<strong>Records In Person County N.C.:</strong>BOOK 6 Capt Hargis'Co.Book E Page 54-5Book E Page 186Book E Pages 196-8, 199, 200</li>
-</ul>
-<h3><strong>George Berry was born in Orange County North Carolina and died in Texas.</strong></h3>
-<h3>November 20, 2007</h3>
-CENSUS INFORMATION
-<blockquote>“ George Berry listed in Fayette County Alabama”
-<ul>
-	<li>George Berry was listed in the Fayette County 1830 Census.</li>
-</ul>
-<ul>
-	<li>George Berry was listed in the Fayette County 1840 Census.</li>
-</ul>
-<ul>
-	<li>Susannah Berry was listed in the Fayette County 1850 Census.</li>
-</ul>
-</blockquote>
+---
+
+<h2 class="ancestor-section">Children of George and Susanna Aldridge Berry</h2>
+
+<ol class="children-list">
+
+<li class="child-entry">
+  <div class="child-name">1. <a href="/ancestors/john-berry-tx/">John Berry</a></div>
+  <div class="child-dates">b. 1815, Orange County, NC — d. May 1862, Rusk County, TX</div>
+</li>
+
+<li class="child-entry">
+  <div class="child-name">2. Henry C. Berry</div>
+  <div class="child-dates">b. c. 1820 — d. Unknown</div>
+</li>
+
+<li class="child-entry">
+  <div class="child-name">3. <a href="/ancestors/susanberryalatx/">Susan Berry</a></div>
+  <div class="child-dates">b. c. 1825 — d. after 1880, Gregg, TX</div>
+</li>
+
+<li class="child-entry">
+  <div class="child-name">4. Mary Ann Berry</div>
+  <div class="child-dates">b. c. 1830 — d. Unknown</div>
+</li>
+
+<li class="child-entry">
+  <div class="child-name">5. George W. Berry</div>
+  <div class="child-dates">b. c. 1830 — d. Unknown</div>
+</li>
+
+<li class="child-entry">
+  <div class="child-name">6. James Berry</div>
+  <div class="child-dates">b. August 3, 1835 — d. February 24, 1877</div>
+</li>
+
+</ol>
+
+- James H. and Mary Ann Berry Brasher were in Rusk County Texas in 1856
+- George W. and Mary Ellen Dobbins Berry went to Rusk County Texas
+- James Berry married Mary Elizabeth McClure in Rusk County Texas in 1855.
+- [John Berry's](/ancestors/john-berry-tx/) oldest daughter married Frances M. McClure a relative of Mary McClure.
+
+### **Records In Person County N.C.:**
+
+BOOK 6 Capt Hargis' Co. Book E Page 54-5. Book E Page 186. Book E Pages 196-8, 199, 200.
+
+---
+
+<h2 class="ancestor-section">Census Information</h2>
+
+{{< census-summary summary="George Berry listed in Fayette County Alabama" >}}
+
+- George Berry was listed in the Fayette County 1830 Census.
+- George Berry was listed in the Fayette County 1840 Census.
+- Susannah Berry was listed in the Fayette County 1850 Census.
+
+---
+
+**George Berry was born in Orange County North Carolina and died in Texas.**
+
+*November 20, 2007*
+
+</div>

@@ -1,35 +1,49 @@
 ---
 title: "John W. Berry NC"
+description: "John W. Berry (1871-1923), son of John Robert Berry, Orange County, North Carolina."
+bookToc: true
 ---
 
-<h2>John W. Berry, Is The Son Of John Robert Berry</h2>
-<h3></h3>
-ANCESTORS
+<div class="ancestor-page">
 
-Generation 1 Robert and Mary Williamson Berry
+{{< breadcrumb trail="Home|/|Ancestors|/ancestors/|Family Lines|/family-lines/|John W. Berry" >}}
 
-Generation 2 Robert and Elizabeth Cate Berry
+{{< ancestor-chain gen3="William Berry × Hannah Cate" loc3="Orange County, NC" link3="/ancestors/william-berry/" gen4="Thomas Person Berry × Sarah Lunsford" loc4="Orange County, NC" link4="/ancestors/thomas-person-berry/" gen5="John Robert Berry × Elizabeth Francis Bowling" loc5="Orange County, NC" link5="/ancestors/john-berry-detail/" gen6="John W. Berry" loc6="Orange County, NC" />}}
 
-Generation 3 William Berry and Hannah Cate
+{{< ancestor-profile
+  name="John W. Berry"
+  gen="6"
+  born="February 2, 1871, Orange County, North Carolina"
+  died="December 22, 1923, Orange County, North Carolina"
+  spouse="Never married"
+  parents="John Robert Berry and Elizabeth Francis Bowling, Orange County, NC"
+>}}
 
-Generation 4 Thomas Person Berry and Sarah Lunsford
+## **The Story of John W. Berry**
 
-Generation 5 John Robert Berry and Elizabeth Francis Bowling
+{{< img-float src="/images/johnwberryheadstonnc.jpg" alt="Headstone of John W. Berry at Berry's Grove Baptist Church" >}}{{< img-float src="/images/johnwberryjrbsonncsmall.jpg" alt="John W. Berry with his horse" >}}
 
-<img src="/images/johnwberryheadstonnc.jpg" alt="johnwberryheasdstone" /><img src="/images/johnwberryjrbsonncsmall.jpg" alt="johnwberry" />
+**John W. Berry** was born February 2nd 1871 in Orange County NC and died on December 22nd 1923. John never married and lived in a small house back of his fathers home. From the census I found that he was an egg salesman. He is buried at Berry's Grove Baptist Church. To view a larger picture of John W. Berry's head stone or John W. Berry and his horse **CLICK ON THE PICTURES**
 
-<strong>John W. Berry </strong>was born February 2nd 1871 in Orange County NC and died on December 22nd 1923. John never married and lived in a small house back of his fathers home. From the census I found that he was an egg salesman.He is burried at Berry's Grove Baptist Church.To view a larger picture of John W. Berry's head stone or John W. Berry and his horse <strong>CLICK ON THE PICTURES</strong>
-<h2><strong>John W. Berry always lived in Orange County North Caolina</strong></h2>
-<h3>January 15, 2008</h3>
-CENSUS INFORMATION
-<blockquote>“ The last census that John W. Berry was in was 1920. He died in 1923”
-<ul>
-	<li>John W. Berry has not been found in the 1900 census</li>
-</ul>
-<ul>
-	<li>John W. Berry was living with his father in the 1910 Census</li>
-</ul>
-<ul>
-	<li>John W. Berry was living a a boarder and was listed as an egg salesman in 1920</li>
-</ul>
-</blockquote>
+**John W. Berry always lived in Orange County North Carolina**
+
+---
+
+<h2 class="ancestor-section">Census Records</h2>
+
+{{< census-summary summary="The last census that John W. Berry was in was 1920. He died in 1923." >}}
+
+- John W. Berry has not been found in the **1900** census
+- John W. Berry was living with his father in the **1910** Census
+- John W. Berry was living as a boarder and was listed as an egg salesman in **1920**
+
+---
+
+<div class="tree-link">
+  <a href="/family-lines/william-berry-family-tree/">
+    View the Full William Berry Family Line
+    <span class="tree-link-sub">Descendants of William and Hannah Cate Berry</span>
+  </a>
+</div>
+
+</div>

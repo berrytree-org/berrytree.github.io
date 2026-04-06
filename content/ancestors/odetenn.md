@@ -1,61 +1,105 @@
 ---
-title: "Ode Berry Tenn"
+title: "Ode Berry"
+description: "Ode Berry, son of James David and Millissa Harlow Berry, born 1888 in Wayne County, Tennessee."
+weight: 1
+bookToc: true
 ---
 
-<h2>Ode Berry, son of James David and Millissa Harlow Berry</h2>
-ANCESTORS
+<div class="ancestor-page">
 
-Generation 1 Robert and Elizabeth Cate Berry
+{{< breadcrumb trail="Home|/|Ancestors|/ancestors/|Family Lines|/family-lines/|Ode Berry" >}}
 
-Generation 2 Thomas and Sarah Cate Berry
+{{< ancestor-chain gen3="Thomas Berry × Sarah Cate" loc3="Orange County, NC → Tennessee" link3="/ancestors/thomas-berry/" gen4="David Berry × Elizabeth Shipman" loc4="Tennessee" gen5="Isaac Berry × Amanda Josephine Blackwood" loc5="Wayne County, Tennessee" link5="/ancestors/iassctenn/" gen6="James David Berry × Millissa Harlow" loc6="Wayne County, Tennessee" link6="/ancestors/jimdavetenn/" gen7="Ode Berry × Emma Lee Stuits" loc7="Wayne County, Tennessee" />}}
 
-Generation 3 David and Elizabeth Shipman Berry
+{{< ancestor-profile
+  name="Ode Berry"
+  gen="7"
+  born="December 2, 1888, Wayne County, Tennessee"
+  died="February 8, 1951"
+  spouse="Emma Lee Stuits (married December 26, 1909, died October 14, 1979)"
+  parents="James David Berry and Millissa Harlow Berry, Wayne County, Tennessee"
+>}}
 
-Generation 4 Isaac and Amanda Josephine Blackwood Berry
+## **The Story of Ode Berry**
 
-Generation 5 James David and Millissa Harlow Berry
+{{< img-float src="/images/odetenn.jpg" alt="Portrait of Ode Berry" side="left" >}}
 
-<img class=" alignleft" src="/images/odetenn.jpg" alt="" />
+**Ode Berry** was born in Wayne County Tennessee on December 2, 1888 and died on February 8 1951 He was the first child of [James David and Millissa Harlow](/ancestors/jimdavetenn/) to reach adulthood. <!-- UNSOURCED --> Ode married **Emma Lee Stuits** on December 26, 1909. <!-- UNSOURCED --> Emma Lee Stuits was born on September 9th 1890 and died on October the 14th 1979. <!-- UNSOURCED -->
 
-<strong>ODE BERRY</strong> was born in Wayne County Tennessee on December 2, 1888 and died on February 8 1951 He was the first child of James David and Millissa Harlow to reach adulthood. Ode married Emma Lee Stuits on December 26, 1909. Emma Lee Stuits was born on September 9th 1890 and died on October the 14th 1979.
+---
 
- 
+<h2 class="ancestor-section">Children of Ode Berry</h2>
 
- 
+These are the seven children who were born to this union:
 
-These are the SEVEN children who were born to this union:
+<ol class="children-list">
 
-<strong><strong> 1. <a href="/ancestors/ernesttenn/">Ernest John Berry</a> b Nov. 25 1911 d Nov. 14, 1977
-2. Thelma G. Berry b Jan. 2, 1914 d July 7, 1965
-3. Ola Berry b Jan. 17, 1917 d Jun. 3, 1941
-4. Orene Berry b Nov 11, 1920 d Oct. 1 2004
-5. Willie Wayford Berry b Apr 13, 1923 d Nov. 21 2002
-6. Living Female
-7. Charles David Berry b Oct 22, 1932
-<strong>ODE BERRY'S PICTURE IS ON THE RIGHT </strong> </strong></strong>
+<li class="child-entry">
+  <div class="child-name">1. <a href="/ancestors/ernesttenn/">Ernest John Berry</a></div>
+  <div class="child-dates">Born November 25, 1911 — Died November 14, 1977</div>
+</li>
 
-<img src="/images/odefamilypic.jpg" alt="" />
+<li class="child-entry">
+  <div class="child-name">2. Thelma G. Berry</div>
+  <div class="child-dates">Born January 2, 1914 — Died July 7, 1965</div>
+</li>
 
-THIS IS THE ODE BERRY FAMILY PICTURE
-FIRST ROW L to R: Ode, Emma, Orene, Living Male, Thelma
-SECOND ROW L to R: Ernest John, Willie Wayford Living Female
+<li class="child-entry">
+  <div class="child-name">3. Ola Berry</div>
+  <div class="child-dates">Born January 17, 1917 — Died June 3, 1941</div>
+</li>
 
-<img src="/images/roxieatthebrige.jpg" alt="" />
+<li class="child-entry">
+  <div class="child-name">4. Orene Berry</div>
+  <div class="child-dates">Born November 11, 1920 — Died October 1, 2004</div>
+</li>
 
-MEMORIAL BRIDGE DEDICATION IN HONOR OF ODE AND ERNEST JOHN BERRY
+<li class="child-entry">
+  <div class="child-name">5. Willie Wayford Berry</div>
+  <div class="child-dates">Born April 13, 1923 — Died November 21, 2002</div>
+</li>
 
- 
-<h3><strong>
-Ode Berry (son of Jim Dave Berry) lived in Tennessee his entire life</strong></h3>
-<h3><strong><strong>November 3, 2007</strong></strong></h3>
-<strong><strong>CENSUS INFORMATION and NEIGHBORS</strong></strong>
-<blockquote><strong><strong>“Ode Berry listed as head of household from 1910 until 1930 ”</strong></strong></blockquote>
-<h3></h3>
-<strong><strong>ODE BERRY was born December 2, 1888 and was listed in Jim Dvae's 1900 census</strong></strong>
+<li class="child-entry">
+  <div class="child-name">6. Living Female</div>
+</li>
 
-<strong><strong> Ode Berry was 11 years old and was listed in his father's 1900 Wayne County Tennessee Census
-Ode Berry in 1910 Wayne County Tennessee Census
-Ode Berry in 1920 Wayne County Tennessee Census
-ODE Berry in 1930 Wayne County Tennessee Census Page 1
-ODE Berry in 1930 Wayne County Tennessee Census Page 2
-</strong></strong>
+<li class="child-entry">
+  <div class="child-name">7. Charles David Berry</div>
+  <div class="child-dates">Born October 22, 1932</div>
+</li>
+
+</ol>
+
+### **Family Photos**
+
+{{< img-float src="/images/odefamilypic.jpg" alt="Ode Berry family portrait showing all family members" >}}
+
+This is the Ode Berry Family Picture.
+First Row L to R: Ode, Emma, Orene, Living Male, Thelma.
+Second Row L to R: Ernest John, Willie Wayford, Living Female.
+
+{{< img-float src="/images/roxieatthebrige.jpg" alt="Memorial bridge dedication in honor of Ode and Ernest John Berry" >}}
+
+Memorial bridge dedication in honor of Ode and Ernest John Berry.
+
+---
+
+<h2 class="ancestor-section">Census Records</h2>
+
+{{< census-summary summary="Ode Berry listed as head of household from 1910 until 1930. He appeared in Jim Dave's 1900 census as a child." >}}
+
+- **1900** — Ode Berry was 11 years old and was listed in his father's Wayne County Tennessee Census
+- **1910** — Ode Berry in Wayne County Tennessee Census
+- **1920** — Ode Berry in Wayne County Tennessee Census
+- **1930** — Ode Berry in Wayne County Tennessee Census
+
+---
+
+<div class="tree-link">
+  <a href="/family-lines/">
+    View Berry Family Lines
+    <span class="tree-link-sub">Thomas Berry descendants</span>
+  </a>
+</div>
+
+</div>

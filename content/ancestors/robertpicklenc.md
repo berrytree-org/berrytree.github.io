@@ -1,85 +1,170 @@
 ---
 title: "Robert Pickle NC"
+description: "Robert Pickle, son of Jacob and Catherine Berry Pickle, born 1801 in Orange County, North Carolina."
+bookToc: true
 ---
 
-<h2>Robert Pickle, Son Of Jacob And Catherine Berry Pickle</h2>
-ANCESTORS
-<ol>
-	<li>Generation Robert and Mary Williamson Berry, Princess Anne County, Virginia.</li>
-	<li>Generation Robert and Elizabeth Cate Berry, Orange county, North Carolina.</li>
-	<li>Generation Robert Jr. and Mary Waggoner Berry, NC and Fayette County, Alabama.</li>
-	<li>Generation Jacob and Catherine Berry Pickle. NC,Ala, Monroe County Mississippi</li>
-</ol>
-<p><img class=" alignleft" src="/images/robertpickle.jpg" alt="" width="287" height="346" /><img src="/images/sarahaldridgepickle.jpg" alt="" />                       ROBERT PICKLE                                 SARAH ALDRIDGE PICKLE</p>
-<strong>Robert Pickle</strong> was born in 1801 in Orange County North Carolina and he died in Mississippi on July 24th 1881.                                                                                                              <strong>NOTE:</strong> see Robert Pickles grave marker picture on this page
+<div class="ancestor-page">
 
-Robert Pickle was the 2nd child of Jacob and Catherine Berry Pickle. Robert married Sarah Aldridge, (Born in 1806 in North Carolina) daughter of Peter Aldridge and Judith Waggoner. Robert Pickle and Sarah Aldridge were married 21 September 1824 in Tuscaloosa, Alabama.It was interesting to note that Robert Berry Jr. was the bondsman for the marriage of Peter Aldridge and Judith Waggoner. These families were well known to each other in Orange County, North Carolina.
+{{< breadcrumb trail="Home|/|Ancestors|/ancestors/|Family Lines|/family-lines/|Robert Pickle" >}}
 
-Catherine Berry's brother George Berry married Susan Aldridge an older sister of Robert Pickle's wife Sarah Aldridge. All of Robert Berry Jr.'s family removed to Fayette County Alabama in the early 1820's. It is very likely that Jacob and Catherine Pickle lived for a few years in Fayette County Georgia before her Father and the rest of Catherine's family joined them. Cathrine Berry Pickle had first cousins living in Fayette County, Georgia. Mary Camp's children John Camp, Robert Berry Camp, Starling Camp, and Sarah Camp Humphries signed a power of attourney in Fayette County Georgia on February 16, 1815. We know that Jacob and Cathrine had a son born in Georgia in 1813. Her brother, George Berry, had a son (John Berry) born in Orange County, North Carolina, in 1815. <img class=" alignleft" src="/images/robertpicklecabin.jpg" alt="" /> I do not think Robert Berry Jr and the rest of the family came to Alabama until about 1822.
+{{< ancestor-chain gen3="Robert Berry Jr. × Mary Waggoner" loc3="NC → Fayette County, Alabama" link3="/ancestors/robert-berry-jr/" gen4="Jacob × Catherine Berry Pickle" loc4="NC, Alabama, Monroe County, Mississippi" gen5="Robert Pickle × Sarah Aldridge" loc5="Orange County, NC → Monroe County, Mississippi" />}}
 
-It was probably sometime after Robert Berry Jr's mother died before the rest of his family left Orange County.
+{{< ancestor-profile
+  name="Robert Pickle"
+  gen="5"
+  born="1801, Orange County, North Carolina"
+  died="July 24, 1881, Mississippi"
+  spouse="Sarah Aldridge (married September 21, 1824, Tuscaloosa, Alabama)"
+  parents="Jacob and Catherine Berry Pickle"
+>}}
 
- 
+{{< img-float src="/images/robertpickle.jpg" alt="Portrait of Robert Pickle" side="left" >}}{{< img-float src="/images/sarahaldridgepickle.jpg" alt="Portrait of Sarah Aldridge Pickle" >}} ROBERT PICKLE SARAH ALDRIDGE PICKLE
 
- 
+**Robert Pickle** was born in 1801 in Orange County North Carolina and he died in Mississippi on July 24th 1881. <!-- UNSOURCED --> **NOTE:** see Robert Pickles grave marker picture on this page
 
-This is all that remains of Robert and Sarah Aldridge Pickles's home. The cabin was somewhat larger than what you see now. Only two rooms are left with the roof still intact and these were last used to to store cattle feed. The rest of the home has fallen down. There are signs of out buildings on the place but none of the buildings are standing. The old road leading up to the cabin has not been used in several years. Trees have grown up in the road.<img class=" alignright" src="/images/robertpicklegravemarker.jpg" alt="" />
+Robert Pickle was the 2nd child of Jacob and Catherine Berry Pickle. Robert married Sarah Aldridge, (Born in 1806 in North Carolina) daughter of Peter Aldridge and Judith Waggoner. Robert Pickle and Sarah Aldridge were married 21 September 1824 in Tuscaloosa, Alabama. It was interesting to note that [Robert Berry Jr.](/ancestors/robert-berry-jr/) was the bondsman for the marriage of Peter Aldridge and Judith Waggoner. These families were well known to each other in Orange County, North Carolina.
 
- 
+Catherine Berry's brother George Berry married Susan Aldridge an older sister of Robert Pickle's wife Sarah Aldridge. All of [Robert Berry Jr.'s](/ancestors/robert-berry-jr/) family removed to Fayette County Alabama in the early 1820's. It is very likely that Jacob and Catherine Pickle lived for a few years in Fayette County Georgia before her Father and the rest of Catherine's family joined them. Cathrine Berry Pickle had first cousins living in Fayette County, Georgia. Mary Camp's children John Camp, Robert Berry Camp, Starling Camp, and Sarah Camp Humphries signed a power of attourney in Fayette County Georgia on February 16, 1815. We know that Jacob and Cathrine had a son born in Georgia in 1813. Her brother, George Berry, had a son (John Berry) born in Orange County, North Carolina, in 1815. {{< img-float src="/images/robertpicklecabin.jpg" alt="Remains of Robert and Sarah Aldridge Pickle's cabin" side="left" >}} I do not think Robert Berry Jr and the rest of the family came to Alabama until about 1822.
 
- 
+It was probably sometime after [Robert Berry Jr's](/ancestors/robert-berry-jr/) mother died before the rest of his family left Orange County.
+
+This is all that remains of Robert and Sarah Aldridge Pickles's home. The cabin was somewhat larger than what you see now. Only two rooms are left with the roof still intact and these were last used to store cattle feed. The rest of the home has fallen down. There are signs of out buildings on the place but none of the buildings are standing. The old road leading up to the cabin has not been used in several years. Trees have grown up in the road.{{< img-float src="/images/robertpicklegravemarker.jpg" alt="Gravestone of Robert Pickle" side="right" >}}
 
 The pictures of Robert Pickle and Sarah Aldridge Pickle were supplied by a descendant of the couple on December 15th 2008.
 
-<strong>CHILDREN :</strong>
-<ul>
-	<li>Catherine Pickle born 10 October 1825 in Fayette County, Alabama and died 13 September 1903 Choctaw Nation Indian Territory in what is now Monroe, LeFlore County, Oklahoma. She married Martin E. Ritter 24 September 1844 in Monroe County, Mississippi. Catherine and Martin are buried in the Monroe Cemetery Monroe, Oklahoma..</li>
-	<li>Susan Pickle was born 8 August 1827 in Fayette County and died 6 September 1888 in Monroe County. She is buried in the Bobby Pickle Cemetery, Sipsey Fork, Monroe County, Mississippi.</li>
-	<li></li>
-	<li>Jimmy Pickle was born 1829 in Fayette County. Little is known of this child.</li>
-	<li></li>
-	<li>Mary Pickle born 6 October 1831 in Fayette County and died 7 January 1902 in Lamar County, Alabama. She married Anderson B. Young 7 October 1852 in Monroe County. Her second marriage was to William H. Hamilton. Mary is buried in the Hamilton Family Cemetery in Monroe County.</li>
-	<li></li>
-	<li>David Pickle was born 2 September 1833 in Fayette County and died 31 January 1880 in Jonesboro, Arkansas. He married Frances Jane Tyrone 8 October 1857 in Monroe County. David is buried in Pine Hill Cemetery Jonesboro, Arkansas.</li>
-	<li></li>
-	<li>Martha Jane Pickle was born 1835 in Fayette County and died 24 March 1917 in Oklahoma. She married Thomas Abner Thrailkill 14 December 1852 in Monroe County.</li>
-	<li></li>
-	<li>Henry Pickle was born 18 November 1837 in Fayette County and died 19 September 1905. He married Roda Elizabeth Ray 29 July 1858 in Monroe County. Henry is buried in the Bobby Pickle Cemetery.</li>
-	<li></li>
-	<li>Jacob Pickle was born 15 November 1839 in Monroe County and died 11 December 1899 in Monroe County. He married first Cynthia M. Irvin 28 February 1865 in Monroe County. He married second to Susan Elizabeth Blaylock 11 August 1893 in Monroe County. Jacob is buried in the Bobby Pickle Cemetery; Cynthia is buried in the Irvin Cemetery; Susan is buried just across the state line in the Blaylock Cemetery Lamar County, Alabama.</li>
-	<li>Elizabeth P. Pickle was born 19 November 1841 in Monroe County and died 31 December 1917 in Salt Lake City, Utah. She married Thomas Alexander Lowry 4 February 1864 in Monroe County. She is buried in the Salt Lake City Cemetery.</li>
-	<li></li>
-	<li>William R. Pickle was born 17 September 1843 in Monroe County and died 4 November 1922 in Monroe County. He married first Mary Elizabeth Irvin 11 February 1865 in Monroe County. He married second to Mary Rebecca Irvin 3 April 1898 in Monroe County. Robert is buried in the Pickle Cemetery. Mary Elizabeth is buried in the Irvin Cemetery.</li>
-</ul>
-<a href="/images/william-r.-pickle-and-mary-e.-irvin-pickle.jpg"><img class="alignnone size-full wp-image-4480" src="/images/william-r.-pickle-and-mary-e.-irvin-pickle.jpg" alt="William R. Pickle and Mary E. Irvin Pickle" width="1410" height="983" /></a>
+---
+
+<h2 class="ancestor-section">Children of Robert and Sarah Aldridge Pickle</h2>
+
+<ol class="children-list">
+
+<li class="child-entry">
+  <div class="child-name">1. Catherine Pickle</div>
+  <div class="child-dates">Born October 10, 1825, Fayette County, Alabama — Died September 13, 1903, Choctaw Nation Indian Territory (now Monroe, LeFlore County, Oklahoma)</div>
+  <div class="child-details">Married Martin E. Ritter, September 24, 1844, Monroe County, Mississippi. Catherine and Martin are buried in the Monroe Cemetery Monroe, Oklahoma. <!-- UNSOURCED --></div>
+</li>
+
+<li class="child-entry">
+  <div class="child-name">2. Susan Pickle</div>
+  <div class="child-dates">Born August 8, 1827, Fayette County — Died September 6, 1888, Monroe County</div>
+  <div class="child-details">Buried in the Bobby Pickle Cemetery, Sipsey Fork, Monroe County, Mississippi. <!-- UNSOURCED --></div>
+</li>
+
+<li class="child-entry">
+  <div class="child-name">3. Jimmy Pickle</div>
+  <div class="child-dates">Born 1829, Fayette County</div>
+  <div class="child-details">Little is known of this child. <!-- UNSOURCED --></div>
+</li>
+
+<li class="child-entry">
+  <div class="child-name">4. Mary Pickle</div>
+  <div class="child-dates">Born October 6, 1831, Fayette County — Died January 7, 1902, Lamar County, Alabama</div>
+  <div class="child-details">Married Anderson B. Young, October 7, 1852, Monroe County. Second marriage to William H. Hamilton. Buried in the Hamilton Family Cemetery in Monroe County. <!-- UNSOURCED --></div>
+</li>
+
+<li class="child-entry">
+  <div class="child-name">5. David Pickle</div>
+  <div class="child-dates">Born September 2, 1833, Fayette County — Died January 31, 1880, Jonesboro, Arkansas</div>
+  <div class="child-details">Married Frances Jane Tyrone, October 8, 1857, Monroe County. Buried in Pine Hill Cemetery Jonesboro, Arkansas. <!-- UNSOURCED --></div>
+</li>
+
+<li class="child-entry">
+  <div class="child-name">6. Martha Jane Pickle</div>
+  <div class="child-dates">Born 1835, Fayette County — Died March 24, 1917, Oklahoma</div>
+  <div class="child-details">Married Thomas Abner Thrailkill, December 14, 1852, Monroe County. <!-- UNSOURCED --></div>
+</li>
+
+<li class="child-entry">
+  <div class="child-name">7. Henry Pickle</div>
+  <div class="child-dates">Born November 18, 1837, Fayette County — Died September 19, 1905</div>
+  <div class="child-details">Married Roda Elizabeth Ray, July 29, 1858, Monroe County. Buried in the Bobby Pickle Cemetery. <!-- UNSOURCED --></div>
+</li>
+
+<li class="child-entry">
+  <div class="child-name">8. Jacob Pickle</div>
+  <div class="child-dates">Born November 15, 1839, Monroe County — Died December 11, 1899, Monroe County</div>
+  <div class="child-details">Married first Cynthia M. Irvin, February 28, 1865, Monroe County. Married second Susan Elizabeth Blaylock, August 11, 1893, Monroe County. Jacob is buried in the Bobby Pickle Cemetery; Cynthia in the Irvin Cemetery; Susan in the Blaylock Cemetery, Lamar County, Alabama. <!-- UNSOURCED --></div>
+</li>
+
+<li class="child-entry">
+  <div class="child-name">9. Elizabeth P. Pickle</div>
+  <div class="child-dates">Born November 19, 1841, Monroe County — Died December 31, 1917, Salt Lake City, Utah</div>
+  <div class="child-details">Married Thomas Alexander Lowry, February 4, 1864, Monroe County. Buried in the Salt Lake City Cemetery. <!-- UNSOURCED --></div>
+</li>
+
+<li class="child-entry">
+  <div class="child-name">10. William R. Pickle</div>
+  <div class="child-dates">Born September 17, 1843, Monroe County — Died November 4, 1922, Monroe County</div>
+  <div class="child-details">Married first Mary Elizabeth Irvin, February 11, 1865, Monroe County. Married second Mary Rebecca Irvin, April 3, 1898, Monroe County. Buried in the Pickle Cemetery. Mary Elizabeth is buried in the Irvin Cemetery. <!-- UNSOURCED --></div>
+</li>
+
+</ol>
+
+{{< img-float src="/images/william-r.-pickle-and-mary-e.-irvin-pickle.jpg" alt="Group photo: Robert Pickle, unknown banjo player, Sarah Aldridge Pickle, Thomas Irvin, Mary Elizabeth Irvin, Sidney Lowery Irvin, and William R. Pickle" >}}
 
 L. to R. Robert Pickle, Unknown Banjo Picker, Sarah Aldridge Pickle, Thomas Irvin, Mary Elizabeth Irvin, Sidney Lowery Irvin, William R. Pickle.
 
-William R. Pickle was the son of Robert and Sarah Aldridge Pickle and he married Mary Elizabeth Irvin who was standing behind her Father and Mother, Thomas and Sidney Lowery Irvin in the picture above..
-<ul>
-	<li>Thomas Pickle was born 16 October in Monroe County and died 21 May 1912 in Salt Lake City, Utah. He married Sarah Elizabeth Lowry 17 January 1867 in Monroe County. He is buried in the Salt Lake City Cemetery.</li>
-	<li></li>
-	<li>Wesley Greenberry Pickle was born 10 March 1848 in Monroe County and died 24 May 1927 in Monroe, LeFlore County, Oklahoma. He married Rachel Margaret Towery 31 March 1868 in Monroe County. Wesley and Rachel are buried in the Monroe Cemetery Monroe, Oklahoma.</li>
-	<li></li>
-	<li>Jerome R. Pickle was born 31 May 1850 in Splunge, Monroe County, Mississippi and died 8 December 1910 in Sebastian County, Arkansas. He married Sarah Jane Bandy 16 November 1871 in Monroe County. Jerome and Sarah are buried in the Shiloh Cemetery Hartford, Sebastian County, Arkansas.</li>
-	<li></li>
-	<li>Sarah Emma Pickle was born 3 September 1853 in Monroe County and died 20 February 1914 in Shottsville, Marion County, Alabama. She married Daniel Curry Stone 24 February 1870 in Monroe County. Sarah and Curry are buried in Shottsville Cemetery.</li>
-</ul>
+William R. Pickle was the son of Robert and Sarah Aldridge Pickle and he married Mary Elizabeth Irvin who was standing behind her Father and Mother, Thomas and Sidney Lowery Irvin in the picture above.
+
+<ol class="children-list" start="11">
+
+<li class="child-entry">
+  <div class="child-name">11. Thomas Pickle</div>
+  <div class="child-dates">Born October 16, Monroe County — Died May 21, 1912, Salt Lake City, Utah</div>
+  <div class="child-details">Married Sarah Elizabeth Lowry, January 17, 1867, Monroe County. Buried in the Salt Lake City Cemetery. <!-- UNSOURCED --></div>
+</li>
+
+<li class="child-entry">
+  <div class="child-name">12. Wesley Greenberry Pickle</div>
+  <div class="child-dates">Born March 10, 1848, Monroe County — Died May 24, 1927, Monroe, LeFlore County, Oklahoma</div>
+  <div class="child-details">Married Rachel Margaret Towery, March 31, 1868, Monroe County. Wesley and Rachel are buried in the Monroe Cemetery Monroe, Oklahoma. <!-- UNSOURCED --></div>
+</li>
+
+<li class="child-entry">
+  <div class="child-name">13. Jerome R. Pickle</div>
+  <div class="child-dates">Born May 31, 1850, Splunge, Monroe County, Mississippi — Died December 8, 1910, Sebastian County, Arkansas</div>
+  <div class="child-details">Married Sarah Jane Bandy, November 16, 1871, Monroe County. Jerome and Sarah are buried in the Shiloh Cemetery Hartford, Sebastian County, Arkansas. <!-- UNSOURCED --></div>
+</li>
+
+<li class="child-entry">
+  <div class="child-name">14. Sarah Emma Pickle</div>
+  <div class="child-dates">Born September 3, 1853, Monroe County — Died February 20, 1914, Shottsville, Marion County, Alabama</div>
+  <div class="child-details">Married Daniel Curry Stone, February 24, 1870, Monroe County. Sarah and Curry are buried in Shottsville Cemetery. <!-- UNSOURCED --></div>
+</li>
+
+</ol>
+
 Some of the 14 children of Robert and Sarah migrated to the territories, while others remained in the Monroe County area. Catherine and Martin; Martha and Abner; Wesley and Rachel moved to the Choctaw Nation about 1880. Several of the Ritter and Towery family moved with them. Elizabeth P and Thomas; Thomas and Sarah moved to the Utah Territory about 1870. Jerome R. and Sarah moved to Hartford, Arkansas. Mary, Henry, William, Jacob, Susan and Jimmy lived out their lives in Monroe County. David and Frances moved to Jonesboro, Arkansas. Sarah Emma and Daniel Curry resided in Shottsville, Alabama.
 
 SOURCE: Reference the family bible of Jacob Pickle, grandson of Jacob & Catherine, son of Robert and Sarah, with some of the dates of birth, marriage and death. Census reports, family documents and information from other researchers helped to establish this information.
-<h2><strong>Robert and Sarah Aldridge Pickle were born in Orange County N.C. and died in Monroe County Mississippi</strong></h2>
-<h3>December 16, 2008</h3>
-CENSUS INFORMATION:
-<blockquote>“ Jacob and Catherine were living next door to David J. Berry in 1810”
-<ul>
-	<li>Jacob and Catharine listed in Orange County N C in 1810</li>
-	<li>No census record has been found for Jacob and Catherine in 1820.</li>
-	<li>The Pickle family is found in Fayette County, Alabama in 1830</li>
-	<li>Robert and Sarah Aldridge Pickle and their family are in Monroe County, Mississippi, in 1840</li>
-	<li>Robert and Sarah Aldridge Pickle and their family are in Monroe County Mississippi in 1850</li>
-	<li>Have not found Robert Pickle in the 1860 census</li>
-	<li>Robert and Sarah Aldridge Pickle and their family are in Monroe County Mississippi in 1870</li>
-	<li>Robert and Sarah Aldridge Pickle and their family are in Monroe County Mississippi in 1880</li>
-</ul>
-</blockquote>
+
+**Robert and Sarah Aldridge Pickle were born in Orange County N.C. and died in Monroe County Mississippi**
+
+**December 16, 2008**
+
+---
+
+<h2 class="ancestor-section">Census Records</h2>
+
+{{< census-summary summary="Jacob and Catherine were living next door to David J. Berry in 1810." >}}
+
+- **1810** — Jacob and Catharine listed in Orange County, NC.
+- **1820** — No census record has been found for Jacob and Catherine.
+- **1830** — The Pickle family is found in Fayette County, Alabama.
+- **1840** — Robert and Sarah Aldridge Pickle and their family are in Monroe County, Mississippi.
+- **1850** — Robert and Sarah Aldridge Pickle and their family are in Monroe County, Mississippi.
+- **1860** — Have not found Robert Pickle in the 1860 census.
+- **1870** — Robert and Sarah Aldridge Pickle and their family are in Monroe County, Mississippi.
+- **1880** — Robert and Sarah Aldridge Pickle and their family are in Monroe County, Mississippi.
+
+---
+
+<div class="tree-link">
+  <a href="/family-lines/robert-berry-juniors-family-tree/">
+    View the Full Robert Berry Jr. Family Line
+    <span class="tree-link-sub">Robert Berry Jr. descendants</span>
+  </a>
+</div>
+
+</div>
