@@ -134,6 +134,20 @@
     font-style: italic;
   }
 
+  /* ── Homepage: solid background, no forest image, no cream bleed ── */
+  body.book-kind-home {
+    background-image: none !important;
+    background-color: #1a2e1a !important;
+  }
+
+  body.book-kind-home .book-page {
+    background-color: transparent !important;
+    backdrop-filter: none !important;
+    -webkit-backdrop-filter: none !important;
+    border-left: none !important;
+    border-right: none !important;
+  }
+
   /* ── MOBILE: suppress Book theme chrome, go full-bleed ── */
   @media (max-width: 56rem) {
     body.book-kind-home .book-menu,
@@ -230,6 +244,20 @@
 
     body.book-kind-home .book-menu nav a:focus {
       outline-color: #c8a84b;
+    }
+
+    /* Home link — disabled on landing page, you're already here */
+    body.book-kind-home .book-menu nav a.active,
+    body.book-kind-home .book-menu nav a[href="/"] {
+      color: #4a6a4a;
+      pointer-events: none;
+      cursor: default;
+    }
+
+    body.book-kind-home .book-menu nav a.active:hover,
+    body.book-kind-home .book-menu nav a[href="/"]:hover {
+      background-color: transparent;
+      color: #4a6a4a;
     }
 
     /* Search bar — cream background */
