@@ -1,5 +1,6 @@
 ---
 title: "Page Updates"
+description: "Running log of new pages, content additions, and research updates on berrytree.org."
 ---
 
 <div style="background: linear-gradient(135deg, #1a2e1a, #2d4a2d); color: #e8dcc8; padding: 1.5rem 2rem; border-radius: 6px; margin-bottom: 1.5rem; border-left: 4px solid #c8a84b;">

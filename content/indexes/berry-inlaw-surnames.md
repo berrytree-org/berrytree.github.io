@@ -1,5 +1,6 @@
 ---
 title: "Known Surnames of Berry Inlaws"
+description: "291 surnames of families who married into the Berry line descending from Robert and Elizabeth Cate Berry of Orange County, North Carolina."
 weight: 6
 aliases:
   - /ancestors/known-surnames-of-berry-inlaws/

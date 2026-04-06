@@ -1,8 +1,9 @@
 ---
 title: "John and Martha Stepp Berry"
+description: "John Berry (c. 1762-1803), son of Robert and Elizabeth Cate Berry, who married Martha Stepp and died in Jackson County, Georgia."
 ---
 
-## John Berry, son of Robert and Elizabeth Cate Berry
+## **John Berry, son of Robert and Elizabeth Cate Berry**
 
 - **Gen 1** Robert Berry × Mary Williamson — Princess Anne County, Virginia
 - **Gen 2** Robert Berry × Elizabeth Cate — Orange County, North Carolina
@@ -12,13 +13,13 @@ title: "John and Martha Stepp Berry"
 
 {{< img-float src="/images/john-berry-martha-stepp.jpg" alt="John Berry Martha Stepp" >}}
 
-**JOHN BERRY** was found by a fellow researcher sometime before 2004 in a Book “GEORGIA INTESTATE RECORDS” By Jeanette Holland Auston, Genealogical Publishing Company., Inc. Baltimore 1986. In this publication it states that John Berry left 5 orphan children by the names of Joshua, Robert, Polly (Mary), Betsie (Elizabeth), and William Berry. . Polly is a nickname for Mary and Betsy is a nickname for Elizabeth. John Berry had five siblings with the same identical names which led us to believe that John was the son of Robert and Elizabeth Cate Berry from Orange County. North Carolina. All of our family  researchers at the time felt that this was a true fact. It might have been simpler if another family had not already claimed that John and Martha Berry were from their clan of Berry’s. I even located one of the descendants in their line about this. She assured me that her information was correct. It was not until I located the Marriage Bond shown above in some Person County, North Carolina  Records that I knew for sure we had been correct all along. The marriage bond in Person County had misspelled John’s surname. Robert and Elizabeth Cate Berry’s Homestead is less than a mile from the Person County line and Elizabeth Cate’s father had a plantation in that county.
+**JOHN BERRY** was found by a fellow researcher sometime before 2004 in a Book "GEORGIA INTESTATE RECORDS" By Jeanette Holland Auston, Genealogical Publishing Company., Inc. Baltimore 1986. In this publication it states that John Berry left 5 orphan children by the names of Joshua, Robert, Polly (Mary), Betsie (Elizabeth), and William Berry. . Polly is a nickname for Mary and Betsy is a nickname for Elizabeth. John Berry had five siblings with the same identical names which led us to believe that John was the son of [Robert](/ancestors/robert-berry-oc/) and Elizabeth Cate Berry from Orange County. North Carolina. All of our family  researchers at the time felt that this was a true fact. It might have been simpler if another family had not already claimed that John and Martha Berry were from their clan of Berry’s. I even located one of the descendants in their line about this. She assured me that her information was correct. It was not until I located the Marriage Bond shown above in some Person County, North Carolina  Records that I knew for sure we had been correct all along. The marriage bond in Person County had misspelled John’s surname. Robert and Elizabeth Cate Berry’s Homestead is less than a mile from the Person County line and Elizabeth Cate’s father had a plantation in that county.
 
 Additional Proof: Joshua Stepp listed as head of household in the 1800 Person County, North Carolina, census. There were nine members of the Stepp remaining at home.
 
  John and Martha Stepp Berry named their first two sons Joshua after her father and Robert after John’s father.
 
-We have recently located a descendant of the orphan, William Berry, and his wife Sarah Nelson. Shelby Dale Berry (deceased) took  a DNA test and matched our Robert Berry (OC) Y-DNA  participants. Archival data traces this line back to John and Martha Stepp Berry This test provided positive proof that John Berry who died in Jackson County, Georgia, was indeed the son of Robert and Elizabeth Cate Berry from Orange County, North Carolina.
+We have recently located a descendant of the orphan, William Berry, and his wife Sarah Nelson. [Shelby Dale Berry](/ancestors/shelby-dale-berry/) (deceased) took  a DNA test and matched our Robert Berry (OC) Y-DNA  participants. Archival data traces this line back to John and Martha Stepp Berry This test provided positive proof that John Berry who died in Jackson County, Georgia, was indeed the son of Robert and Elizabeth Cate Berry from Orange County, North Carolina.
 
 ### **Census Information: **We have no known census information for John Berry in Georgia. Birth:Jan., 1862 Death:Dec. 21, 1803
 
@@ -44,9 +45,9 @@ Robert Berry was listed as being between 26 and 44 and his wife was also listed 
 
 **———–John & Martha Berry’s 5 Children:**
 
-- **Gen 4** Polly Berry (short for Mary), born about 1793
+- **Gen 4** Polly Berry (short for Mary), born about 1793 <!-- UNSOURCED -->
 
-- **Gen 4** Betsie Berry  (short for Elizabeth), born about 1795
+- **Gen 4** Betsie Berry  (short for Elizabeth), born about 1795 <!-- UNSOURCED -->
 
 - **Gen 4** Joshua Berry born 1797
 

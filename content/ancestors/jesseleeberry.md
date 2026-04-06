@@ -1,8 +1,9 @@
 ---
 title: "Jesse Lee Berry"
+description: "Jesse Lee Berry (1852-1924), son of Robert and Elizabeth Everett Berry, prize-winning cotton farmer in Georgia and Alabama."
 ---
 
-## Jesse Lee Berry, son of Robert and Elizabeth Everett Berry
+## **Jesse Lee Berry, son of Robert and Elizabeth Everett Berry**
 
 - **Gen 1** Robert Berry × Mary Williamson — Princess Anne County, Virginia
 - **Gen 2** Robert Berry × Elizabeth Cate — Orange County, North Carolina
@@ -10,7 +11,7 @@ title: "Jesse Lee Berry"
 - **Gen 4** Robert Berry × Elizabeth Everett — North Carolina & Georgia
 {{< img-float src="/images/jesseleeberry300.jpg" alt="Jesse Lee Berry" side="right" >}}
 
-**JESSE LEE BERRY** was born on December 2, 1852 in Roswell, Cobb County Georgia. Jesse Lee married Nancy Ann Henry who was born December 30 1857 in Ellenwood, Clayton Co., Georgia. They were married December 16 1874 in Clayton County Georgia. Nancy was the daughter of Edward Zachary "Zack" Henry and Mary Ann Mitchell. Zack's Father was Jesse G. Henry and Nancy Hammock. Mary Ann's father was Thomas Mitchell, son of Hinchey Mitchell and Elizabeth Ruff (daughter of William Ruff and Rebecca). In the picture of Jesse Lee on the right there seems to be a faded date of July 1875 written on the picture. He would have been 22 Yrs 7 Months old.
+**JESSE LEE BERRY** was born on December 2, 1852 in Roswell, Cobb County Georgia. Jesse Lee married Nancy Ann Henry who was born December 30 1857 <!-- UNSOURCED --> in Ellenwood, Clayton Co., Georgia. They were married December 16 1874 in Clayton County Georgia. Nancy was the daughter of Edward Zachary "Zack" Henry and Mary Ann Mitchell. Zack's Father was Jesse G. Henry and Nancy Hammock. Mary Ann's father was Thomas Mitchell, son of Hinchey Mitchell and Elizabeth Ruff (daughter of William Ruff and Rebecca). In the picture of Jesse Lee on the right there seems to be a faded date of July 1875 written on the picture. He would have been 22 Yrs 7 Months old.
 
  CHILDREN:
 
@@ -36,10 +37,10 @@ The picture of Jesse Lee standing beside His prize winning cotton bale was taken
 
 Prize winning cotton Bale in the 1910 Georgia State Fair.
 
-Jessie Lee sold his 1/10 share of his inherited property from his father Robert Berry to his brother Basil Berry: State of Georgia, Milton County:** This indenture made this sixteenth of February in the year of 1892 between Jesse L. Berry of Etowah County of the State of Alabama of the first part and Bazil M. Berry of the county of Milton of the second part (some not legible.) Bazil paid Jesse $12 for his 1/10 share an heir of Robert Berry of a 40 acre track in land lot 188, 1st dist, second section Cobb County, originally Cherokee This was land that Robert Berry bought from Ellis Wright in 1855. Recorded October 25, 1916.** Jessie Lee's 1/10 share of forty acres would have been 4 acres. Basil paid him $3.00 per acre. Jesse Lee Berry owned other land in Alabama See Description Below:
+Jessie Lee sold his 1/10 share of his inherited property from his father Robert Berry to his brother [Basil Berry](/ancestors/basilmanleyberryga/): State of Georgia, Milton County:** This indenture made this sixteenth of February in the year of 1892 between Jesse L. Berry of Etowah County of the State of Alabama of the first part and Bazil M. Berry of the county of Milton of the second part (some not legible.) Bazil paid Jesse $12 for his 1/10 share an heir of Robert Berry of a 40 acre track in land lot 188, 1st dist, second section Cobb County, originally Cherokee This was land that Robert Berry bought from Ellis Wright in 1855. Recorded October 25, 1916.** Jessie Lee's 1/10 share of forty acres would have been 4 acres. Basil paid him $3.00 per acre. Jesse Lee Berry owned other land in Alabama See Description Below:
 
 Legal Land Description:
-# Aliquot Parts Block # Base Line Fractional Section Township Range Section
+**Aliquot Parts Block # Base Line Fractional Section Township Range Section**
 1 NSW HUNTSVILLE No 11S 6E 24
 2 SWNW HUNTSVILLE No 11S 6E 24
 BERRY, JESSE L
@@ -79,7 +80,7 @@ Bible page from Joyce Rape Harrison :Jessy L Berry born December 2, 1851
 VIEW JESSE LEE BERRY'S DEATH CERTIFICATE
 {{< img-float src="/images/jesse-lee-berry-death-certificate-april-10-1934.jpg" alt="Jesse Lee Berry Death certificate April 10 1934" >}}
 
-**Jesse Lee Berry was born on December 2nd 1852 in Cobb  County Georgia and died on April 10th 1924 in Columbus, Muscogee County, Georgia. Jesse Lee Berry's sister, Mrs. J. S. Mcvickers, signed his death certificate.**
+**Jesse Lee Berry was born on December 2nd 1852 <!-- UNSOURCED --> in Cobb  County Georgia and died on April 10th 1924 in Columbus, Muscogee County, Georgia. Jesse Lee Berry's sister, Mrs. J. S. Mcvickers, signed his death certificate.**
 
 {{< img-float src="/images/jesse-lee-berry-grave-1924.jpg" alt="Jesse Lee Berry Grave 1924" >}}
 

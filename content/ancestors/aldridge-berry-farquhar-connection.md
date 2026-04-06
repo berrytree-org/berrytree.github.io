@@ -1,5 +1,6 @@
 ---
 title: "Aldridge Berry Farquhar Waggoner Connection"
+description: "Intermarriage connections between the Aldridge, Berry, Farquhar, and Waggoner families from Orange County, NC, to Alabama and Texas."
 weight: 14
 ---
 
@@ -22,9 +23,9 @@ From Henry Waggoners 1784 Will  (**Orange County NC Deed Book A Page 231**) Henr
 
 - **Elizabeth Waggoner Johns**
 
-- **George Waggoner married Mary Berry about 1865**
+- **George Waggoner married Mary Berry about 1865** <!-- UNSOURCED -->
 
-- **Mary Waggoner married Robert Berry Jr about 1884**
+- **Mary Waggoner married Robert Berry Jr about 1884** <!-- UNSOURCED -->
 
 - **Judith Waggoner married Peter Aldridge on January 4th 1786**
 
@@ -40,13 +41,13 @@ NOTE: **Uncertain of birth order NOTE:** Robert Berry Sr. Sold  William Stagg 20
 
 In Henry Waggoner’s will he listed his daughter as 1. **Susanna Smith**, 2. **John**, 3. **Henry**, 4. **George Waggner  **(Dec)  as his sons.  **Catherine Waggoner** in the census above was married to James Waggoner who was not listed as one of his sons. However the fact that all four of the families are living so close to each other indicates that they are related to each other. We know that 5. **Judith Waggoner** married Peter Aldridge and 6. **Mary Waggoner** married Robert Berry Jr. This accounts for 6 of Henry Sr.and Ketriana Waggoner’s 11 Children named in his 1784 will.**  All five of the living children named above were living in Person County in 1810 **
 
-Robert Berry Jr was the bondsman for Peter Aldridge  marriage to Judith Waggoner on February 4th 1786
+[Robert Berry Jr](/ancestors/robert-berry-jr/) was the bondsman for Peter Aldridge  marriage to Judith Waggoner on February 4th 1786
 
 Robert Berry Jr. posted Bond for James Waggoner’s Widow, **Catherine Waggoner** to administer her husband’s Estate. ( **November 1791 Term Orange County Court Minutes: Bk. 4 Pg.114**)
 
 Peter and Judith Waggoner Aldridge’s Children:
 
-- **Susanna Aldridge** Married Robert Berry Juniors son, George Berry about 1814
+- **Susanna Aldridge** Married Robert Berry Juniors son, George Berry about 1814 <!-- UNSOURCED -->
 
 - **John Aldridge**
 
@@ -70,7 +71,7 @@ Robert Jr. and Mary Waggoner Berry’s Children:
 
 - **John Berry**
 
-- **Henry G. Berry died young in Orange County.**
+- **Henry G. Berry died young in Orange County.** <!-- UNSOURCED -->
 
 - **Susan Berry married John H. Ray**
 
@@ -136,7 +137,7 @@ Reference: “Georgia Roster of the Revolution” Knight page 431
 
 Mary Berry Camp’s children were living in Jackson County, Georgia, when they filed their Power of Attorney in 1815, and John Berry died in Jackson County, Georgia in 1804.
 
-Thomas Camp was Mary Berry Camps brother in Law. He was James Camps brother and he was born in 1765 . He married Susan Waggoner in North Carolina
+Thomas Camp was Mary Berry Camps brother in Law. He was James Camps brother and he was born in 1765 . He married Susan Waggoner in North Carolina <!-- UNSOURCED -->
 
 {{< img-float src="/images/sar-app-page-2-john-waggoner.jpg" alt="SAR APP PAGE 2 John Waggoner" >}}
 
@@ -148,7 +149,7 @@ Farquhar Family:
 
 {{< img-float src="/images/peter-aldridge-estate-settlement-person-county-1816.jpg" alt="Peter Aldridge estate settlement Person county 1816" >}}
 
-On June 13th 1777 George Smith of Caswell County, North Carolina sold to John Cate Sr. of the same county for 105 Pounds, 76 acres on Flat River adjoining John Cates own line. Witnessed: Elizabeth C. Berry. (John Cate’s daughter and Robert Berry’s wife), Robert Smith, John Cate Sr. (Caswell County Deed Book A Page 43)
+On June 13th 1777 George Smith of Caswell County, North Carolina sold to John Cate Sr. of the same county for 105 Pounds, 76 acres on Flat River adjoining John Cates own line. Witnessed: [Elizabeth C. Berry](/ancestors/elizabethcate/). (John Cate’s daughter and Robert Berry’s wife), Robert Smith, John Cate Sr. (Caswell County Deed Book A Page 43)
 
 **NOTE:** This part of Caswell County became Person County in 1791
 
@@ -160,7 +161,7 @@ Robert Berry Jr. purchased 50 acres of land on February 3rd 1812 from John Mensh
 
 {{< img-float src="/images/james-farquhar-land-purchace-1819.jpg" alt="James Farquhar land purchace 1819" >}}
 
-Anderson Farquhar was born in North Carolina on July 29th 1809. Three of his sisters were Catherine Farquhar Berry, Wife of George Rufus Berry, Elizabeth Farquhar Berry, wife of William T. Berry, and Sarah Farquhar Traweek wife of Bailey Traweek. Anderson Farquhar married Levina Kirkland on December 4th 1828. Lavina Kirkland was born on June 10th 1810 in Tennessee. Anderson became a very successful farmer in Fayette County, Alabama.
+Anderson Farquhar was born in North Carolina on July 29th 1809. <!-- UNSOURCED --> Three of his sisters were Catherine Farquhar Berry, Wife of George Rufus Berry, Elizabeth Farquhar Berry, wife of William T. Berry, and Sarah Farquhar Traweek wife of Bailey Traweek. Anderson Farquhar married Levina Kirkland on December 4th 1828. Lavina Kirkland was born on June 10th 1810 in Tennessee. <!-- UNSOURCED --> Anderson became a very successful farmer in Fayette County, Alabama.
 
 [William Clarence Berry](/ancestors/william-clarence-berry-nc/) was a descendant of the William and Hannah Cate Berry Family line. Children of William Clarence Berry and his first wife Sally Bowles:
 
@@ -194,7 +195,7 @@ Children of William Clarence Berry and his second wife Massa Ann Thompkins:
 
 The Farquhar’s were a very large family (13) in all. The youngest was William Anderson Farquhar who was about a year old when the family left Alabama and joined a wagon train headed for Texas. There were several families who went together on this journey. The Anderson Farquhar family, the Hugh McCoy family, the Bailey Traweek  family. and maybe others. After the Wagon Train reached the Mississippi River they went by water to New Orleans. From New Orleans they steamed to Matagorda Bay which was about 150 miles south of Galveston Texas.
 
-After the party landed misfortune overtook them. They had only traveled a short distance when they were delayed at the Colorado River due to high water.During the time of this encampment, sickness broke out and two of the Farquhar daughters died. Nancy E. Farquhar, age 18, died on March 14th 1852. On April 6th 1852 Parmillia Jane Farquhar, age, 17 died. They were both buried near Matagorda Bay. Descendants say they died from Cholera, which they themselves called “fever”.
+After the party landed misfortune overtook them. They had only traveled a short distance when they were delayed at the Colorado River due to high water.During the time of this encampment, sickness broke out and two of the Farquhar daughters died. Nancy E. Farquhar, age 18, died on March 14th 1852. On April 6th 1852 Parmillia Jane Farquhar, age, 17 died. They were both buried near Matagorda Bay. Descendants say they died from Cholera, which they themselves called “fever”. <!-- UNSOURCED -->
 
 As soon as possible the party pressed onward, going up the Colorado Rover bu boat, thence by Ox drawn wagons until the arrived at Fayetteville, Fayette County Texas.
 
@@ -212,7 +213,7 @@ Lake Victor
 
 Burnet County
 
-Anderson Farquhar was the son of James Farquhar, Jr. of Person County, N. C. and Fayette County, Alabama. (His mother is not presently known). He married Lavina Kirkland on December 4, 1828, and they were the parents of thirteen children, all thought to be born in Fayette County, Alabama. Anderson and his family left Alabama for Texas in the spring of 1852 and were getting settled in Burnet County by the fall of 1853 (per Texas State Land Records). This area later became known as the Sunny Lane community.
+Anderson Farquhar was the son of James Farquhar, Jr. of Person County, N. C. and Fayette County, Alabama. (His mother is not presently known). <!-- UNSOURCED --> He married Lavina Kirkland on December 4, 1828, and they were the parents of thirteen children, all thought to be born in Fayette County, Alabama. Anderson and his family left Alabama for Texas in the spring of 1852 and were getting settled in Burnet County by the fall of 1853 (per Texas State Land Records). This area later became known as the Sunny Lane community.
 
 ( 2nd REGT 27th BRIGADE TEXAS CSA )
 
@@ -254,7 +255,7 @@ December 30, 1851-September 9,1926
 
 **William and Hannah Cate Berry** have descendants living in the Sunnylane Community Burnet County,Texas, Lampasas TX, Granite Shoals TX, and Weatherford TX.
 
-**David J. and Mary Blalock Berry** have a descendant currently  living in Dallas Texas **John and Martha Stepp Berry** have descendants  living  Mesquite TX. **Robert Jr and Mary Waggoner Berry** have descendants living in Fort Worth TX
+**[David J.](/ancestors/david-j-berry-sr/) and Mary Blalock Berry** have a descendant currently  living in Dallas Texas **John and Martha Stepp Berry** have descendants  living  Mesquite TX. **Robert Jr and Mary Waggoner Berry** have descendants living in Fort Worth TX
 
 1. Generation Robert and Mary Williamson Berry: Princess Anne County, Virginia
 
@@ -276,7 +277,7 @@ December 30, 1851-September 9,1926
 
 Headstone of Martha A Berry and David Jackson Farquhar
 
-Martha A Berry was the daughter of John H and Catherine Denis Berry
+Martha A Berry was the daughter of [John H](/ancestors/john-h-berry-ala-tx/) and Catherine Denis Berry
 
 David Jackson Farquhar was the son of Anderson and Lavina Kirkland Farquhar.
 
