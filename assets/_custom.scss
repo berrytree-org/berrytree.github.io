@@ -2195,3 +2195,69 @@ p > strong:first-child {
     }
   }
 }
+
+// =============================================================
+// IMG-FLOAT SHORTCODE — Clean Markdown image replacement
+// Used by {{< img-float >}} shortcode. Replaces all WordPress
+// alignment classes with a single, consistent pattern.
+// Owner: Lila / Kate
+// =============================================================
+
+.book-page .markdown {
+
+  .img-float {
+    margin: 1rem 0;
+    max-width: 100%;
+
+    img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+    }
+
+    figcaption {
+      font-size: 0.85rem;
+      color: $bark-light;
+      margin-top: 0.35rem;
+      font-style: italic;
+      line-height: 1.4;
+    }
+
+    // -- Float left --
+    &.img-float-left {
+      float: left;
+      margin: 0.4rem 1.25rem 0.75rem 0;
+      max-width: 45%;
+    }
+
+    // -- Float right --
+    &.img-float-right {
+      float: right;
+      margin: 0.4rem 0 0.75rem 1.25rem;
+      max-width: 45%;
+    }
+
+    // -- Centered --
+    &.img-float-center {
+      margin: 1rem auto;
+      text-align: center;
+    }
+
+    // -- None (block, full width) --
+    &.img-float-none {
+      display: block;
+      margin: 1rem 0;
+    }
+
+    // -- Responsive: stack floated images on small screens --
+    @media (max-width: 600px) {
+      &.img-float-left,
+      &.img-float-right {
+        float: none;
+        display: block;
+        margin: 1rem auto;
+        max-width: 100%;
+      }
+    }
+  }
+}

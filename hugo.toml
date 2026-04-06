@@ -5,6 +5,7 @@ theme = 'hugo-book'
 
 enableRobotsTXT = true
 enableGitInfo = false
+summaryLength = 40
 
 [markup]
   [markup.goldmark]
