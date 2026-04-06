@@ -2,12 +2,12 @@
 title: "Jesse Lee Berry"
 ---
 
-## Jesse Lee Berry, Son Of Robert And Elizabeth Everett Berry
-ANCESTORS
-1. Generation Robert ans Mary Williamson Berry, Princess Anne County, Virginia.
-2. Generation  Robert and Elizabeth Cate Berry, Orange County, North Carolina.
-3. Generation  David J. and Mary Blaylock Berry, Orange County, North Carolina. & GA.
-4. Generation  Robert and Elizabeth Everett Berry, NC and Georgia
+## Jesse Lee Berry, son of Robert and Elizabeth Everett Berry
+
+- **Gen 1** Robert Berry × Mary Williamson — Princess Anne County, Virginia
+- **Gen 2** Robert Berry × Elizabeth Cate — Orange County, North Carolina
+- **Gen 3** David J. Berry × Mary Blalock — Orange County, NC → Georgia
+- **Gen 4** Robert Berry × Elizabeth Everett — North Carolina & Georgia
 {{< img-float src="/images/jesseleeberry300.jpg" alt="Jesse Lee Berry" side="right" >}}
 
 **JESSE LEE BERRY** was born on December 2, 1852 in Roswell, Cobb County Georgia. Jesse Lee married Nancy Ann Henry who was born December 30 1857 in Ellenwood, Clayton Co., Georgia. They were married December 16 1874 in Clayton County Georgia. Nancy was the daughter of Edward Zachary "Zack" Henry and Mary Ann Mitchell. Zack's Father was Jesse G. Henry and Nancy Hammock. Mary Ann's father was Thomas Mitchell, son of Hinchey Mitchell and Elizabeth Ruff (daughter of William Ruff and Rebecca). In the picture of Jesse Lee on the right there seems to be a faded date of July 1875 written on the picture. He would have been 22 Yrs 7 Months old.

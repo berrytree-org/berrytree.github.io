@@ -4,15 +4,10 @@ title: "George Rufus Berry NC"
 
 ## George Rufus Berry, son of William Clarence Berry and Sally Bowles Berry
 
-ANCESTORS
-
-- Generation Robert and Mary Williamson Berry: Princess Anne County, Virginia
-
-- Generation  Robert and Elizabeth Cate Berry: Orange County North Carolina.
-
-- Generation William and Hannah Cate Berry: Orange County North Carolina.
-
-- Generation  William Clarence and Sally Bowles Berry:Orange County North Carolina.
+- **Gen 1** Robert Berry × Mary Williamson — Princess Anne County, Virginia
+- **Gen 2** Robert Berry × Elizabeth Cate — Orange County, North Carolina
+- **Gen 3** William Berry × Hannah Cate — Orange County, North Carolina
+- **Gen 4** William Clarence Berry × Sally Bowles — Orange County, North Carolina
 
 **George Rufus Berry** was born on February 29th 1829 in Orange County, North Carolina. George Rufus Berry was only about 6 years old when his mother died and his father decided to remove the family to Fayette County, Alabama where other Berry Family members were already settled. George’s sister Elizabeth Jane was only 4 years old and the baby, Roan Frances Berry was just 2.
 

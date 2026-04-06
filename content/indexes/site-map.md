@@ -265,7 +265,7 @@ weight: 4
 
 - [Ken Berry](/ancestors/ken-berry/)
 
-- [Known Surnames of Berry Inlaws](/ancestors/known-surnames-of-berry-inlaws/)
+- [Known Surnames of Berry Inlaws](/indexes/berry-inlaw-surnames/)
 
 - [Land Grant to Robert Berry Jr. by President Monroe](/documents/land-grant-to-robert-berry-jr/)
 

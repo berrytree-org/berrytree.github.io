@@ -3,7 +3,12 @@ title: "Aldridge Berry Farquhar Waggoner Connection"
 weight: 14
 ---
 
-There are several marriages in different Berry Lines involving these four families
+<div style="background: linear-gradient(135deg, #1a2e1a, #2d4a2d); color: #e8dcc8; padding: 1.5rem 2rem; border-radius: 6px; margin-bottom: 1.5rem; border-left: 4px solid #c8a84b;">
+<h2 style="color: #c8a84b; margin: 0 0 0.5rem 0; font-size: 1.3rem;">The Aldridge, Berry, Farquhar & Waggoner Connection</h2>
+<p style="margin: 0; line-height: 1.6; font-size: 0.95rem;">Four families intermarried across multiple generations from Orange County, NC, to Fayette County, Alabama, and Burnet County, Texas.</p>
+</div>
+
+There are several marriages in different Berry lines involving these four families.
 
 From Henry Waggoners 1784 Will  (**Orange County NC Deed Book A Page 231**) Henry and Ketriana Waggoner’s Children:
 
