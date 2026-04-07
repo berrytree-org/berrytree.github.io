@@ -60,7 +60,7 @@ Robert and Eliza Everett Berry were in Fayette County Georgia in 1840. The 1840 
 </li>
 
 <li class="child-entry">
-  <div class="child-name">4. <a href="/documents/william-henry-berry-ga/">William Henry Berry</a></div>
+  <div class="child-name">4. <a href="/ancestors/william-henry-berry-ga/">William Henry Berry</a></div>
   <div class="child-dates">Born November 12, 1837 — Died April 5, 1905</div>
   <div class="child-details">Marriage about 1859. Spouse 1: Matilda Starke (born 1838/39, died before 1861). Spouse 2: Permilia Fowler (born 1840, died December 19, 1922, married February 5, 1861).</div>
 </li>

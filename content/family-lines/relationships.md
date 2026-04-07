@@ -3,6 +3,8 @@ title: "Relationships Across Family Lines"
 weight: 1
 ---
 
+{{< info-banner title="Relationships Across Family Lines" subtitle="Cross-family connections among Berry descendants." >}}
+
 [Aldridge, Berry, Farquhar, Waggoner, Camp](/ancestors/aldridge-berry-farquhar-connection/)
 
 All of us know who our Parents, Grandparents, Sisters, Brothers, Uncles and Aunts are.

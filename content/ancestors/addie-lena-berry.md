@@ -27,7 +27,7 @@ Front Row L-R Addie Lena Berry Maners, Vera Westbrook Maners, wife of William Th
 ### **Children of Hampton Fantom and Addie Lena Berry Maners**
 
 1. [Vera Othella Maners](/ancestors/vera-othello-maners/) b. September 16th 1907 d. in Rock Hill SC on June 1st 1998
-2. [William Thomas Maners](/documents/william-thomas-maners/) b. November 17 1909 Macon Georgia d. August 28 1962
+2. [William Thomas Maners](/ancestors/william-thomas-maners/) b. November 17 1909 Macon Georgia d. August 28 1962
 3. [Herman Fantom Maners](/ancestors/herman-fantom-maners-jr/) b. March 7 1912 d. November 2 1993
 4. [Jesse Waldo Maners](/ancestors/jesse-waldo-maners/) b. July 4th 1917 d. August 4th 1982
 5. [Martin Adolphus (Dock) Maners](/ancestors/martin-adolphus-maners/) b. November 20 1920 d. March 30 2008

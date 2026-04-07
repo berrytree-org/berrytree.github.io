@@ -26,7 +26,7 @@ description: "Running log of new pages, content additions, and research updates 
 - 5/30/2019[Berry Wills and deeds PAC from 1691 to 1755](/documents/berry-wills-and-deeds-from-pac-1691-to-1755/)
 - 5/22/2019 [Williamson deed and will from 1691 to 1755 PAC](/documents/williamson-deeds-and-wills-1691-to-1755-pac/)
 - 5/10/2019 [updated Roger Williamson (PAC) page](/documents/rogerwilliamsonpac/)
-- 5/9/2019 [Robert Berry (OC) Character](/ancestors/robert-berry-oc-character/)
+- 5/9/2019 [Robert Berry (OC) Character](/ancestors/robert-berry-oc/)
 - 5/7/2019 [Robert Berry's (OC) Pay Vouchers](/ancestors/robert-berrys-oc-pay-vouchers/)
 - 5/5/201 [Relatives Found  in (PAC) deed book](/documents/relatives-found-in-pac-deed-book/)
 - 5/3/2019 [Robert Berry's older Brother, Richard Berry](/ancestors/robert-berry-had-a-brother-named-richard-berry/)
@@ -40,7 +40,7 @@ description: "Running log of new pages, content additions, and research updates 
 - 12/27/2015 Started and completed [Cora Berry McVicker](/ancestors/cora-berry-mcvicker/)page
 - 12/27/2015 Started [Sarah Frances Berry Kelly](/ancestors/sarah-frances-berry-kelly-ga/) page
 - 12/27/2015 Corrected an error on [Thomas Person Berry Family](/ancestors/thomaspersonberry/) page
-- 12/25/2015 Started [William Oscar Berry](/documents/william-oscar-berry-ga/) GA page
+- 12/25/2015 Started [William Oscar Berry](/ancestors/william-oscar-berry-ga/) GA page
 - 12/22/2015 Working on [Jessee Lee Berry's](/ancestors/jesseleeberry/) page
 - 12/20/2015 Updated[Walter Glenn Berry](/ancestors/walterglenberryga/) page again
 - 12/17/15 Updating [Albert Edgar Berry](/ancestors/albertedgar/) page
@@ -96,7 +96,7 @@ description: "Running log of new pages, content additions, and research updates 
 - 10/19/2015 Updated [George Rufus Berry's](/ancestors/georgerufusberrync/) Page
 - 10/19/2015 Updated [Mattie Lee Berry](/ancestors/mattielstricklandala/) Alabama Page
 - 10/19/2015 Updated [Mary Berry](/ancestors/maryelizabethsdaughternc/), Elizabeth's daughter's Page
-- 10/19/2015 Updated [William Aaron Turley](/documents/williamaaronturleyga/) Page
+- 10/19/2015 Updated [William Aaron Turley](/ancestors/williamaaronturleyga/) Page
 - 10/19/2015 Updated [Wiley Harold Berry](/ancestors/wileyharoldberrync/) Page
 - 10/18/2015 Updated [Wiley P. Berry Jr. NC](/ancestors/wileypberryjrnc/) page
 - 10/18/2015 Updated [Walter Glen Berry](/ancestors/walterglenberryga/) Page

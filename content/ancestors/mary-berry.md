@@ -2,6 +2,8 @@
 title: "Mary Berry"
 weight: 1
 bookToc: true
+aliases:
+  - /ancestors/maryberry/
 ---
 
 <div class="ancestor-page">

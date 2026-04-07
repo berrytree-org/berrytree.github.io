@@ -1,5 +1,7 @@
 ---
 title: "Robert Berry Junior's Family Tree"
+aliases:
+  - /family-lines/robert-berry-family-line/
 ---
 
 {{< ancestor-chain gen3="Robert Berry Jr. × Mary Waggoner" loc3="Orange County, NC → Alabama" />}}

@@ -3,6 +3,8 @@ title: "Mary Kempe PAC"
 description: "Mary Kempe of Princess Anne County, Virginia, daughter of George and Mary Hutchinson Kempe, who married Richard Williamson."
 ---
 
+{{< info-banner title="Mary Kempe of Princess Anne County" subtitle="Daughter of George and Mary Hutchinson Kempe, married Richard Williamson." >}}
+
 ## **Mary Kempe from Princess Ann County Virginia**
 
 **PARENTS:**

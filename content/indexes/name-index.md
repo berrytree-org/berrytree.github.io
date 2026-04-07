@@ -3,6 +3,8 @@ title: "Name Index"
 weight: 3
 ---
 
+{{< info-banner title="Name Index" subtitle="Berry family members indexed by surname with generation notation." >}}
+
 **This Page is under construction  and will never be  complete.  Names will be added alphabetically by surname as I rework berrytree web pages. Gen "X" denotes Generation of the individual starting with generation # 1 being Robert and Mary Williamson Berry.**
 
 - **Gen 2** [Robert and Elizabeth Cate Berry](/ancestors/robert-berry-oc/) Orange County, North Carolina.

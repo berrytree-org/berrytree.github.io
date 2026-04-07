@@ -5,19 +5,27 @@ description: "Evidence connecting Robert Berry of Orange County, NC, to Princess
 
 {{< info-banner title="Proof of the Berry-Williamson Connection" subtitle="Evidence linking Robert Berry of Orange County, NC, to Princess Anne County, Virginia, through the Williamson and Kempe families." >}}
 
-### **Robert Berry of Orange County NC was born in Princess Ann County Virginia about 1729** <!-- UNSOURCED -->
-ANCESTORS
-1. Generation  Roger Williamson and Ann Foster, South Norfolk County, Virginia.
-2. Generation  Richard Williamson and Mary Kempe, Princess Anne County, Virginia.
-3. Generation  Mary Williamson and Robert Berry (PAC), Princess Anne County, Virginia.
-4. Generation  Robert Berry (OC) and Elizabeth Cate, Orange County, North Carolina.
+This page assembles the documentary evidence connecting Robert Berry of Orange County, NC, to Princess Anne County, Virginia, through shared surnames, tax lists, and land records.
 
-**Family name found in Orange County North Carolina and Princess Ann County Virginia**
-**Roger Williamson** married **Ann Foster** born in 1620 in England
-**Richard Williamson** married **Mary Kempe, Parents: George Kempe** married **Mary Hutchinson** both born in England
-**Williamson Richard** Princess Anne County, 1704
-**Mary Williamson** married **Robert Berry (PAC) 1755 tax list Orange County NC Tax List page 6 Richard Camp (Kempe?)** found on OC 1755 Tax list page 6
-**William Robinson** found in 1755 OC Tax list page 6
+---
+
+### **Robert Berry of Orange County NC was born in Princess Anne County Virginia about 1729** <!-- UNSOURCED -->
+
+**Ancestors:**
+1. **Generation 1** — Roger Williamson and Ann Foster, South Norfolk County, Virginia
+2. **Generation 2** — Richard Williamson and Mary Kempe, Princess Anne County, Virginia
+3. **Generation 3** — Mary Williamson and Robert Berry (PAC), Princess Anne County, Virginia
+4. **Generation 4** — Robert Berry (OC) and Elizabeth Cate, Orange County, North Carolina
+
+---
+
+## **Family Names Found in Both Orange County NC and Princess Anne County VA**
+
+- **Roger Williamson** married **Ann Foster**, born 1620 in England
+- **Richard Williamson** married **Mary Kempe**; Parents: **George Kempe** married **Mary Hutchinson**, both born in England
+- **Williamson Richard** — Princess Anne County, 1704
+- **Mary Williamson** married **Robert Berry (PAC)** — 1755 tax list Orange County NC, Tax List page 6; **Richard Camp (Kempe?)** found on OC 1755 Tax list page 6
+- **William Robinson** — found in 1755 OC Tax list page 6
 
 
 

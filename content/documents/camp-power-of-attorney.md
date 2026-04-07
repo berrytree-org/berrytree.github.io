@@ -2,7 +2,9 @@
 title: "Camp Power of Attorney"
 ---
 
-## Robert And Elizabeth Cate Berry’s Camp Grandchildren
+{{< info-banner title="Camp Power of Attorney (1815)" subtitle="Power of attorney granted by Mary Berry Camp’s children to Joseph Camp regarding Robert Berry’s estate." >}}
+
+## **Robert And Elizabeth Cate Berry’s Camp Grandchildren**
 
 
 **Power of attorney written by Mary Berry Camp’s Children**

@@ -2,6 +2,9 @@
 title: "Robert Berry Jr."
 weight: 2
 bookToc: true
+aliases:
+  - /ancestors/robertberryjr/
+  - /ancestors/robert-berry-jr-detail/
 ---
 
 <div class="ancestor-page">

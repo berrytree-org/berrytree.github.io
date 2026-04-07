@@ -2,6 +2,8 @@
 title: "Henry Berry"
 weight: 9
 bookToc: true
+aliases:
+  - /ancestors/henryberry/
 ---
 
 <div class="ancestor-page">

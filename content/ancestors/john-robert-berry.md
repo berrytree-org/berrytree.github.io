@@ -168,7 +168,7 @@ John Robert and Elizabeth raised nine children, all born in Orange County, North
 </li>
 
 <li class="child-entry has-page">
-  <div class="child-name"><a href="/documents/willieadolphysberrync/">7. Willie Adolphus Berry</a></div>
+  <div class="child-name"><a href="/ancestors/willieadolphysberrync/">7. Willie Adolphus Berry</a></div>
   <div class="child-dates">Born June 3, 1877 — Died January 8, 1961 (age 87)</div>
   <div class="child-details">Married June 3, 1900. Spouse: <strong>Fannie Jones Hall</strong>, born February 12, 1881, died August 25, 1980.</div>
 </li>

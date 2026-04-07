@@ -22,7 +22,7 @@ description: "Directory of all known descendants of Robert and Elizabeth Cate Be
 6. **[Elizabeth Berry](/ancestors/elizabeth/)**
 7. **[Thomas Berry](/ancestors/thomasberrync/)**
 8. **[David J. Berry](/ancestors/david-j-berry-sr/)**
-9. **[William Berry](/documents/william-berry/)**
+9. **[William Berry](/ancestors/william-berry/)**
 10. **[Henry Berry](/ancestors/henryberry/)**
 
 **William & Hannah Cate Berry's Children**
@@ -37,16 +37,16 @@ description: "Directory of all known descendants of Robert and Elizabeth Cate Be
 **William Clarence & Sally Bowles Berry's Children**
 1. **[Roann Frances Berry](/ancestors/roannfrances/)**
 2. **[George Rufus Berry](/ancestors/georgerufusberrync/) **
-3. **[Elizabeth Jane Berry](/documents/williamclarenceberrync/) William Clarence & Massa Thompkins Berry's Children**
-1. ** [John Thomas Berry](/documents/williamclarenceberrync/)**
-2. **[Henry Thompkins Berry](/documents/williamclarenceberrync/)**
-3. **[Lucenda Temperance Berry](/documents/williamclarenceberrync/)**
-4. **[Sarah Catherine Berry](/documents/williamclarenceberrync/)**
-5. **[Martha Minerva Berry](/documents/williamclarenceberrync/)**
-6. **[William Smith Berry](/documents/williamclarenceberrync/)**
-7. **[Amanda Narcissus Berry](/documents/williamclarenceberrync/)**
-8. **[Julia Anne Berry](/documents/williamclarenceberrync/)**
-9. **[Mary Jane Berry](/documents/williamclarenceberrync/)**
+3. **[Elizabeth Jane Berry](/ancestors/williamclarenceberrync/) William Clarence & Massa Thompkins Berry's Children**
+1. ** [John Thomas Berry](/ancestors/williamclarenceberrync/)**
+2. **[Henry Thompkins Berry](/ancestors/williamclarenceberrync/)**
+3. **[Lucenda Temperance Berry](/ancestors/williamclarenceberrync/)**
+4. **[Sarah Catherine Berry](/ancestors/williamclarenceberrync/)**
+5. **[Martha Minerva Berry](/ancestors/williamclarenceberrync/)**
+6. **[William Smith Berry](/ancestors/williamclarenceberrync/)**
+7. **[Amanda Narcissus Berry](/ancestors/williamclarenceberrync/)**
+8. **[Julia Anne Berry](/ancestors/williamclarenceberrync/)**
+9. **[Mary Jane Berry](/ancestors/williamclarenceberrync/)**
 
 **Thomas Person & Sarah Lunsford Berry's Children**
 1. **William H Berry**
@@ -71,21 +71,21 @@ description: "Directory of all known descendants of Robert and Elizabeth Cate Be
 
 **Joshua & Nancy Ellison Berry's Children**
 **4th Generation:**
-1. **[Charlotte Berry](/ancestors/joshuachildren/)**
-2. **[James Berry](/ancestors/joshuachildren/)**
-3. **[Eli Berry](/ancestors/joshuachildren/)**
-4. **[Eli Berry](/ancestors/davidjchildren/)**
-5. **[Elizabeth](/ancestors/davidjchildren/)**
-6. **[Sarah Berry](/ancestors/davidjchildren/)**
-7. **[Winifred Berry](/ancestors/davidjchildren/)**
-8. **[David J. Berry Jr](/ancestors/davidjchildren/)**
-9. **[Mary Berry](/ancestors/davidjchildren/)**
-10. **[Henry Berry](/ancestors/davidjchildren/)**
-11. **[George N. Berry](/ancestors/davidjchildren/)**
-12. **[Robert Berry](/ancestors/davidjchildren/)**
-13. **[William G. Berry](/ancestors/davidjchildren/)**
+1. **[Charlotte Berry](/ancestors/joshua-berry-sr/)**
+2. **[James Berry](/ancestors/joshua-berry-sr/)**
+3. **[Eli Berry](/ancestors/joshua-berry-sr/)**
+4. **[Eli Berry](/ancestors/david-j-berry-sr/)**
+5. **[Elizabeth](/ancestors/david-j-berry-sr/)**
+6. **[Sarah Berry](/ancestors/david-j-berry-sr/)**
+7. **[Winifred Berry](/ancestors/david-j-berry-sr/)**
+8. **[David J. Berry Jr](/ancestors/david-j-berry-sr/)**
+9. **[Mary Berry](/ancestors/david-j-berry-sr/)**
+10. **[Henry Berry](/ancestors/david-j-berry-sr/)**
+11. **[George N. Berry](/ancestors/david-j-berry-sr/)**
+12. **[Robert Berry](/ancestors/david-j-berry-sr/)**
+13. **[William G. Berry](/ancestors/david-j-berry-sr/)**
 14. **Thomas G.Berry **
-15. **[Joshua M.Berry](/ancestors/davidjchildren/) Thomas & Sarah Cate Berry's Children**
+15. **[Joshua M.Berry](/ancestors/david-j-berry-sr/) Thomas & Sarah Cate Berry's Children**
 **4th Generation:**
 1. **[David II Berry](/ancestors/thomasberrync/)**
 2. **[Eleanor Berry](/ancestors/thomasberrync/) Thomas & Sarah Cate Berry's Grandchildren**
@@ -137,12 +137,12 @@ description: "Directory of all known descendants of Robert and Elizabeth Cate Be
 3. **[David J. Berry Jr.](/ancestors/davidsodavid/)**
 4. **[Mary Polly Berry](/ancestors/maryberrybartonga/)**
 5. **[Henry Berry](/ancestors/henrysodavid/)**
-6. **[George N. Berry](/ancestors/davidjchildren/)**
+6. **[George N. Berry](/ancestors/david-j-berry-sr/)**
 7. **[Robert Berry](/ancestors/robertdjberry/)**
-8. **[Isaac Martin Berry](/ancestors/davidjchildren/)**
-9. **[William G. Berry](/documents/williamgsodavid/)**
+8. **[Isaac Martin Berry](/ancestors/david-j-berry-sr/)**
+9. **[William G. Berry](/ancestors/williamgsodavid/)**
 10. **[Thomas Berry](/ancestors/thomassodavid/)**
-11. **[Joshua Berry](/ancestors/davidjchildren/) David J.& Mary Blalock Berry's Grandchildren**
+11. **[Joshua Berry](/ancestors/david-j-berry-sr/) David J.& Mary Blalock Berry's Grandchildren**
 **5th Generation:**
 
 **Mary Polly Berry & William Abraham Cates'Children**
@@ -155,8 +155,8 @@ description: "Directory of all known descendants of Robert and Elizabeth Cate Be
 7. **[Lucinda Cates](/ancestors/sarahberrycatesga/)**
 8. **[Martha Cates](/ancestors/sarahberrycatesga/)**
 9. **[Pleasant Cates](/ancestors/sarahberrycatesga/) Winifred Berry & Joshua Norman's Children**
-1. **[David Norman](/ancestors/davidjchildren/)**
-2. **[Lucinda Norman](/ancestors/davidjchildren/) Sarah Winifred Berry & Thomas Howard Barton's Children**
+1. **[David Norman](/ancestors/david-j-berry-sr/)**
+2. **[Lucinda Norman](/ancestors/david-j-berry-sr/) Sarah Winifred Berry & Thomas Howard Barton's Children**
 1. **[Seleta Ann Barton](/ancestors/maryberrybartonga/)**
 2. **[Mary Elizabeth Barton](/ancestors/maryberrybartonga/)**
 3. **[William David Barton](/ancestors/maryberrybartonga/)**
@@ -176,19 +176,19 @@ description: "Directory of all known descendants of Robert and Elizabeth Cate Be
 10. **Martha N. Berry **
 11. **Basil Manley Berry **
 12. **William G.Berry **
-13. **[Thomas Berry](/ancestors/davidjchildren/) Joshua M. & Elizabeth J. Cates Berry's Children**
+13. **[Thomas Berry](/ancestors/david-j-berry-sr/) Joshua M. & Elizabeth J. Cates Berry's Children**
 1. **[Graham Berry](/ancestors/joshuaberryga/)**
 2. **[Robert I. Berry](/ancestors/joshuaberryga/)**
 3. **[Mary Berry](/ancestors/joshuaberryga/)**
 4. **[Angelina Berry](/ancestors/joshuaberryga/)**
 5. **[Joshua M Berry](/ancestors/joshuaberryga/) Robert Berry Jr. & Mary Camp's Children**
 **4th Generation:**
-1. **[Catherine Berry](/ancestors/rbjchildren/)**
-2. **[George Berry](/ancestors/rbjchildren/)**
-3. **[John Berry](/ancestors/rbjchildren/)**
-4. **[Henry Berry](/ancestors/rbjchildren/)**
-5. **[Thompson Berry](/ancestors/rbjchildren/)**
-6. **[David Middleton Berry](/ancestors/rbjchildren/) Robert Berry Jr. & Mary Camp's Grandchildren**
+1. **[Catherine Berry](/ancestors/robert-berry-jr/)**
+2. **[George Berry](/ancestors/robert-berry-jr/)**
+3. **[John Berry](/ancestors/robert-berry-jr/)**
+4. **[Henry Berry](/ancestors/robert-berry-jr/)**
+5. **[Thompson Berry](/ancestors/robert-berry-jr/)**
+6. **[David Middleton Berry](/ancestors/robert-berry-jr/) Robert Berry Jr. & Mary Camp's Grandchildren**
 **5th Generation:**
 
 **Jacob Pickle & Catherine Berry's Children**

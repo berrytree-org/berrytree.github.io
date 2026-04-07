@@ -2,6 +2,8 @@
 title: "Isaac Berry"
 weight: 7
 bookToc: true
+aliases:
+  - /ancestors/isaacberry/
 ---
 
 <div class="ancestor-page">

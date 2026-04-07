@@ -2,6 +2,9 @@
 title: "Thomas Berry"
 weight: 5
 bookToc: true
+aliases:
+  - /ancestors/thomas-berry-land-sale/
+  - /ancestors/thomasberrync/
 ---
 
 <div class="ancestor-page">
@@ -29,7 +32,16 @@ Sarah's older sister **Hannah Cate** had married Thomas's brother **William Berr
 
 ### The Expedition West
 
-Thomas and Sarah had two children — **David** and **Eleanor** — both born in Orange County, North Carolina. In 1806, Thomas sold his property in preparation for an upcoming expedition to search for new land in the west. Several young men may have been leaving Orange County at the time, hoping to find free government land in Georgia or Tennessee.
+Thomas and Sarah had two children — **David** and **Eleanor** — both born in Orange County, North Carolina. In 1806, Thomas sold his property in preparation for an upcoming expedition to search for new land in the west.
+
+<div class="photo-feature">
+  <a href="/images/tblandsale1806.jpg">
+    <img src="/images/tblandsale1806.jpg" alt="Thomas Berry land sale document, 1806" />
+  </a>
+  <div class="photo-caption">Thomas Berry land sale, 1806</div>
+</div>
+
+Several young men may have been leaving Orange County at the time, hoping to find free government land in Georgia or Tennessee.
 
 William Berry accompanied his brother Thomas on this journey. Hannah Berry listed as head of household in the 1810 Orange County census, the very first listing after her father-in-law Robert Berry. This confirms William was away from home.
 

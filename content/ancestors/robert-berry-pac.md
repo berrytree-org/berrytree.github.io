@@ -5,6 +5,7 @@ weight: 9
 bookToc: true
 aliases:
   - /ancestors/robertberrypac/
+  - /ancestors/samuel-hollowell/
 ---
 
 
@@ -82,6 +83,8 @@ After Robert Berry (PAC) died, his wife apparently lived until 1746, because tha
 
   {{< img-float src="/images/samuel-hollowell-church-job.jpg" alt="Samuel Hollowell Church Contract" >}}
   Samuel Hollowell Church Contract — Hollowell was Robert Berry (OC)'s master during his carpentry apprenticeship
+
+{{< img-float src="/images/samuelhollewellindenture.jpg" alt="Samuel Hollowell indenture document for Robert Berry" link="/images/samuelhollewellindenture.jpg" size="50%" side="right" caption="Samuel Hollowell Indenture — Click for full size" >}}
 
 ---
 

@@ -92,7 +92,7 @@ Albert Edgar Berry has not been located in any 1930 or 1940 census. He did show 
 {{< img-float src="/images/albert-e.-berry-1941.jpg" alt="Albert E. Berry 1941" >}}
 ### **Children of Albert Edgar and Ella Claudia Dorton Berry:**
 - Eunice Berry born 1906 <!-- UNSOURCED -->
-- [William Lamar Berry born 1908](/documents/williamlamar/) <!-- UNSOURCED -->
+- [William Lamar Berry born 1908](/ancestors/williamlamar/) <!-- UNSOURCED -->
 - Living Berry by second wife
 - Living Berry by second wife children
 **Albert Edgar Berry Grave Information Below:**

@@ -3,8 +3,9 @@
 {{- $side    := .Get "side" | default "none" -}}
 {{- $caption := .Get "caption" | default "" -}}
 {{- $link    := .Get "link" | default "" -}}
+{{- $size    := .Get "size" | default "" -}}
 
-<figure class="img-float img-float-{{ $side }}">
+<figure class="img-float img-float-{{ $side }}"{{ if $size }} style="max-width: {{ $size }}"{{ end }}>
   {{- if $link }}
   <a href="{{ $link }}">
     <img src="{{ $src }}" alt="{{ $alt }}" />

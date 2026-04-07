@@ -2,6 +2,9 @@
 title: "Cora Dena Berry NC"
 description: "Cora Dena Berry (1868–1947), daughter of John Robert and Elizabeth Frances Bowling Berry, Orange County, North Carolina."
 bookToc: true
+aliases:
+  - /ancestors/robert-h-breezes-headstone/
+  - /ancestors/cora-and-frank-headstone/
 ---
 
 <div class="ancestor-page">

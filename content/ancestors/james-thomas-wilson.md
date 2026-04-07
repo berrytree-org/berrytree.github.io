@@ -2,6 +2,8 @@
 title: "James Thomas Wilson NC"
 ---
 
+{{< info-banner title="James Thomas Wilson (1857–1929)" subtitle="Father-in-law of Pattie Swiney Berry, Orange County, North Carolina." >}}
+
 ## James Thomas Wilson, father-in-law of Pattie Swiney Berry
 
 **JAMES THOMAS WILSON** was born in January 1857 in North Carolina. He died in 1929 and is buried at Little River Presbyterian Church Cemetery, Little River Township, Orange County, NC.

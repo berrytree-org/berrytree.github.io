@@ -2,6 +2,8 @@
 title: "Emma G. Berry and John Saunders Berry"
 description: "Emma G. Berry and John Saunders Berry joint page, connecting the William Berry and Joshua Berry lines in Orange County NC."
 bookToc: true
+aliases:
+  - /ancestors/emmagberrync/
 ---
 
 <div class="ancestor-page">

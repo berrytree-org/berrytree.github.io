@@ -5,6 +5,9 @@ weight: 7
 bookToc: true
 aliases:
   - /ancestors/robert/
+  - /ancestors/locateplantation/
+  - /ancestors/robert-berry-oc-9798/
+  - /ancestors/9798-2/
 ---
 
 
