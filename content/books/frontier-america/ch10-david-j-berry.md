@@ -2,6 +2,13 @@
 title: "Chapter 10: David J. Berry 1774–1838"
 weight: 10
 bookToc: true
+families: ["David J Berry"]
+periods: ["Revolutionary", "Early Settlement"]
+tags: ["book-chapter", "orange-county-nc", "census"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "book"
+sources_verified: false
 ---
 
 <div class="ancestor-page">

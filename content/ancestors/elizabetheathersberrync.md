@@ -2,6 +2,13 @@
 title: "Elizabeth Leathers Berry NC"
 description: "Elizabeth Leathers Berry (b. circa 1791), stepdaughter of David J. Berry Sr., Orange County, North Carolina."
 bookToc: true
+families: ["David J Berry"]
+periods: ["Revolutionary", "Early Settlement"]
+tags: ["biography", "orange-county-nc", "census"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 <div class="ancestor-page">

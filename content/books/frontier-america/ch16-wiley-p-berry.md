@@ -2,6 +2,13 @@
 title: "Chapter 16: Wiley P. Berry 1869–1965"
 weight: 16
 bookToc: true
+families: ["William Berry"]
+periods: ["Reconstruction", "Modern"]
+tags: ["book-chapter", "orange-county-nc"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "book"
+sources_verified: false
 ---
 
 <div class="ancestor-page">

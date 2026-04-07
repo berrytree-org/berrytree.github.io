@@ -1,6 +1,12 @@
 ---
 title: "Family Homes"
 description: "Historic homes, stores, and schools connected to the Berry family across North Carolina, Texas, Tennessee, Georgia, and Mississippi."
+periods: ["Antebellum", "Civil War"]
+tags: ["index-page", "census"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 {{< info-banner title="Berry Family Homes & Historic Places" subtitle="Houses, stores, and schools built or occupied by Berry family descendants, spanning the 1760s through the early 1900s." >}}

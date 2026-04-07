@@ -2,6 +2,13 @@
 title: "John H. Berry ALA TX"
 weight: 50
 bookToc: true
+families: ["Robert Berry Jr"]
+periods: ["Early Settlement", "Antebellum"]
+tags: ["biography", "alabama", "texas", "cemetery"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 <div class="ancestor-page">

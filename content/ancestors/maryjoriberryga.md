@@ -2,6 +2,13 @@
 title: "Mary Jori Berry Ga"
 description: "Mary Jori Berry, daughter of Robert and Elizabeth Everitt Berry, Fayette County Georgia."
 bookToc: true
+families: ["David J Berry"]
+periods: ["Early Settlement", "Antebellum"]
+tags: ["biography", "georgia", "orange-county-nc", "census", "cemetery"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 <div class="ancestor-page">

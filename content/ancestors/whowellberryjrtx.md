@@ -2,6 +2,13 @@
 title: "Willie Howell Berry Jr. (TX)"
 description: "Willie Howell Berry Jr., son of Willie Howell and Sarah May Berry, born 1917 in Berry Flat, Borden, Texas."
 bookToc: true
+families: ["Robert Berry Jr"]
+periods: ["Modern"]
+tags: ["biography", "alabama", "orange-county-nc", "texas", "census"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 <div class="ancestor-page">

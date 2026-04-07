@@ -1,5 +1,15 @@
 ---
 title: "ROBERT BERRY OC WILL"
+periods:
+  - "Early Settlement"
+tags:
+  - document
+  - will
+  - orange-county-nc
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 {{< info-banner title="Robert Berry's Will (1812)" subtitle="Transcript and facsimile images of Robert Berry's Orange County, North Carolina will." >}}

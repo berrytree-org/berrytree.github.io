@@ -2,6 +2,13 @@
 title: "Chapter 14: Thomas Person Berry 1808–1884"
 weight: 14
 bookToc: true
+families: ["William Berry"]
+periods: ["Early Settlement", "Antebellum"]
+tags: ["book-chapter", "orange-county-nc", "marriage-bond"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "book"
+sources_verified: false
 ---
 
 <div class="ancestor-page">

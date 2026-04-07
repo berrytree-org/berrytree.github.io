@@ -2,6 +2,12 @@
 title: "Chapter 17: Y-DNA Testing"
 weight: 17
 bookToc: true
+periods: ["Modern"]
+tags: ["book-chapter", "dna"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "book"
+sources_verified: false
 ---
 
 <div class="ancestor-page">

@@ -3,6 +3,12 @@ title: "Cora Berry McVicker"
 description: "Cora Mae Berry McVicker, daughter of Jesse Lee and Nancy Henry Berry, Alabama and Georgia."
 weight: 1
 bookToc: true
+families: ["David J Berry"]
+tags: ["biography", "georgia", "orange-county-nc", "census", "cemetery"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 <div class="ancestor-page">

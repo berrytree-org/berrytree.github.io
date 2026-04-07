@@ -2,6 +2,13 @@
 title: "Woodrow Wilson Berry NC"
 description: "Woodrow Wilson Berry (1912–1989), son of Wiley P. Berry Sr. and Ida Ann Wilson Berry, Orange County, North Carolina."
 bookToc: true
+families: ["William Berry"]
+periods: ["Modern"]
+tags: ["biography", "orange-county-nc", "census", "military"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 <div class="ancestor-page">

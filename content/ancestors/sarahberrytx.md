@@ -2,6 +2,13 @@
 title: "Sarah Berry (TX)"
 description: "Sarah Berry, daughter of John and Mary Howell Berry, born 1839 in Alabama, died 1917 in Galveston, Texas."
 bookToc: true
+families: ["Robert Berry Jr"]
+periods: ["Early Settlement", "Antebellum"]
+tags: ["biography", "alabama", "orange-county-nc", "texas", "census", "cemetery"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 <div class="ancestor-page">

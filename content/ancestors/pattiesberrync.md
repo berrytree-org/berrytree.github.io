@@ -2,6 +2,13 @@
 title: "Pattie Swiney Berry NC"
 description: "Pattie Swiney Berry (1886–1915), daughter of John Robert Berry and Elizabeth Francis Bowling, Orange County, North Carolina."
 bookToc: true
+families: ["William Berry"]
+periods: ["Reconstruction", "Modern"]
+tags: ["biography", "orange-county-nc", "census", "cemetery"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 <div class="ancestor-page">

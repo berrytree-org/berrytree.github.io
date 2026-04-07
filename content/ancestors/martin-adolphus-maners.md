@@ -2,6 +2,13 @@
 title: "Martin Adolphus Maners"
 description: "Martin Adolphus (Dock) Maners, youngest of four brothers, son of Herman and Addie Lena Berry Maners Sr., born November 20, 1920."
 bookToc: true
+families: ["David J Berry"]
+periods: ["Modern"]
+tags: ["biography", "georgia", "orange-county-nc"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 <div class="ancestor-page">

@@ -3,6 +3,13 @@ title: "William Henry Berry GA"
 description: "Biographical page for William Henry Berry of Georgia, son of Robert and Elizabeth Everett Berry."
 aliases:
   - /documents/william-henry-berry-ga/
+periods: ["Early Settlement", "Antebellum"]
+tags: ["biography", "georgia"]
+families: ["David J Berry"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 {{< info-banner title="William Henry Berry" subtitle="Son of Robert and Elizabeth Everett Berry, Georgia." >}}

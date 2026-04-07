@@ -1,6 +1,13 @@
 ---
 title: "Addie Lena Berry"
 description: "Addie Lena Berry Maners (1884-1975), daughter of Jesse Lee and Nancy Ann Henry Berry, Georgia and Alabama."
+periods: ["Reconstruction", "Modern"]
+tags: ["biography", "cemetery"]
+families: ["David J Berry"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 **Ancestors:**

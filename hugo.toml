@@ -46,30 +46,38 @@ summaryLength = 40
     url = "/ancestors/"
     weight = 3
   [[menu.before]]
+    name = "Family Lines"
+    url = "/families/"
+    weight = 4
+  [[menu.before]]
+    name = "Browse by Topic"
+    url = "/tags/"
+    weight = 5
+  [[menu.before]]
     name = "DNA"
     url = "/dna/"
-    weight = 4
+    weight = 6
   [[menu.before]]
     name = "Documents"
     url = "/documents/"
-    weight = 5
+    weight = 7
   [[menu.before]]
     name = "Books"
     url = "/books/"
-    weight = 6
+    weight = 8
   [[menu.before]]
     name = "Indexes"
     url = "/indexes/"
-    weight = 7
+    weight = 9
   [[menu.before]]
     name = "Contact"
     url = "/contact/"
-    weight = 8
+    weight = 10
   [[menu.before]]
     name = "Resources"
     url = "/resources/"
-    weight = 9
+    weight = 11
   [[menu.before]]
     name = "About"
     url = "/about/"
-    weight = 10
+    weight = 12

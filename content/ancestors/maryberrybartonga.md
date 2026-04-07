@@ -2,6 +2,13 @@
 title: "Mary Berry Barton Ga"
 description: "Mary Berry Barton, daughter of David J. and Mary Blalock Berry, Orange County North Carolina and Clayton County Georgia."
 bookToc: true
+families: ["David J Berry"]
+periods: ["Early Settlement"]
+tags: ["biography", "georgia", "orange-county-nc", "census", "military", "cemetery"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 <div class="ancestor-page">

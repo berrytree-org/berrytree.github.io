@@ -1,6 +1,17 @@
 ---
 title: "Williamson Deeds and Wills 1691–1755, Princess Anne County"
 description: "Over 50 Williamson family deed and will abstracts from Princess Anne County, Virginia, covering 1691 to 1755."
+periods:
+  - "Colonial"
+tags:
+  - document
+  - will
+  - deed
+  - prince-anne-county-va
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 {{< info-banner title="Williamson Family Deeds & Wills — Princess Anne County, Virginia" subtitle="Over 50 abstracts from deed books 1–7 covering the Williamson family from 1691 to 1755. Abstracted by Anne Mailing." >}}

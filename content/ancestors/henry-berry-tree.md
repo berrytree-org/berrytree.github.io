@@ -2,6 +2,13 @@
 title: "Henry Berry Tree"
 weight: 50
 bookToc: true
+families: ["Henry Berry"]
+periods: ["Revolutionary"]
+tags: ["family-tree", "orange-county-nc"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 <div class="ancestor-page">

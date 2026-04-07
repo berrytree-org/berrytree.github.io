@@ -3,6 +3,13 @@ title: "Elizabeth Cate Berry"
 description: "Elizabeth Cate Berry (c. 1735–c. 1817), daughter of John and Margery Cate, married Robert Berry in Orange County, North Carolina, and together they raised ten children."
 weight: 8
 bookToc: true
+periods: ["Colonial"]
+tags: ["biography", "census", "cemetery"]
+families: ["Joshua Berry", "John Berry", "Thomas Berry", "Isaac Berry", "Mary Berry", "William Berry", "Henry Berry", "Elizabeth Berry", "David J Berry", "Robert Berry Jr"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 

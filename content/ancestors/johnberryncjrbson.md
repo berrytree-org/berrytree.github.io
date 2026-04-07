@@ -2,6 +2,13 @@
 title: "John W. Berry NC"
 description: "John W. Berry (1871-1923), son of John Robert Berry, Orange County, North Carolina."
 bookToc: true
+families: ["William Berry"]
+periods: ["Reconstruction"]
+tags: ["biography", "orange-county-nc", "census"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 <div class="ancestor-page">

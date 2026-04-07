@@ -1,6 +1,13 @@
 ---
 title: "Joshua Berry Jr. Ohio"
 description: "Biographical detail and census records for Joshua Berry Jr., son of Joshua Berry and Nancy Ellison Berry, from Orange County NC to Benton County Iowa."
+periods: ["Early Settlement"]
+tags: ["census-page", "census", "cemetery"]
+families: ["Joshua Berry"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 {{< info-banner title="Joshua Berry Jr. — Ohio Detail" subtitle="Biography and Census Records, Orange County NC to Benton County Iowa" >}}

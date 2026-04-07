@@ -3,6 +3,12 @@ title: "Lela Willie Virginia Guthrie"
 description: "Biographical page for Lela Willie Virginia Guthrie, descendant of Robert and Mary Williamson Berry through the Barton, Crow, and Guthrie lines."
 aliases:
   - /documents/lelawillievirginiaguthrie/
+tags: ["biography", "census"]
+families: ["David J Berry"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 {{< info-banner title="Lela Willie Virginia Guthrie" subtitle="Genealogist and Berry family researcher." >}}

@@ -1,5 +1,12 @@
 ---
 title: "Unknown Pictures Page 1"
+tags:
+  - photograph
+  - unresolved
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 {{< info-banner title="Unknown Pictures" subtitle="Unidentified Berry family photographs — can you help identify anyone?" >}}

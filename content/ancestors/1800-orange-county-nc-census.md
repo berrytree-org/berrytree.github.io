@@ -1,6 +1,12 @@
 ---
 title: "1800 Orange County NC Census"
 description: "1800 Census records for Berry family members in Orange County, North Carolina, including Robert Sr., Robert Jr., Joshua, David J., William, and Thomas Berry."
+periods: ["Revolutionary", "Early Settlement"]
+tags: ["census-page", "census"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 {{< info-banner title="1800 Orange County NC Census" subtitle="Berry Family Census Listings — Orange County, North Carolina" >}}

@@ -3,6 +3,13 @@ title: "David Middleton Berry"
 description: "David Middleton Berry (1805–1880), son of Robert Berry Jr. and Mary Camp Berry, Orange County, NC to Fayette County, Alabama."
 weight: 1
 bookToc: true
+families: ["Robert Berry Jr"]
+periods: ["Early Settlement"]
+tags: ["biography", "alabama", "census", "cemetery"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 <div class="ancestor-page">

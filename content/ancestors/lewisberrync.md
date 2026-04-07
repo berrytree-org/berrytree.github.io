@@ -2,6 +2,13 @@
 title: "Lewis Berry NC"
 description: "Lewis Berry, son of Joshua and Nancy Ellison Berry, born 1805 in Orange County NC."
 bookToc: true
+families: ["Joshua Berry"]
+periods: ["Early Settlement"]
+tags: ["biography", "orange-county-nc", "census"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 <div class="ancestor-page">

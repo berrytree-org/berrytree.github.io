@@ -2,6 +2,13 @@
 title: "Chapter 1: Williamsons, Fosters, Berrys & Kemps"
 weight: 1
 bookToc: true
+families: ["Joshua Berry", "John Berry", "Thomas Berry", "Isaac Berry", "Mary Berry", "William Berry", "Henry Berry", "Elizabeth Berry", "David J Berry", "Robert Berry Jr"]
+periods: ["Colonial", "Early Settlement"]
+tags: ["book-chapter", "orange-county-nc", "prince-anne-county-va", "deed", "census"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "book"
+sources_verified: false
 ---
 
 <div class="ancestor-page">

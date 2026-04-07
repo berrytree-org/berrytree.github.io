@@ -2,6 +2,13 @@
 title: "Robert C. Berry NC Ala"
 description: "Robert C. Berry, son of William and Hannah Cate Berry, born 1805 in Orange County NC, settled in Fayette County Alabama."
 bookToc: true
+families: ["William Berry"]
+periods: ["Early Settlement"]
+tags: ["biography", "alabama", "orange-county-nc", "census", "land-grant", "deed", "military", "cemetery"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 <div class="ancestor-page">

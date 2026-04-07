@@ -3,6 +3,12 @@ title: "William Thomas Maners"
 description: "Biographical page for William Thomas Maners, Berry family connection through the Addie Lena Berry Maners line in Georgia."
 aliases:
   - /documents/william-thomas-maners/
+tags: ["biography", "census"]
+families: ["David J Berry"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 {{< info-banner title="William Thomas Maners" subtitle="Berry family connection through Georgia." >}}

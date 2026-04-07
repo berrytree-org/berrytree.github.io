@@ -2,6 +2,16 @@
 title: "Marriages"
 weight: 8
 description: "Marriage bonds and records for the Berry family of Orange County, North Carolina — from the 1791 Grooms Book through the late 1800s."
+periods:
+  - "Colonial"
+  - "Early Settlement"
+tags:
+  - marriage-bond
+  - orange-county-nc
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 ## Marriage Bonds from the Grooms Book — Berry Family

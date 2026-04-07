@@ -2,6 +2,13 @@
 title: "Mary Aliceann Elizabeth Barton Ga"
 description: "Mary Aliceann Elizabeth Barton, daughter of Mary Berry and Thomas Howard Barton, Clayton County Georgia."
 bookToc: true
+families: ["David J Berry"]
+periods: ["Early Settlement", "Antebellum"]
+tags: ["biography", "georgia", "orange-county-nc", "census", "cemetery"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 <div class="ancestor-page">

@@ -4,6 +4,13 @@ description: "John Berry, son of George Berry and Susan Berry, born 1815 in Nort
 aliases:
   - /ancestors/johnberrytx/
 bookToc: true
+families: ["Robert Berry Jr"]
+periods: ["Early Settlement"]
+tags: ["biography", "alabama", "orange-county-nc", "texas", "census"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 <div class="ancestor-page">

@@ -4,6 +4,13 @@ weight: 3
 bookToc: true
 aliases:
   - /ancestors/johnberry/
+families: ["John Berry"]
+periods: ["Revolutionary", "Early Settlement"]
+tags: ["biography", "orange-county-nc", "georgia"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 <div class="ancestor-page">

@@ -1,6 +1,13 @@
 ---
 title: "Robert Berry Jr. Census Page"
 description: "Census records for Robert Berry Jr. from 1790 Orange County, NC through 1840 Fayette County, Alabama."
+periods: ["Revolutionary", "Early Settlement"]
+tags: ["census-page", "census"]
+families: ["Robert Berry Jr"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 {{< info-banner title="Robert Berry Jr. — Census Records" subtitle="Census Listings from North Carolina and Alabama, 1790–1840" >}}

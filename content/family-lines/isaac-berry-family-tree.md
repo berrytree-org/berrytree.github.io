@@ -1,5 +1,12 @@
 ---
 title: "Isaac Berry Family Tree"
+families: ["Isaac Berry"]
+periods: ["Revolutionary", "Early Settlement"]
+tags: ["family-tree", "orange-county-nc"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 {{< ancestor-chain gen3="Isaac Berry × Lydia Berry" loc3="Orange County, North Carolina" link3="/ancestors/isaacberry/" />}}

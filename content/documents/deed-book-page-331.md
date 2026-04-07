@@ -1,5 +1,17 @@
 ---
 title: "Deed Book Page 331 Land Purchase in Person County NC"
+families:
+  - "Robert Berry Jr"
+periods:
+  - "Colonial"
+tags:
+  - document
+  - deed
+  - orange-county-nc
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 {{< info-banner title="Deed Book Page 331" subtitle="Robert Berry Jr.'s land purchase in Person County, North Carolina." >}}

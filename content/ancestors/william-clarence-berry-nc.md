@@ -3,6 +3,13 @@ title: "William Clarence Berry NC, ALA, TX"
 description: "William Clarence Berry, son of William and Hannah Cate Berry, born 1803 in Orange County NC, migrated to Alabama and Texas."
 weight: 12
 bookToc: true
+families: ["William Berry"]
+periods: ["Early Settlement"]
+tags: ["biography", "orange-county-nc", "census", "land-grant", "deed", "marriage-bond", "military", "cemetery"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 <div class="ancestor-page">

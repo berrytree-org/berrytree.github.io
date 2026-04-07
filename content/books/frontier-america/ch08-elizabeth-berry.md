@@ -2,6 +2,13 @@
 title: "Chapter 8: Elizabeth Berry 1768–1815"
 weight: 8
 bookToc: true
+families: ["Elizabeth Berry"]
+periods: ["Revolutionary"]
+tags: ["book-chapter", "orange-county-nc", "will"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "book"
+sources_verified: false
 ---
 
 <div class="ancestor-page">

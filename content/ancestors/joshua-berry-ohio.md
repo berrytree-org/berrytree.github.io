@@ -4,6 +4,13 @@ weight: 6
 description: "Joshua Berry Jr., son of Joshua and Nancy Ellison Berry, born 1801 in Orange County NC, died 1879 in Benton County Iowa."
 aliases:
   - /ancestors/joshuaberryohio/
+periods: ["Early Settlement"]
+tags: ["biography", "ohio", "census", "cemetery"]
+families: ["Joshua Berry"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 {{< info-banner title="Joshua Berry Jr. (1801–1879)" subtitle="Son of Joshua and Nancy Ellison Berry, migrated from Orange County, NC, to Ohio, Indiana, and Iowa." >}}

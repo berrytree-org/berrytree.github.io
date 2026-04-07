@@ -2,6 +2,13 @@
 title: "Martha M. Lockley"
 description: "Martha Minerva Berry Lockley, daughter of William Clarence Berry and Massa Ann Tompkins, born in Fayette County, Alabama."
 bookToc: true
+families: ["William Berry"]
+periods: ["Antebellum", "Civil War"]
+tags: ["biography", "orange-county-nc"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 <div class="ancestor-page">

@@ -1,6 +1,13 @@
 ---
 title: "Thompson Berry Ala"
 description: "Thompson Berry (1801–1871), son of Robert Berry Jr. and Mary Camp Berry, prominent businessman and namesake of Berry, Alabama."
+periods: ["Early Settlement"]
+tags: ["biography", "alabama", "census"]
+families: ["Robert Berry Jr"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 ## **Thompson Berry, Son of Robert Berry Jr. and Mary Camp Berry**

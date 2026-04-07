@@ -2,6 +2,13 @@
 title: "Robert Riley Berry Ga"
 description: "Robert Riley Berry (1840–1909), son of Robert and Elizabeth Everett Berry, Milton County, Georgia."
 bookToc: true
+families: ["David J Berry"]
+periods: ["Early Settlement", "Antebellum"]
+tags: ["biography", "georgia", "orange-county-nc", "census", "cemetery"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 <div class="ancestor-page">

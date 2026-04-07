@@ -1,5 +1,10 @@
 ---
 title: "Books"
+tags: ["book-chapter"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "book"
+sources_verified: false
 ---
 
 {{< info-banner title="Books" subtitle="Berry family books available for purchase and download." >}}

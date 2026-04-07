@@ -1,0 +1,70 @@
+{{/* Taxonomy Term Page — lists all pages tagged with a specific term (e.g., /families/joshua-berry/)
+     Design: Forest/cream aesthetic matching berrytree.org
+     Author: Lila
+*/}}
+
+{{ define "main" }}
+<article class="markdown book-article">
+
+<div class="taxonomy-term-page">
+
+  {{/* Dynamic context based on taxonomy */}}
+  {{ $taxName := .Data.Plural }}
+  {{ $termTitle := .Title }}
+  {{ $backLabel := "All Terms" }}
+  {{ $backLink := "" }}
+
+  {{ if eq $taxName "families" }}
+    {{ $backLabel = "All Family Lines" }}
+    {{ $backLink = "/families/" }}
+  {{ else if eq $taxName "periods" }}
+    {{ $backLabel = "All Periods" }}
+    {{ $backLink = "/periods/" }}
+  {{ else if eq $taxName "tags" }}
+    {{ $backLabel = "All Topics" }}
+    {{ $backLink = "/tags/" }}
+  {{ end }}
+
+  <div class="tax-term-header">
+    <a href="{{ $backLink }}" class="tax-term-back">&larr; {{ $backLabel }}</a>
+    <h1 class="tax-term-title">{{ $termTitle }}</h1>
+    <p class="tax-term-count-label">{{ len .Pages }} {{ if eq (len .Pages) 1 }}page{{ else }}pages{{ end }} tagged</p>
+  </div>
+
+  {{/* Group pages by section using Hugo's built-in GroupBy */}}
+  {{ range .Pages.GroupBy "Section" }}
+  {{ $sectionName := .Key }}
+  {{ if eq $sectionName "ancestors" }}{{ $sectionName = "Ancestors" }}
+  {{ else if eq $sectionName "family-lines" }}{{ $sectionName = "Family Lines" }}
+  {{ else if eq $sectionName "books" }}{{ $sectionName = "Books" }}
+  {{ else if eq $sectionName "documents" }}{{ $sectionName = "Documents" }}
+  {{ else if eq $sectionName "pictures" }}{{ $sectionName = "Pictures" }}
+  {{ else if eq $sectionName "indexes" }}{{ $sectionName = "Indexes" }}
+  {{ else if eq $sectionName "dna" }}{{ $sectionName = "DNA Research" }}
+  {{ else if eq $sectionName "timelines" }}{{ $sectionName = "Timelines" }}
+  {{ else if eq $sectionName "resources" }}{{ $sectionName = "Resources" }}
+  {{ else if eq $sectionName "contact" }}{{ $sectionName = "Contact" }}
+  {{ else if eq $sectionName "about" }}{{ $sectionName = "About" }}
+  {{ else if eq $sectionName "marriages" }}{{ $sectionName = "Marriages" }}
+  {{ end }}
+  <div class="tax-term-section">
+    <h2 class="tax-term-section-heading">{{ $sectionName }} <span class="tax-term-section-count">({{ len .Pages }})</span></h2>
+    <div class="tax-term-list">
+      {{ range .Pages }}
+      <a href="{{ .RelPermalink }}" class="tax-term-item">
+        <span class="tax-term-item-title">{{ .Title }}</span>
+        {{ with .Description }}<span class="tax-term-item-desc">{{ . }}</span>{{ end }}
+      </a>
+      {{ end }}
+    </div>
+  </div>
+  {{ end }}
+
+  <div class="tax-terms-footer">
+    berrytree.org &mdash; Robert &amp; Elizabeth Cate Berry &mdash; Orange County, NC
+  </div>
+
+</div>
+
+</article>
+{{ end }}

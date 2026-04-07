@@ -1,6 +1,13 @@
 ---
 title: "Ken Berry"
 description: "Kenneth Ronald Berry (1933-2018), actor, dancer, and singer. Descendant of Joshua and Nancy Ellison Berry of Orange County, North Carolina."
+periods: ["Modern"]
+tags: ["biography", "census"]
+families: ["Joshua Berry"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 **Ancestors:**

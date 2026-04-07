@@ -2,6 +2,13 @@
 title: "Robert Berry Junior's Family Tree"
 aliases:
   - /family-lines/robert-berry-family-line/
+families: ["Robert Berry Jr"]
+periods: ["Revolutionary", "Early Settlement"]
+tags: ["family-tree", "orange-county-nc", "alabama"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 {{< ancestor-chain gen3="Robert Berry Jr. × Mary Waggoner" loc3="Orange County, NC → Alabama" />}}

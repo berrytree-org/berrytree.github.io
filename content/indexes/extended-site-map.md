@@ -2,6 +2,12 @@
 title: "Extended Site Map"
 description: "Complete index of all pages on berrytree.org including census records, documents, ancestor pages, and research resources."
 weight: 5
+tags:
+  - index-page
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 {{< info-banner title="Extended Site Map" subtitle="Complete index of census records, document pages, ancestor pages, and research resources on berrytree.org." >}}

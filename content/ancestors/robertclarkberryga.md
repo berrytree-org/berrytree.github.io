@@ -2,6 +2,13 @@
 title: "Robert Clark Berry Ga"
 weight: 50
 bookToc: true
+families: ["David J Berry"]
+periods: ["Reconstruction"]
+tags: ["biography", "georgia", "orange-county-nc", "census"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 <div class="ancestor-page">

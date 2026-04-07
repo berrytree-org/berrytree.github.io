@@ -1,6 +1,12 @@
 ---
 title: "Site Map"
 weight: 4
+tags:
+  - index-page
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 {{< info-banner title="Site Map" subtitle="Complete listing of all pages and sections on berrytree.org." >}}

@@ -2,6 +2,13 @@
 title: "Chapter 9: Thomas Berry 1770–Before 1812"
 weight: 9
 bookToc: true
+families: ["Thomas Berry"]
+periods: ["Revolutionary", "Early Settlement"]
+tags: ["book-chapter", "orange-county-nc", "tennessee", "marriage-bond"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "book"
+sources_verified: false
 ---
 
 <div class="ancestor-page">

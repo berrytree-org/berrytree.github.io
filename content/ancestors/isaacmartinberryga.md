@@ -2,6 +2,13 @@
 title: "Isaac Martin Berry Ga"
 description: "Isaac Martin Berry, son of Robert and Elizabeth Everett Berry, Georgia."
 bookToc: true
+families: ["David J Berry"]
+periods: ["Early Settlement", "Antebellum"]
+tags: ["biography", "georgia", "orange-county-nc", "census"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 <div class="ancestor-page">

@@ -2286,3 +2286,299 @@ p > strong:first-child {
     }
   }
 }
+
+// =============================================================
+// TAXONOMY PAGES — Phase 5
+// Custom styling for /families/, /periods/, /tags/ pages
+// Owner: Lila
+// =============================================================
+
+// -- Shared taxonomy layout --
+.taxonomy-terms-page,
+.taxonomy-term-page {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 0 1rem 3rem;
+}
+
+// -- Terms index page (lists all terms) --
+.tax-terms-header {
+  text-align: center;
+  margin-bottom: 2.5rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid $cream-border;
+}
+
+.tax-terms-title {
+  font-family: 'Cinzel', 'Lora', Georgia, serif;
+  font-size: clamp(1.6rem, 4vw, 2.2rem);
+  color: $forest-dark;
+  margin-bottom: 0.3rem;
+  letter-spacing: 0.04em;
+  border-bottom: none;
+  padding-bottom: 0;
+}
+
+.tax-terms-subtitle {
+  font-family: 'Cinzel', serif;
+  font-size: clamp(0.85rem, 2vw, 1rem);
+  color: $accent-gold;
+  letter-spacing: 0.06em;
+  margin-bottom: 1rem;
+  font-style: italic;
+}
+
+.tax-terms-intro {
+  font-size: 0.95rem;
+  line-height: 1.7;
+  color: $bark-mid;
+  max-width: 38rem;
+  margin: 0 auto;
+}
+
+// -- Term cards grid --
+.tax-terms-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  gap: 16px;
+  margin-bottom: 2rem;
+
+  &--compact {
+    grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+    gap: 12px;
+  }
+}
+
+.tax-term-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 1.5rem 1rem;
+  background: rgba(255, 255, 255, 0.6);
+  border: 1px solid $cream-border;
+  border-left: 4px solid $forest-mid;
+  border-radius: 4px;
+  text-decoration: none;
+  color: inherit;
+  transition: border-left-color 0.2s, box-shadow 0.2s, transform 0.2s;
+
+  &:hover {
+    border-left-color: $accent-gold;
+    box-shadow: 0 3px 12px rgba(0, 0, 0, 0.08);
+    transform: translateY(-2px);
+    text-decoration: none;
+    color: inherit;
+  }
+
+  &:focus-visible {
+    outline: 2px solid $forest-mid;
+    outline-offset: 2px;
+  }
+}
+
+.tax-term-name {
+  font-family: 'Cinzel', serif;
+  font-size: 1.05rem;
+  font-weight: 600;
+  color: $forest-dark;
+  letter-spacing: 0.03em;
+  margin-bottom: 0.3rem;
+  text-align: center;
+}
+
+.tax-term-count {
+  font-size: 0.8rem;
+  color: $bark-light;
+  font-style: italic;
+}
+
+// -- Individual term page --
+.tax-term-header {
+  margin-bottom: 2rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid $cream-border;
+}
+
+.tax-term-back {
+  display: inline-block;
+  font-family: 'Source Serif 4', serif;
+  font-size: 0.85rem;
+  color: $accent-gold;
+  margin-bottom: 0.5rem;
+  text-decoration: none;
+
+  &:hover {
+    color: $accent-gold-hover;
+    text-decoration: underline;
+  }
+}
+
+.tax-term-title {
+  font-family: 'Cinzel', 'Lora', Georgia, serif;
+  font-size: clamp(1.4rem, 3.5vw, 2rem);
+  color: $forest-dark;
+  margin-bottom: 0.2rem;
+  letter-spacing: 0.04em;
+  border-bottom: none;
+  padding-bottom: 0;
+}
+
+.tax-term-count-label {
+  font-size: 0.9rem;
+  color: $bark-light;
+  font-style: italic;
+}
+
+// -- Section groups on term page --
+.tax-term-section {
+  margin-bottom: 2rem;
+}
+
+.tax-term-section-heading {
+  font-family: 'Cinzel', serif;
+  font-size: 1.1rem;
+  color: $forest-dark;
+  border-bottom: 1px solid $cream-border;
+  padding-bottom: 0.3rem;
+  margin-bottom: 0.8rem;
+  letter-spacing: 0.04em;
+}
+
+.tax-term-section-count {
+  font-weight: 400;
+  color: $bark-light;
+  font-size: 0.85rem;
+}
+
+.tax-term-list {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.tax-term-item {
+  display: flex;
+  flex-direction: column;
+  padding: 0.6rem 1rem;
+  background: rgba(255, 255, 255, 0.4);
+  border: 1px solid transparent;
+  border-left: 3px solid $cream-border;
+  border-radius: 3px;
+  text-decoration: none;
+  color: inherit;
+  transition: border-left-color 0.15s, background 0.15s;
+
+  &:hover {
+    border-left-color: $forest-mid;
+    background: rgba(255, 255, 255, 0.7);
+    text-decoration: none;
+    color: inherit;
+  }
+
+  &:focus-visible {
+    outline: 2px solid $forest-mid;
+    outline-offset: 1px;
+  }
+}
+
+.tax-term-item-title {
+  font-family: 'Cinzel', serif;
+  font-size: 0.92rem;
+  font-weight: 600;
+  color: $forest-dark;
+  letter-spacing: 0.02em;
+}
+
+.tax-term-item-desc {
+  font-size: 0.8rem;
+  color: $bark-light;
+  line-height: 1.4;
+  margin-top: 0.15rem;
+}
+
+// -- Footer --
+.tax-terms-footer {
+  margin-top: 2.5rem;
+  text-align: center;
+  font-size: 0.75rem;
+  color: $bark-light;
+  font-style: italic;
+  padding-top: 1rem;
+  border-top: 1px solid $cream-border;
+}
+
+// -- Discovery banner (periods link on tags page) --
+.tax-discovery-banner {
+  margin-bottom: 2rem;
+}
+
+.tax-discovery-link {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  padding: 1rem 1.25rem;
+  background: rgba($forest-dark, 0.06);
+  border: 1px solid $forest-mid;
+  border-radius: 4px;
+  text-decoration: none;
+  color: inherit;
+  transition: background 0.2s, border-color 0.2s;
+
+  &:hover {
+    background: rgba($forest-dark, 0.12);
+    border-color: $accent-gold;
+    text-decoration: none;
+    color: inherit;
+  }
+
+  &:focus-visible {
+    outline: 2px solid $forest-mid;
+    outline-offset: 2px;
+  }
+}
+
+.tax-discovery-icon {
+  font-size: 1.6rem;
+  flex-shrink: 0;
+}
+
+.tax-discovery-text {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+
+  strong {
+    font-family: 'Cinzel', serif;
+    font-size: 0.95rem;
+    color: $forest-dark;
+    letter-spacing: 0.03em;
+  }
+
+  span {
+    font-size: 0.82rem;
+    color: $bark-mid;
+    line-height: 1.4;
+  }
+}
+
+.tax-discovery-arrow {
+  font-size: 1.2rem;
+  color: $accent-gold;
+  flex-shrink: 0;
+}
+
+// -- Responsive --
+@media (max-width: 600px) {
+  .tax-terms-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .tax-terms-grid--compact {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .tax-discovery-link {
+    flex-wrap: wrap;
+  }
+}

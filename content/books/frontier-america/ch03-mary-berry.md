@@ -2,6 +2,13 @@
 title: "Chapter 3: Mary Berry 1757–1800"
 weight: 3
 bookToc: true
+families: ["Mary Berry"]
+periods: ["Revolutionary"]
+tags: ["book-chapter", "orange-county-nc", "military", "will"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "book"
+sources_verified: false
 ---
 
 <div class="ancestor-page">

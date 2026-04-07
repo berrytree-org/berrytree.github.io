@@ -3,6 +3,13 @@ title: "Dora Ellen Turley Ga"
 description: "Dora Ellen Turley Pace, daughter of Nathan and Mary Jori Berry Turley, Milton County, Georgia."
 aliases:
   - /ancestors/dora-ellen-turley-home/
+periods: ["Reconstruction"]
+tags: ["biography", "georgia", "census", "cemetery"]
+families: ["David J Berry"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 ## **Dora Ellen Turley, daughter of Nathan and Mary Jori Berry Turley**

@@ -3,6 +3,13 @@ title: "William Thomas Berry Sr."
 description: "Biographical page for William Thomas Berry Sr., son of Henry Bradford Berry and Malissa Jeffries Berry, Alabama."
 aliases:
   - /documents/williamtberrysrala/
+periods: ["Reconstruction", "Modern"]
+tags: ["biography", "alabama", "census", "cemetery"]
+families: ["Robert Berry Jr"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 {{< info-banner title="William Thomas Berry Sr." subtitle="Son of Henry Bradford Berry and Malissa Jeffries Berry, Alabama." >}}

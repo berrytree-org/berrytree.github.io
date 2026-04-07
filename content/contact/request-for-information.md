@@ -1,6 +1,16 @@
 ---
 title: "Request For Information"
 weight: 1
+periods:
+  - "Early Settlement"
+tags:
+  - census
+  - unresolved
+  - tennessee
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 {{< info-banner title="Request For Information" subtitle="Research inquiry about Berry family members in the 1850 Smith County, Tennessee census." >}}

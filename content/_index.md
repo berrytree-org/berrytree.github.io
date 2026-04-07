@@ -2,6 +2,12 @@
 title: "Berrytree.org"
 description: "Genealogy of Robert and Elizabeth Cate Berry of Orange County, North Carolina — ten generations of descendants across the American frontier, from Virginia to Texas. Explore 243 ancestor profiles, family timelines, DNA research, and a free digital book."
 bookToc: false
+tags:
+  - index-page
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "new"
+sources_verified: false
 ---
 
 <div class="site-hero">

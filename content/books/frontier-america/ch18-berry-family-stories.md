@@ -2,6 +2,12 @@
 title: "Chapter 18: Some Berry Family Stories"
 weight: 18
 bookToc: true
+periods: ["Early Settlement"]
+tags: ["book-chapter", "orange-county-nc", "biography"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "book"
+sources_verified: false
 ---
 
 <div class="ancestor-page">

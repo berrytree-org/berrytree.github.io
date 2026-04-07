@@ -3,6 +3,13 @@ title: "Shelby Dale Berry"
 description: "Shelby Dale Berry (1928-2011), Western film actor and descendant of John and Martha Stepp Berry."
 weight: 13
 bookToc: true
+families: ["John Berry"]
+periods: ["Modern"]
+tags: ["biography", "georgia", "orange-county-nc"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 <div class="ancestor-page">

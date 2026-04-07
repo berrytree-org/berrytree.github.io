@@ -1,6 +1,11 @@
 ---
 title: "Berry Marriage Bonds"
 description: "Berry family marriage bonds from the Grooms Book. All entries have been migrated to the Family Timeline."
+tags: ["index-page", "marriage-bond"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 {{< info-banner title="Berry Marriage Bonds" subtitle="Marriage bond records from the Grooms Book of Berry Marriages, now integrated into the Family Timeline." >}}

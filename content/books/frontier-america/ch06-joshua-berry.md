@@ -2,6 +2,13 @@
 title: "Chapter 6: Joshua Berry 1766–1838"
 weight: 6
 bookToc: true
+families: ["Joshua Berry"]
+periods: ["Revolutionary", "Early Settlement"]
+tags: ["book-chapter", "orange-county-nc", "marriage-bond", "census"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "book"
+sources_verified: false
 ---
 
 <div class="ancestor-page">

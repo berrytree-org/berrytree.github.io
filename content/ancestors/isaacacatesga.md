@@ -2,6 +2,13 @@
 title: "Isaac A. Cates Ga"
 description: "Isaac A. Cates, son of William A. and Sarah Berry Cates, born 1823 in Henry County GA, died 1891 in Ellenwood, Clayton County GA."
 bookToc: true
+families: ["David J Berry"]
+periods: ["Early Settlement", "Antebellum"]
+tags: ["biography", "georgia", "orange-county-nc", "census"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 <div class="ancestor-page">

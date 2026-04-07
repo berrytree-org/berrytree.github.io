@@ -1,6 +1,11 @@
 ---
 title: "Lookalikes"
 description: "Photographs showing striking physical resemblances between Berry descendants from different family lines, separated by over 200 years."
+tags: ["index-page"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 {{< info-banner title="Berry Family Lookalikes" subtitle="Striking physical resemblances between descendants from different sons of Robert Berry, separated by over 200 years." >}}

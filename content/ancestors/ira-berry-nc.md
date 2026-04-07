@@ -3,6 +3,13 @@ title: "Ira Berry (NC)"
 description: "Ira Berry (1833-c.1864), son of Lewis Berry and Sally Toler, migrated from Orange County, NC, to Union County, Kentucky, and was likely killed in the Civil War."
 weight: 3
 bookToc: true
+families: ["Joshua Berry"]
+periods: ["Early Settlement", "Antebellum"]
+tags: ["biography", "orange-county-nc", "census"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 

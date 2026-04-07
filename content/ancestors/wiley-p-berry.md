@@ -3,6 +3,13 @@ title: "Wiley P. Berry"
 description: "Wiley P. Berry (1869–1965) of Orange County, North Carolina, son of John Robert Berry, was a tobacco farmer, hunter, and Orange County Commissioner."
 weight: 14
 bookToc: true
+families: ["William Berry"]
+periods: ["Civil War", "Reconstruction"]
+tags: ["biography", "orange-county-nc", "tennessee", "census"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 

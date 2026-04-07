@@ -2,6 +2,13 @@
 title: "Joshua Berry Jr. Ga"
 description: "Joshua Berry Jr., born about 1867 in Georgia, grandson of David J. Berry, killed in a train accident in 1921."
 bookToc: true
+families: ["David J Berry"]
+periods: ["Civil War", "Reconstruction"]
+tags: ["biography", "georgia", "orange-county-nc", "census"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 <div class="ancestor-page">

@@ -1,6 +1,18 @@
 ---
 title: "Berry Wills and Deeds from PAC, 1691–1755"
 description: "Twelve Berry family entries from Princess Anne County, Virginia, deed books covering 1691 to 1755."
+periods:
+  - "Colonial"
+tags:
+  - document
+  - will
+  - deed
+  - prince-anne-county-va
+  - pac-to-oc
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 {{< info-banner title="Berry Wills & Deeds — Princess Anne County, Virginia" subtitle="12 Berry family entries from deed books 1–7, 1691–1755. Abstracted by Anne Mailing." >}}

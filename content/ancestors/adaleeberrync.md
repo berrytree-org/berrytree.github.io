@@ -2,6 +2,13 @@
 title: "Ada Lee Berry NC"
 description: "Ada Lee Ann Berry, daughter of John Robert Berry, born 1875 in Orange County NC, married William Jackson Rogers."
 bookToc: true
+families: ["William Berry"]
+periods: ["Reconstruction"]
+tags: ["biography", "orange-county-nc", "census", "cemetery"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 <div class="ancestor-page">

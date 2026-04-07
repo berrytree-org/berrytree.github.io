@@ -2,6 +2,13 @@
 title: "Robert Pickle NC"
 description: "Robert Pickle, son of Jacob and Catherine Berry Pickle, born 1801 in Orange County, North Carolina."
 bookToc: true
+families: ["Robert Berry Jr"]
+periods: ["Early Settlement"]
+tags: ["biography", "alabama", "orange-county-nc", "census", "cemetery"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 <div class="ancestor-page">

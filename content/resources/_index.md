@@ -3,6 +3,13 @@ title: "Resources"
 weight: 10
 bookCollapseSection: true
 description: "Genealogy resources for Berry family researchers, databases, North Carolina and Virginia archives, DNA testing guidance, research standards, and recommended reading."
+tags:
+  - source-list
+  - index-page
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "new"
+sources_verified: false
 ---
 
 # Genealogy Resources

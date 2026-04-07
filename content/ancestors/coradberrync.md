@@ -5,6 +5,13 @@ bookToc: true
 aliases:
   - /ancestors/robert-h-breezes-headstone/
   - /ancestors/cora-and-frank-headstone/
+families: ["William Berry"]
+periods: ["Civil War", "Reconstruction"]
+tags: ["biography", "orange-county-nc", "census", "cemetery"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 <div class="ancestor-page">

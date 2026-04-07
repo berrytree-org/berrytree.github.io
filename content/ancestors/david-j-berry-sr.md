@@ -2,6 +2,13 @@
 title: "David J. Berry Sr."
 weight: 1
 bookToc: true
+families: ["David J Berry"]
+periods: ["Revolutionary", "Early Settlement"]
+tags: ["biography", "orange-county-nc", "georgia"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 <div class="ancestor-page">

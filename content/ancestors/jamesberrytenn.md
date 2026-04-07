@@ -1,6 +1,13 @@
 ---
 title: "James Berry Tenn"
 description: "James Berry (b. 1800), son of Joshua and Nancy Ellison Berry, who migrated from Orange County, NC, to Smith County, Tennessee."
+periods: ["Revolutionary", "Early Settlement"]
+tags: ["biography", "tennessee", "census", "land-grant", "deed", "military", "cemetery"]
+families: ["Joshua Berry"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 ## **James Berry, son of Joshua Berry and Nancy Ellison Berry**

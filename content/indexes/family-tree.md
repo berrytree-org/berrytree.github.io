@@ -3,6 +3,13 @@ title: "Family Tree Index"
 weight: 2
 aliases:
   - /indexes/familytreeindex/
+tags:
+  - index-page
+  - family-tree
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 {{< info-banner title="Family Tree Index" subtitle="Robert and Elizabeth Cate Berry's ten children with birth and death dates." >}}

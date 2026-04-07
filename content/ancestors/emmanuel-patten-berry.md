@@ -1,6 +1,13 @@
 ---
 title: "Emanuel Patton Berry"
 description: "Emanuel Patton Berry (1849-1938), son of Robert and Elizabeth Everett Berry, Cobb County and Baldwin County, Georgia."
+periods: ["Antebellum", "Civil War"]
+tags: ["biography", "census", "cemetery"]
+families: ["David J Berry"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 **Ancestors:**

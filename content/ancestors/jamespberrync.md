@@ -2,6 +2,13 @@
 title: "James P. Berry NC"
 description: "James P. Berry, son of Thomas Person and Sarah Lunsford Berry, born 1845 in Orange County NC."
 bookToc: true
+families: ["William Berry"]
+periods: ["Antebellum", "Civil War"]
+tags: ["biography", "orange-county-nc", "census", "cemetery"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 <div class="ancestor-page">

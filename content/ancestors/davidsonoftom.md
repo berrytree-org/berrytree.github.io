@@ -2,6 +2,13 @@
 title: "David Berry"
 description: "David Berry (1802-1882), son of Thomas Berry and Sarah Cate Berry, Orange County, North Carolina and Tennessee."
 bookToc: true
+families: ["Thomas Berry"]
+periods: ["Early Settlement"]
+tags: ["biography", "orange-county-nc", "tennessee", "census"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 <div class="ancestor-page">

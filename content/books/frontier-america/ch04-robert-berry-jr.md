@@ -2,6 +2,13 @@
 title: "Chapter 4: Robert Berry Jr. 1760–1850"
 weight: 4
 bookToc: true
+families: ["Robert Berry Jr"]
+periods: ["Revolutionary", "Early Settlement"]
+tags: ["book-chapter", "orange-county-nc", "alabama", "military", "census"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "book"
+sources_verified: false
 ---
 
 <div class="ancestor-page">

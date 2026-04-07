@@ -1,6 +1,11 @@
 ---
 title: "Generation Four"
 description: "The 33 first cousins: grandchildren of Robert and Elizabeth Cate Berry, organized by family line."
+tags: ["index-page"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 {{< info-banner title="Generation Four — 33 First Cousins" subtitle="Grandchildren of Robert and Elizabeth Cate Berry, listed by family line with spouse information." >}}

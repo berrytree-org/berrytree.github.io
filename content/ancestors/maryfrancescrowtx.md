@@ -2,6 +2,12 @@
 title: "Mary Frances Crow (TX)"
 description: "Mary Frances Crow, daughter of Joshua and Mary Aliceann Elizabeth Barton Crow, married Thomas C. Guthrie."
 bookToc: true
+families: ["David J Berry"]
+tags: ["biography", "georgia", "orange-county-nc", "texas", "census"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 <div class="ancestor-page">

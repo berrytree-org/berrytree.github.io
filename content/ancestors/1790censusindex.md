@@ -1,6 +1,12 @@
 ---
 title: "1790 Census Index"
 description: "Partial index of 1790 Orange County, NC tax records used as a census substitute, including Berry family entries."
+periods: ["Revolutionary", "Early Settlement"]
+tags: ["census-page", "census"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 {{< info-banner title="1790 Census Index" subtitle="Orange County, NC — Tax Records Used as Census Substitute" >}}

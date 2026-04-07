@@ -2,6 +2,12 @@
 title: "Chapter 19: Berry Brothers Die in GA. 1921"
 weight: 19
 bookToc: true
+periods: ["Modern"]
+tags: ["book-chapter", "georgia", "obituary"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "book"
+sources_verified: false
 ---
 
 <div class="ancestor-page">

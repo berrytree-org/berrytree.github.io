@@ -2,6 +2,13 @@
 title: "George Berry (TX)"
 description: "George Berry, son of Robert Berry Jr. and Mary Waggoner Berry, born circa 1790 in Orange County, North Carolina."
 bookToc: true
+families: ["Robert Berry Jr"]
+periods: ["Revolutionary", "Early Settlement"]
+tags: ["biography", "alabama", "orange-county-nc", "texas", "census", "military"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 <div class="ancestor-page">

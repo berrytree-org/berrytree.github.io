@@ -6,6 +6,13 @@ bookToc: true
 aliases:
   - /ancestors/robertberrypac/
   - /ancestors/samuel-hollowell/
+periods: ["Colonial"]
+tags: ["biography", "prince-anne-county-va", "will", "land-grant", "deed"]
+families: ["Joshua Berry", "John Berry", "Thomas Berry", "Isaac Berry", "Mary Berry", "William Berry", "Henry Berry", "Elizabeth Berry", "David J Berry", "Robert Berry Jr"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 
