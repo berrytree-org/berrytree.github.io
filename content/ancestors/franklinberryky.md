@@ -3,6 +3,13 @@ title: "Franklin Pierce Berry"
 description: "Franklin Pierce Berry, son of Ira and Nancy Wynn/Winn Berry, born 1854 in Uniontown, Kentucky."
 weight: 1
 bookToc: true
+families: ["Joshua Berry"]
+periods: ["Antebellum", "Civil War"]
+tags: ["biography", "kentucky", "orange-county-nc", "census", "military"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 <div class="ancestor-page">

@@ -1,6 +1,13 @@
 ---
 title: "Alexander Howard Berry Tx"
 description: "Alexander Howard Berry, son of John Berry and Mary Howell Berry, born 1854 in Rusk County, Texas."
+periods: ["Antebellum", "Civil War"]
+tags: ["biography", "texas", "census"]
+families: ["Robert Berry Jr"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 ## **Alexander Howard Berry, son of John Berry and Mary Howell Berry**

@@ -1,6 +1,13 @@
 ---
 title: "Proof Page"
 description: "Evidence connecting Robert Berry of Orange County, NC, to Princess Anne County, Virginia, through the Williamson and Kempe families."
+periods: ["Colonial"]
+tags: ["biography", "land-grant", "deed"]
+families: ["Joshua Berry", "John Berry", "Thomas Berry", "Isaac Berry", "Mary Berry", "William Berry", "Henry Berry", "Elizabeth Berry", "David J Berry", "Robert Berry Jr"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 {{< info-banner title="Proof of the Berry-Williamson Connection" subtitle="Evidence linking Robert Berry of Orange County, NC, to Princess Anne County, Virginia, through the Williamson and Kempe families." >}}

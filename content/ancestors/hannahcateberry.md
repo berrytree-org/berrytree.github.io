@@ -5,6 +5,13 @@ weight: 9
 bookToc: true
 aliases:
   - /ancestors/1810-hannah-cate-census/
+families: ["William Berry"]
+periods: ["Colonial", "Revolutionary"]
+tags: ["census-page", "orange-county-nc", "census", "land-grant", "deed", "marriage-bond", "cemetery"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 

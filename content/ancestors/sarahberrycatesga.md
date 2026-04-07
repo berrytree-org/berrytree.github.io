@@ -1,6 +1,13 @@
 ---
 title: "Sarah Berry Cates Ga"
 description: "Sarah Berry, daughter of David J. and Mary Blalock Berry, married William Abraham Cates. Born 1796 in Orange County NC, died 1870 in Clayton County GA."
+periods: ["Revolutionary", "Early Settlement"]
+tags: ["biography", "georgia", "census"]
+families: ["David J Berry"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 {{< info-banner title="Sarah Berry Cates (1796–1870)" subtitle="Daughter of David J. and Mary Blalock Berry, married William Abraham Cates. Orange County, NC, to Clayton County, Georgia." >}}

@@ -3,6 +3,13 @@ title: "Isaac Berry"
 description: "Isaac Berry, son of David and Elizabeth Shipman Berry, born 1837 in Wayne County, Tennessee."
 weight: 1
 bookToc: true
+families: ["Thomas Berry"]
+periods: ["Early Settlement", "Antebellum"]
+tags: ["biography", "orange-county-nc", "tennessee", "census"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 <div class="ancestor-page">

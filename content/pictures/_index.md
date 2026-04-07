@@ -2,6 +2,17 @@
 title: "Picture Directory"
 weight: 9
 description: "Photographs of Berry family descendants spanning multiple generations, from the David Berry line, the William Berry line, and beyond."
+families:
+  - "David J Berry"
+  - "William Berry"
+  - "Thomas Berry"
+tags:
+  - photograph
+  - index-page
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 {{< info-banner title="Berry Family Picture Albums" subtitle="Photographs of the Robert and Elizabeth Cate Berry family spanning multiple generations and family lines." >}}

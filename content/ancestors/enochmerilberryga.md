@@ -2,6 +2,12 @@
 title: "Enoch Meril Berry Ga"
 description: "Enoch Meril Berry, son of Robert Riley and Martha 'Mattie' Stark Berry, Georgia."
 bookToc: true
+families: ["David J Berry"]
+tags: ["biography", "georgia", "orange-county-nc", "census"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 <div class="ancestor-page">

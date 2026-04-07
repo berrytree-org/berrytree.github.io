@@ -2,6 +2,13 @@
 title: "Robert T Berry"
 description: "Robert T Berry, a YDNA match to the William Berry line, born circa 1849 in Coosa County, Alabama."
 bookToc: true
+periods: ["Antebellum", "Civil War"]
+tags: ["biography", "census", "cemetery"]
+families: ["William Berry"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 <div class="ancestor-page">

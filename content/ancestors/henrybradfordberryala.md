@@ -3,6 +3,13 @@ title: "Henry Bradford Berry"
 description: "Henry Bradford Berry (1829–1895), son of Thompson Berry and Roseann Gutman Berry, Fayette County, Alabama."
 weight: 1
 bookToc: true
+families: ["Robert Berry Jr"]
+periods: ["Early Settlement", "Antebellum"]
+tags: ["biography", "alabama", "census", "will", "cemetery"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 <div class="ancestor-page">

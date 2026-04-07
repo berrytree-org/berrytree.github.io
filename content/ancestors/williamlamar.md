@@ -3,6 +3,13 @@ title: "William Lamar Berry"
 description: "Biographical page for William Lamar Berry, son of Albert Edgar and Ella Clania Berry, Alabama."
 aliases:
   - /documents/williamlamar/
+periods: ["Modern"]
+tags: ["biography", "census"]
+families: ["David J Berry"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 {{< info-banner title="William Lamar Berry" subtitle="Son of Albert Edgar and Ella Clania Berry, Alabama." >}}

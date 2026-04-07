@@ -2,6 +2,13 @@
 title: "Chapter 11: William Berry 1775–1860"
 weight: 11
 bookToc: true
+families: ["William Berry"]
+periods: ["Revolutionary", "Early Settlement"]
+tags: ["book-chapter", "orange-county-nc", "census"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "book"
+sources_verified: false
 ---
 
 <div class="ancestor-page">

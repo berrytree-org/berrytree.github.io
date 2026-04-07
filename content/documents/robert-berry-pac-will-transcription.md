@@ -1,5 +1,16 @@
 ---
 title: "Robert Berry PAC 1730 Will and Transcript"
+periods:
+  - "Colonial"
+tags:
+  - document
+  - will
+  - prince-anne-county-va
+  - pac-to-oc
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 {{< info-banner title="Robert Berry PAC Will (1730)" subtitle="Full transcription of Robert Berry's Princess Anne County, Virginia will with original spelling preserved." >}}

@@ -5,6 +5,13 @@ weight: 10
 aliases:
   - /ancestors/annfosterpac/
   - /documents/richardwilliamsonpac/
+periods: ["Colonial"]
+tags: ["biography", "prince-anne-county-va"]
+families: ["Joshua Berry", "John Berry", "Thomas Berry", "Isaac Berry", "Mary Berry", "William Berry", "Henry Berry", "Elizabeth Berry", "David J Berry", "Robert Berry Jr"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 {{< info-banner title="Roger Williamson & Ann Foster" subtitle="Early settlers of Princess Anne County, Virginia, from England. Earliest known Berry ancestors in America." >}}

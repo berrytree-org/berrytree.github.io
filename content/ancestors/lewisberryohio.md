@@ -2,6 +2,13 @@
 title: "Lewis Berry Ohio"
 description: "Lewis Berry, son of Joshua Berry Jr. and Anna Thorpe Berry, Gallia County, Ohio."
 bookToc: true
+families: ["Joshua Berry"]
+periods: ["Early Settlement", "Antebellum"]
+tags: ["biography", "ohio", "orange-county-nc", "census"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 <div class="ancestor-page">

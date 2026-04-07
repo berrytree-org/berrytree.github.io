@@ -1,6 +1,13 @@
 ---
 title: "Thomas Young Berry NC"
 description: "Thomas Young Berry (1903-1925), son of Wiley P. and Ida Ann Wilson Berry, Orange County, North Carolina."
+periods: ["Modern"]
+tags: ["biography", "orange-county-nc", "census"]
+families: ["William Berry"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 {{< info-banner title="Thomas Young Berry (1903–1925)" subtitle="Son of Wiley P. and Ida Ann Wilson Berry, Orange County, North Carolina. Died of typhoid fever 22 days before his wedding." >}}

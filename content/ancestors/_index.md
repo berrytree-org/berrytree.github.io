@@ -3,6 +3,11 @@ title: "Ancestors"
 description: "Individual profiles for 243 Berry family ancestors spanning seven generations — from Robert Berry of Princess Anne County, Virginia, to descendants across the American frontier."
 weight: 3
 bookCollapseSection: true
+tags: ["biography", "census"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 # Berry Family Ancestors

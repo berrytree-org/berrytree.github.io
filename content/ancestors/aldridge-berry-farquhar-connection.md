@@ -2,6 +2,13 @@
 title: "Aldridge Berry Farquhar Waggoner Connection"
 description: "Intermarriage connections between the Aldridge, Berry, Farquhar, and Waggoner families from Orange County, NC, to Alabama and Texas."
 weight: 14
+periods: ["Revolutionary", "Early Settlement"]
+tags: ["biography", "census", "will", "deed", "military", "cemetery"]
+families: ["Robert Berry Jr", "Mary Berry"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 {{< info-banner title="The Aldridge, Berry, Farquhar & Waggoner Connection" subtitle="Four families intermarried across multiple generations from Orange County, NC, to Fayette County, Alabama, and Burnet County, Texas." >}}

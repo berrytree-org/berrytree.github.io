@@ -2,6 +2,13 @@
 title: "John Martin Berry Ga"
 description: "John Martin Berry (1864–1937), son of Isaac Martin and Mary Ellen Anderson Berry, Georgia."
 bookToc: true
+families: ["David J Berry"]
+periods: ["Civil War", "Reconstruction"]
+tags: ["biography", "georgia", "orange-county-nc", "census"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 <div class="ancestor-page">

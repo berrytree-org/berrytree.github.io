@@ -1,5 +1,17 @@
 ---
 title: "Roger Williamson PAC"
+periods:
+  - "Colonial"
+tags:
+  - document
+  - biography
+  - will
+  - prince-anne-county-va
+  - pac-to-oc
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 {{< info-banner title="Roger Williamson of Princess Anne County" subtitle="Records of Roger Williamson (c. 1620–1650) from England to Virginia, and his wife Ann Foster." >}}

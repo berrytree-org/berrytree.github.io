@@ -2,6 +2,13 @@
 title: "Amanda Emiline Berry Ga"
 description: "Amanda Emiline Berry, daughter of Isaac Martin and Mary Ellen Anderson Berry, Georgia."
 bookToc: true
+families: ["David J Berry"]
+periods: ["Antebellum", "Civil War"]
+tags: ["biography", "georgia", "orange-county-nc", "census"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 <div class="ancestor-page">

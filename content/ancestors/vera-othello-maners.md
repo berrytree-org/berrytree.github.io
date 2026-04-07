@@ -2,6 +2,13 @@
 title: "Vera Othello Maners"
 description: "Vera Othella Maners, daughter of Addie Lena Berry and Hampton Fantom Maners, who married Marvin Roger Snipes in 1922."
 bookToc: true
+families: ["David J Berry"]
+periods: ["Modern"]
+tags: ["biography", "georgia", "orange-county-nc"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 <div class="ancestor-page">

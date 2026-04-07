@@ -1,6 +1,13 @@
 ---
 title: "Elizabeth Berry Franklin"
 description: "Elizabeth Berry Franklin (1812-1895), daughter of John Berry and Hannah Cate, who married Theodrick Franklin and migrated to Alabama, Georgia, and Texas."
+periods: ["Early Settlement"]
+tags: ["biography", "census", "marriage-bond"]
+families: ["William Berry"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 ## **Elizabeth Berry Franklin, daughter of John Berry and Hannah Cate**

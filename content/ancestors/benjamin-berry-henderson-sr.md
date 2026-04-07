@@ -2,6 +2,13 @@
 title: "Benjamin Berry Henderson Sr."
 weight: 2
 bookToc: true
+periods: ["Modern"]
+tags: ["biography"]
+families: ["William Berry"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 <div class="ancestor-page">

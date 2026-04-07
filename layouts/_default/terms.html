@@ -1,0 +1,68 @@
+{{/* Taxonomy Terms Page — lists all terms in a taxonomy (e.g., /families/, /periods/, /tags/)
+     Design: Forest/cream aesthetic matching berrytree.org
+     Author: Lila
+*/}}
+
+{{ define "main" }}
+<article class="markdown book-article">
+
+<div class="taxonomy-terms-page">
+
+  {{/* Dynamic heading and intro based on taxonomy */}}
+  {{ $taxName := .Data.Plural }}
+  {{ $heading := "Browse" }}
+  {{ $subtitle := "" }}
+  {{ $intro := "" }}
+
+  {{ if eq $taxName "families" }}
+    {{ $heading = "Family Lines" }}
+    {{ $subtitle = "The Ten Children of Robert and Elizabeth Cate Berry" }}
+    {{ $intro = "Each of Robert and Elizabeth Cate Berry's ten children became the root of a family line that spread across the American frontier. Select a family to explore their descendants, stories, and records." }}
+  {{ else if eq $taxName "periods" }}
+    {{ $heading = "Historical Periods" }}
+    {{ $subtitle = "Four Centuries of Berry Family History" }}
+    {{ $intro = "The Berry family story spans from colonial Virginia to the modern era. Browse by historical period to see the ancestors, events, and records from each chapter of this American family's journey." }}
+  {{ else if eq $taxName "tags" }}
+    {{ $heading = "Browse by Topic" }}
+    {{ $subtitle = "Records, Locations, and Subjects" }}
+    {{ $intro = "Explore the site by topic. Find census records, land grants, military service, and more, organized by the type of content and the places where the Berry family lived." }}
+  {{ end }}
+
+  <div class="tax-terms-header">
+    <h1 class="tax-terms-title">{{ $heading }}</h1>
+    {{ with $subtitle }}<p class="tax-terms-subtitle">{{ . }}</p>{{ end }}
+    {{ with $intro }}<p class="tax-terms-intro">{{ . }}</p>{{ end }}
+  </div>
+
+  {{/* On the tags page, add a discovery link to Historical Periods */}}
+  {{ if eq $taxName "tags" }}
+  <div class="tax-discovery-banner">
+    <a href="/periods/" class="tax-discovery-link">
+      <span class="tax-discovery-icon">&#9202;</span>
+      <span class="tax-discovery-text">
+        <strong>Browse by Historical Period</strong>
+        <span>Colonial through Modern — explore the Berry family story by era</span>
+      </span>
+      <span class="tax-discovery-arrow">&rarr;</span>
+    </a>
+  </div>
+  {{ end }}
+
+  {{/* Render term cards */}}
+  <div class="tax-terms-grid{{ if eq $taxName "tags" }} tax-terms-grid--compact{{ end }}">
+    {{ range .Pages }}
+    <a href="{{ .RelPermalink }}" class="tax-term-card">
+      <span class="tax-term-name">{{ .Title }}</span>
+      <span class="tax-term-count">{{ len .Pages }} {{ if eq (len .Pages) 1 }}page{{ else }}pages{{ end }}</span>
+    </a>
+    {{ end }}
+  </div>
+
+  <div class="tax-terms-footer">
+    berrytree.org &mdash; Robert &amp; Elizabeth Cate Berry &mdash; Orange County, NC
+  </div>
+
+</div>
+
+</article>
+{{ end }}

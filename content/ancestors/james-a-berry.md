@@ -2,6 +2,13 @@
 title: "James A. Berry"
 description: "James A. (Jim) Berry, born December 27, 1922, in Perry, Georgia, descendant of David J. and Mary Blalock Berry."
 bookToc: true
+families: ["David J Berry"]
+periods: ["Modern"]
+tags: ["biography", "georgia", "orange-county-nc"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 <div class="ancestor-page">

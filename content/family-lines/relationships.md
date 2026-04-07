@@ -1,6 +1,11 @@
 ---
 title: "Relationships Across Family Lines"
 weight: 1
+tags: ["family-tree"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 {{< info-banner title="Relationships Across Family Lines" subtitle="Cross-family connections among Berry descendants." >}}

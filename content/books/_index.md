@@ -2,6 +2,11 @@
 title: "Books"
 description: "Published Berry family genealogy books including the free digital edition of Our Berrys in Frontier America by Benjamin Berry Henderson Sr."
 weight: 6
+tags: ["book-chapter"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "book"
+sources_verified: false
 ---
 
 <div class="book-card book-card-featured">

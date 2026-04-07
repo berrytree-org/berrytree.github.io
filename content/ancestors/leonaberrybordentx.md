@@ -2,6 +2,13 @@
 title: "Leona Berry Borden (TX)"
 description: "Leona Berry, daughter of Alexander Howard Berry, born 1894 in Indian Territory, married Ben Summers and Dick Simpson."
 bookToc: true
+families: ["Robert Berry Jr"]
+periods: ["Reconstruction", "Modern"]
+tags: ["biography", "alabama", "orange-county-nc", "texas", "census", "cemetery"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 <div class="ancestor-page">

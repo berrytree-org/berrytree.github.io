@@ -1,6 +1,13 @@
 ---
 title: “Enoch M. Berry”
 description: “Enoch Meril Berry (1881-1961), son of Robert Riley and Martha Starke Berry, of Cullman County, Alabama.”
+periods: ["Reconstruction", "Modern"]
+tags: ["biography", "census", "cemetery"]
+families: ["David J Berry"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 ## **Enoch Meril Berry, son of Robert Riley and Martha Starke Berry**

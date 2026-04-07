@@ -2,6 +2,13 @@
 title: "Ruby Alyene Hunt (TX)"
 description: "Ruby Alyene Hunt Vinson, born 1916 in Minden, Rusk County, Texas, descendant of Robert and Elizabeth Cate Berry."
 bookToc: true
+families: ["David J Berry"]
+periods: ["Modern"]
+tags: ["biography", "georgia", "orange-county-nc", "texas", "census", "cemetery"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 <div class="ancestor-page">

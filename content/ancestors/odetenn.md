@@ -3,6 +3,13 @@ title: "Ode Berry"
 description: "Ode Berry, son of James David and Millissa Harlow Berry, born 1888 in Wayne County, Tennessee."
 weight: 1
 bookToc: true
+families: ["Thomas Berry"]
+periods: ["Reconstruction", "Modern"]
+tags: ["biography", "orange-county-nc", "tennessee", "census"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 <div class="ancestor-page">

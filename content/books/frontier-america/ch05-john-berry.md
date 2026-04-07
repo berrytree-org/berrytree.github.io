@@ -2,6 +2,13 @@
 title: "Chapter 5: John Berry 1762–1804"
 weight: 5
 bookToc: true
+families: ["John Berry"]
+periods: ["Revolutionary"]
+tags: ["book-chapter", "orange-county-nc", "marriage-bond", "will"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "book"
+sources_verified: false
 ---
 
 <div class="ancestor-page">

@@ -2,6 +2,13 @@
 title: "Elizabeth Berry Family Tree"
 aliases:
   - /ancestors/elizabeth/
+families: ["Elizabeth Berry"]
+periods: ["Revolutionary"]
+tags: ["family-tree", "orange-county-nc"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 {{< ancestor-chain gen3="Elizabeth Berry" loc3="Orange County, North Carolina" link3="/ancestors/elizabeth-berry/" />}}

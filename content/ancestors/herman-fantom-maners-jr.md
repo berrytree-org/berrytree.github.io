@@ -2,6 +2,12 @@
 title: "Herman Fantom Maners Jr."
 description: "Herman Fantom Maners Jr., son of Addie Lena Berry and Hampton Fantom Maners of Spalding, Georgia and Guilford County, North Carolina."
 bookToc: true
+families: ["David J Berry"]
+tags: ["biography", "georgia", "orange-county-nc"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 <div class="ancestor-page">

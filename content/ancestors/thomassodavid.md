@@ -2,6 +2,13 @@
 title: "Thomas Berry, Son of David J. Berry"
 description: "Thomas Berry, son of David J. and Mary Blalock Berry, born 1820 in Orange County, North Carolina."
 bookToc: true
+families: ["David J Berry"]
+periods: ["Early Settlement", "Antebellum"]
+tags: ["biography", "orange-county-nc"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 <div class="ancestor-page">

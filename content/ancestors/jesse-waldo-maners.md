@@ -2,6 +2,13 @@
 title: "Jesse Waldo Maners"
 description: "Jesse Waldo Maners, son of Addie Lena Berry and Hampton Fantom Maners, of Guilford County, North Carolina and Anderson County, South Carolina."
 bookToc: true
+families: ["David J Berry"]
+periods: ["Modern"]
+tags: ["biography", "georgia", "orange-county-nc"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 <div class="ancestor-page">

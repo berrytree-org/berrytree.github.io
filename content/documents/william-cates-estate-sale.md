@@ -1,6 +1,21 @@
 ---
 title: "William Cate's Estate Sale"
 description: "Items purchased by Robert Berry Sr. and family at the estate sale of their father-in-law, William Cate, in 1803."
+families:
+  - "Joshua Berry"
+  - "Thomas Berry"
+  - "William Berry"
+  - "Robert Berry Jr"
+periods:
+  - "Early Settlement"
+tags:
+  - document
+  - estate
+  - orange-county-nc
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 {{< info-banner title="William Cate's Estate Sale — 1803" subtitle="Items purchased by Robert Berry Sr. and family at the estate sale of their father-in-law, William Cate." >}}

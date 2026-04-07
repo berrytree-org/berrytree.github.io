@@ -1,6 +1,13 @@
 ---
 title: "Jesse Lee Berry"
 description: "Jesse Lee Berry (1852-1924), son of Robert and Elizabeth Everett Berry, prize-winning cotton farmer in Georgia and Alabama."
+periods: ["Antebellum", "Civil War"]
+tags: ["biography", "census", "cemetery"]
+families: ["David J Berry"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 ## **Jesse Lee Berry, son of Robert and Elizabeth Everett Berry**

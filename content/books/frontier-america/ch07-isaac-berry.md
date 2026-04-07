@@ -2,6 +2,13 @@
 title: "Chapter 7: Isaac Berry 1768–1840"
 weight: 7
 bookToc: true
+families: ["Isaac Berry"]
+periods: ["Revolutionary", "Early Settlement"]
+tags: ["book-chapter", "orange-county-nc", "will"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "book"
+sources_verified: false
 ---
 
 <div class="ancestor-page">

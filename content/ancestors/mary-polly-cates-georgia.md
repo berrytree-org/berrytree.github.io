@@ -1,6 +1,13 @@
 ---
 title: "Mary Polly Cates Georgia"
 description: "Mary Polly Cates, daughter of William Abraham Cates and Sarah Berry, born 1822, married James Alexander Walton in 1848."
+periods: ["Early Settlement", "Antebellum"]
+tags: ["biography", "georgia", "census", "cemetery"]
+families: ["David J Berry"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 Parents: [William Abraham Cates and Sarah Berry](/ancestors/sarahberrycatesga/)

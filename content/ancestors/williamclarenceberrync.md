@@ -3,6 +3,13 @@ title: "William Clarence Berry NC, ALA, TX"
 description: "Biographical page for William Clarence Berry (1803-1877), son of William and Hannah Cate Berry, from Orange County NC to Fayette County Alabama and Burnet County Texas."
 aliases:
   - /documents/williamclarenceberrync/
+periods: ["Early Settlement"]
+tags: ["biography", "orange-county-nc", "census", "land-grant", "deed", "marriage-bond", "military", "cemetery"]
+families: ["William Berry"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 {{< info-banner title="William Clarence Berry (1803–1877)" subtitle="Son of William and Hannah Cate Berry, from Orange County NC to Fayette County Alabama and Burnet County Texas." >}}

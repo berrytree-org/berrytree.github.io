@@ -4,6 +4,13 @@ description: "Thomas Euart Berry (1880–1960), son of John Robert and Elizabeth
 bookToc: true
 aliases:
   - /ancestors/thomaseuartberrync/
+families: ["William Berry"]
+periods: ["Reconstruction", "Modern"]
+tags: ["biography", "orange-county-nc", "census"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 <div class="ancestor-page">

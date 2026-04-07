@@ -3,6 +3,13 @@ title: "Mary Leona Berry"
 description: "Mary Leona Berry (c. 1868–1949), daughter of Alfred W. and Nancy Crowley Berry, Alabama."
 weight: 1
 bookToc: true
+families: ["Robert Berry Jr"]
+periods: ["Civil War", "Reconstruction"]
+tags: ["biography", "alabama", "census"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 <div class="ancestor-page">

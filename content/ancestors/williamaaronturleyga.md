@@ -3,6 +3,13 @@ title: "William Aaron Turley Ga"
 description: "Biographical page for William Aaron Turley, son of Mary J. Berry and Nathan Turley of Georgia and Alabama."
 aliases:
   - /documents/williamaaronturleyga/
+periods: ["Reconstruction"]
+tags: ["biography", "georgia", "census"]
+families: ["David J Berry"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 {{< info-banner title="William Aaron Turley" subtitle="Son of Mary J. Berry and Nathan Turley, Georgia and Alabama." >}}

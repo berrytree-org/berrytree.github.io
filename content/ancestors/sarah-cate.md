@@ -3,6 +3,13 @@ title: "Sarah Cate Berry Pigg"
 description: "Sarah Cate (1782–1875), daughter of William and Elizabeth Messersmith Cate, married Thomas Berry and later John Pigg, and settled near Cypress Inn, Wayne County, Tennessee."
 weight: 11
 bookToc: true
+families: ["Thomas Berry"]
+periods: ["Revolutionary", "Early Settlement"]
+tags: ["biography", "orange-county-nc", "tennessee", "census", "deed", "marriage-bond", "cemetery"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 

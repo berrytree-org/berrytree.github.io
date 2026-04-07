@@ -2,6 +2,13 @@
 title: "Basil Manley Berry Ga"
 description: "Basil Manley Berry (1856–1914), son of Robert and Elizabeth Everett Berry, Milton County, Georgia."
 bookToc: true
+families: ["David J Berry"]
+periods: ["Antebellum", "Civil War"]
+tags: ["biography", "georgia", "orange-county-nc", "census", "cemetery"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 <div class="ancestor-page">

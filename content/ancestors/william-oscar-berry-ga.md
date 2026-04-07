@@ -3,6 +3,12 @@ title: "William Oscar Berry GA"
 description: "Biographical page for William Oscar Berry of Georgia, son of Jesse Lee and Nancy Ann Henry Berry."
 aliases:
   - /documents/william-oscar-berry-ga/
+tags: ["biography", "georgia", "census", "cemetery"]
+families: ["David J Berry"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 {{< info-banner title="William Oscar Berry" subtitle="Son of Jesse Lee and Nancy Ann Henry Berry, Alabama." >}}

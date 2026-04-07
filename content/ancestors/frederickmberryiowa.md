@@ -1,6 +1,13 @@
 ---
 title: "Frederick M. Berry Iowa"
 description: "Frederick M. Berry, son of Harrison and Henrietta Havens Berry, Linn County, Iowa."
+periods: ["Reconstruction"]
+tags: ["biography", "iowa", "census", "cemetery"]
+families: ["Joshua Berry"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 {{< info-banner title="Frederick M. Berry (1874–1951)" subtitle="Son of Harrison and Henrietta Havens Berry, Linn County, Iowa, to Polk County, Wisconsin." >}}

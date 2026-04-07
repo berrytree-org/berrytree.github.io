@@ -4,6 +4,13 @@ description: "291 surnames of families who married into the Berry line descendin
 weight: 6
 aliases:
   - /ancestors/known-surnames-of-berry-inlaws/
+tags:
+  - index-page
+  - source-list
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 {{< info-banner title="291 Families Connected to Our Berry Line" subtitle="Spanning eight generations from Princess Anne County, Virginia to points across the American South and West." >}}

@@ -3,6 +3,13 @@ title: "William G. Berry"
 description: "Biographical page for William G. Berry, son of David J. and Mary Blalock Berry, Orange County, North Carolina."
 aliases:
   - /documents/williamgsodavid/
+periods: ["Early Settlement"]
+tags: ["biography", "census"]
+families: ["David J Berry"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 {{< info-banner title="William G. Berry" subtitle="Son of David J. and Mary Blalock Berry, Orange County, North Carolina." >}}

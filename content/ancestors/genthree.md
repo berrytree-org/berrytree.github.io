@@ -1,6 +1,12 @@
 ---
 title: "Robert Berry and Elizabeth Cate Berry's Children"
 description: "Overview of Robert and Elizabeth Cate Berry's ten children, their spouses, and their migrations from Orange County, North Carolina."
+periods: ["Colonial", "Revolutionary"]
+tags: ["index-page"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 {{< info-banner title="Robert and Elizabeth Cate Berry's Ten Children" subtitle="Generation 3 of the Berry family, circa 1760–1858. All ten children were born in Orange County, North Carolina." >}}

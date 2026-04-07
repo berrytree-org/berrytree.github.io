@@ -2,6 +2,13 @@
 title: "Henry Berry Son of David"
 description: "Henry Berry, son of David J. and Mary Blalock Berry, born 1810 in Orange County, North Carolina."
 bookToc: true
+families: ["David J Berry"]
+periods: ["Early Settlement"]
+tags: ["biography", "georgia", "orange-county-nc", "census"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 <div class="ancestor-page">

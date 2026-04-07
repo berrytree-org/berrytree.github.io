@@ -2,6 +2,13 @@
 title: "Joshua Berry Family Tree"
 aliases:
   - /ancestors/joshberrytree/
+families: ["Joshua Berry"]
+periods: ["Revolutionary", "Early Settlement"]
+tags: ["family-tree", "orange-county-nc"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 {{< ancestor-chain gen3="Joshua Berry × Nancy Ellison" loc3="Orange County, North Carolina" link3="/ancestors/joshua-berry-sr/" />}}

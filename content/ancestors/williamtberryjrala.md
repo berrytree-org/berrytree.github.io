@@ -3,6 +3,12 @@ title: "William Thomas Berry Jr. Ala"
 description: "Biographical page for William Thomas Berry Jr., son of William Thomas Sr. and Louisa Bertha Minns Berry, Alabama."
 aliases:
   - /documents/williamtberryjrala/
+tags: ["biography", "alabama", "census"]
+families: ["Robert Berry Jr"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 {{< info-banner title="William Thomas Berry Jr." subtitle="Son of William Thomas Sr. and Louisa Bertha Minns Berry, Alabama." >}}

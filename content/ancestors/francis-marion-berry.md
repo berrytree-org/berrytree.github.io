@@ -1,6 +1,13 @@
 ---
 title: "Francis Marion Berry"
 description: "Francis Marion Berry (1861-1943), son of John Berry and Mary Howell, from Rusk County, Texas, to Cleveland, Oklahoma."
+periods: ["Antebellum", "Civil War"]
+tags: ["biography", "census"]
+families: ["Robert Berry Jr"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 - **Gen 1** Robert Berry × Mary Williamson — Princess Anne County, Virginia

@@ -2,6 +2,13 @@
 title: "David Crockett Berry"
 weight: 50
 bookToc: true
+families: ["Thomas Berry"]
+periods: ["Reconstruction"]
+tags: ["biography", "orange-county-nc"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 <div class="ancestor-page">

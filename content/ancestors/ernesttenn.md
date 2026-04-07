@@ -3,6 +3,13 @@ title: "Ernest John Berry"
 description: "Ernest John Berry, son of Ode and Emma Lee Stuits Berry, born 1911 in Wayne County, Tennessee."
 weight: 1
 bookToc: true
+families: ["Thomas Berry"]
+periods: ["Modern"]
+tags: ["biography", "orange-county-nc", "tennessee", "census"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 <div class="ancestor-page">

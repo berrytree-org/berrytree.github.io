@@ -2,6 +2,13 @@
 title: "Chapter 12: Henry Berry 1776–1858"
 weight: 12
 bookToc: true
+families: ["Henry Berry"]
+periods: ["Revolutionary", "Early Settlement"]
+tags: ["book-chapter", "orange-county-nc", "census"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "book"
+sources_verified: false
 ---
 
 <div class="ancestor-page">

@@ -3,6 +3,13 @@ title: "Kate Berry"
 description: "Kate Berry, daughter of Franklin Pierce and Sophia M. Berry, born 1896 in Sebree, Webster County, Kentucky."
 weight: 1
 bookToc: true
+families: ["Joshua Berry"]
+periods: ["Reconstruction", "Modern"]
+tags: ["biography", "kentucky", "orange-county-nc", "census", "cemetery"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 <div class="ancestor-page">

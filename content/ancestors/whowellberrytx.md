@@ -2,6 +2,13 @@
 title: "Willie Howell Berry Tx"
 weight: 50
 bookToc: true
+families: ["Robert Berry Jr"]
+periods: ["Reconstruction", "Modern"]
+tags: ["biography", "alabama", "texas", "census"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 <div class="ancestor-page">

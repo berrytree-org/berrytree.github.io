@@ -1,6 +1,13 @@
 ---
 title: "Catherine Berry NC"
 description: "Catherine Berry (b. 1785), daughter of Robert Berry Jr. and Mary Waggoner, married Jacob Pickle, Orange County, North Carolina."
+periods: ["Revolutionary", "Early Settlement"]
+tags: ["biography", "orange-county-nc", "census"]
+families: ["Robert Berry Jr"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 ## **Catherine Berry, daughter of Robert Jr. and Mary Waggoner Berry**

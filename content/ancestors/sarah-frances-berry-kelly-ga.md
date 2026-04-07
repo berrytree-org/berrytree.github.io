@@ -2,6 +2,13 @@
 title: "Sarah Frances Berry Kelly GA"
 description: "Sarah Frances Berry Kelly, daughter of Jesse Lee and Nancy Henry Berry, Muscogee Georgia."
 bookToc: true
+families: ["David J Berry"]
+periods: ["Modern"]
+tags: ["biography", "georgia", "orange-county-nc", "census", "cemetery"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 <div class="ancestor-page">

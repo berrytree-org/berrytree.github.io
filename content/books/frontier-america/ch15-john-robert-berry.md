@@ -2,6 +2,13 @@
 title: "Chapter 15: John Robert Berry 1842–1917"
 weight: 15
 bookToc: true
+families: ["William Berry"]
+periods: ["Antebellum", "Civil War", "Reconstruction"]
+tags: ["book-chapter", "orange-county-nc", "military"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "book"
+sources_verified: false
 ---
 
 <div class="ancestor-page">

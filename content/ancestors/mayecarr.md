@@ -2,6 +2,13 @@
 title: "Mary Elizabeth Berry NC"
 description: "Mary Elizabeth Berry, daughter of Wiley P. and Ida Ann Wilson Berry, born August 23, 1899, in Orange County, North Carolina."
 bookToc: true
+families: ["William Berry"]
+periods: ["Reconstruction", "Modern"]
+tags: ["biography", "orange-county-nc", "census"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 <div class="ancestor-page">

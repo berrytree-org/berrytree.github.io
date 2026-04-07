@@ -2,6 +2,13 @@
 title: "David Lee Berry Ohio"
 description: "David Lee Berry, son of William Thomas Jr. and Mattie Lee Herrin Berry, Berry DNA Project Participant #101."
 bookToc: true
+families: ["Robert Berry Jr"]
+periods: ["Modern"]
+tags: ["biography", "alabama", "ohio", "census"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 <div class="ancestor-page">

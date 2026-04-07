@@ -2,6 +2,13 @@
 title: "Joshua Berry Ga"
 description: "Joshua Berry, son of David J. and Mary Blalock Berry, born about 1824 in North Carolina, removed to Georgia."
 bookToc: true
+families: ["David J Berry"]
+periods: ["Early Settlement", "Antebellum"]
+tags: ["biography", "georgia", "orange-county-nc", "census"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 <div class="ancestor-page">

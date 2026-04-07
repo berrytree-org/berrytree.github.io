@@ -1,6 +1,13 @@
 ---
 title: "Robert Berry Joshua's Son NC"
 description: "Robert Berry, son of Joshua and Nancy Ellison Berry, Orange County, North Carolina."
+periods: ["Revolutionary", "Early Settlement"]
+tags: ["biography", "orange-county-nc", "census", "deed", "cemetery"]
+families: ["Joshua Berry"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 {{< info-banner title="Robert Berry, Joshua's Son" subtitle="Son of Joshua and Nancy Ellison Berry, Orange County, North Carolina. Married Sally Cates." >}}

@@ -2,6 +2,13 @@
 title: "Robert J. Berry Ga"
 description: "Robert J. Berry (c. 1867–1921), great-grandson of Robert Berry from Orange County, NC, grandson of Joshua Berry."
 bookToc: true
+families: ["David J Berry"]
+periods: ["Civil War", "Reconstruction"]
+tags: ["biography", "georgia", "orange-county-nc", "census"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 <div class="ancestor-page">

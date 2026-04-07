@@ -1,6 +1,13 @@
 ---
 title: "Census Page for Thomas Berry"
 description: "Census records and lineage for Thomas Berry (1772–bef. 1812), including 1800 Orange County NC Census data."
+periods: ["Colonial", "Revolutionary"]
+tags: ["census-page", "census"]
+families: ["Thomas Berry"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 {{< info-banner title="Census — Thomas Berry" subtitle="1800 Orange County, NC Census Records for Thomas Berry" >}}

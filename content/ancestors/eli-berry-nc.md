@@ -2,6 +2,13 @@
 title: "Eli Berry NC"
 description: "Eli Berry, son of Joshua and Nancy Ellison Berry, born 1821 in Orange County NC."
 bookToc: true
+families: ["Joshua Berry"]
+periods: ["Early Settlement", "Antebellum"]
+tags: ["biography", "orange-county-nc"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 <div class="ancestor-page">

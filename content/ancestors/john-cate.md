@@ -5,6 +5,13 @@ weight: 8
 bookToc: true
 aliases:
   - /ancestors/catecrest/
+periods: ["Colonial", "Revolutionary"]
+tags: ["biography", "will", "land-grant"]
+families: ["Joshua Berry", "John Berry", "Thomas Berry", "Isaac Berry", "Mary Berry", "William Berry", "Henry Berry", "Elizabeth Berry", "David J Berry", "Robert Berry Jr"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 

@@ -1,5 +1,10 @@
 ---
 title: "Descendant Book Information"
+tags: ["book-chapter"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "book"
+sources_verified: false
 ---
 
 {{< info-banner title="Descendant Book Information" subtitle="Information about the Berry family descendant book series and how to contribute." >}}

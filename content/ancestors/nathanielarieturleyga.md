@@ -2,6 +2,13 @@
 title: "Nathaniel Arie Turley Ga"
 description: "Nathaniel Arie Turley, son of Nathan and Mary Jori Berry Turley, Milton County, Georgia."
 bookToc: true
+families: ["David J Berry"]
+periods: ["Reconstruction"]
+tags: ["biography", "georgia", "orange-county-nc", "census", "cemetery"]
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 <div class="ancestor-page">

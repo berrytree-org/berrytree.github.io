@@ -1,6 +1,12 @@
 ---
 title: "Name Index"
 weight: 3
+tags:
+  - index-page
+qc_status: "needs-review"
+last_updated: 2026-04-07
+content_source: "wp-export"
+sources_verified: false
 ---
 
 {{< info-banner title="Name Index" subtitle="Berry family members indexed by surname with generation notation." >}}
