@@ -11,6 +11,13 @@
   <!-- Site banner — full width above layout -->
   {{ partial "docs/inject/body" . }}
 
+  <!-- Lightbox overlay for full-res images -->
+  <div class="lightbox-overlay" id="lightbox-overlay">
+    <button class="lightbox-close" id="lightbox-close" aria-label="Close">&times;</button>
+    <img id="lightbox-img" src="" alt="" />
+    <div class="lightbox-caption" id="lightbox-caption"></div>
+  </div>
+
   <main class="container flex">
     {{ template "menu-container" . }}
 
@@ -37,6 +44,49 @@
     {{ template "toc-container" . }}
   </main>
 
+  <!-- Lightbox JS -->
+  <script>
+  (function(){
+    var overlay = document.getElementById('lightbox-overlay');
+    var lbImg   = document.getElementById('lightbox-img');
+    var lbCap   = document.getElementById('lightbox-caption');
+    var lbClose = document.getElementById('lightbox-close');
+    if (!overlay) return;
+
+    function open(src, alt, caption) {
+      lbImg.src = src;
+      lbImg.alt = alt;
+      lbCap.textContent = caption || alt || '';
+      lbCap.style.display = (caption || alt) ? '' : 'none';
+      overlay.classList.add('lightbox-active');
+      document.body.style.overflow = 'hidden';
+    }
+
+    function close() {
+      overlay.classList.remove('lightbox-active');
+      lbImg.src = '';
+      document.body.style.overflow = '';
+    }
+
+    document.addEventListener('click', function(e) {
+      var trigger = e.target.closest('.lightbox-trigger');
+      if (trigger) {
+        e.preventDefault();
+        var fig = trigger.closest('figure');
+        var cap = fig ? fig.querySelector('figcaption') : null;
+        open(trigger.href, trigger.querySelector('img').alt, cap ? cap.textContent : '');
+      }
+    });
+
+    lbClose.addEventListener('click', close);
+    overlay.addEventListener('click', function(e) {
+      if (e.target === overlay) close();
+    });
+    document.addEventListener('keydown', function(e) {
+      if (e.key === 'Escape') close();
+    });
+  })();
+  </script>
 </body>
 </html>
 

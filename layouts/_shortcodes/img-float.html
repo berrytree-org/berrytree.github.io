@@ -5,9 +5,19 @@
 {{- $link    := .Get "link" | default "" -}}
 {{- $size    := .Get "size" | default "" -}}
 
+{{- /* Auto-detect full-res version in /images/full/ */ -}}
+{{- $filename := path.Base $src -}}
+{{- $fullRes  := printf "/images/full/%s" $filename -}}
+{{- $fullPath := printf "static/images/full/%s" $filename -}}
+{{- $hasFullRes := fileExists $fullPath -}}
+
 <figure class="img-float img-float-{{ $side }}"{{ if $size }} style="max-width: {{ $size }}"{{ end }}>
   {{- if $link }}
   <a href="{{ $link }}">
+    <img src="{{ $src }}" alt="{{ $alt }}" />
+  </a>
+  {{- else if $hasFullRes }}
+  <a href="{{ $fullRes }}" class="lightbox-trigger">
     <img src="{{ $src }}" alt="{{ $alt }}" />
   </a>
   {{- else }}

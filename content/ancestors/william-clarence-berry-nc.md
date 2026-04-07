@@ -57,7 +57,7 @@ William Clarence Berry's home in TEXAS
 
 William Clarence Berry died on September 8th 1878. <!-- UNSOURCED --> Massa Ann Thompkins Berry died on January 4th 1903. <!-- UNSOURCED --> They both died in Burnet County Texas and are buried there in the Cauble Cemetery. The House on the right is located in Texas and is reported to be the home of William Clarence Berry. **All of William Clarence Berry and Robert C Berry's children are much closer related to me than I first thought. They are all first cousins to my Great Grandfather [John Robert Berry](/ancestors/john-robert-berry/) and all of Thomas Person Berry's children by both marriages. This is where the story came from that my Uncle Harold Berry told me. He said some of our folks went to Texas.**
 
-[![John Robert Berry and Elizabeth Frances Bowling](/images/johnrobertberrypicture.jpg)](/images/johnrobertberrypicture.jpg)
+<a href="/images/full/johnrobertberrypicture.jpg" class="lightbox-trigger"><img src="/images/johnrobertberrypicture.jpg" alt="John Robert Berry and Elizabeth Frances Bowling" /></a>
 
 John Robert Berry and his wife Elizabeth Frances Bowling, North Carolina
 

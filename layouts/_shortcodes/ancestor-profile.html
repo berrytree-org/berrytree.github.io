@@ -15,8 +15,18 @@
 */}}
 <div class="ancestor-profile">
   {{- if .Get "image" }}
+  {{- $imgSrc := .Get "image" -}}
+  {{- $imgFilename := path.Base $imgSrc -}}
+  {{- $fullPath := printf "static/images/full/%s" $imgFilename -}}
+  {{- $hasFullRes := fileExists $fullPath -}}
   <div class="profile-image">
-    <img src="{{ .Get "image" }}" alt="{{ .Get "caption" | default (.Get "name") }}" loading="lazy" />
+    {{- if $hasFullRes }}
+    <a href="/images/full/{{ $imgFilename }}" class="lightbox-trigger">
+      <img src="{{ $imgSrc }}" alt="{{ .Get "caption" | default (.Get "name") }}" loading="lazy" />
+    </a>
+    {{- else }}
+    <img src="{{ $imgSrc }}" alt="{{ .Get "caption" | default (.Get "name") }}" loading="lazy" />
+    {{- end }}
     {{- if .Get "caption" }}
     <div class="profile-caption">{{ .Get "caption" }}</div>
     {{- end }}
