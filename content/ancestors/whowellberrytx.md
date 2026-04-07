@@ -86,7 +86,7 @@ There are three known children born to this union.
 10. ————————**Gen 10** — Clifford Dale and Pamela J. Brame Berry
 
 <div class="photo-feature">
-  <a href="/images/untitled.png">
+  <a href="/images/full/untitled.png" class="lightbox-trigger">
     <img src="/images/untitled.png" alt="Berry family document" />
   </a>
 </div>

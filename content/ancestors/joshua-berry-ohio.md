@@ -31,7 +31,7 @@ Joshua Berry Jr. and Anna Thorpe were married circa 1819. <!-- UNSOURCED -->
 
 In the 1850 Census Anna was listed as being born in North Carolina but her family has not been located at the time of this writing. Joshua and Anna were in Gallia Ohio, Raccoon Township in the 1830 Census. Their oldest son Lewis was born in Ohio in 1826. In the 1830 census of Gallia County Ohio Isaac Rutherford was living next door to Joshua and five farms away there was a James Thorpe and his family. There is a very good chance that James Thorpe was Joshua Berry's brother in law. James was listed in the 30 to 40 age bracket and Anna Thorpe Berry was age 30.
 
-![Joshua Berry Jr. and possibly two of his sons](/images/joshuaberryjrpic.jpg)
+<a href="/images/full/joshuaberryjrpic.jpg" class="lightbox-trigger"><img src="/images/joshuaberryjrpic.jpg" alt="Joshua Berry Jr. and possibly two of his sons" /></a>
 
 Joshua Berry and his family lived in Ohio for at least 17 years because all of their children were born there according to the Boone County Indiana, Census where they were living in 1850.
 

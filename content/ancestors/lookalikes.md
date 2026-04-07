@@ -26,7 +26,7 @@ There have been some interesting developments resulting from our Berry DNA proje
 ## **Photo #2 — Thomas Berry Line & David J. Berry Line**
 
 <div class="photo-feature">
-<a href="/images/rayberry.jpg"><img src="/images/rayberry.jpg" alt="Ernest John Berry and Raymond Berry" /></a>
+<a href="/images/full/rayberry.jpg" class="lightbox-trigger"><img src="/images/rayberry.jpg" alt="Ernest John Berry and Raymond Berry" /></a>
 <div class="photo-caption">Ernest John Berry (left) descends from Robert Berry's son Thomas Berry, born around 1772 in Orange County, North Carolina. Ernest John Berry was born in Cypress Inn, Tennessee on November 25, 1911 and died on November 14, 1977. In uniform to his right is Raymond Berry, who descends from the David J. Berry line.</div>
 </div>
 
@@ -53,6 +53,6 @@ There have been some interesting developments resulting from our Berry DNA proje
 ## **The Twins**
 
 <div class="photo-feature">
-<a href="/images/jamieandkelly.jpg"><img src="/images/jamieandkelly.jpg" alt="Identical twin granddaughters from the William Berry line" /></a>
+<a href="/images/full/jamieandkelly.jpg" class="lightbox-trigger"><img src="/images/jamieandkelly.jpg" alt="Identical twin granddaughters from the William Berry line" /></a>
 <div class="photo-caption">These last two young ladies are from the William Berry line. They have a perfectly good reason to look alike because they are identical twin granddaughters.</div>
 </div>

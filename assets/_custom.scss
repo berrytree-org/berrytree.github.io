@@ -2582,3 +2582,114 @@ p > strong:first-child {
     flex-wrap: wrap;
   }
 }
+
+// =============================================================
+// LIGHTBOX — Full-resolution image viewer
+// Pure CSS overlay with minimal JS. Triggered by img-float
+// shortcode when a full-res version exists in /images/full/.
+// Owner: Lila
+// =============================================================
+
+// -- Clickable image indicator --
+.img-float a.lightbox-trigger {
+  display: inline-block;
+  position: relative;
+  cursor: zoom-in;
+  text-decoration: none;
+
+  img {
+    transition: opacity 0.15s ease;
+  }
+
+  &:hover img {
+    opacity: 0.85;
+  }
+
+  // Magnifier icon hint (bottom-right corner)
+  &::after {
+    content: "\1F50D"; // magnifying glass
+    position: absolute;
+    bottom: 6px;
+    right: 6px;
+    font-size: 0.9rem;
+    background: rgba(0, 0, 0, 0.55);
+    color: #fff;
+    border-radius: 3px;
+    padding: 2px 5px;
+    pointer-events: none;
+    opacity: 0;
+    transition: opacity 0.15s ease;
+    line-height: 1;
+  }
+
+  &:hover::after {
+    opacity: 1;
+  }
+}
+
+// -- Overlay --
+.lightbox-overlay {
+  display: none;
+  position: fixed;
+  inset: 0;
+  z-index: 9999;
+  background: rgba(0, 0, 0, 0.88);
+  justify-content: center;
+  align-items: center;
+  padding: 1.5rem;
+  cursor: zoom-out;
+
+  &.lightbox-active {
+    display: flex;
+  }
+
+  img {
+    max-width: 95vw;
+    max-height: 92vh;
+    object-fit: contain;
+    border-radius: 4px;
+    box-shadow: 0 4px 40px rgba(0, 0, 0, 0.6);
+  }
+}
+
+// -- Close button --
+.lightbox-close {
+  position: fixed;
+  top: 0.75rem;
+  right: 1rem;
+  z-index: 10000;
+  font-size: 2rem;
+  color: #fff;
+  background: rgba(0, 0, 0, 0.4);
+  border: none;
+  border-radius: 50%;
+  width: 2.5rem;
+  height: 2.5rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  line-height: 1;
+  transition: background 0.15s ease;
+
+  &:hover {
+    background: rgba(255, 255, 255, 0.2);
+  }
+}
+
+// -- Caption under lightbox image --
+.lightbox-caption {
+  position: fixed;
+  bottom: 0.75rem;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 10000;
+  color: #fff;
+  font-size: 0.9rem;
+  font-style: italic;
+  text-align: center;
+  max-width: 80vw;
+  padding: 0.3rem 1rem;
+  background: rgba(0, 0, 0, 0.5);
+  border-radius: 4px;
+}

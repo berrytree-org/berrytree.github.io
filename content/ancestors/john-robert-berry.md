@@ -107,7 +107,7 @@ It has also been told that John Robert Berry was very good friends with U.S. Sen
 </div>
 
 <div class="photo-feature">
-  <a href="/images/jrbtochurchdeed.jpg">
+  <a href="/images/full/jrbtochurchdeed.jpg" class="lightbox-trigger">
     <img src="/images/jrbtochurchdeed.jpg" alt="Berry's Grove Baptist Church deed" />
   </a>
   <div class="photo-caption">Berry's Grove Baptist Church deed — land donated by John Robert and Elizabeth Frances Berry</div>
@@ -229,7 +229,7 @@ John Robert and Elizabeth raised nine children, all born in Orange County, North
 |------|--------|-------|
 | 1870 | Orange County, NC | [![1870 census](/images/jrb1870census.jpg)](/images/jrb1870census.jpg) |
 | 1880 | Orange County, NC | [![1880 census](/images/jrb1880census.jpg)](/images/jrb1880census.jpg) |
-| 1880 | Transcription | [![1880 census transcribed](/images/jrb1880censust.jpg)](/images/jrb1880censust.jpg) |
+| 1880 | Transcription | <a href="/images/full/jrb1880censust.jpg" class="lightbox-trigger"><img src="/images/jrb1880censust.jpg" alt="1880 census transcribed" /></a> |
 | 1900 | Orange County, NC (page 1) | [![1900 census p1](/images/jrb1900censusp1.jpg)](/images/jrb1900censusp1.jpg) |
 | 1900 | Orange County, NC (page 2) | [![1900 census p2](/images/jrb1900censusp2.jpg)](/images/jrb1900censusp2.jpg) |
 | 1910 | Orange County, NC | [![1910 census](/images/jrb1910.jpg)](/images/jrb1910.jpg) |
@@ -238,7 +238,7 @@ John Robert and Elizabeth raised nine children, all born in Orange County, North
 
 <h2 class="ancestor-section">Key Documents</h2>
 
-- [Berry's Grove Baptist Church deed](/images/jrbtochurchdeed.jpg) — Land donated April 16, 1888
+- [Berry's Grove Baptist Church deed](/images/full/jrbtochurchdeed.jpg) — Land donated April 16, 1888
 - Land purchase from Thomas Person Berry — April 15, 1869, for $1.00 (Deed Book 50, Page 56)
 - [1891 Fiddleton Map](/ancestors/fiddleton-1891/) — Berry's Grove and Fiddleton in northern Orange County
 

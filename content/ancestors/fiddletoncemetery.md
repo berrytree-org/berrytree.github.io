@@ -50,7 +50,7 @@ The Fiddleton Cemetery was the site of a historic family gathering on July 21, 2
 
 <div class="photo-gallery">
 <div class="photo-feature">
-<a href="/images/lucybrown.jpg"><img src="/images/lucybrown.jpg" alt="Headstone of Lucy Brown Berry" /></a>
+<a href="/images/full/lucybrown.jpg" class="lightbox-trigger"><img src="/images/lucybrown.jpg" alt="Headstone of Lucy Brown Berry" /></a>
 <div class="photo-caption">Lucy Brown Berry's headstone. Thomas Person Berry's second wife, buried right beside Sarah L. Berry. She died January 12, 1881, just twenty days after Daniel R. Berry's birth, likely from complications of childbirth. She was only 34 years old.</div>
 </div>
 <div class="photo-feature">
