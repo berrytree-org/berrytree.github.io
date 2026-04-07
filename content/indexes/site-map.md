@@ -3,6 +3,8 @@ title: "Site Map"
 weight: 4
 ---
 
+{{< info-banner title="Site Map" subtitle="Complete listing of all pages and sections on berrytree.org." >}}
+
 - [1790 Census Index](/ancestors/1790censusindex/)
 
 - [1800 Orange County NC Census](/ancestors/1800-orange-county-nc-census/)
@@ -42,10 +44,6 @@ weight: 4
 - [Benjamin Berry Henderson Sr.](/ancestors/benjamin-berry-henderson-sr/)
 
 - [Berry Family Name List](/ancestors/familynamelist/)
-
-- [Berry Name Index Page 1](/ancestors/berrylist/)
-
-- [Berry Name Index Page 2](/ancestors/berrylistpage2/)
 
 - [Berry Wills and deeds from PAC 1691  TO 1755](/documents/berry-wills-and-deeds-from-pac-1691-to-1755/)
 
@@ -94,7 +92,7 @@ weight: 4
 
 - David J. Berry Tree
 
-- [David J. Berry’s Children](/ancestors/davidjchildren/)
+- [David J. Berry’s Children](/ancestors/david-j-berry-sr/)
 
 - [David Lee Berry Ohio](/ancestors/davidleeberryohio/)
 
@@ -214,7 +212,7 @@ weight: 4
 
 - [Jesse Lee Berry](/ancestors/jesseleeberry/)
 
-- [Jesse Lee Berry’s children](/ancestors/jesseleechildren/)
+- [Jesse Lee Berry’s children](/ancestors/jesseleeberry/)
 
 - [Jesse Waldo Maners](/ancestors/jesse-waldo-maners/)
 
@@ -243,7 +241,7 @@ weight: 4
 
 - [John W. Berry NC](/ancestors/johnberryncjrbson/)
 
-- [Joshua and Nancy Berry’s Children](/ancestors/joshuachildren/)
+- [Joshua and Nancy Berry’s Children](/ancestors/joshua-berry-sr/)
 
 - [Joshua Berry](/ancestors/joshuaberry/)
 
@@ -269,7 +267,7 @@ weight: 4
 
 - [Land Grant to Robert Berry Jr. by President Monroe](/documents/land-grant-to-robert-berry-jr/)
 
-- [Lela Willie Virginia Guthrie](/documents/lelawillievirginiaguthrie/)
+- [Lela Willie Virginia Guthrie](/ancestors/lelawillievirginiaguthrie/)
 
 - [Leona Berry Borden Tx](/ancestors/leonaberrybordentx/)
 
@@ -277,7 +275,7 @@ weight: 4
 
 - [Lewis Berry Ohio](/ancestors/lewisberryohio/)
 
-- [Location of Fiddleton Cemetery](/ancestors/location-fiddleton-cemetery/)
+- [Location of Fiddleton Cemetery](/ancestors/fiddletoncemetery/)
 
 - [Location of the Fiddleton Plantation](/ancestors/locateplantation/)
 
@@ -349,11 +347,11 @@ weight: 4
 
 - [Richard Williamson PAC](/documents/richardwilliamsonpac/)
 
-- [Robert and Elizabeth Everett Berry’s Children](/ancestors/djbrbchildren/)
+- [Robert and Elizabeth Everett Berry’s Children](/ancestors/robertdjberry/)
 
 - Robert Berry (OC)
 
-- [Robert Berry (OC) Character](/ancestors/robert-berry-oc-character/)
+- [Robert Berry (OC) Character](/ancestors/robert-berry-oc/)
 
 - [Robert Berry (PAC) Origins](/ancestors/rb2sourcelist/)
 
@@ -367,7 +365,7 @@ weight: 4
 
 - [Robert Berry Jr. Census Page](/ancestors/robert-berry-jr-census-page/)
 
-- [Robert Berry Jr.’s Children](/ancestors/rbjchildren/)
+- [Robert Berry Jr.’s Children](/ancestors/robert-berry-jr/)
 
 - [Robert Berry Jr.Family Line](/family-lines/robert-berry-family-line/)
 
@@ -473,9 +471,9 @@ weight: 4
 
 - [Wiley P. Berry Jr. NC](/ancestors/wileypberryjrnc/)
 
-- [Wiley P. Berry’s Children](/ancestors/wpbsrchildren/)
+- [Wiley P. Berry’s Children](/ancestors/wiley-p-berry/)
 
-- [William Aaron Turley Ga](/documents/williamaaronturleyga/)
+- [William Aaron Turley Ga](/ancestors/williamaaronturleyga/)
 
 - [William and Hannah Cate Berry’s Children](/documents/williamchildren/)
 
@@ -485,31 +483,31 @@ weight: 4
 
 - [William Cate’s Estate Sale](/documents/william-cates-estate-sale/)
 
-- [William Clarence Berry NC, ALA, TX](/documents/williamclarenceberrync/)
+- [William Clarence Berry NC, ALA, TX](/ancestors/williamclarenceberrync/)
 
-- [William Edgar Berry Alabama](/documents/william-edgar-berry-alabama/)
+- [William Edgar Berry Alabama](/ancestors/william-edgar-berry-alabama/)
 
-- [William Eugene Berry NC](/documents/williameugeneberrync/)
+- [William Eugene Berry NC](/ancestors/williameugeneberrync/)
 
-- [William G. Berry](/documents/williamgsodavid/)
+- [William G. Berry](/ancestors/williamgsodavid/)
 
-- [William H Berry NC](/documents/williamhberrync/)
+- [William H Berry NC](/ancestors/williamhberrync/)
 
-- [William Henry Berry GA](/documents/william-henry-berry-ga/)
+- [William Henry Berry GA](/ancestors/william-henry-berry-ga/)
 
-- [William Lamar Berry](/documents/williamlamar/)
+- [William Lamar Berry](/ancestors/williamlamar/)
 
-- [William Oscar Berry GA](/documents/william-oscar-berry-ga/)
+- [William Oscar Berry GA](/ancestors/william-oscar-berry-ga/)
 
-- [William Thomas Berry Jr. Ala](/documents/williamtberryjrala/)
+- [William Thomas Berry Jr. Ala](/ancestors/williamtberryjrala/)
 
-- [William Thomas Berry Sr.](/documents/williamtberrysrala/)
+- [William Thomas Berry Sr.](/ancestors/williamtberrysrala/)
 
-- [William Thomas Maners](/documents/william-thomas-maners/)
+- [William Thomas Maners](/ancestors/william-thomas-maners/)
 
 - [Williamson deeds and wills 1691 to 1755 PAC](/documents/williamson-deeds-and-wills-1691-to-1755-pac/)
 
-- [Willie Adolphus Berry NC](/documents/willieadolphysberrync/)
+- [Willie Adolphus Berry NC](/ancestors/willieadolphysberrync/)
 
 - [Willie Howell Berry Jr. Tx](/ancestors/whowellberryjrtx/)
 

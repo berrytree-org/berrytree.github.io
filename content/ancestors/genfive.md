@@ -1,163 +1,187 @@
 ---
 title: "Generation Five"
+description: "Fourth generation descendants of Robert and Elizabeth Cate Berry, listed across all ten family lines."
 ---
 
-<h2>Fourth Generation Descendants of Robert and Elizabeth Cate Berry</h2>
-All 10 Family Lines
+{{< info-banner title="Generation Five — Great-Grandchildren" subtitle="Fourth generation descendants of Robert and Elizabeth Cate Berry, organized by family line." >}}
 
-2 <strong>Mary Berry Camp Line</strong>
+This page lists the fifth generation of the Berry family, the great-grandchildren of Robert and Elizabeth Cate Berry. Each section follows one of the ten Gen 3 family lines.
 
-2 <strong>Robert Berry Jr. Line</strong>
+---
 
-2 <strong>John Berry Line</strong>
+## **Mary Berry Camp Line**
 
-2 <strong>Isaac Berry</strong>
+*(No Gen 5 descendants recorded on this page)*
 
- 
+---
 
-[No Children]
+## **Robert Berry Jr. Line**
 
-<strong> 2 Joshua Berry Line
-</strong>
+*(No Gen 5 descendants recorded on this page)*
 
-Generation 1 Robert Berry & Elizabeth Cate
+---
 
-Generation 2 Joshua Berry & Nancy Ellison
+## **John Berry Line**
 
-Generation 3 Lewis Berry & Sally Toler
+*(No Gen 5 descendants recorded on this page)*
 
-4 <strong>Nancy Ellison Berry</strong>
-4 <strong>James A Berry</strong>
-4 <strong>Delilah Ann Berry</strong>
-4 <strong>John Henry Berry</strong>
-4 <strong>Phoebe R.Berry</strong>
-4 <strong>Robert Berry</strong>
-4 <strong>Ira Berry</strong>
+---
 
- 
+## **Isaac Berry**
 
-Generation 1 Robert Berry & Elizabeth Cate
+*(No children recorded)*
 
-Generation 2 Joshua Berry & Nancy Ellison
+---
 
-Generation 3 Eli Berry & Judy Betsie Taylor
+## **Joshua Berry Line**
 
-4 Lucy Berry
-4 Annie Berry
-4 Sarah Berry
-4 John Saunders Berry
-4 Eli D.Berry
-4 Doctor Edward Berry
-4 Ellie Berry
-4 Mollie L. Berry
+### Lewis Berry & Sally Tolar
 
- 
+Generation 1: Robert Berry & Elizabeth Cate
+Generation 2: Joshua Berry & Nancy Ellison
+Generation 3: Lewis Berry & Sally Tolar
 
-Generation 1 Robert Berry & Elizabeth CateGeneration 2 Elizabeth Berry Not MarriedGeneration 3 Mary Berry & Thomas Berry
+- **Nancy Ellison Berry**
+- **James A. Berry**
+- **Delilah Ann Berry**
+- **John Henry Berry**
+- **Phoebe R. Berry**
+- **Robert Berry**
+- **Ira Berry**
 
-4 JOSIAH BERRY
+### Eli Berry & Judy Betsie Taylor
 
-<strong> 2 THOMAS BERRY LINE</strong>
+Generation 1: Robert Berry & Elizabeth Cate
+Generation 2: Joshua Berry & Nancy Ellison
+Generation 3: Eli Berry & Judy Betsie Taylor
 
-Generation 1 Robert Berry & Elizabeth CateGeneration 2 Thomas Berry & Sarah CateGeneration 3 David Berry & Elizabeth Shipman
+- Lucy Berry
+- Annie Berry
+- Sarah Berry
+- John Saunders Berry
+- Eli D. Berry
+- Doctor Edward Berry
+- Ellie Berry
+- Mollie L. Berry
 
-4 Annie Berry
-4 Sarah Berry
-4 Jacob Berry
-4 John Berry4 Henry Berry
-4 William Berry
-4 Isaac Berry
-4 Mary Berry
-4 James Arwin Berry
-4 Elizabeth Berry
-4 David Berry
-4 Rebeca Berry
-4 Martha Berry
-4 Irvin Berry
+---
 
-<strong> 2 David J. Berry Line
-</strong>
+## **Elizabeth Berry Line**
 
-Generation 1 Robert Berry & Elizabeth CateGeneration 2 David J.Berry & Mary BlalockGeneration 3 Robert Berry & ElizabethEverett
+Generation 1: Robert Berry & Elizabeth Cate
+Generation 2: Elizabeth Berry (Not Married)
+Generation 3: Mary Berry & Thomas Berry
 
-4 John Allmon Berry
-4 William Henry Berry
-4 Jesse Lee Berry
-4 Robert Riley Berry
-4 David Northern Berry
-4 Issac Martin Berry
-4 Mary J. Berry
-4 Basil Manley Berry
+- Josiah Berry
 
-Generation 1 Robert Berry & Elizabeth Cate
+---
 
-Generation 2 David J.Berry & Mary Blalock
+## **Thomas Berry Line**
 
-Generation 3 Joshua Berry &Tommie
+### David Berry & Elizabeth Shipman
 
-4 Robert I Berry
-4 Joshua Berry
+Generation 1: Robert Berry & Elizabeth Cate
+Generation 2: Thomas Berry & Sarah Cate
+Generation 3: David Berry & Elizabeth Shipman
 
-<strong> 2 William Berry Line
-</strong>
+- Annie Berry
+- Sarah Berry
+- Jacob Berry
+- John Berry
+- Henry Berry
+- William Berry
+- Isaac Berry
+- Mary Berry
+- James Arwin Berry
+- Elizabeth Berry
+- David Berry
+- Rebeca Berry
+- Martha Berry
+- Irvin Berry
 
-Generation 1 Robert Berry & Elizabeth Cate
+---
 
-Generation 2 William Berry & Hannah Cate
+## **David J. Berry Line**
 
-Generation 3 Thomas Person Berry & Sarah Lunsford
+### Robert Berry & Elizabeth Everett
 
-4 William H Berry
-4 Willie Berry
-4 <a href="/ancestors/john-robert-berry/">John Robert Berry
-</a>4 James P Berry
+Generation 1: Robert Berry & Elizabeth Cate
+Generation 2: David J. Berry & Mary Blalock
+Generation 3: Robert Berry & Elizabeth Everett
 
-3 Thomas Person Berry's Second Marriage To Lucy Brown
+- John Allmon Berry
+- William Henry Berry
+- Jesse Lee Berry
+- Robert Riley Berry
+- David Northern Berry
+- Isaac Martin Berry
+- Mary J. Berry
+- Basil Manley Berry
 
-4 Edna H Berry
-4 Martha Bowers Berry
-4 Emely E Berry
-4 Della Thomas Berry
-4 Daniel R Berry
+### Joshua Berry & Tommie
 
-<strong>Henry Berry </strong>
+Generation 1: Robert Berry & Elizabeth Cate
+Generation 2: David J. Berry & Mary Blalock
+Generation 3: Joshua Berry & Tommie
 
-[NO CHILDREN]
-<h2><a href="#">Spouse Information</a></h2>
-<strong>Mary Berry</strong> 1st married 1777 2nd 1781
+- Robert I. Berry
+- Joshua Berry
 
-Spouse # 1 George Waggoner cir uknown - 1781
+---
 
-Spouse # 2 James Kemp/Camp 1768 - 1833
+## **William Berry Line**
 
-<strong>Robert Berry Jr.</strong> married about 1778
+### Thomas Person Berry & Sarah Lunsford
 
-Spouse Mary Waggoner cir uknown - uknown
+Generation 1: Robert Berry & Elizabeth Cate
+Generation 2: William Berry & Hannah Cate
+Generation 3: Thomas Person Berry & Sarah Lunsford
 
-<strong>John Berry </strong>1762-1804
+- William H. Berry
+- Willie Berry
+- [John Robert Berry](/ancestors/john-robert-berry/)
+- James P. Berry
 
-Spouse Martha Stepp Married Sept. 16 1793
+### Thomas Person Berry & Lucy Brown (second marriage)
 
-<strong>Joshua Berry </strong>1764 - 1838<strong> </strong>married  January 28 1792
+- Edna H. Berry
+- Martha Bowers Berry
+- Emely E. Berry
+- Della Thomas Berry
+- Daniel R. Berry
 
-Spouse Nancy Ellison 1775 - cir 1858
+---
 
-<strong>Elizabeth Berry</strong>
+## **Henry Berry**
 
-Never Married had a daughter in 1892 (Mary) by William Riley 1892
+*(No children — never married)*
 
-<strong>Thomas Berry</strong> married August 12 th 1800
+---
 
-Spouse Sarah Cate December 27 1782 - March 7 1875
+## **Spouse Information**
 
-<strong>David J. Berry</strong> married 1797
+**Mary Berry** — 1st married 1777, 2nd married 1781
+Spouse #1: George Waggoner (d. 1781)
+Spouse #2: James Kemp/Camp (1768–1833)
 
-Spouse Mary Blalock cir 1772 - Uknown
+**Robert Berry Jr.** — married about 1778
+Spouse: Mary Waggoner
 
-<strong>William Berry</strong> married August 11th 1799
+**John Berry** (1762–1804)
+Spouse: Martha Stepp, married Sept. 16, 1793
 
-Spouse Hannah Cate 1770 - February 25 1858
+**Joshua Berry** (1764–1838) — married January 28, 1792
+Spouse: Nancy Ellison (1775–c. 1858)
 
-<strong>Henry Berry </strong>
+**Elizabeth Berry** — Never married; had a daughter Mary in 1892 by William Riley
 
-Never Married
+**Thomas Berry** — married August 12, 1800
+Spouse: Sarah Cate (December 27, 1782–March 7, 1875)
+
+**David J. Berry** — married 1797
+Spouse: Mary Blalock (c. 1772–unknown)
+
+**William Berry** — married August 11, 1799
+Spouse: Hannah Cate (1770–February 25, 1858)
+
+**Henry Berry** — Never married

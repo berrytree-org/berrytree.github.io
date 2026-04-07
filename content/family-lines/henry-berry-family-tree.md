@@ -2,7 +2,9 @@
 title: "Henry Berry Tree"
 ---
 
-## Henry Berry Tree
+{{< info-banner title="Henry Berry Family Tree" subtitle="Descendants of Henry Berry, son of Robert and Elizabeth Cate Berry." >}}
+
+## **Henry Berry Tree**
 
 
 ….2. [Berry, Henry](/family-lines/henry-berry-family-tree/) b. 1776 – Orange County N.C., d. 1855 – Orange County N.C.
@@ -37,4 +39,4 @@ title: "Henry Berry Tree"
 
 …………4. King, Judy (b. 1849)
 
-##### Last updated Jan 26, 2015
+*Last updated Jan 26, 2015*

@@ -41,7 +41,7 @@ bookToc: true
 <ol class="children-list">
 
 <li class="child-entry">
-  <div class="child-name">1. <a href="/documents/lelawillievirginiaguthrie/">Lela Willie Virginia Guthrie</a></div>
+  <div class="child-name">1. <a href="/ancestors/lelawillievirginiaguthrie/">Lela Willie Virginia Guthrie</a></div>
   <div class="child-details">Married Lonzo (Lonnie) Joseph Hunt.</div>
 </li>
 

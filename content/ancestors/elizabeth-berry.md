@@ -2,6 +2,8 @@
 title: "Elizabeth Berry"
 weight: 8
 bookToc: true
+aliases:
+  - /ancestors/elizabeth/
 ---
 
 <div class="ancestor-page">

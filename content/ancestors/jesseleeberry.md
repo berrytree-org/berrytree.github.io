@@ -15,12 +15,12 @@ description: "Jesse Lee Berry (1852-1924), son of Robert and Elizabeth Everett B
 
  CHILDREN:
 
-1. [Albert Edgar Berry](/ancestors/albertedgar/),  b. 28 Dec. 1881
-2. [Addie Lena Berry](/ancestors/addie-lena-berry/) November 1884
-3. [Cora Mae Berry](/ancestors/cora-berry-mcvicker/)
-4. [Sarah Florence Berry](/ancestors/sarah-frances-berry-kelly-ga/)
-5. [William Oscar Berry](/documents/william-oscar-berry-ga/) b. 30 Mar. 1878.
-6. [Walter Glen Berry](/ancestors/walterglenberryga/)  b. 15 Jan. 1880.
+1. [Albert Edgar Berry](/ancestors/albertedgar/), b. 28 Dec. 1881, Etowah County, Alabama
+2. [Addie Lena Berry](/ancestors/addie-lena-berry/), b. 1 Nov. 1884, Etowah County, Alabama
+3. [Cora Mae Berry](/ancestors/cora-berry-mcvicker/), b. 3 Jun. 1887, Etowah County, Alabama
+4. [Sarah Florence Berry](/ancestors/sarah-frances-berry-kelly-ga/), b. 12 Apr. 1876, Alabama
+5. [William Oscar Berry](/ancestors/william-oscar-berry-ga/), b. 30 Mar. 1878, Etowah County, Alabama
+6. [Walter Glen Berry](/ancestors/walterglenberryga/), b. 15 Jan. 1880, Gadsden, Etowah County, Alabama
 {{< img-float src="/images/jesse-lee-children.jpg" alt="Jesse lee children" >}}
 
 {{< img-float src="/images/walter-glenn-and-leonefloyd-eddie-elizabeth-berry808.jpg" alt="Walter Glenn and Leone(Floyd) Eddie Elizabeth Berry808" >}}

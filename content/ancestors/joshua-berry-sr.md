@@ -2,6 +2,9 @@
 title: "Joshua Berry Sr."
 weight: 4
 bookToc: true
+aliases:
+  - /ancestors/joshuaberry/
+  - /documents/joshua-berry-oc-document-page/
 ---
 
 <div class="ancestor-page">
@@ -39,19 +42,19 @@ Joshua and Nancy had nine children, all born in Orange County, North Carolina.
 
 <li class="child-entry">
   <div class="child-name">1. Robert Berry</div>
-  <div class="child-dates">Born in Orange County, NC</div>
+  <div class="child-dates">Born c. 1792, Orange County, NC</div>
   <div class="child-details">Further details about Robert's life are still being researched.</div>
 </li>
 
 <li class="child-entry">
   <div class="child-name">2. Dicey Berry</div>
-  <div class="child-dates">Born in Orange County, NC</div>
+  <div class="child-dates">Born 1798, Orange County, NC</div>
   <div class="child-details">Further details are still being researched.</div>
 </li>
 
 <li class="child-entry">
   <div class="child-name">3. James Berry</div>
-  <div class="child-dates">Born in Orange County, NC</div>
+  <div class="child-dates">Born 1799, Orange County, NC</div>
   <div class="child-details">Further details are still being researched.</div>
 </li>
 
@@ -63,31 +66,31 @@ Joshua and Nancy had nine children, all born in Orange County, North Carolina.
 
 <li class="child-entry">
   <div class="child-name">5. Diellilah Berry</div>
-  <div class="child-dates">Born in Orange County, NC</div>
+  <div class="child-dates">Born c. 1802, Orange County, NC</div>
   <div class="child-details">Further details are still being researched.</div>
 </li>
 
 <li class="child-entry">
-  <div class="child-name">6. Lewis Berry</div>
-  <div class="child-dates">Born in Orange County, NC — Died 1858, Orange County, NC</div>
+  <div class="child-name">6. Lewis Berry — <em>DNA Donor Line</em></div>
+  <div class="child-dates">Born c. 1805, Orange County, NC — Died 1858, Orange County, NC</div>
   <div class="child-details">Lewis Berry died during the worldwide flu epidemic of 1858. His mother Nancy Ellison Berry may have also died from the flu, she did not appear in the 1860 Census. Lewis's son <strong>Ira Berry</strong> is a well-documented descendant.</div>
 </li>
 
 <li class="child-entry">
   <div class="child-name">7. Nancy Berry</div>
-  <div class="child-dates">Born in Orange County, NC</div>
+  <div class="child-dates">Born 1810, Orange County, NC — Died March 1883</div>
   <div class="child-details">Further details are still being researched.</div>
 </li>
 
 <li class="child-entry">
   <div class="child-name">8. Charlotte Berry</div>
-  <div class="child-dates">Born in Orange County, NC</div>
+  <div class="child-dates">Born 1813, Orange County, NC — Died before 1883</div>
   <div class="child-details">Further details are still being researched.</div>
 </li>
 
 <li class="child-entry">
   <div class="child-name">9. Eli Berry</div>
-  <div class="child-dates">Born in Orange County, NC</div>
+  <div class="child-dates">Born October 10, 1821, Orange County, NC — Died August 15, 1900</div>
   <div class="child-details">Further details are still being researched.</div>
 </li>
 
@@ -105,6 +108,32 @@ Joshua and Nancy had nine children, all born in Orange County, North Carolina.
 - **1820** — Joshua Berry listed in Orange County, North Carolina
 - **1830** — Joshua Berry listed in Orange County, North Carolina
 - **1838** — Joshua Berry Sr. died October 8, 1838, in Orange County, North Carolina
+
+---
+
+<h2 class="ancestor-section">Key Documents</h2>
+
+<div class="photo-gallery">
+<div class="photo-feature">
+<a href="/images/joshuamarriagebond.jpg"><img src="/images/joshuamarriagebond.jpg" alt="Joshua Berry and Nancy Ellison marriage bond" /></a>
+<div class="photo-caption">Joshua and Nancy Ellison's Marriage Bond</div>
+</div>
+<div class="photo-feature">
+<a href="/images/roberttojoshua.jpg"><img src="/images/roberttojoshua.jpg" alt="Robert Berry deed to Joshua Berry 1811" /></a>
+<div class="photo-caption">Robert Berry's February 24, 1811 deed to his son Joshua Berry</div>
+</div>
+</div>
+
+<div class="photo-gallery">
+<div class="photo-feature">
+<a href="/images/deedoftrust5-1.jpg"><img src="/images/deedoftrust5-1.jpg" alt="1828 Deed of Trust for Joshua Berry land" /></a>
+<div class="photo-caption">1828 Deed of Trust on the land Robert Berry sold to Joshua in 1811</div>
+</div>
+<div class="photo-feature">
+<a href="/images/acount-of-joshua-berrys-murder.jpg"><img src="/images/acount-of-joshua-berrys-murder.jpg" alt="Newspaper account of Joshua Berry's murder" /></a>
+<div class="photo-caption">Newspaper account of Joshua Berry's murder, October 8, 1838</div>
+</div>
+</div>
 
 ---
 

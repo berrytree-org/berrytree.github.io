@@ -4,6 +4,8 @@ weight: 6
 bookToc: true
 aliases:
   - /ancestors/william/
+  - /documents/william-berry/
+  - /documents/williamchildren/
 ---
 
 <div class="ancestor-page">
@@ -26,6 +28,18 @@ aliases:
 ## The Story of William Berry
 
 William Berry was born about 1775 in Orange County, North Carolina, one of the youngest children of Robert and Elizabeth Cate Berry. On **August 11, 1799**, he married **Hannah Cate**, the daughter of William and Elizabeth Smith (Messersmith) Cate. The following year, on August 12, 1800, William's brother Thomas Berry married Hannah's sister Sarah Cate, making the two Berry brothers married to two Cate sisters.
+
+[Y-DNA Information: Matching 66 of 67 markers](/dna/ydna-matching-william-berry-ydna/)
+
+### **Hannah Cate's Family**
+
+Hannah's parents were **William and Elizabeth (Messersmith) Smith Cate**. Their children:
+
+1. John Cate
+2. Benjamin Cate
+3. **Hannah Cate** — Born 1770, Orange County, NC. Married William Berry August 12, 1799. Died 1858.
+4. Charity Cate
+5. **Sarah Cate** — Born December 27, 1781. Married Thomas Berry August 11, 1800. Died March 7, 1875, Wayne County, Tennessee.
 
 ### The Expedition to Tennessee
 
@@ -115,13 +129,34 @@ Since Hannah and Sarah Cate were sisters, and Thomas and William Berry were brot
 
 - **1800** — William Berry listed in Orange County, North Carolina
 - **1810** — Hannah Cate Berry listed as head of household in Orange County, North Carolina (William gone)
+- **1830** — A William Berry found in Blount County, Alabama, living two farms from Thomas Rutherford. The right age, born in North Carolina.
+- **1850** — A William Berry found in Lincoln County, Tennessee. Right age, born in North Carolina. No descendants have been located.
 - **1850** — Hannah Berry living with Henry Berry at Fiddleton Plantation, Orange County
 
+<div class="photo-gallery">
 <div class="photo-feature">
-  <a href="/images/hberry1850.jpg">
-    <img src="/images/hberry1850.jpg" alt="Henry Berry and Hannah Berry 1850 Orange County, North Carolina census" />
-  </a>
-  <div class="photo-caption">Henry Berry and Hannah Cate Berry in the 1850 Orange County, North Carolina census — living together at the Fiddleton Plantation</div>
+<a href="/images/william-and-thomas-1800-census.jpg"><img src="/images/william-and-thomas-1800-census.jpg" alt="William Berry 1800 Orange County NC Census" /></a>
+<div class="photo-caption">William Berry, 1800 Orange County NC Census</div>
+</div>
+<div class="photo-feature">
+<a href="/images/rb1810nc.jpg"><img src="/images/rb1810nc.jpg" alt="Hannah Cate Berry 1810 Orange County NC Census" /></a>
+<div class="photo-caption">Hannah Cate Berry, 1810 Orange County NC Census — listed as head of household next to Robert Berry</div>
+</div>
+<div class="photo-feature">
+<a href="/images/wberryala1830.jpg"><img src="/images/wberryala1830.jpg" alt="William Berry living near Thomas Rutherford in Blount County Alabama 1830" /></a>
+<div class="photo-caption">William Berry in Blount County, Alabama, 1830 — living near Thomas Rutherford</div>
+</div>
+</div>
+
+<div class="photo-gallery">
+<div class="photo-feature">
+<a href="/images/williamberrylincolntenn18501.jpg"><img src="/images/williamberrylincolntenn18501.jpg" alt="William Berry Lincoln County Tennessee 1850 Census" /></a>
+<div class="photo-caption">William Berry, Lincoln County, Tennessee, 1850 Census — right age, born in North Carolina</div>
+</div>
+<div class="photo-feature">
+<a href="/images/hberry1850.jpg"><img src="/images/hberry1850.jpg" alt="Henry Berry and Hannah Berry 1850 Orange County, North Carolina census" /></a>
+<div class="photo-caption">Henry Berry and Hannah Cate Berry, 1850 Orange County NC census — living together at the Fiddleton Plantation</div>
+</div>
 </div>
 
 ---
@@ -130,6 +165,8 @@ Since Hannah and Sarah Cate were sisters, and Thomas and William Berry were brot
 
 - [William Berry's Marriage Bond to Hannah Cate, 1799](/images/wbhcmarriage.jpg)
 - [William Cate inventory sale, 1803](/images/willcatesale.jpg) — Hannah's father's estate
+- [Thomas Person Berry marriage document](/images/tpb2marriage.jpg) — Marriage to Lucy Brown, 1871
+- [Sarah Cate Berry Pigg Bond, 1815](/images/sarah-cate-berry-pigg-bond-1815.jpg) — Sarah Cate's marriage to John Pigg in Tennessee
 - Orange County Deed Book 24, Page 226 — Land purchase from Henry Berry, 1830
 - Orange County Deed Book 25, Page 431 — Land sale, September 14, 1833
 

@@ -3,6 +3,8 @@ title: "Harrison Berry Iowa"
 description: "Harrison Berry, son of Lewis and Elizabeth Haywood Berry, Benton County, Iowa."
 ---
 
+{{< info-banner title="Harrison Berry (1854–1934)" subtitle="Son of Lewis and Elizabeth Haywood Berry, Benton County, Iowa, to Pueblo, Colorado." >}}
+
 ## **Harrison Berry, Son Of Lewis And Elizabeth Haywood Berry**
 
 ### **Ancestors**

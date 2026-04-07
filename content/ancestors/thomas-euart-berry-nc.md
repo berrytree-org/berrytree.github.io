@@ -2,6 +2,8 @@
 title: "Thomas Euart Berry NC"
 description: "Thomas Euart Berry (1880–1960), son of John Robert and Elizabeth Francis Bowling Berry, Orange County, North Carolina."
 bookToc: true
+aliases:
+  - /ancestors/thomaseuartberrync/
 ---
 
 <div class="ancestor-page">

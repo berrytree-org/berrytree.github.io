@@ -2,6 +2,8 @@
 title: "Roseann Frances Berry"
 description: "Roseann Frances Berry, daughter of William Clarence and Sally Bowles Berry, born 1833 in Orange County NC, later settled in Texas."
 bookToc: true
+aliases:
+  - /ancestors/roannfrances/
 ---
 
 <div class="ancestor-page">

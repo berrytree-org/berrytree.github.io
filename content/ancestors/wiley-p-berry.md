@@ -69,18 +69,18 @@ In 1932 Grandpa was elected County Commissioner for Orange County, North Carolin
 <ol class="children-list">
 
 <li class="child-entry has-page">
-  [1. William Eugene Berry](/documents/williameugeneberrync/)
-  Born Orange County, NC — eldest son
+  [1. William Eugene Berry](/ancestors/williameugeneberrync/)
+  Born September 1, 1896, Orange County, NC — Died September 30, 1984
 
-    Grandpa died at the home of his oldest son, Eugene Berry, on May 12, 1965.
+    Married **Pattie Alma McAdams** on June 6, 1921. Grandpa died at the home of his oldest son, Eugene Berry, on May 12, 1965.
 
 </li>
 
 <li class="child-entry">
-  2. Mary Elizabeth Berry
+  2. Mary Elizabeth (Maye) Berry
   Born August 23, 1899 — Died November 13, 1957
 
-    Known as Aunt Maye.
+    Married **Brodie Shakespeare Carr** on September 17, 1925. Known as Aunt Maye.
 
 </li>
 
@@ -96,18 +96,24 @@ In 1932 Grandpa was elected County Commissioner for Orange County, North Carolin
   [4. Sally Malena Berry](/ancestors/sallymalenaberrync/)
   Born July 20, 1908 — Died March 19, 2002
 
-    Ben Henderson's mother.
+    Married **Jesse Clyde Henderson** on September 22, 1928. Ben Henderson's mother.
 
 </li>
 
 <li class="child-entry has-page">
   [5. Woodrow Wilson Berry](/ancestors/woodrowwilsonberrync/)
   Born April 3, 1912 — Died May 3, 1989
+
+    Married **Ora Mae Murray** on July 7, 1936.
+
 </li>
 
 <li class="child-entry has-page">
   [6. Wiley Harold Berry](/ancestors/wileyharoldberrync/)
   Born March 9, 1914 — Died June 24, 2006
+
+    Married **Hilda Elizabeth Nichols** on December 27, 1934.
+
 </li>
 
 <li class="child-entry">

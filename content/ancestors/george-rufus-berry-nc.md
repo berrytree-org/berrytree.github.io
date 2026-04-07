@@ -1,7 +1,11 @@
 ---
 title: "George Rufus Berry NC"
 description: "George Rufus Berry (1829-1909), son of William Clarence Berry and Sally Bowles, from Orange County, NC, to Alabama and Texas."
+aliases:
+  - /ancestors/georgerufusberrync/
 ---
+
+{{< info-banner title="George Rufus Berry (1829–1909)" subtitle="Son of William Clarence Berry and Sally Bowles, from Orange County, NC, to Fayette County, Alabama, and Burnet County, Texas." >}}
 
 ## **George Rufus Berry, son of William Clarence Berry and Sally Bowles Berry**
 

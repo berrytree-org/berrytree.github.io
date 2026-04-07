@@ -3,6 +3,8 @@ title: "Request For Information"
 weight: 1
 ---
 
+{{< info-banner title="Request For Information" subtitle="Research inquiry about Berry family members in the 1850 Smith County, Tennessee census." >}}
+
 We are looking for descendents related to the following people (Most of the data for the people below was gathered from the 1850 census in Smith County, Tennessee)
 
 Name
@@ -58,22 +60,4 @@ Tennessee
 
 *Is known to have married Burton Marks 4/11/1860
 
-| **** |  |  |  |
-| --- | --- | --- | --- |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-
-* Indicates data collected outside the 1850 census
-											
-
+\* Indicates data collected outside the 1850 census

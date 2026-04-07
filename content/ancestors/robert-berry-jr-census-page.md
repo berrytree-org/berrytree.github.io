@@ -1,30 +1,31 @@
 ---
 title: "Robert Berry Jr. Census Page"
+description: "Census records for Robert Berry Jr. from 1790 Orange County, NC through 1840 Fayette County, Alabama."
 ---
 
+{{< info-banner title="Robert Berry Jr. — Census Records" subtitle="Census Listings from North Carolina and Alabama, 1790–1840" >}}
+
 Ancestors:
-<ol>
-	<li>Generation Robert and Mary Williamson Berry: Princess Anne County, Virginia</li>
-	<li>Generation  Robert and Elizabeth Cate Berry: Orange County, North Carolina.</li>
-</ol>
-<a href="/ancestors/1790censusindex/">Robert Berry Junior 1790 Census</a>
 
-<a href="/ancestors/1800-orange-county-nc-census/">Robert Berry Junior 1800 Census</a>
+1. Generation Robert and Mary Williamson Berry: Princess Anne County, Virginia
+2. Generation [Robert and Elizabeth Cate Berry](/ancestors/robert-berry-oc/): Orange County, North Carolina.
 
-<strong>Robert Berry Junior's 1810 Census in Person County, North  Carolina BELOW</strong>
+[Robert Berry Junior 1790 Census](/ancestors/1790censusindex/)
 
-<a href="/images/robert-berry-jr-1810.jpg"><img class="alignnone size-full wp-image-3977" src="/images/robert-berry-jr-1810.jpg" alt="Robert Berry Jr 1810" width="1753" height="2025" /></a>
+[Robert Berry Junior 1800 Census](/ancestors/1800-orange-county-nc-census/)
 
-<strong>Robert Berry Junior's 1830 Census, Fayette County, Alabama BELOW</strong>
+**[Robert Berry Junior's](/ancestors/robert-berry-jr/) 1810 Census in Person County, North Carolina BELOW**
 
-<a href="/images/robert-berry-jr.-1830-fayette-co-ala-.jpg"><img class="alignnone size-full wp-image-3978" src="/images/robert-berry-jr.-1830-fayette-co-ala-.jpg" alt="Robert Berry Jr. 1830 Fayette Co Ala" width="971" height="885" /></a>
+[![Robert Berry Jr. 1810 Person County NC Census](/images/robert-berry-jr-1810.jpg)](/images/robert-berry-jr-1810.jpg)
 
-<strong>Robert Berry Junior's 1840 Fayette County, Alabama Census BELOW</strong>
+**Robert Berry Junior's 1830 Census, Fayette County, Alabama BELOW**
 
-Robert Berry Jr. only listed himself and his wife Mary Waggoner Berry in this census
+[![Robert Berry Jr. 1830 Fayette County Alabama Census](/images/robert-berry-jr.-1830-fayette-co-ala-.jpg)](/images/robert-berry-jr.-1830-fayette-co-ala-.jpg)
 
-<a href="/images/robert-berry-junior-in-alabama-1840.jpg"><img class="alignnone size-full wp-image-3986" src="/images/robert-berry-junior-in-alabama-1840.jpg" alt="Robert Berry Junior in Alabama 1840" width="852" height="662" /></a>
+**Robert Berry Junior's 1840 Fayette County, Alabama Census BELOW**
 
- 
+Robert Berry Jr. only listed himself and his wife Mary Waggoner Berry in this census <!-- UNSOURCED -->
 
-<a href="/ancestors/robert-berry-jr-census-page/">Return to Top of Page</a>
+[![Robert Berry Jr. 1840 Fayette County Alabama Census](/images/robert-berry-junior-in-alabama-1840.jpg)](/images/robert-berry-junior-in-alabama-1840.jpg)
+
+[Return to Top of Page](#)

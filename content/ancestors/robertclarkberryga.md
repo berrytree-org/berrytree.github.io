@@ -33,7 +33,7 @@ bookToc: true
 - ——–**Gen 6** William Riley Berry (d. 1873)
 - ——–**Gen 6** [Robert Clark Berry](/ancestors/robertclarkberryga/)
 - ——–**Gen 6** Sarah Francis Leola Berry
-- ——–**Gen 6** [Emma Ailene Berry](/documents/williamaaronturleyga/) (1878–19??)
+- ——–**Gen 6** [Emma Ailene Berry](/ancestors/williamaaronturleyga/) (1878–19??)
 - ——–**Gen 6** Jason Miles Berry (d. 1880)
 - ——–**Gen 6** [Enoch Meril Berry](/ancestors/enoch-m-berry-page/) (1881–1961)
 - ——–**Gen 6** Mary Elizabeth Berry (1886–1887)

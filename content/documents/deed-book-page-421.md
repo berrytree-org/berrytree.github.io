@@ -2,4 +2,8 @@
 title: "Deed Book Page 421 Robert Berry Jr - land sold"
 ---
 
-<a href="/images/bokedpage421robertberryjr.jpg"><img class="alignnone size-full wp-image-1121" src="/images/bokedpage421robertberryjr.jpg" alt="bokedpage421robertberryjr" width="756" height="366" /></a>
+{{< info-banner title="Deed Book Page 421" subtitle="Robert Berry Jr.'s land sale record, Person County, North Carolina." >}}
+
+This deed book entry records Robert Berry Jr.'s land sale in Person County, North Carolina.
+
+{{< img-float src="/images/bokedpage421robertberryjr.jpg" alt="Deed Book Page 421 - Robert Berry Jr. land sale in Person County NC" >}}

@@ -191,60 +191,9 @@ Robert Berry & Mary Williamson Robert Berry & Mary Williamson's Children:
 
 Robert & Elizabeth Cate Berry's...
 
-### **[Berry Name Index Page 1](/ancestors/berrylist/)**
+### ~~Berry Name Index Page 1~~ *(Retired — see [Berry Family Name List](/ancestors/familynamelist/))*
 
-
-
-Berry Name Index Page 1
-
-
-Goto Index Page 2
-Goto Index Page 3
-Goto Index Page 4
-
-Page
-2nd Gen
-File Type
-Indexed Items
-
-
-
-
-
-
-
-
-1
-
-Generation 1
-1. Robert Berry 1730-1814 Orange
-County North Carolina
-10/4/007...
-
-### **[Berry Name Index Page 2](/ancestors/berrylistpage2/)**
-
-Berry Name Index Page 2
-Go to Index Page  1
-Go to Index Page 3
-Go to Index Page 4
-
-Page
-2nd Gen
-File Type
-Indexed Items
-
-
-2
-
-Plantation
-45. Location of Robert Berry
-Plantation and Cemetery NC
-11/3/007
-
-
-2
-
-1790...
+### ~~Berry Name Index Page 2~~ *(Retired — see [Berry Family Name List](/ancestors/familynamelist/))*
 
 ### **[Berry Wills and deeds from PAC 1691  TO 1755](/documents/berry-wills-and-deeds-from-pac-1691-to-1755/)**
 
@@ -394,7 +343,7 @@ Ancestors:
 
 Gen 3  David J. Berry  1774 ...
 
-### **[David J. Berry's Children](/ancestors/davidjchildren/)**
+### **[David J. Berry's Children](/ancestors/david-j-berry-sr/)**
 David J. and Mary Blalock Berry's eleven children
 Ancestors:
 Generation 1 Robert and Mary Williamson Berry
@@ -904,7 +853,7 @@ ANCESTORS
 	Generation  Robert and Elizabeth Cate Berry, Orange County, North Carolina.
 	Generation  David J...
 
-### **[Jesse Lee Berry's children](/ancestors/jesseleechildren/)**
+### **[Jesse Lee Berry's children](/ancestors/jesseleeberry/)**
 Jesse Lee and Nancy Ann Henry Berry's Children
 ANCESTORS
 
@@ -1050,7 +999,7 @@ Generation 3 William Berry and Hannah Cate
 
 Generation 4 Thomas Person Berry and Sarah...
 
-### **[Joshua and Nancy Berry's Children](/ancestors/joshuachildren/)**
+### **[Joshua and Nancy Berry's Children](/ancestors/joshua-berry-sr/)**
 Joshua and Nancy Ellison Berry's Children
 ANCESTORS
 
@@ -1170,7 +1119,7 @@ Adams, Aldridge, Alexander, Alford, Allen, Alwin, Anderson, Ashley, Awtrey, Bake
 ### **[Land Grant to Robert Berry Jr. by President Monroe](/documents/land-grant-to-robert-berry-jr/)**
 
 
-### **[Lela Willie Virginia Guthrie](/documents/lelawillievirginiaguthrie/)**
+### **[Lela Willie Virginia Guthrie](/ancestors/lelawillievirginiaguthrie/)**
 Lela Willie Virginia Guthrie
 ANCESTORS
 
@@ -1209,7 +1158,7 @@ Generation 3 Joshua Berry Jr.and Anna Thorpe Berry Ohio
 
 LEWIS BERRY was...
 
-### **[Location of Fiddleton Cemetery](/ancestors/location-fiddleton-cemetery/)**
+### **[Location of Fiddleton Cemetery](/ancestors/fiddletoncemetery/)**
 This is the ROBERT BERRY Fiddleton Cemetery
 
 
@@ -1515,7 +1464,7 @@ Richard's Parents Roger and Ann Foster Williamson
 
 RICHARD WILLIAMSON married MARY KEMPE (daughter of George and Ann Kempe ...
 
-### **[Robert and Elizabeth Everett Berry's Children](/ancestors/djbrbchildren/)**
+### **[Robert and Elizabeth Everett Berry's Children](/ancestors/robertdjberry/)**
 Robert and Elizabeth Everett Berry's Children
 ANCESTORS
 
@@ -1540,7 +1489,7 @@ Robert Berry married Elizabeth Cate in 1857
 Ancestors:
 Robert Berry's oldest known Ancestors ...
 
-### **[Robert Berry (OC) Character](/ancestors/robert-berry-oc-character/)**
+### **[Robert Berry (OC) Character](/ancestors/robert-berry-oc/)**
 In my research I have come to know a lot about the man, Our Robert Berry who made a life for himself and his family in Orange County, North Carolina.
 
 Robert had a very good start in life when he inherited the property in Princess Anne County Virginia...
@@ -1605,7 +1554,7 @@ Robert Berry Junior 1800 Census
 
 Robert ...
 
-### **[Robert Berry Jr.'s Children](/ancestors/rbjchildren/)**
+### **[Robert Berry Jr.'s Children](/ancestors/robert-berry-jr/)**
 Robert Berry Jr and Mary Camp Berry's children
 ANCESTORS
 
@@ -2057,7 +2006,7 @@ ANCESTORS
 	Generation  Robert and Elizabeth Cate Berry: Orange County, North Carolina.
 	Generation  William and H...
 
-### **[Wiley P. Berry's Children](/ancestors/wpbsrchildren/)**
+### **[Wiley P. Berry's Children](/ancestors/wiley-p-berry/)**
 Wiley P. And Ida Ann Wilson Berry's Children
 ANCESTORS
 
@@ -2071,7 +2020,7 @@ Generation 4 Thomas Person Berry and Sarah Lunsford
 
 Generation...
 
-### **[William Aaron Turley Ga](/documents/williamaaronturleyga/)**
+### **[William Aaron Turley Ga](/ancestors/williamaaronturleyga/)**
 William Aaron Turley, son of Mary J. Berry and Nathan Turley
 ANCESTORS
 
@@ -2116,7 +2065,7 @@ Blow is a list of items that Robert Berry Sen, and his family bought at William 
 
 	    ...
 
-### **[William Clarence Berry NC, ALA, TX](/documents/williamclarenceberrync/)**
+### **[William Clarence Berry NC, ALA, TX](/ancestors/williamclarenceberrync/)**
 William Clarence Berry, son of William and Hannah Cate Berry Berry
 ANCESTORS
 
@@ -2127,7 +2076,7 @@ Generation 2 Robert and Elizabeth Cate Berry NC
 Generation 3 William and Hannah Cate Berry NC
 WILLIAM CLARENCE BERRY...
 
-### **[William Edgar Berry Alabama](/documents/william-edgar-berry-alabama/)**
+### **[William Edgar Berry Alabama](/ancestors/william-edgar-berry-alabama/)**
 Generation 1. Robert and Mary Williamson Berry Princess Anne County, VA.
 
 Generation 2. Robert and Elizabeth Cate Berry Orange County, NC
@@ -2136,7 +2085,7 @@ Generation 3. David J. and Mary Blaylock Berry Orange County, NC and Georgia.
 
 Generation 4 . Robert and ...
 
-### **[William Eugene Berry NC](/documents/williameugeneberrync/)**
+### **[William Eugene Berry NC](/ancestors/williameugeneberrync/)**
 William Eugene Berry, was the son of Wiley P. Berry Sr
 ANCESTORS
 
@@ -2144,7 +2093,7 @@ ANCESTORS
 	Generation  Robert and Elizabeth Cate Berry, Orange County, North Carolina.
 	Generation  William a...
 
-### **[William G. Berry](/documents/williamgsodavid/)**
+### **[William G. Berry](/ancestors/williamgsodavid/)**
 William G. Berry is the son of David J. and Mary Blalock Berry
 ANCESTORS
 
@@ -2156,7 +2105,7 @@ Generation 2 David J. and Mary Blalock Berry
 
 William G. Berry is the son...
 
-### **[William H Berry NC](/documents/williamhberrync/)**
+### **[William H Berry NC](/ancestors/williamhberrync/)**
 William H Berry, Was Son Of Thomas Person Berry
 
 ANCESTORS
@@ -2168,7 +2117,7 @@ Generation 2 William and Hannah Cate Berry
 Generation 3 Thomas Person and Sarah Lunsford Berry
 WILLIAM H BERRY  was born in 1836. He grew ...
 
-### **[William Henry Berry GA](/documents/william-henry-berry-ga/)**
+### **[William Henry Berry GA](/ancestors/william-henry-berry-ga/)**
 Generation 1. Robert and Mary Williamson Berry Princess Anne County, VA.
 
 Generation 2. Robert and Elizabeth Cate Berry Orange County, NC
@@ -2177,7 +2126,7 @@ Generation 3. David J. and Mary Blaylock Berry Orange County, NC and Georgia.
 
 Generation 4 . Robert and ...
 
-### **[William Lamar Berry](/documents/williamlamar/)**
+### **[William Lamar Berry](/ancestors/williamlamar/)**
 William Lamar Berry, Son Of Albert Edgar And Ella Clania Berry
 ANCESTORS
 
@@ -2185,14 +2134,14 @@ ANCESTORS
 	Generation  Robert and Elizabeth Cate Berry: Orange County, North Carolina.
 	Generation  David J...
 
-### **[William Oscar Berry GA](/documents/william-oscar-berry-ga/)**
+### **[William Oscar Berry GA](/ancestors/william-oscar-berry-ga/)**
 ANCESTORS
 
 	Generation Robert ans Mary Williamson Berry, Princess Anne County, Virginia.
 	Generation  Robert and Elizabeth Cate Berry, Orange County, North Carolina.
 	Generation  David J. and Mary Blaylock Berry, Orange County, North Carolina. &a...
 
-### **[William Thomas Berry Jr. Ala](/documents/williamtberryjrala/)**
+### **[William Thomas Berry Jr. Ala](/ancestors/williamtberryjrala/)**
 William Thomas Berry Jr., son of William Thomas Sr. and Louisa Bertha Minns
 ANCESTORS
 
@@ -2200,7 +2149,7 @@ ANCESTORS
 	Generation  Robert and Elizabeth Cate Berry: Orange County, North Carolina.
 	Generation ...
 
-### **[William Thomas Berry Sr.](/documents/williamtberrysrala/)**
+### **[William Thomas Berry Sr.](/ancestors/williamtberrysrala/)**
 William Thomas Berry Sr., son of Henry Bradford Berry and Malissa Jeffries
 ANCESTORS
 
@@ -2212,7 +2161,7 @@ Generation 3 Thompson and Roseann Gutman Berry
 
 Generation 4 Henry...
 
-### **[William Thomas Maners](/documents/william-thomas-maners/)**
+### **[William Thomas Maners](/ancestors/william-thomas-maners/)**
 Ancestors:
 
 	Generation Robert and Mary Williamson Berry, Princess Anne County. Virginia.
@@ -2229,7 +2178,7 @@ Ancestors:
 	1691-1755 by Anne Mailing
 	The first date shown in the will is the date it was written ...
 
-### **[Willie Adolphus Berry NC](/documents/willieadolphysberrync/)**
+### **[Willie Adolphus Berry NC](/ancestors/willieadolphysberrync/)**
 Willie Adolphus Berry, was the son of John Robert Berry Orange County, NC
 ANCESTORS
 

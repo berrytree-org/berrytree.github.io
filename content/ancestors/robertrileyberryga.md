@@ -56,7 +56,7 @@ Robert Riley Berry was born June 10, 1840 in Fayette County, Georgia. <!-- UNSOU
 </li>
 
 <li class="child-entry">
-  <div class="child-name">5. <a href="/documents/williamaaronturleyga/">Emma Ailene Berry</a></div>
+  <div class="child-name">5. <a href="/ancestors/williamaaronturleyga/">Emma Ailene Berry</a></div>
   <div class="child-dates">1878–19??</div>
 </li>
 

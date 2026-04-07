@@ -31,7 +31,7 @@ bookToc: true
 - **Gen 6** William Riley Berry died 1873 <!-- UNSOURCED -->
 - **Gen 6** [Robert Clark Berry](/ancestors/robert-clark-berry-ga/) <!-- UNSOURCED -->
 - **Gen 6** Sarah Francis Leola Berry <!-- UNSOURCED -->
-- **Gen 6** [Emma Ailene Berry](/documents/williamaaronturleyga/) 1878-19?? <!-- UNSOURCED -->
+- **Gen 6** [Emma Ailene Berry](/ancestors/williamaaronturleyga/) 1878-19?? <!-- UNSOURCED -->
 - **Gen 6** Jason Miles Berry died 1880 <!-- UNSOURCED -->
 - **Gen 6** [Enoch Meril Berry 1881 - 1961](/ancestors/enoch-m-berry-page/) <!-- UNSOURCED -->
 - **Gen 6** Mary Elizabeth Berry 1886 - 1887 <!-- UNSOURCED -->

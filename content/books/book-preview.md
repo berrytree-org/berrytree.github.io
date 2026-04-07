@@ -2,4 +2,12 @@
 title: "Book Preview"
 ---
 
-<p><a href="/images/page50.png"><img class="alignnone size-full wp-image-1736" src="/images/page50.png" alt="page50" width="2720" height="3520" /></a><a href="/images/page52.png"><img class="alignnone size-full wp-image-1737" src="/images/page52.png" alt="page52" width="2720" height="3520" /></a><a href="/images/page53.png"><img class="alignnone size-full wp-image-1738" src="/images/page53.png" alt="page53" width="2720" height="3520" /></a><a href="/images/page50.png">To order just click order book --oO </a><strong><a href="https://www.lulu.com/shop/benjamin-henderson/robert-and-elizabeth-cate-berrys-family/paperback/product-21990460.html">Order Book</a></strong> Oo-- <strong>Just $17.95</strong></p>
+{{< info-banner title="Book Preview" subtitle="Preview pages from Our Berrys in Frontier America." >}}
+
+{{< img-float src="/images/page50.png" alt="Book preview page 50" side="none" link="/images/page50.png" >}}
+
+{{< img-float src="/images/page52.png" alt="Book preview page 52" side="none" link="/images/page52.png" >}}
+
+{{< img-float src="/images/page53.png" alt="Book preview page 53" side="none" link="/images/page53.png" >}}
+
+To order just click order book -- **[Order Book](https://www.lulu.com/shop/benjamin-henderson/robert-and-elizabeth-cate-berrys-family/paperback/product-21990460.html)** -- **Just $17.95**

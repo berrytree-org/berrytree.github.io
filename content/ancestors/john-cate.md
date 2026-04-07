@@ -3,6 +3,8 @@ title: "John Cate"
 description: "John Cate of Prince George County, Virginia, married Margery Lawrence and settled in Orange County, North Carolina, where his daughter Elizabeth married Robert Berry."
 weight: 8
 bookToc: true
+aliases:
+  - /ancestors/catecrest/
 ---
 
 
@@ -20,6 +22,9 @@ bookToc: true
 >}}
 
 ## **The Story of John Cate**
+
+{{< img-float src="/images/clanbadgecates.jpg" alt="Cates family crest" side="right" >}}
+Cates Crest
 
 John Cate was born in Prince George County, Virginia. <!-- UNSOURCED --> He married Margery Lawrence in Virginia. <!-- UNSOURCED --> They had five children who were all born in Virginia. John Cate and two of his three sons, Joshua and Thomas Cate, came to North Carolina at the same time [Robert Berry](/ancestors/robert-berry-oc/) did or very shortly before. Thomas Cate was a chain carrier for Robert Berry's December 3, 1753, Granville Land Grant Survey. John Cate listed in the 1755 Tax List with only two sons. John and Margery Cate witnessed for Robert Berry in the court case Berry against Gibbs in March of 1757. Robert Berry married [Elizabeth Cate](/ancestors/elizabethcate/), John and Margery Lawrence Cate's daughter, about 1757. Robert and Elizabeth's first baby, a daughter, Mary Berry, was born in 1758.
 

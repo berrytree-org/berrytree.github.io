@@ -1,6 +1,8 @@
 ---
 title: "Dora Ellen Turley Ga"
 description: "Dora Ellen Turley Pace, daughter of Nathan and Mary Jori Berry Turley, Milton County, Georgia."
+aliases:
+  - /ancestors/dora-ellen-turley-home/
 ---
 
 ## **Dora Ellen Turley, daughter of Nathan and Mary Jori Berry Turley**
@@ -15,9 +17,9 @@ description: "Dora Ellen Turley Pace, daughter of Nathan and Mary Jori Berry Tur
 
 **DORA ELLEN TURLEY** born April 11, 1874 in Milton County Georgia and died June 6, 1915 after giving birth to twin daughters. <!-- UNSOURCED --> She married George Robert Pace before 1892. <!-- UNSOURCED --> Dora Ellen Turley Pace is buried in the Holly Springs Cemetery, Cobb County Georgia. <!-- UNSOURCED -->
 
-{{< img-float src="/images/dorapacehomegasmall.jpg" alt="George and Dora Ellen Turley Pace family home in Georgia" side="right" link="/ancestors/dora-ellen-turley-home/" >}}
+{{< img-float src="/images/dorapacehomegasmall.jpg" alt="George and Dora Ellen Turley Pace family home in Georgia" side="right" link="/images/dora-turleys-home-large.jpg" size="50%" caption="George Robert and Dora Ellen Turley Pace Home — Click for full size" >}}
 
-George and Dora Ellen Turley Pace had 11 children but not all of them lived to be adults. The picture on the right is a picture of the Pace family around 1910. Click on the picture to view a larger image.
+George and Dora Ellen Turley Pace had 11 children but not all of them lived to be adults. The picture on the right is a picture of the Pace family around 1910.
 
 **Children:**
 

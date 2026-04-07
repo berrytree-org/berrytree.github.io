@@ -2,65 +2,67 @@
 title: "Relatives Found in PAC Deed Book"
 ---
 
-Names of  Relatives
+{{< info-banner title="Relatives Found in PAC Deed Book" subtitle="Berry, Kempe, Williamson, and Carraway family entries from Princess Anne County deed books." >}}
+
+Names of Relatives
 
 George and Mary Hutchinson Kempe's Children;
-<ol>
-	<li>Ann Kempe</li>
-	<li>Mary Kempe</li>
-	<li>Thomas Kempe married Sally Thorowgood 17 Jul 1779 (PAC)</li>
-	<li>Elizabeth Kempe</li>
-	<li>Sarah Kempe</li>
-	<li>James Kempe married Frances [Mrs] Shepherd 23 Jun 1762 (PAC)</li>
-	<li>John Kempe</li>
-</ol>
+
+1. Ann Kempe
+2. Mary Kempe
+3. Thomas Kempe married Sally Thorowgood 17 Jul 1779 (PAC)
+4. Elizabeth Kempe
+5. Sarah Kempe
+6. James Kempe married Frances [Mrs] Shepherd 23 Jun 1762 (PAC)
+7. John Kempe
+
 Richard Williamson married Mary Kempe- Their Children;
-<ol>
-	<li>Mary Williamson married Robert Berry (PAC)</li>
-	<li>John Williamson</li>
-	<li>Bartholomew Williamson</li>
-	<li>George Williamson</li>
-	<li>Sarah Williamson married Matthew Mathias</li>
-	<li>Ann Williamson married Hugh Whitehurst</li>
-</ol>
+
+1. Mary Williamson married Robert Berry (PAC)
+2. John Williamson
+3. Bartholomew Williamson
+4. George Williamson
+5. Sarah Williamson married Matthew Mathias
+6. Ann Williamson married Hugh Whitehurst
+
 John Carraway married Ann Foster Williamson, Roger Williamson Widow, Their children;
-<ol>
-	<li>Mary Carraway married Lancaster Lovett</li>
-	<li>Elizabeth Carraway married Nichols</li>
-	<li>John Carraway married Ann Kempe</li>
-</ol>
-Names of Friends and Relatives in the deeds listed below
-<ul>
-	<li>Camp</li>
-	<li>Wishart</li>
-	<li>Whitehurst</li>
-	<li>Lawrence</li>
-	<li>Lovette</li>
-	<li>Matthias</li>
-	<li>Keeling</li>
-</ul>
-Surnames that came to  Orange County North Carolina
-<ul>
-	<li>Aldredge</li>
-	<li>Robinson, William; Robert Berry's (OC) 1812 will was signed by a William Robinson</li>
-	<li>Gibbs Robert Berry (OC) had a court case against a Gibbs</li>
-	<li>Kinion</li>
-	<li>Moseley</li>
-	<li>Mathew Mathias</li>
-	<li>Henry Gould</li>
-	<li>John Tenant</li>
-</ul>
-ALDRIGE, John, gentleman, of Gray’s Inn in the County of Middlesex, Great Britain, deposes that he was at diverse times in the months of August, September and October 1783 present with Sam-Grantors 3 Samuel Beall of Williamsburg, Virginia, North America, merchant, and William Shermer, now of Kentish Town, near London, Middlesex County, Great Britain, co-partners in the business of transporting people on a ship called Neptune, sworn to R. Clark, Mayor, at the Guildhall in the City of London; signed on 12 February 1785 by John Aldrige, notarized by John Evans, Notary, witnessed by Nicholas Watkins and Patrick Parker; recorded 12 May 1785, DB19: 249 [279-281].
+
+1. Mary Carraway married Lancaster Lovett
+2. Elizabeth Carraway married Nichols
+3. John Carraway married Ann Kempe
+
+Names of Friends and Relatives in the deeds listed below
+
+- Camp
+- Wishart
+- Whitehurst
+- Lawrence
+- Lovette
+- Matthias
+- Keeling
+
+Surnames that came to Orange County North Carolina
+
+- Aldredge
+- Robinson, William; Robert Berry's (OC) 1812 will was signed by a William Robinson
+- Gibbs Robert Berry (OC) had a court case against a Gibbs
+- Kinion
+- Moseley
+- Mathew Mathias
+- Henry Gould
+- John Tenant
+
+ALDRIGE, John, gentleman, of Gray's Inn in the County of Middlesex, Great Britain, deposes that he was at diverse times in the months of August, September and October 1783 present with Sam-Grantors 3 Samuel Beall of Williamsburg, Virginia, North America, merchant, and William Shermer, now of Kentish Town, near London, Middlesex County, Great Britain, co-partners in the business of transporting people on a ship called Neptune, sworn to R. Clark, Mayor, at the Guildhall in the City of London; signed on 12 February 1785 by John Aldrige, notarized by John Evans, Notary, witnessed by Nicholas Watkins and Patrick Parker; recorded 12 May 1785, DB19: 249 [279-281].
 
 BERRY, Richard and his wife Catherine to Mark Moore, dated 10 January 1787; for £100, 50 acres adjoining the lands of Tully Barnes, Charles Whitehurst and John Kenion; signed by RichardBerry (his mark) and Katherine Berry (her mark), witnessed byJohn Ackiss, Tully Moseley, Joshua Whitehurst and JonathanRoberts; recorded 13 April 1787, DB20: 166 [215-218].
 
-BERRY, Richard and his wife Catherine to Tully Barnes, dated10 August 1786; for £18, 15 acres adjoining lands of George Batten and Tully Moseley; [only page one of deed  vailable both inclerk’s copy and on microfilm; page two overlaid with secondpage of deed of Jesse and Mary Hill]; DB20: 172 [228].
+BERRY, Richard and his wife Catherine to Tully Barnes, dated10 August 1786; for £18, 15 acres adjoining lands of George Batten and Tully Moseley; [only page one of deed  vailable both inclerk's copy and on microfilm; page two overlaid with secondpage of deed of Jesse and Mary Hill]; DB20: 172 [228].
 
 BERRY, Willoughby and his wife Mary to William Capps, dated23 March 1786; for £90, 70 acres bounded by lands of Tully Barnes, Joel Corbell and Josiah Stiring; signed by Willoughby Berry
 
-COMMONWEALTH of Virginia to John Hancock and Charles Williamson, dated 14 August 1784; a Commission, to personally go to Sally Scarborough Kempe, widow of Thomas Kempe, who cannot conveniently come to court, to confirm her acknowledgement of an Indenture in County of Princess Anne near  Kempsville dated 14 May 1784 [DB 19: 161-163, Kempe to Singleton] and relinquishment of her future rights; signed by E. H. Moseley, Clerk of Court; recorded 14 August 1784, DB19: 160.
+COMMONWEALTH of Virginia to John Hancock and Charles Williamson, dated 14 August 1784; a Commission, to personally go to Sally Scarborough Kempe, widow of Thomas Kempe, who cannot conveniently come to court, to confirm her acknowledgement of an Indenture in County of Princess Anne near  Kempsville dated 14 May 1784 [DB 19: 161-163, Kempe to Singleton] and relinquishment of her future rights; signed by E. H. Moseley, Clerk of Court; recorded 14 August 1784, DB19: 160.
 
-COMMONWEALTH of Virginia to Thomas Kempe and John Ghiselin, dated 23 October 1789; a Power of Attorney to receive Mary Black’s acknowledgement of sale of property and relinquishment of dower [DB21: 132 [258-259], Black to Valentine]; signed by Thomas Kempe and John Ghiselin; recorded 2 November 1789, DB21: 133 [260-261].
+COMMONWEALTH of Virginia to Thomas Kempe and John Ghiselin, dated 23 October 1789; a Power of Attorney to receive Mary Black's acknowledgement of sale of property and relinquishment of dower [DB21: 132 [258-259], Black to Valentine]; signed by Thomas Kempe and John Ghiselin; recorded 2 November 1789, DB21: 133 [260-261].
 
 GIBBS, John, of Parish of Lynnhaven, to his son Jonathan, dated 20 August 1784; for natural affection, one negro boy named Harry and personal property, and to his daughter Anne, one negro girl named Betty and personal property; signed by John Gibbs, witnessed by John Hopkins, Matthias Hopkins and Sarah Hopkins (her mark); recorded 14 October 1784, DB19: 193.
 
@@ -76,7 +78,7 @@ KEMPE, Thomas to Peter Singleton, dated 4 March 1786; for £213 which Thomas Kem
 
 KEMPE, Thomas, gentleman, to William Petty, dated 11 October 1783; for £4, 10 acres on north side of Old Currituck Inlet, known as the Wash Tract, as Tenant in Common with said Thomas Kempe, Anthony Lawson, Thomas Walke and others; signed by Thomas Kempe, witnessed by John Hancock, William McClenahan and William Robinson; recorded 8 April 1784, DB19: 94-95.
 
-KEMPE, Thomas and his wife Sally to Jacob Valentine, dated __ September 1785; for £1500, 551 acres known as the Holland Tract, bounded by Charles Williamson's land, ditch to North Landing Road, Peter Whitehurst's corner, McCabe's land, Mathias’ land and Hutching's land; signed by Thomas Kempe and Sally S. Kempe, witnessed by John Ackiss, William Ballard, Dennis Dawley, Josiah Valentine, Simon Marvault and Robert Kays; recorded 8 December 1785, DB20: 4 [6-7].
+KEMPE, Thomas and his wife Sally to Jacob Valentine, dated __ September 1785; for £1500, 551 acres known as the Holland Tract, bounded by Charles Williamson's land, ditch to North Landing Road, Peter Whitehurst's corner, McCabe's land, Mathias' land and Hutching's land; signed by Thomas Kempe and Sally S. Kempe, witnessed by John Ackiss, William Ballard, Dennis Dawley, Josiah Valentine, Simon Marvault and Robert Kays; recorded 8 December 1785, DB20: 4 [6-7].
 
 KEMPE, Thomas and his wife Sally to William White, dated 14 May 1784; for £220, 28 acres adjoining the Town of Kempsville, bounded by lands of Peter Singleton, said White, James Braithwait, Jacob Valentine, John Moseley, deceased, Col. Tho-70 Princess Anne County Deeds 1783-1790 mas Walker, Mr. Wishart, John Smith, James Carraway, main road leading to Eastern Shore, Anthony Walker to the middle of a branch and Charles Sayer; signed by Thomas Kempe and Sally S. Kempe, witnessed by Thomas Walke, John James Jr., Henry Woodhouse Jr. and James Thoroughgood; recorded 13 August 1784, DB19: 161-163.
 
@@ -88,27 +90,21 @@ LAWRENCE, Joshua, Thomas Scarborough Thorowgood and Jesse Berry to Patrick Henry
 
 MOSELEY, Samuel, son of Colonel Edward Hack Moseley, deceased, to Mathew Godfrey, cordwainer, son of William Godfrey, deceased, dated 14 December 1786; for £65, 60 acres, 50 acres of which said Edward Hack Moseley purchased from Lemuel Fentress, deceased, bounded by the lands of Whitehurst, Capt. Veale (formerly Colonel Crawford's land) and 10 acres of which said Edward Hack Moseley purchased from Thomas Whitehurst Sr. and Thomas Whitehurst Jr.; signed by Samuel Moseley, witnessed by E. H. Moseley, John Cornick and William Scantling; recorded 14 December 1786, DB20: 150 [182-184].
 
-ROBINSON, James to Robert Kays, dated 12 June 1788; for £100, 97 acres ± in Back Bay, bounded by land of Caleb Buckits, formerly Roger Williamson’s, Mr. Antony Walke’s, formerly the land of Col. Anthony Walke, north side of Sanford’s Creek, being a corner of 15¼ acres of marsh the said Col. Anthony Walke bought from John Thorowgood by Deed dated 2 May 1768 and said Walke’s land formerly of Roger Williamson and Caleb Buckits, the same land that John Land bought from John Thorowgood by Deed dated 5 May 1768, which he, said Land, sold to Capt. Tully Robinson by Deed dated 3 April 1771 and he, Tully Robinson, devised to said James Robinson; signed by James Robinson, witnessed by Edward Rice, Thomas Wishart Jr., Tully Moseley and Jesse Morris; recorded 12 June 1788, DB21: 25 [38-
-
-39]
+ROBINSON, James to Robert Kays, dated 12 June 1788; for £100, 97 acres ± in Back Bay, bounded by land of Caleb Buckits, formerly Roger Williamson's, Mr. Antony Walke's, formerly the land of Col. Anthony Walke, north side of Sanford's Creek, being a corner of 15¼ acres of marsh the said Col. Anthony Walke bought from John Thorowgood by Deed dated 2 May 1768 and said Walke's land formerly of Roger Williamson and Caleb Buckits, the same land that John Land bought from John Thorowgood by Deed dated 5 May 1768, which he, said Land, sold to Capt. Tully Robinson by Deed dated 3 April 1771 and he, Tully Robinson, devised to said James Robinson; signed by James Robinson, witnessed by Edward Rice, Thomas Wishart Jr., Tully Moseley and Jesse Morris; recorded 12 June 1788, DB21: 25 [38-39]
 
 WHITE, William from Thomas Kempe and his wife Sally, dated 14 May 1784; for £220, 28 acres adjoining the Town of Kempsville, bounded by lands of Peter Singleton, said White, James Braithwait, Jacob Valentine, John Moseley, deceased, Col. Thomas Walker, Mr. Wishart, John Smith, James Carraway, main road leading to Eastern Shore, Anthony Walker to the middle of a branch and Charles Sayer; signed by Thomas Kempe and Sally S. Kempe, witnessed by Thomas Walke, John James Jr., Henry Woodhouse Jr. and James Thoroughgood; recorded 13 August 1784, DB19: 161-163.
 
 WHITE, William, George Kelly and John Thoroughgood Jr., gentleman, trustees, from William Robinson, gentleman, dated 28 July 1787; William Robinson in debt to Richard Evers Lee of Norfolk for £243 in gold and silver; collateral in a tract of land containing 500 acres joining lands of Simon Stone and the Lynnhaven River, formerly the property of William Robinson, given to his son William and descended to his son William Robinson; [no witnesses recorded]; recorded 23 October 1787, DB20: 228 [326-328].WHITEHEAD, John Sr. from James Lovitt, dated 11 August 1784; for £15, a piece of swamp land near the Great Swamp bounded by lands of Michael Fentress and Caleb Land; signed by James Lovitt, witnessed by William Black, John Lovitt and Richard Edwards; recorded 12 August 1784, DB19: 170-171.
 
-WHITEHURST, Charles from Batson Murden, dated 22 August 1788; for £30, one negro wench called Nann; signed by Batson Murden, witnessed by A. Murphy, Henry Murden and Edward Murphy (his mark); recorded 11 September 1788, DB21: 53 [85-
+WHITEHURST, Charles from Batson Murden, dated 22 August 1788; for £30, one negro wench called Nann; signed by Batson Murden, witnessed by A. Murphy, Henry Murden and Edward Murphy (his mark); recorded 11 September 1788, DB21: 53 [85-86].
 
-86].
-
-WHITEHURST, Charles from John Murden, dated 21 August 1788; for £3, 20 acres ± in Pungo, bounded by lands of Jesse Seneca to the North River, Tully Barnes and William Capps; signed by John Murden, witnessed by Avey Capps (his mark), Pimmy Axstead and Benjamin Capps; recorded 11 September 1788, DB21: 54
-
-[86-87].
+WHITEHURST, Charles from John Murden, dated 21 August 1788; for £3, 20 acres ± in Pungo, bounded by lands of Jesse Seneca to the North River, Tully Barnes and William Capps; signed by John Murden, witnessed by Avey Capps (his mark), Pimmy Axstead and Benjamin Capps; recorded 11 September 1788, DB21: 54 [86-87].
 
 WHITEHURST, Charles from Josiah Stiring and his wife Frances, dated 10 April 1786; for £120, 73¼ acres bounded by the lands of John Senecca, Willoughby Berry, Tully Barnes, Richard Berry and Moses Brown; signed by Josiah Stiring and Frances Stiring (her mark), witnessed by Tully Moseley, John Morriss, Richard Whitehurst (his mark), James Nimmo, Jonathan Bonney and Tully Williamson (his mark); recorded 14 September 1786, DB20: 99 [156-158].
 
 WHITEHURST, Elizabeth from Jonathan Ackiss and his wife Lydia, dated 10 June 1787; for £100, 45 acres, part of the land that Francis Ackiss bought from Joshua Matthias, to be laid on the north part of a tract and parcel of land deeded from Joshua Matthias to Francis Ackiss where bounds more fully appear; signed by Jonathan Ackiss and Lyddia Ackiss, witnessed by Nancy Ackiss (her mark), Francis Ackiss and Elizabeth Jolliff (her mark); recorded 12 June 1788, DB21: 34 [55-56].
 
-WHITEHURST, Jonathan, son of Robert Whitehurst, deceased from Joshua Williamson, one of the executors of Robert Williamson, deceased, and William Norris and his wife Mary, co-executrix with said Joshua, dated 17 April 1784; for £402, 270 acres ± on the Western Shore of Princess Anne County, Virginia, sold at public auction to Jonathan Whitehurst to settle Estate of William Biddle of Norfolk County, Virginia, land more clearly described in William Biddle’s Will in records of Norfolk County; signed by Joshua Williamson, William Norris and Mary Norris, witnessed by John Phillips Biddle, Enoch Whitehurst (his mark) and William Hunter; recorded 13 May 1784, DB19: 120-121.
+WHITEHURST, Jonathan, son of Robert Whitehurst, deceased from Joshua Williamson, one of the executors of Robert Williamson, deceased, and William Norris and his wife Mary, co-executrix with said Joshua, dated 17 April 1784; for £402, 270 acres ± on the Western Shore of Princess Anne County, Virginia, sold at public auction to Jonathan Whitehurst to settle Estate of William Biddle of Norfolk County, Virginia, land more clearly described in William Biddle's Will in records of Norfolk County; signed by Joshua Williamson, William Norris and Mary Norris, witnessed by John Phillips Biddle, Enoch Whitehurst (his mark) and William Hunter; recorded 13 May 1784, DB19: 120-121.
 
 WILLIAMSON, Charles from James Lovette, dated 28 July 1787; for £50/6/- plus 5 shillings at time of delivery, 150 acres bounded by the lands of Thomas and Adam Lovette; signed by James Lovitt; witnessed by Caleb Boush, Thomas Wishart Jr., Mitchell Thorowgood, A. Murphy and Adam Lovett; recorded 10 January 1788; DB20: 239 [341-342].
 

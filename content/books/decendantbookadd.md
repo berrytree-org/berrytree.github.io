@@ -2,45 +2,47 @@
 title: "Descendant Book Information"
 ---
 
-<strong>Our ancestors home, Orange County, North Carolina</strong>
+{{< info-banner title="Descendant Book Information" subtitle="Information about the Berry family descendant book series and how to contribute." >}}
 
-<strong>Robert Berry's Descendant Book</strong>
+**Our ancestors home, Orange County, North Carolina**
 
-<strong>Seven Generations Of Robert And Mary Williamson Berry's Family</strong>
+**Robert Berry's Descendant Book**
 
-<strong>From 1620 through 1920.</strong>
-<h3>JANUARY, 2 2015</h3>
-<strong>"SIX GENERATIONS OF ROBERT and ELIZABETH CATE BERRY'S FAMILY FROM 1730 TO 1920</strong>
+**Seven Generations Of Robert And Mary Williamson Berry's Family**
+
+**From 1620 through 1920.**
+
+## **JANUARY, 2 2015**
+
+**"SIX GENERATIONS OF ROBERT and ELIZABETH CATE BERRY'S FAMILY FROM 1730 TO 1920**
 
 FIRST EDITION
-<strong>
-<strong>THIS SIX GENERATION BOOK OF ROBERT AND ELIZEBETH CATE BERRY'S TEN CHILDREN WILL BE PUBLISHED BY A PROFESSIONAL SELF PUBLISHING BOOK COMPANY.
-It will be published on 8 1/2" by 11 1/2" inexpensive paper, and as a paperback. This will reduce the cost of the First Edition. </strong></strong>
 
-<strong>I will add the price here after negotiations are complete.</strong>
+**THIS SIX GENERATION BOOK OF ROBERT AND ELIZEBETH CATE BERRY'S TEN CHILDREN WILL BE PUBLISHED BY A PROFESSIONAL SELF PUBLISHING BOOK COMPANY. It will be published on 8 1/2" by 11 1/2" inexpensive paper, and as a paperback. This will reduce the cost of the First Edition.**
 
-<strong>The purpose for this approach is to allow EACH of YOU as a ROBERT BERRY DESCENDANT the chance to review,recomend necessary changes, and to correct any errors before the final book is published
-It is vertually imposible to write a genealogy book of this scope without errors.</strong>
+**I will add the price here after negotiations are complete.**
 
-By doing research this way you will help me write <strong>a Second Edition of this book</strong> that will be more accurate and serve the needs of our future generations so much better.
+**The purpose for this approach is to allow EACH of YOU as a ROBERT BERRY DESCENDANT the chance to review, recomend necessary changes, and to correct any errors before the final book is published. It is vertually imposible to write a genealogy book of this scope without errors.**
+
+By doing research this way you will help me write **a Second Edition of this book** that will be more accurate and serve the needs of our future generations so much better.
 
 Any eight or later generation data sent to me now will be placed in my personal archive but will not appear in the second edition.
 
 This book will make a very reliable third edition possible in about 50 to 75 years.
 
-<strong>SECOND EDITION</strong>
+**SECOND EDITION**
 
 THE SECOND EDITION WILL BE WRITTEN ON 8 1/2 " BY 11 1/2" ARCHIVAL PAPER and May have the OPTION OF A HARDBACK OR A GLOSSY COLOR PAPERBACK COVER.
 
-This book will then serve as a <strong>SIX GENERATION INDEX REFERENCE</strong> for all the living decendants of Robert Berry, son of Robert and Mary Williamson Berry. Robert and Mary Williamson Berry were probably born in Virginia and are known to have died in PRINCESS ANNE, COUNTY VIRGINIA.
+This book will then serve as a **SIX GENERATION INDEX REFERENCE** for all the living decendants of Robert Berry, son of Robert and Mary Williamson Berry. Robert and Mary Williamson Berry were probably born in Virginia and are known to have died in PRINCESS ANNE, COUNTY VIRGINIA.
 
-All ten of ROBERT and ELIZABETH CATE BERRY'S Children were born in <strong>ORANGE COUNTY,NORTH CAROLINA.</strong>
+All ten of ROBERT and ELIZABETH CATE BERRY'S Children were born in **ORANGE COUNTY, NORTH CAROLINA.**
 
 This is a sample of the data form that will be provided for your contributions to volumn two.
 
-GGRANDFATHER________________________________________GGRANDMOTHER_________________________________
-GRANDFATHER_________________________________________GRANDMOTHER__________________________________
-PARENTS: FATHER______________________________________MOTHER_______________________________________
+GGRANDFATHER\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_GGRANDMOTHER\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+GRANDFATHER\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_GRANDMOTHER\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+PARENTS: FATHER\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_MOTHER\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Robert Berry JR.----------------------Married------------------------Mary Kempe/Camp
 Born: Abt. 1760------------------------Abt. 1784---------------------Born Unknown
@@ -50,6 +52,7 @@ Fayette Co. Berry AL-------------------8 children--------------------Fayette Co.
 Spouses Parents: Unknown
 
 THIS IS BASICALLY THE SAME FORMAT THAT YOU WILL SEE IN BOTH BOOKS FOR EACH INDIVIDUAL DESCENDANT.
-<h2><a href="#">
-Comments and sugestions are welcome</a></h2>
-<h3>January 2, 2015</h3>
+
+## **Comments and suggestions are welcome**
+
+### **January 2, 2015**

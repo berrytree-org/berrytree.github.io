@@ -40,7 +40,7 @@ description: "Overview of Robert and Elizabeth Cate Berry's ten children, their 
 ..4.[David Berry](/ancestors/davidsonoftom/)
 ..4.[Eleanor Berry](/ancestors/eleanorreed/) 3. [David J. Berry](/ancestors/david-j-berry-sr/) **Born Orange County North Carolina about 1774 <!-- UNSOURCED --> died after 1830 in Fayette County Georgia. 11 Children with** Mary Blalock
 ..4.[Elizabeth Berry](/ancestors/elizabetheathersberrync/)
-..4.[Sarah Berry](/ancestors/sarahberrycatesga/)..4 Winnifred Berry ..4 David J. Berry Jr. ..4.[Mary Berry](/ancestors/maryberrybartonga/)..4.Henry Berry ..4 George N. Berry ..4 [Robert Berry](/ancestors/robertdjberry/) ..4 William G.Berry ..4 Thomas Berry ..4. [Joshua M. Berry](/ancestors/joshuaberryga/) 3. [William Berry](/documents/william-berry/) - **Born Orange County North Carolina about 1775 <!-- UNSOURCED --> 3 Children with **Hannah Cate
+..4.[Sarah Berry](/ancestors/sarahberrycatesga/)..4 Winnifred Berry ..4 David J. Berry Jr. ..4.[Mary Berry](/ancestors/maryberrybartonga/)..4.Henry Berry ..4 George N. Berry ..4 [Robert Berry](/ancestors/robertdjberry/) ..4 William G.Berry ..4 Thomas Berry ..4. [Joshua M. Berry](/ancestors/joshuaberryga/) 3. [William Berry](/ancestors/william-berry/) - **Born Orange County North Carolina about 1775 <!-- UNSOURCED --> 3 Children with **Hannah Cate
 ..4 Wlliam Clarence Berry - **born Orange NC Oct. 17,1803 * Fayette Co. Ala 1836 to 1875 * died Burnet Co. Tx Sept. 8,1878**
 ..4 [Robert C. Berry](/ancestors/robertcberryalabama/) - **born Orange County North Carolina Apr 14,1805 died Fayette County Alabama After 1889. **
 ..4 Thomas Person Berry - **born June 1, 1808 Orange County North Carolina died Apr 30, 1884 Orange County North Carolina.
@@ -86,7 +86,7 @@ Spouse Sarah Cate December 27 1782 - March 7 1875
 
 Spouse Mary Blalock cir 1772 <!-- UNSOURCED --> - Uknown
 
-[**William Berry**](/documents/william-berry/)married August 11th 1799
+[**William Berry**](/ancestors/william-berry/)married August 11th 1799
 
 Spouse Hannah Cate 1770 <!-- UNSOURCED --> - February 25 1858
 
