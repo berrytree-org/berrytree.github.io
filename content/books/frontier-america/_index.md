@@ -83,6 +83,8 @@ Ben passed away on June 6, 2020, at the age of 90. This digital edition is prese
 
 </div>
 
+*This digital edition is based on the 2015 revised text, which incorporates all corrections from the 1st Edition Addendum. If you own the 1st Edition hardcover, the original [Addendum is available as a PDF](/documents/addendumformybook.pdf).*
+
 </div>
 
 </div>
