@@ -2,6 +2,58 @@
 
 ---
 
+## 2026-04-08 (Session 4) — PLAN List Complete: All 24 Items Resolved
+
+### Summary
+Full staff session to close out the remaining 10 PLAN items from the April 2nd bug hunt (A5 deferred by Aaron). Completed 9 fixes spanning Schema.org structured data, accessibility alt text, CSS compatibility, external link repair, timeline cross-linking, genealogical content corrections, and page expansion. Aaron manually audited all fixes via localhost. Seven pages stamped with qc_owner. The PLAN list is now 24/24 complete.
+
+### Technical Fixes
+- **R19** — Ancestor-profile image alt text now reads "Portrait of [Name]" instead of just the name
+- **R22** — Breadcrumb shortcode now emits Schema.org BreadcrumbList JSON-LD structured data on every page
+- **V15** — Leaf divider `✦` (U+2726) given explicit font-family fallback stack for older systems
+- **A14** — "Explore in the Berry Family Timeline" link auto-renders on ancestor pages with `families` front matter; timeline already links back via ancestor badges
+
+### External Link Fixes (S23/S37)
+- All 5 cemeterycensus.com references upgraded from HTTP to HTTPS
+- Fixed `.html` extension to `.htm` in ch01 (was returning 404)
+- Fixed `/nc/org/` typo to `/nc/orng/` in ch02 (was returning 404)
+- Site confirmed alive with proper 301 redirects; no Wayback Machine archives exist
+
+### Content Fixes
+- **M6** — Removed unsupported "worldwide flu epidemic of 1858" claim from joshua-berry-sr.md; kept death year; added Martha's editorial comment in HTML
+- **M7** — Expanded elizabeth-berry.md from 65 to ~90 lines: added bastardy bond (Aug 1791), will probate (May 1815, Person County), daughter Mary's marriage to Thomas Berry, grandson Josiah, Key Documents section, Notable Descendants section. Updated birth year to c. 1768 and death info per Chapter 8.
+- **M8** — Added cross-reference notes on both Elizabeth Berry and Elizabeth Leathers Berry pages identifying the same William Riley as father of children by both women
+
+### Additional Fixes
+- Linked Ira Berry from Lewis Berry entry on joshua-berry-sr.md
+- Bolded Elizabeth Leathers Berry name/link on elizabeth-berry.md
+
+### QC Stamps
+Seven pages stamped `qc_owner: 2026-04-08` after Aaron's manual audit:
+robert-berry-oc, joshua-berry-sr, elizabeth-berry, elizabetheathersberrync, fiddletoncemetery, ch01, ch02
+
+### Files Modified
+- `layouts/_shortcodes/ancestor-profile.html` — R19 alt text, A14 timeline link
+- `layouts/_shortcodes/breadcrumb.html` — R22 Schema.org JSON-LD
+- `assets/_custom.scss` — V15 font fallback, A14 timeline link style
+- `content/ancestors/joshua-berry-sr.md` — M6 correction, Ira Berry link, qc_owner stamp
+- `content/ancestors/elizabeth-berry.md` — M7 expansion, M8 cross-ref, bold link, qc_owner stamp
+- `content/ancestors/elizabetheathersberrync.md` — M8 cross-ref, qc_owner stamp
+- `content/ancestors/robert-berry-oc.md` — qc_owner stamp
+- `content/ancestors/fiddletoncemetery.md` — S37 HTTPS, qc_owner stamp
+- `content/indexes/extended-site-map.md` — S37 HTTPS
+- `content/books/frontier-america/ch01-williamsons-fosters-berrys-kemps.md` — S23 .html→.htm, S37 HTTPS, qc_owner stamp
+- `content/books/frontier-america/ch02-robert-berry.md` — S23 /org/→/orng/, S37 HTTPS, qc_owner stamp
+
+### Decisions Made
+1. A5 (Open Graph/Twitter Cards) deferred by Aaron — dropped from this session
+2. M6 flu epidemic: remove unsupported claim, preserve death year, add editorial comment
+3. M7 Elizabeth Berry: source expansion content from Chapter 8 of the book
+4. M8 William Riley: confirmed same person, cross-referenced both pages
+5. S23/S37: site alive, HTTPS works, fix broken URLs rather than add Wayback fallbacks
+
+---
+
 ## 2026-04-08 (Session 3) — Genealogy Source Review, PLAN List Audit & Fixes, Font Size Improvements
 
 ### Summary

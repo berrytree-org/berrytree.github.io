@@ -6,7 +6,7 @@ families: ["Joshua Berry", "John Berry", "Thomas Berry", "Isaac Berry", "Mary Be
 periods: ["Colonial", "Early Settlement"]
 tags: ["book-chapter", "orange-county-nc", "prince-anne-county-va", "deed", "census"]
 last_updated: 2026-04-07
-qc_owner:
+qc_owner: 2026-04-08
 qc_webteam:
 qc_genealogy:
 content_source: "book"
@@ -1441,7 +1441,7 @@ Some of Robert Berry's OC neighbors were Scot Irish and are buried in the Little
 
 The Little River cemetery may be viewed at this URL address:
 
-http://cemeterycensus.com/nc/orng/cem039.html
+https://cemeterycensus.com/nc/orng/cem039.htm
 
 Given the probability that George Kempe is Robert Berry's OC great grandfather and Robert listed his daughter's name in his will as Mary Kempe, even though she married James Camp in 1781, it seems possible that James Camp could be related to George Kempe from Princess Anne County, Virginia.
 

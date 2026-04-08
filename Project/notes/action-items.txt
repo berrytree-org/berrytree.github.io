@@ -1,5 +1,5 @@
 Berrytree.org — Action Items (Ranked)
-Updated: 2026-04-08 — Session 3 (qc_genealogy pass completed)
+Updated: 2026-04-08 — Session 4 (PLAN list 24/24 complete)
 
 Priority Scale: HIGH | MEDIUM | LOW | MEH
 
@@ -16,13 +16,11 @@ Priority Scale: HIGH | MEDIUM | LOW | MEH
   ┌───────────────────────────┬──────────────────────┬──────────┬──────────────────────────────────────────────────────────────────────────────────────────┐
   │           Item            │        Owner         │ Priority │                                      Description                                       │
   ├───────────────────────────┼──────────────────────┼──────────┼──────────────────────────────────────────────────────────────────────────────────────────┤
-  │ PLAN list (24 items)      │ Pam (coordination)   │ MEDIUM   │ Quality-of-life improvements: Open Graph tags, TOC visited state, back-to-top button,  │
-  │                           │ Aaron (decisions)    │ (batch)  │ etc. None urgent individually, but collectively they polish the site. Propose          │
-  │                           │                      │          │ cherry-picking highest-impact items rather than doing all 24. Some individual items    │
-  │                           │                      │          │ may be HIGH if we're prepping for public launch.                                      │
-  ├───────────────────────────┼──────────────────────┼──────────┼──────────────────────────────────────────────────────────────────────────────────────────┤
   │ General QC review         │ Terry/Martha          │ MEDIUM   │ Ongoing review of recently converted pages. Check formatting, broken links, missing   │
   │                           │                      │          │ images, content accuracy. No specific deadline — continuous improvement.                │
+  ├───────────────────────────┼──────────────────────┼──────────┼──────────────────────────────────────────────────────────────────────────────────────────┤
+  │ Source remediation        │ Martha               │ MEDIUM   │ 122 pages failed qc_genealogy review (Project/testing/qc-genealogy-failures.csv).     │
+  │ (qc_genealogy failures)  │                      │          │ GA/AL branch weakest. Many have evidence on-page but lack formal citations. Ongoing.  │
   └───────────────────────────┴──────────────────────┴──────────┴──────────────────────────────────────────────────────────────────────────────────────────┘
 
   PRIORITY: LOW
@@ -61,6 +59,7 @@ Priority Scale: HIGH | MEDIUM | LOW | MEH
 
   COMPLETED (for reference)
   ─────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  - PLAN list (24/24 items)                — Done 2026-04-08 Session 4 (all items resolved; A5 deferred by Aaron)
   - qc_genealogy source review             — Done 2026-04-08 (194 pages reviewed; 72 passed/stamped, 122 failures logged in
                                             Project/testing/qc-genealogy-failures.csv; update-frontmatter.py YAML bug fixed)
   - QC report script                      — Done 2026-04-08 (Project/tools/qc-report.py; --detail, --section, --flagged)

@@ -9,7 +9,7 @@ families: ["Joshua Berry"]
 periods: ["Revolutionary", "Early Settlement"]
 tags: ["biography", "orange-county-nc"]
 last_updated: 2026-04-07
-qc_owner:
+qc_owner: 2026-04-08
 qc_webteam:
 qc_genealogy: 2026-04-08
 content_source: "wp-export"
@@ -81,7 +81,7 @@ Joshua and Nancy had nine children, all born in Orange County, North Carolina.
 <li class="child-entry">
   <div class="child-name">6. Lewis Berry — <em>DNA Donor Line</em></div>
   <div class="child-dates">Born c. 1805, Orange County, NC — Died 1858, Orange County, NC</div>
-  <div class="child-details">Lewis Berry died during the worldwide flu epidemic of 1858. His mother Nancy Ellison Berry may have also died from the flu, she did not appear in the 1860 Census. Lewis's son <strong>Ira Berry</strong> is a well-documented descendant.</div>
+  <div class="child-details">Lewis Berry died in 1858. His mother Nancy Ellison Berry may have also died around this time, as she did not appear in the 1860 Census. Lewis's son <strong><a href="/ancestors/ira-berry-nc-detail/">Ira Berry</a></strong> is a well-documented descendant. <!-- Editorial note: Original text referenced a "worldwide flu epidemic of 1858." No pandemic is documented for that year; the major flu pandemics of the era were 1830–33 and 1889–90. A local illness is possible but unconfirmed. —Martha, 2026-04-08 --></div>
 </li>
 
 <li class="child-entry">

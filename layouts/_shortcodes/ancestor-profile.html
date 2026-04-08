@@ -22,10 +22,10 @@
   <div class="profile-image">
     {{- if $hasFullRes }}
     <a href="/images/full/{{ $imgFilename }}" class="lightbox-trigger">
-      <img src="{{ $imgSrc }}" alt="{{ .Get "caption" | default (.Get "name") }}" loading="lazy" />
+      <img src="{{ $imgSrc }}" alt="{{ .Get "caption" | default (printf "Portrait of %s" (.Get "name")) }}" loading="lazy" />
     </a>
     {{- else }}
-    <img src="{{ $imgSrc }}" alt="{{ .Get "caption" | default (.Get "name") }}" loading="lazy" />
+    <img src="{{ $imgSrc }}" alt="{{ .Get "caption" | default (printf "Portrait of %s" (.Get "name")) }}" loading="lazy" />
     {{- end }}
     {{- if .Get "caption" }}
     <div class="profile-caption">{{ .Get "caption" }}</div>
@@ -63,5 +63,10 @@
       </div>
       {{- end }}
     </dl>
+    {{- with .Page.Params.families }}
+    <div class="profile-timeline-link">
+      <a href="/timelines/">Explore in the Berry Family Timeline</a>
+    </div>
+    {{- end }}
   </div>
 </div>
