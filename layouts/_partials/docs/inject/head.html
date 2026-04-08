@@ -1,0 +1,10 @@
+{{/* Theme toggle — FOUC prevention
+     Runs blocking in <head> before paint.
+     Light mode is the default for new visitors. */}}
+<script>
+(function() {
+  var t = localStorage.getItem('theme');
+  if (t !== 'light' && t !== 'dark') t = 'light';
+  document.documentElement.setAttribute('data-theme', t);
+})();
+</script>

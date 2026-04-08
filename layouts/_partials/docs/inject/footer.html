@@ -1,3 +1,50 @@
 <footer class="site-license">
   <p><em>Content licensed under <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">Creative Commons Attribution-NonCommercial 4.0</a>. Berrytree.org — descendants of Robert and Elizabeth Cate Berry.</em></p>
 </footer>
+
+{{/* Theme toggle — interaction script */}}
+<script>
+(function() {
+  function getTheme() {
+    return document.documentElement.getAttribute('data-theme') || 'light';
+  }
+
+  function setTheme(t) {
+    document.documentElement.setAttribute('data-theme', t);
+    localStorage.setItem('theme', t);
+    var label = t === 'dark' ? 'Switch to light mode' : 'Switch to dark mode';
+    document.querySelectorAll('.theme-toggle').forEach(function(btn) {
+      btn.setAttribute('aria-label', label);
+      btn.setAttribute('title', label);
+      if (t === 'dark') {
+        btn.classList.add('theme-toggle--dark');
+        btn.classList.remove('theme-toggle--light');
+      } else {
+        btn.classList.add('theme-toggle--light');
+        btn.classList.remove('theme-toggle--dark');
+      }
+    });
+  }
+
+  // Click handler — toggle between light and dark
+  document.addEventListener('click', function(e) {
+    var btn = e.target.closest('.theme-toggle');
+    if (btn) {
+      e.preventDefault();
+      setTheme(getTheme() === 'dark' ? 'light' : 'dark');
+    }
+  });
+
+  // Keyboard: Enter and Space activate the toggle
+  document.addEventListener('keydown', function(e) {
+    var btn = e.target.closest('.theme-toggle');
+    if (btn && (e.key === 'Enter' || e.key === ' ')) {
+      e.preventDefault();
+      setTheme(getTheme() === 'dark' ? 'light' : 'dark');
+    }
+  });
+
+  // Initialize button state on page load
+  setTheme(getTheme());
+})();
+</script>

@@ -1,0 +1,58 @@
+{{/* Theme toggle — desktop sidebar lantern */}}
+<div class="theme-toggle-wrapper">
+  <button class="theme-toggle" aria-label="Switch to dark mode" title="Toggle light/dark mode">
+    {{/* Lit lantern — shown in dark mode (flame on = it's dark outside) */}}
+    <svg class="lantern-lit" viewBox="0 0 24 30" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+      <defs>
+        <filter id="glow-d">
+          <feGaussianBlur stdDeviation="1.2" result="blur"/>
+          <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+        </filter>
+      </defs>
+      <!-- Bail handle -->
+      <path d="M8 3.5 Q8 1 12 1 Q16 1 16 3.5" fill="none" stroke="#888" stroke-width="1.2" stroke-linecap="round"/>
+      <!-- Top cap -->
+      <rect x="8" y="3.5" width="8" height="2" rx="0.5" fill="#555"/>
+      <!-- Chimney -->
+      <rect x="10.5" y="1.5" width="3" height="2.5" rx="0.8" fill="#666"/>
+      <!-- Glass body — bulges out, narrows at top and bottom -->
+      <path d="M9 5.5 Q7 8 6.8 12.5 Q7 16 8.5 17.5 L15.5 17.5 Q17 16 17.2 12.5 Q17 8 15 5.5 Z" fill="rgba(200, 168, 75, 0.2)" stroke="#777" stroke-width="0.6"/>
+      <!-- Flame -->
+      <ellipse cx="12" cy="12" rx="2.2" ry="3.5" fill="#e8a020" filter="url(#glow-d)" opacity="0.9"/>
+      <ellipse cx="12" cy="11.5" rx="1.2" ry="2.5" fill="#c8a84b"/>
+      <ellipse cx="12" cy="11" rx="0.5" ry="1.2" fill="#f5e6a0"/>
+      <!-- Fuel tank — wide, flared kerosene reservoir -->
+      <path d="M8.5 17.5 Q7 18 5.5 19.5 Q5 20.5 5.5 21.5 Q6 22.5 7 22.8 L17 22.8 Q18 22.5 18.5 21.5 Q19 20.5 18.5 19.5 Q17 18 15.5 17.5 Z" fill="#555"/>
+      <!-- Tank rim highlight -->
+      <path d="M6.5 19.8 Q6 20.5 6.5 21.3 Q7 22 7.5 22.2 L16.5 22.2 Q17 22 17.5 21.3 Q18 20.5 17.5 19.8" fill="none" stroke="#666" stroke-width="0.4"/>
+      <!-- Foot ring -->
+      <ellipse cx="12" cy="23.2" rx="6" ry="1" fill="#444"/>
+      <ellipse cx="12" cy="23.2" rx="5.5" ry="0.7" fill="#4a4a4a"/>
+    </svg>
+    {{/* Unlit lantern — shown in light mode (flame off = daylight) */}}
+    <svg class="lantern-out" viewBox="0 0 24 30" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+      <!-- Bail handle -->
+      <path d="M8 3.5 Q8 1 12 1 Q16 1 16 3.5" fill="none" stroke="#999" stroke-width="1.2" stroke-linecap="round"/>
+      <!-- Top cap -->
+      <rect x="8" y="3.5" width="8" height="2" rx="0.5" fill="#777"/>
+      <!-- Chimney -->
+      <rect x="10.5" y="1.5" width="3" height="2.5" rx="0.8" fill="#888"/>
+      <!-- Glass body (empty/clear) -->
+      <path d="M9 5.5 Q7 8 6.8 12.5 Q7 16 8.5 17.5 L15.5 17.5 Q17 16 17.2 12.5 Q17 8 15 5.5 Z" fill="rgba(200, 185, 154, 0.12)" stroke="#999" stroke-width="0.6"/>
+      <!-- Wick (no flame) -->
+      <line x1="12" y1="13.5" x2="12" y2="11.5" stroke="#8a6a58" stroke-width="0.8" stroke-linecap="round"/>
+      <!-- Smoke wisps -->
+      <path d="M12 11 Q11 9 12 7.5" fill="none" stroke="#8faf6f" stroke-width="0.7" stroke-linecap="round" opacity="0.5"/>
+      <path d="M12.5 10.5 Q13.5 8.5 12.5 7" fill="none" stroke="#8faf6f" stroke-width="0.5" stroke-linecap="round" opacity="0.35"/>
+      <path d="M11.3 10.8 Q10.5 9.5 11.5 8" fill="none" stroke="#8faf6f" stroke-width="0.4" stroke-linecap="round" opacity="0.25"/>
+      <!-- Fuel tank — wide, flared kerosene reservoir -->
+      <path d="M8.5 17.5 Q7 18 5.5 19.5 Q5 20.5 5.5 21.5 Q6 22.5 7 22.8 L17 22.8 Q18 22.5 18.5 21.5 Q19 20.5 18.5 19.5 Q17 18 15.5 17.5 Z" fill="#777"/>
+      <!-- Tank rim highlight -->
+      <path d="M6.5 19.8 Q6 20.5 6.5 21.3 Q7 22 7.5 22.2 L16.5 22.2 Q17 22 17.5 21.3 Q18 20.5 17.5 19.8" fill="none" stroke="#888" stroke-width="0.4"/>
+      <!-- Foot ring -->
+      <ellipse cx="12" cy="23.2" rx="6" ry="1" fill="#666"/>
+      <ellipse cx="12" cy="23.2" rx="5.5" ry="0.7" fill="#6a6a6a"/>
+    </svg>
+    <span class="theme-toggle-label">Theme</span>
+  </button>
+</div>
