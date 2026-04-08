@@ -23,14 +23,155 @@ $accent-gold:        #8a7040;   // autumn gold — links, accents
 $accent-gold-hover:  #a08840;   // slightly brighter gold — hover state
 $white-soft:         #f8f5ef;   // near-white — text on dark backgrounds
 
+// =============================================================
+// THEME CUSTOM PROPERTIES — Light/Dark Toggle
+// Owner: Lila + Kate
+// Light mode = default. Dark mode = user opt-in via lantern toggle.
+// SCSS $variables stay as canonical palette; these CSS custom
+// properties enable runtime switching via data-theme attribute.
+// =============================================================
+
+:root,
+[data-theme="light"] {
+  // -- Backgrounds --
+  --bt-body-bg:            #{$forest-deep};
+  --bt-page-bg:            rgba(245, 240, 232, 0.88);
+  --bt-sidebar-bg:         rgba(245, 240, 232, 0.82);
+  --bt-toc-bg:             rgba(245, 240, 232, 0.78);
+  --bt-panel-tint:         rgba(213, 200, 180, 0.25);
+  --bt-panel-tint-light:   rgba(213, 200, 180, 0.2);
+  --bt-panel-tint-faint:   rgba(213, 200, 180, 0.18);
+  --bt-child-entry-bg:     rgba(245, 240, 232, 0.6);
+  --bt-code-bg:            rgba(29, 46, 29, 0.08);
+  --bt-blockquote-bg:      rgba(213, 200, 180, 0.3);
+  --bt-table-cell-bg:      rgba(255, 255, 255, 0.5);
+  --bt-table-cell-alt:     rgba(213, 200, 180, 0.35);
+  --bt-table-hover:        rgba(90, 143, 90, 0.12);
+  --bt-card-bg:            rgba(255, 255, 255, 0.6);
+  --bt-card-bg-hover:      rgba(255, 255, 255, 0.7);
+  --bt-tree-link-bg:       rgba(45, 74, 45, 0.08);
+  --bt-search-bg:          rgba(245, 240, 232, 0.7);
+  --bt-search-focus-bg:    rgba(245, 240, 232, 0.95);
+  --bt-sidebar-hover-bg:   rgba(90, 143, 90, 0.15);
+  --bt-toc-hover-bg:       rgba(90, 143, 90, 0.12);
+  --bt-mobile-header-bg:   rgba(29, 46, 29, 0.94);
+  --bt-mobile-sidebar-bg:  rgba(245, 240, 232, 0.98);
+  --bt-mobile-page-bg:     rgba(245, 240, 232, 0.97);
+
+  // -- Text --
+  --bt-text-primary:       #{$bark-brown};
+  --bt-text-heading:       #{$forest-dark};
+  --bt-text-secondary:     #{$bark-mid};
+  --bt-text-caption:       #{$bark-light};
+  --bt-text-blockquote:    #5a4030;
+  --bt-text-on-dark:       #{$white-soft};
+
+  // -- Links --
+  --bt-link:               #1a8a1a;
+  --bt-link-hover:         #147014;
+  --bt-link-content:         #1a8a1a;
+  --bt-link-content-hover:   #147014;
+  --bt-link-content-visited: #cc4400;
+  --bt-sidebar-link:       #1e3a1e;
+  --bt-sidebar-link-hover: #1a2e1a;
+  --bt-toc-link:           #{$bark-brown};
+  --bt-toc-link-hover:     #1e3a1e;
+
+  // -- Borders --
+  --bt-border-strong:      #{$forest-mid};
+  --bt-border-accent:      #{$forest-dark};
+  --bt-border-soft:        #{$cream-border};
+  --bt-border-stat:        rgba(200, 185, 154, 0.4);
+
+  // -- Cards --
+  --bt-card-bg:            rgba(255, 255, 255, 0.6);
+
+  // -- Accents --
+  --bt-accent-gold:        #{$accent-gold};
+  --bt-accent-gold-hover:  #{$accent-gold-hover};
+  --bt-badge-bg:           #{$forest-dark};
+  --bt-badge-text:         #{$white-soft};
+  --bt-table-header-bg:    #{$forest-dark};
+  --bt-table-header-text:  #{$white-soft};
+
+  // -- Icon filter --
+  --bt-icon-filter:        none;
+}
+
+[data-theme="dark"] {
+  // -- Backgrounds --
+  --bt-body-bg:            #0e1a0e;
+  --bt-page-bg:            rgba(26, 46, 26, 0.94);
+  --bt-sidebar-bg:         rgba(30, 50, 30, 0.92);
+  --bt-toc-bg:             rgba(30, 50, 30, 0.88);
+  --bt-panel-tint:         rgba(42, 62, 42, 0.4);
+  --bt-panel-tint-light:   rgba(42, 62, 42, 0.35);
+  --bt-panel-tint-faint:   rgba(42, 62, 42, 0.3);
+  --bt-child-entry-bg:     rgba(36, 52, 36, 0.6);
+  --bt-code-bg:            rgba(42, 62, 42, 0.4);
+  --bt-blockquote-bg:      rgba(42, 62, 42, 0.35);
+  --bt-table-cell-bg:      rgba(36, 52, 36, 0.4);
+  --bt-table-cell-alt:     rgba(42, 62, 42, 0.45);
+  --bt-table-hover:        rgba(90, 143, 90, 0.15);
+  --bt-card-bg:            rgba(36, 52, 36, 0.6);
+  --bt-card-bg-hover:      rgba(42, 62, 42, 0.7);
+  --bt-tree-link-bg:       rgba(42, 62, 42, 0.3);
+  --bt-search-bg:          rgba(36, 52, 36, 0.7);
+  --bt-search-focus-bg:    rgba(36, 52, 36, 0.95);
+  --bt-sidebar-hover-bg:   rgba(90, 143, 90, 0.2);
+  --bt-toc-hover-bg:       rgba(90, 143, 90, 0.15);
+  --bt-mobile-header-bg:   rgba(14, 26, 14, 0.96);
+  --bt-mobile-sidebar-bg:  rgba(30, 50, 30, 0.98);
+  --bt-mobile-page-bg:     rgba(26, 46, 26, 0.97);
+
+  // -- Text --
+  --bt-text-primary:       #f0e8d0;
+  --bt-text-heading:       #c8a84b;
+  --bt-text-secondary:     #c8b99a;
+  --bt-text-caption:       #8faf6f;
+  --bt-text-blockquote:    #c8b99a;
+  --bt-text-on-dark:       #f0e8d0;
+
+  // -- Links --
+  --bt-link:               #c8a84b;
+  --bt-link-hover:         #daba5f;
+  --bt-link-content:         #c8a84b;
+  --bt-link-content-hover:   #daba5f;
+  --bt-link-content-visited: #a89060;
+  --bt-sidebar-link:       #c8b99a;
+  --bt-sidebar-link-hover: #f0e8d0;
+  --bt-toc-link:           #c8b99a;
+  --bt-toc-link-hover:     #f0e8d0;
+
+  // -- Borders --
+  --bt-border-strong:      #4a6a4a;
+  --bt-border-accent:      #c8a84b;
+  --bt-border-soft:        #3a5a3a;
+  --bt-border-stat:        rgba(74, 106, 74, 0.5);
+
+  // -- Cards --
+  --bt-card-bg:            rgba(30, 50, 30, 0.7);
+
+  // -- Accents --
+  --bt-accent-gold:        #c8a84b;
+  --bt-accent-gold-hover:  #daba5f;
+  --bt-badge-bg:           #c8a84b;
+  --bt-badge-text:         #1a2e1a;
+  --bt-table-header-bg:    #2a3e2a;
+  --bt-table-header-text:  #f0e8d0;
+
+  // -- Icon filter (invert for dark backgrounds) --
+  --bt-icon-filter:        brightness(0) invert(1);
+}
+
 // -- Base Page --
 body {
-  background-color: $forest-deep;                 // dark fallback while image loads
+  background-color: var(--bt-body-bg);
   background-image: url('/images/forest-background.jpg');
   background-size: cover;
   background-attachment: fixed;
   background-position: center center;
-  color: $bark-brown;
+  color: var(--bt-text-primary);
   font-family: 'Source Serif 4', 'Lora', Georgia, serif;
   font-size: 16px;
   line-height: 1.8;
@@ -61,10 +202,10 @@ body {
   // Frosted forest panel — opacity raised from 0.42 → 0.82
   // for reliable contrast against any background image region
   .book-menu-content {
-    background-color: rgba(245, 240, 232, 0.82);
+    background-color: var(--bt-sidebar-bg);
     backdrop-filter: blur(6px) brightness(1.08);
     -webkit-backdrop-filter: blur(6px) brightness(1.08);
-    border-right: 2px solid $forest-mid;
+    border-right: 2px solid var(--bt-border-strong);
     height: 100%;
   }
 
@@ -76,30 +217,30 @@ body {
 
   // Sidebar link styling — generous padding for easy tapping
   a {
-    color: #1e3a1e;  // darker than $forest-dark for 7:1+ contrast on cream
+    color: var(--bt-sidebar-link);
     font-weight: 600;
     display: block;
     padding: 0.35rem 0.5rem;
     border-radius: 3px;
-    text-shadow: none;  // removed — opacity increase makes this unnecessary
+    text-shadow: none;
     transition: background-color 0.15s, color 0.15s;
 
     &:hover {
-      color: #1a2e1a;
-      background-color: rgba(90, 143, 90, 0.15);
+      color: var(--bt-sidebar-link-hover);
+      background-color: var(--bt-sidebar-hover-bg);
       text-decoration: none;
     }
 
     &:focus {
-      outline: 2px solid $forest-mid;
+      outline: 2px solid var(--bt-border-strong);
       outline-offset: 1px;
     }
 
     // Active page — permanently visible, not hover-dependent
     &.active {
-      color: $white-soft;
+      color: var(--bt-text-on-dark);
       font-weight: 700;
-      background-color: $forest-dark;
+      background-color: var(--bt-badge-bg);
       text-shadow: none;
     }
   }
@@ -115,51 +256,57 @@ body {
 // -- Headings --
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Cinzel', 'Lora', Georgia, serif;
-  color: $forest-dark;
+  color: var(--bt-text-heading);
   letter-spacing: 0.02em;
 }
 
 h1 {
   font-size: 2rem;
-  border-bottom: 2px solid $forest-mid;
+  border-bottom: 2px solid var(--bt-border-strong);
   padding-bottom: 0.4em;
   margin-bottom: 0.8em;
 }
 
 h2 {
   font-size: 1.5rem;
-  border-bottom: 1px solid $cream-border;
+  border-bottom: 1px solid var(--bt-border-soft);
   padding-bottom: 0.2em;
 }
 
 // -- Main content area --
 .book-page {
-  background-color: rgba(245, 240, 232, 0.88);
+  background-color: var(--bt-page-bg);
   backdrop-filter: blur(2px);
   -webkit-backdrop-filter: blur(2px);
-  border-left: 1px solid $cream-border;
-  border-right: 1px solid $cream-border;
+  border-left: 1px solid var(--bt-border-soft);
+  border-right: 1px solid var(--bt-border-soft);
 }
 
 // -- Links --
 a {
-  color: $accent-gold;
+  color: var(--bt-link);
   text-decoration: none;
 
   &:hover {
-    color: $accent-gold-hover;
+    color: var(--bt-link-hover);
     text-decoration: underline;
   }
 }
 
 // R15: Link contrast fix for cream content area — WCAG AA 4.5:1
-// $accent-gold (#8a7040) only hits 3.5:1 on cream; darkened to #6b5520 (5.2:1)
-// Scoped to .book-page so sidebar/dark-bg links keep the original gold
+// Light mode: darkened gold for contrast on cream. Dark mode: gold on dark bg is fine.
+// Content area links — explicit states for both light and dark.
+// Uses var() for theme switching with !important to guarantee
+// no Hugo Book theme rule can override.
 .book-page .markdown a {
-  color: #6b5520;
+  color: var(--bt-link-content) !important;
 
   &:hover {
-    color: #55440f;
+    color: var(--bt-link-content-hover) !important;
+  }
+
+  &:visited {
+    color: var(--bt-link-content-visited) !important;
   }
 }
 
@@ -171,39 +318,39 @@ table {
   font-size: 0.95rem;
 
   th {
-    background-color: $forest-dark;
-    color: $white-soft;
+    background-color: var(--bt-table-header-bg);
+    color: var(--bt-table-header-text);
     font-family: 'Cinzel', serif;
     font-weight: 600;
     padding: 0.6em 0.8em;
-    border: 1px solid $forest-mid;
+    border: 1px solid var(--bt-border-strong);
     letter-spacing: 0.03em;
   }
 
   td {
     padding: 0.5em 0.8em;
-    border: 1px solid $cream-border;
-    color: $bark-brown;
-    background-color: rgba(255,255,255,0.5);
+    border: 1px solid var(--bt-border-soft);
+    color: var(--bt-text-primary);
+    background-color: var(--bt-table-cell-bg);
   }
 
   tr:nth-child(even) td {
-    background-color: rgba(213, 200, 180, 0.35);
+    background-color: var(--bt-table-cell-alt);
   }
 
   tr:hover td {
-    background-color: rgba(90, 143, 90, 0.12);
+    background-color: var(--bt-table-hover);
   }
 }
 
 // -- Blockquotes --
 blockquote {
-  border-left: 4px solid $forest-mid;
-  background-color: rgba(213, 200, 180, 0.3);
+  border-left: 4px solid var(--bt-border-strong);
+  background-color: var(--bt-blockquote-bg);
   padding: 0.8em 1.2em;
   margin: 1.5em 0;
   font-style: italic;
-  color: #5a4030;  // darkened from $bark-mid (#6b5040) for 4.5:1 contrast
+  color: var(--bt-text-blockquote);
 }
 
 
@@ -211,14 +358,14 @@ blockquote {
 .site-license {
   margin-top: 2em;
   padding-top: 1em;
-  border-top: 1px solid $cream-border;
+  border-top: 1px solid var(--bt-border-soft);
   font-size: 0.8rem;
-  color: $bark-light;
+  color: var(--bt-text-caption);
   font-style: italic;
   text-align: center;
 
   a {
-    color: $accent-gold;
+    color: var(--bt-link);
   }
 }
 
@@ -226,31 +373,31 @@ blockquote {
 // Same accessibility treatment as left nav
 .book-toc {
   .book-toc-content {
-    background-color: rgba(245, 240, 232, 0.78);
+    background-color: var(--bt-toc-bg);
     backdrop-filter: blur(6px);
     -webkit-backdrop-filter: blur(6px);
-    border-left: 2px solid $forest-mid;
+    border-left: 2px solid var(--bt-border-strong);
   }
 
   nav {
-    font-size: 0.95rem;   // was 0.85rem
+    font-size: 0.95rem;
     line-height: 1.5;
   }
 
   a {
-    color: #4a3728;  // $bark-brown — stronger than $bark-mid for contrast
+    color: var(--bt-toc-link);
     display: block;
     padding: 0.25rem 0.4rem;
     border-radius: 3px;
     transition: background-color 0.15s, color 0.15s;
 
     &:hover {
-      color: #1e3a1e;
-      background-color: rgba(90, 143, 90, 0.12);
+      color: var(--bt-toc-link-hover);
+      background-color: var(--bt-toc-hover-bg);
     }
 
     &:focus {
-      outline: 2px solid $forest-mid;
+      outline: 2px solid var(--bt-border-strong);
       outline-offset: 1px;
     }
   }
@@ -258,30 +405,30 @@ blockquote {
   // Currently active TOC heading
   nav > ul > li > a.active,
   a[aria-current] {
-    color: $forest-dark;
+    color: var(--bt-text-heading);
     font-weight: 700;
-    border-left: 3px solid $forest-mid;
-    padding-left: calc(0.4rem - 3px + 3px); // maintain alignment with border
+    border-left: 3px solid var(--bt-border-strong);
+    padding-left: calc(0.4rem - 3px + 3px);
   }
 }
 
 // -- Search --
 .book-search input {
-  border: 1px solid $forest-mid;
-  background-color: rgba(245, 240, 232, 0.7);
-  color: $bark-brown;
+  border: 1px solid var(--bt-border-strong);
+  background-color: var(--bt-search-bg);
+  color: var(--bt-text-primary);
   font-family: 'Source Serif 4', serif;
 
   &:focus {
-    outline: 2px solid $forest-light;
-    background-color: rgba(245, 240, 232, 0.95);
+    outline: 2px solid var(--bt-border-strong);
+    background-color: var(--bt-search-focus-bg);
   }
 }
 
 // -- Code blocks --
 code, pre {
-  background-color: rgba(29, 46, 29, 0.08);
-  border: 1px solid $cream-border;
+  background-color: var(--bt-code-bg);
+  border: 1px solid var(--bt-border-soft);
   font-size: 0.88em;
 }
 
@@ -300,7 +447,7 @@ code, pre {
     width: 100%;
     height: auto;
     display: block;
-    border-bottom: 3px solid $forest-mid;
+    border-bottom: 3px solid var(--bt-border-strong);
   }
 
   .hero-caption {
@@ -310,7 +457,7 @@ code, pre {
     flex-direction: column;
     align-items: center;
     font-family: 'Cinzel', serif;
-    color: $white-soft;
+    color: var(--bt-text-on-dark);
     font-size: 0.9rem;
     letter-spacing: 0.04em;
     text-align: center;
@@ -336,7 +483,7 @@ hr {
   text-align: center;
   overflow: visible;
   height: 1px;
-  background: linear-gradient(to right, transparent, $forest-mid, transparent);
+  background: linear-gradient(to right, transparent, var(--bt-border-strong), transparent);
 
   &::after {
     content: "✦";
@@ -345,7 +492,7 @@ hr {
     top: -0.6em;
     padding: 0 0.5em;
     background: transparent;
-    color: $forest-mid;
+    color: var(--bt-border-strong);
     font-size: 0.85em;
     font-family: "Segoe UI Symbol", "Apple Symbols", "Noto Sans Symbols", sans-serif;
   }
@@ -363,8 +510,8 @@ p > strong:first-child {
 
 .gen-badge {
   display: inline-block;
-  background-color: $forest-dark;
-  color: $white-soft;
+  background-color: var(--bt-badge-bg);
+  color: var(--bt-badge-text);
   font-family: 'Cinzel', serif;
   font-size: 0.8rem;
   font-weight: 600;
@@ -393,13 +540,13 @@ p > strong:first-child {
 
 .book-article {
   table {
-    border-left: 3px solid $forest-dark;
+    border-left: 3px solid var(--bt-border-accent);
     box-shadow: 2px 2px 6px rgba(0,0,0,0.08);
 
     caption {
       font-family: 'Cinzel', serif;
       font-size: 0.82rem;
-      color: $forest-dark;
+      color: var(--bt-text-heading);
       letter-spacing: 0.04em;
       margin-bottom: 0.4em;
       text-align: left;
@@ -409,7 +556,7 @@ p > strong:first-child {
   // First column emphasis in data tables
   table td:first-child {
     font-weight: 600;
-    color: $bark-brown;
+    color: var(--bt-text-primary);
   }
 }
 
@@ -435,20 +582,20 @@ p > strong:first-child {
 // The mobile header bar — theme hides it via .hidden class on desktop;
 // we style it here and reveal it at the theme's native breakpoint (56rem)
 .book-header {
-  background-color: rgba(29, 46, 29, 0.94);
+  background-color: var(--bt-mobile-header-bg);
   backdrop-filter: blur(3px);
   -webkit-backdrop-filter: blur(3px);
   padding: 0.6em 1em;
   align-items: center;
   justify-content: space-between;
-  border-bottom: 2px solid $forest-mid;
+  border-bottom: 2px solid var(--bt-border-strong);
 
   // Mobile site title in header bar
   &::after {
     content: "Berrytree.org";
     font-family: 'Cinzel', serif;
     font-size: 1rem;
-    color: $white-soft;
+    color: var(--bt-text-on-dark);
     letter-spacing: 0.04em;
     flex: 1;
     text-align: center;
@@ -458,7 +605,7 @@ p > strong:first-child {
   // Hamburger icon labels
   label {
     cursor: pointer;
-    color: $white-soft;
+    color: var(--bt-text-on-dark);
     padding: 6px;
     border-radius: 4px;
     transition: background 0.2s;
@@ -470,7 +617,7 @@ p > strong:first-child {
 
     // Style the SVG icons inside labels
     svg {
-      fill: $white-soft;
+      fill: var(--bt-text-on-dark);
       width: 22px;
       height: 22px;
     }
@@ -496,7 +643,7 @@ p > strong:first-child {
     box-shadow: none;
 
     .book-menu-content {
-      background-color: rgba(240, 234, 220, 0.98);
+      background-color: var(--bt-mobile-sidebar-bg);
       height: 100%;
       overflow-y: auto;
       padding-top: 1em;
@@ -520,7 +667,7 @@ p > strong:first-child {
   }
 
   .book-page {
-    background-color: rgba(245, 240, 232, 0.97);
+    background-color: var(--bt-mobile-page-bg);
     width: 100%;
     min-height: 100vh;
   }
@@ -536,7 +683,7 @@ p > strong:first-child {
   }
 
   .book-menu .book-menu-content {
-    background-color: rgba(245, 240, 232, 0.98);
+    background-color: var(--bt-mobile-sidebar-bg);
   }
 
   // Gold hamburger icon on subpages (not homepage)
@@ -552,8 +699,8 @@ p > strong:first-child {
 
 // --- Ancestor preamble block (Gen 1 / Gen 2 / Gen 3 header) ---
 .ancestor-chain {
-  background-color: rgba(213, 200, 180, 0.25);
-  border-left: 3px solid $forest-mid;
+  background-color: var(--bt-panel-tint);
+  border-left: 3px solid var(--bt-border-strong);
   padding: 0.75rem 1.1rem;
   margin: 1rem 0 1.5rem;
   font-size: 0.92rem;
@@ -566,7 +713,7 @@ p > strong:first-child {
   .gen-label {
     font-family: 'Cinzel', serif;
     font-weight: 700;
-    color: $forest-dark;
+    color: var(--bt-text-heading);
     display: inline-block;
     min-width: 3.6rem;
   }
@@ -587,7 +734,7 @@ p > strong:first-child {
   .gen-label {
     font-family: 'Cinzel', serif;
     font-weight: 700;
-    color: $forest-dark;
+    color: var(--bt-text-heading);
     display: inline-block;
     min-width: 3.6rem;
   }
@@ -605,7 +752,7 @@ p > strong:first-child {
 
 // Spouse / note lines — color/italic only; indentation comes from gen-N class
 .gen-spouse {
-  color: $bark-mid;
+  color: var(--bt-text-secondary);
   font-style: italic;
 }
 
@@ -626,7 +773,7 @@ p > strong:first-child {
 // =============================================================
 
 .image-pending {
-  color: $bark-light;
+  color: var(--bt-text-caption);
   font-style: italic;
   opacity: 0.6;
 
@@ -648,7 +795,7 @@ p > strong:first-child {
 .page-breadcrumb {
   margin: 0 0 1.5rem;
   padding: 0.6rem 0;
-  border-bottom: 1px solid $cream-border;
+  border-bottom: 1px solid var(--bt-border-soft);
   font-family: 'Source Serif 4', serif;
   font-size: 0.95rem;
 
@@ -665,12 +812,12 @@ p > strong:first-child {
   li {
     display: flex;
     align-items: center;
-    color: $bark-mid;
+    color: var(--bt-text-secondary);
 
     &::after {
       content: "›";
       margin: 0 0.5em;
-      color: $forest-mid;
+      color: var(--bt-border-strong);
       font-weight: 700;
       font-size: 1.1em;
     }
@@ -680,22 +827,22 @@ p > strong:first-child {
     }
 
     &[aria-current="page"] {
-      color: $forest-dark;
+      color: var(--bt-text-heading);
       font-weight: 600;
     }
   }
 
   a {
-    color: $accent-gold;
+    color: var(--bt-link);
     text-decoration: underline;
     text-underline-offset: 2px;
     padding: 2px 4px;
     border-radius: 2px;
 
     &:hover, &:focus {
-      color: $accent-gold-hover;
+      color: var(--bt-link-hover);
       background-color: rgba(138, 112, 64, 0.08);
-      outline: 2px solid $accent-gold-hover;
+      outline: 2px solid var(--bt-link-hover);
       outline-offset: 1px;
     }
   }
@@ -709,9 +856,9 @@ p > strong:first-child {
   gap: 1.5rem;
   margin-bottom: 2rem;
   padding: 1.5rem;
-  background-color: rgba(213, 200, 180, 0.2);
-  border: 1px solid $cream-border;
-  border-left: 4px solid $forest-mid;
+  background-color: var(--bt-panel-tint-light);
+  border: 1px solid var(--bt-border-soft);
+  border-left: 4px solid var(--bt-border-strong);
   border-radius: 4px;
 
   .profile-image {
@@ -721,14 +868,14 @@ p > strong:first-child {
     img {
       width: 100%;
       height: auto;
-      border: 2px solid $cream-border;
+      border: 2px solid var(--bt-border-soft);
       border-radius: 4px;
       box-shadow: 2px 3px 8px rgba(0,0,0,0.12);
     }
 
     .profile-caption {
       font-size: 0.85rem;
-      color: $bark-mid;
+      color: var(--bt-text-secondary);
       font-style: italic;
       text-align: center;
       margin-top: 0.4rem;
@@ -742,8 +889,8 @@ p > strong:first-child {
   .profile-name {
     font-family: 'Cinzel', serif;
     font-size: 1.8rem;
-    color: $forest-dark;
-    border-bottom: 2px solid $forest-mid;
+    color: var(--bt-text-heading);
+    border-bottom: 2px solid var(--bt-border-strong);
     padding-bottom: 0.3em;
     margin: 0 0 0.8rem;
     line-height: 1.3;
@@ -753,8 +900,8 @@ p > strong:first-child {
     display: block;
     font-size: 0.75rem;
     font-weight: 600;
-    color: $white-soft;
-    background-color: $forest-dark;
+    color: var(--bt-badge-text);
+    background-color: var(--bt-badge-bg);
     padding: 2px 10px;
     border-radius: 3px;
     letter-spacing: 0.06em;
@@ -773,7 +920,7 @@ p > strong:first-child {
       display: flex;
       gap: 0.8rem;
       padding: 0.3rem 0;
-      border-bottom: 1px solid rgba(200, 185, 154, 0.4);
+      border-bottom: 1px solid var(--bt-border-stat);
 
       &:last-child {
         border-bottom: none;
@@ -784,7 +931,7 @@ p > strong:first-child {
       flex: 0 0 5.5rem;
       font-family: 'Cinzel', serif;
       font-weight: 700;
-      color: $forest-dark;
+      color: var(--bt-text-heading);
       font-size: 0.85rem;
       letter-spacing: 0.03em;
       padding-top: 0.1rem;
@@ -793,7 +940,7 @@ p > strong:first-child {
     dd {
       flex: 1;
       margin: 0;
-      color: $bark-brown;
+      color: var(--bt-text-primary);
     }
   }
 
@@ -802,12 +949,12 @@ p > strong:first-child {
     font-size: 0.85rem;
 
     a {
-      color: $forest-mid;
+      color: var(--bt-border-strong);
       text-decoration: none;
       font-style: italic;
 
       &:hover {
-        color: $forest-dark;
+        color: var(--bt-text-heading);
         text-decoration: underline;
       }
 
@@ -850,8 +997,8 @@ p > strong:first-child {
 .ancestor-section {
   font-family: 'Cinzel', serif;
   font-size: 1.4rem;
-  color: $forest-dark;
-  border-bottom: 2px solid $forest-mid;
+  color: var(--bt-text-heading);
+  border-bottom: 2px solid var(--bt-border-strong);
   padding-bottom: 0.3em;
   margin: 2.5rem 0 1rem;
   letter-spacing: 0.02em;
@@ -868,26 +1015,26 @@ p > strong:first-child {
 .child-entry {
   padding: 1rem 1.2rem;
   margin-bottom: 0.8rem;
-  background-color: rgba(245, 240, 232, 0.6);
-  border: 1px solid $cream-border;
-  border-left: 3px solid $forest-light;
+  background-color: var(--bt-child-entry-bg);
+  border: 1px solid var(--bt-border-soft);
+  border-left: 3px solid var(--bt-border-strong);
   border-radius: 3px;
 
   .child-name {
     font-family: 'Cinzel', serif;
     font-size: 1.1rem;
     font-weight: 700;
-    color: $forest-dark;
+    color: var(--bt-text-heading);
     margin-bottom: 0.3rem;
 
     a {
-      color: $accent-gold;
+      color: var(--bt-link);
       text-decoration: underline;
       text-underline-offset: 2px;
 
       &:hover, &:focus {
-        color: $accent-gold-hover;
-        outline: 2px solid $accent-gold-hover;
+        color: var(--bt-link-hover);
+        outline: 2px solid var(--bt-link-hover);
         outline-offset: 2px;
         border-radius: 2px;
       }
@@ -896,20 +1043,20 @@ p > strong:first-child {
 
   .child-dates {
     font-size: 0.95rem;
-    color: $bark-mid;
+    color: var(--bt-text-secondary);
     margin-bottom: 0.3rem;
   }
 
   .child-details {
     font-size: 1rem;
-    color: $bark-brown;
+    color: var(--bt-text-primary);
     line-height: 1.7;
   }
 
   // Visual indicator that this child has their own page
   &.has-page .child-name::after {
     content: " →";
-    color: $accent-gold;
+    color: var(--bt-link);
     font-weight: 400;
   }
 }
@@ -919,14 +1066,14 @@ p > strong:first-child {
 .census-summary {
   margin: 1rem 0;
   padding: 1rem 1.2rem;
-  background-color: rgba(213, 200, 180, 0.18);
-  border-left: 3px solid $forest-mid;
+  background-color: var(--bt-panel-tint-faint);
+  border-left: 3px solid var(--bt-border-strong);
   border-radius: 3px;
 
   .census-overview {
     font-size: 1.05rem;
     font-weight: 600;
-    color: $bark-brown;
+    color: var(--bt-text-primary);
     margin: 0;
     line-height: 1.6;
   }
@@ -981,14 +1128,14 @@ p > strong:first-child {
   img {
     max-width: 100%;
     height: auto;
-    border: 2px solid $cream-border;
+    border: 2px solid var(--bt-border-soft);
     border-radius: 4px;
     box-shadow: 2px 3px 10px rgba(0,0,0,0.1);
   }
 
   .photo-caption {
     font-size: 0.95rem;
-    color: $bark-mid;
+    color: var(--bt-text-secondary);
     font-style: italic;
     margin-top: 0.5rem;
     line-height: 1.5;
@@ -1015,8 +1162,8 @@ p > strong:first-child {
   display: block;
   margin: 2rem 0;
   padding: 1rem 1.5rem;
-  background-color: rgba(45, 74, 45, 0.08);
-  border: 2px solid $forest-mid;
+  background-color: var(--bt-tree-link-bg);
+  border: 2px solid var(--bt-border-strong);
   border-radius: 6px;
   text-align: center;
   font-family: 'Cinzel', serif;
@@ -1024,16 +1171,16 @@ p > strong:first-child {
   transition: background-color 0.2s;
 
   a {
-    color: $forest-dark;
+    color: var(--bt-text-heading);
     font-weight: 700;
     text-decoration: none;
     display: block;
     padding: 0.5rem;
 
     &:hover, &:focus {
-      color: $accent-gold-hover;
+      color: var(--bt-link-hover);
       text-decoration: underline;
-      outline: 2px solid $forest-mid;
+      outline: 2px solid var(--bt-border-strong);
       outline-offset: 4px;
       border-radius: 4px;
     }
@@ -1043,7 +1190,7 @@ p > strong:first-child {
     font-family: 'Source Serif 4', serif;
     font-size: 0.9rem;
     font-weight: 400;
-    color: $bark-mid;
+    color: var(--bt-text-secondary);
     display: block;
     margin-top: 0.3rem;
   }
@@ -1055,14 +1202,14 @@ p > strong:first-child {
   margin: 1.5rem 0;
   padding: 1rem 1.2rem;
   background-color: rgba(213, 200, 180, 0.15);
-  border-left: 3px solid $accent-gold;
+  border-left: 3px solid var(--bt-accent-gold);
   border-radius: 3px;
 
   .lineage-title {
     font-family: 'Cinzel', serif;
     font-size: 0.9rem;
     font-weight: 700;
-    color: $forest-dark;
+    color: var(--bt-text-heading);
     letter-spacing: 0.04em;
     margin-bottom: 0.5rem;
   }
@@ -1091,7 +1238,7 @@ p > strong:first-child {
 
   // Ensure all links have visible focus indicators (not hover-dependent)
   a:focus {
-    outline: 2px solid $accent-gold;
+    outline: 2px solid var(--bt-accent-gold);
     outline-offset: 2px;
     border-radius: 2px;
   }
@@ -1262,8 +1409,8 @@ p > strong:first-child {
   h1 {
     font-family: 'Cinzel', serif;
     font-size: 1.8rem;
-    color: $forest-dark;
-    border-bottom: 2px solid $forest-mid;
+    color: var(--bt-text-heading);
+    border-bottom: 2px solid var(--bt-border-strong);
     padding-bottom: 0.3em;
     margin-bottom: 0.3rem;
     line-height: 1.3;
@@ -1272,7 +1419,7 @@ p > strong:first-child {
   // Subtitle and author
   > p:first-of-type {
     font-style: italic;
-    color: $bark-mid;
+    color: var(--bt-text-secondary);
   }
 
   // Body paragraphs — generous, readable
@@ -1283,7 +1430,7 @@ p > strong:first-child {
 
   // Ben's quote — set apart, warm
   blockquote {
-    border-left: 4px solid $accent-gold;
+    border-left: 4px solid var(--bt-accent-gold);
     background-color: rgba(138, 112, 64, 0.06);
     padding: 1rem 1.5rem;
     margin: 1.5rem 0;
@@ -1307,7 +1454,7 @@ p > strong:first-child {
     font-size: 1.15rem;
     font-weight: 700;
     color: #d4a843 !important;   // bright gold — override global link color
-    background-color: $forest-dark;
+    background-color: var(--bt-text-heading);
     border: 2px solid #d4a843;
     padding: 0.8rem 2.5rem;
     border-radius: 4px;
@@ -1319,7 +1466,7 @@ p > strong:first-child {
 
   a:hover, a:focus {
     color: #e8be5a !important;  // lighter gold on hover
-    background-color: $forest-mid;
+    background-color: var(--bt-border-strong);
     border-color: #e8be5a;
     box-shadow: 2px 4px 12px rgba(0,0,0,0.3);
     outline: 2px solid #e8be5a;
@@ -1336,7 +1483,7 @@ p > strong:first-child {
     font-family: 'Cinzel', serif;
     text-align: center;
     font-size: 1.5rem;
-    color: $forest-dark;
+    color: var(--bt-text-heading);
     border-bottom: none;
     margin-bottom: 1.5rem;
     letter-spacing: 0.05em;
@@ -1374,7 +1521,7 @@ p > strong:first-child {
       &:first-child {
         font-family: 'Cinzel', serif;
         font-weight: 700;
-        color: $forest-dark;
+        color: var(--bt-text-heading);
         text-align: right;
         width: 3rem;
         padding-right: 1rem;
@@ -1383,19 +1530,19 @@ p > strong:first-child {
       // Chapter title column
       &:nth-child(2) {
         font-family: 'Source Serif 4', serif;
-        color: $bark-brown;
+        color: var(--bt-text-primary);
 
         a {
-          color: $accent-gold;
+          color: var(--bt-link);
           text-decoration: underline;
           text-underline-offset: 2px;
 
           &:visited {
-            color: $bark-brown;
+            color: var(--bt-text-primary);
           }
 
           &:hover, &:focus {
-            color: $accent-gold-hover;
+            color: var(--bt-link-hover);
           }
         }
       }
@@ -1435,7 +1582,7 @@ p > strong:first-child {
   margin: 0 0 1rem;
   padding: 0.6rem 1rem;
   background-color: rgba(45, 74, 45, 0.08);
-  border-bottom: 2px solid $forest-mid;
+  border-bottom: 2px solid var(--bt-border-strong);
 
   a {
     text-decoration: none;
@@ -1454,7 +1601,7 @@ p > strong:first-child {
     font-family: 'Cinzel', serif;
     font-size: 1rem;
     font-weight: 700;
-    color: $forest-dark;
+    color: var(--bt-text-heading);
     letter-spacing: 0.04em;
   }
 
@@ -1463,7 +1610,7 @@ p > strong:first-child {
     font-family: 'Source Serif 4', serif;
     font-size: 0.8rem;
     font-style: italic;
-    color: $bark-mid;
+    color: var(--bt-text-secondary);
     margin-top: 0.1rem;
   }
 }
@@ -1502,9 +1649,9 @@ p > strong:first-child {
   padding: 0.75rem 0;
   font-family: 'Cinzel', serif;
   font-size: 0.95rem;
-  color: $bark-mid;
-  border-top: 1px solid $cream-border;
-  border-bottom: 1px solid $cream-border;
+  color: var(--bt-text-secondary);
+  border-top: 1px solid var(--bt-border-soft);
+  border-bottom: 1px solid var(--bt-border-soft);
   margin: 1.5rem 0;
 
   // Hide the raw pipe separators rendered from markdown
@@ -1517,20 +1664,20 @@ p > strong:first-child {
   }
 
   a {
-    color: $accent-gold;
+    color: var(--bt-link);
     text-decoration: none;
     padding: 0.4rem 0.8rem;
     border-radius: 3px;
     font-weight: 600;
 
     &:hover, &:focus {
-      color: $accent-gold-hover;
+      color: var(--bt-link-hover);
       background-color: rgba(138, 112, 64, 0.08);
       text-decoration: underline;
     }
 
     &:focus-visible {
-      outline: 2px solid $accent-gold;
+      outline: 2px solid var(--bt-accent-gold);
       outline-offset: 2px;
     }
   }
@@ -1541,7 +1688,7 @@ p > strong:first-child {
   display: flex;
   gap: 1.5rem;
   background: linear-gradient(135deg, $forest-dark, darken($forest-dark, 5%));
-  border: 2px solid $forest-mid;
+  border: 2px solid var(--bt-border-strong);
   border-radius: 8px;
   padding: 1.5rem;
   margin: 1.5rem 0;
@@ -1577,7 +1724,7 @@ p > strong:first-child {
     }
 
     p {
-      color: $white-soft;
+      color: var(--bt-text-on-dark);
       font-size: 0.95rem;
       line-height: 1.5;
       margin: 0 0 0.8rem 0;
@@ -1665,9 +1812,9 @@ p > strong:first-child {
   width: 44px;
   height: 44px;
   border-radius: 50%;
-  border: 1px solid $forest-mid;
+  border: 1px solid var(--bt-border-strong);
   background: rgba($forest-dark, 0.85);
-  color: $accent-gold;
+  color: var(--bt-link);
   cursor: pointer;
   opacity: 0;
   transform: translateY(10px);
@@ -1684,11 +1831,11 @@ p > strong:first-child {
 
   &:hover {
     background: $forest-dark;
-    border-color: $accent-gold;
+    border-color: var(--bt-link);
   }
 
   &:focus-visible {
-    outline: 2px solid $accent-gold;
+    outline: 2px solid var(--bt-accent-gold);
     outline-offset: 2px;
   }
 }
@@ -1708,11 +1855,11 @@ p > strong:first-child {
 .doc-category {
   margin: 3rem 0 1.2rem;
   padding-bottom: 0.4rem;
-  border-bottom: 2px solid $forest-mid;
+  border-bottom: 2px solid var(--bt-border-strong);
   font-family: 'Cinzel', serif;
   font-size: clamp(1.1rem, 2.5vw, 1.4rem);
   font-weight: 600;
-  color: $forest-dark;
+  color: var(--bt-text-heading);
   letter-spacing: 0.03em;
 }
 
@@ -1727,7 +1874,7 @@ p > strong:first-child {
   font-family: 'Source Serif 4', serif;
   font-size: 0.7rem;
   background: rgba($forest-mid, 0.12);
-  color: $forest-dark;
+  color: var(--bt-text-heading);
   padding: 0.1rem 0.5rem;
   border-radius: 10px;
   vertical-align: middle;
@@ -1738,7 +1885,7 @@ p > strong:first-child {
 
 .doc-category-desc {
   font-size: 0.95rem;
-  color: $bark-mid;
+  color: var(--bt-text-secondary);
   margin: -0.5rem 0 1rem;
   line-height: 1.6;
 }
@@ -1759,20 +1906,20 @@ p > strong:first-child {
 
   &:hover .doc-card,
   &:focus .doc-card {
-    border-color: $accent-gold;
+    border-color: var(--bt-link);
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
     transform: translateY(-2px);
   }
 
   &:focus-visible .doc-card {
-    outline: 2px solid $accent-gold;
+    outline: 2px solid var(--bt-accent-gold);
     outline-offset: 2px;
   }
 }
 
 .doc-card {
-  background: rgba($cream-bg, 0.92);
-  border: 1px solid $cream-border;
+  background: var(--bt-page-bg);
+  border: 1px solid var(--bt-border-soft);
   border-radius: 6px;
   padding: 1rem 1.2rem;
   transition: border-color 0.2s ease, box-shadow 0.2s ease, transform 0.2s ease;
@@ -1801,19 +1948,19 @@ p > strong:first-child {
   white-space: nowrap;
 }
 
-.doc-type-will       { background: rgba($forest-dark, 0.12); color: $forest-dark; }
+.doc-type-will       { background: rgba($forest-dark, 0.12); color: var(--bt-text-heading); }
 .doc-type-deed       { background: rgba($accent-gold, 0.15); color: darken($accent-gold, 8%); }
-.doc-type-estate     { background: rgba($bark-brown, 0.12); color: $bark-brown; }
+.doc-type-estate     { background: rgba($bark-brown, 0.12); color: var(--bt-text-primary); }
 .doc-type-census     { background: rgba($forest-light, 0.15); color: darken($forest-light, 15%); }
 .doc-type-marriage   { background: rgba(#8a4060, 0.12); color: #8a4060; }
 .doc-type-military   { background: rgba(#405a8a, 0.12); color: #405a8a; }
-.doc-type-legal      { background: rgba($bark-mid, 0.12); color: $bark-mid; }
-.doc-type-collection { background: rgba($forest-mid, 0.15); color: $forest-dark; }
-.doc-type-document   { background: rgba($bark-light, 0.12); color: $bark-mid; }
+.doc-type-legal      { background: rgba($bark-mid, 0.12); color: var(--bt-text-secondary); }
+.doc-type-collection { background: rgba($forest-mid, 0.15); color: var(--bt-text-heading); }
+.doc-type-document   { background: rgba($bark-light, 0.12); color: var(--bt-text-secondary); }
 
 .doc-card-date {
   font-size: 0.8rem;
-  color: $bark-light;
+  color: var(--bt-text-caption);
   font-style: italic;
   white-space: nowrap;
 }
@@ -1822,14 +1969,14 @@ p > strong:first-child {
   font-family: 'Cinzel', serif;
   font-size: 1rem;
   font-weight: 600;
-  color: $bark-brown;
+  color: var(--bt-text-primary);
   margin: 0 0 0.4rem;
   line-height: 1.35;
 }
 
 .doc-card-summary {
   font-size: 0.88rem;
-  color: $bark-mid;
+  color: var(--bt-text-secondary);
   line-height: 1.55;
   margin: 0 0 0.5rem;
   flex: 1;
@@ -1837,7 +1984,7 @@ p > strong:first-child {
 
 .doc-card-people {
   font-size: 0.8rem;
-  color: $bark-light;
+  color: var(--bt-text-caption);
   border-top: 1px solid rgba($cream-border, 0.6);
   padding-top: 0.4rem;
   margin-top: auto;
@@ -1845,7 +1992,7 @@ p > strong:first-child {
   &::before {
     content: "Key people: ";
     font-weight: 600;
-    color: $bark-mid;
+    color: var(--bt-text-secondary);
   }
 }
 
@@ -1855,7 +2002,7 @@ p > strong:first-child {
   font-family: 'Cinzel', serif;
   font-size: clamp(0.95rem, 2vw, 1.15rem);
   font-style: italic;
-  color: $bark-light;
+  color: var(--bt-text-caption);
   letter-spacing: 0.04em;
   margin: -0.5rem 0 1.5rem;
 }
@@ -1865,12 +2012,12 @@ p > strong:first-child {
   text-align: center;
   margin-bottom: 2rem;
   padding-bottom: 1.5rem;
-  border-bottom: 1px solid $cream-border;
+  border-bottom: 1px solid var(--bt-border-soft);
 
   p {
     max-width: 40rem;
     margin: 0.5rem auto;
-    color: $bark-mid;
+    color: var(--bt-text-secondary);
     font-size: 1rem;
     line-height: 1.7;
   }
@@ -1905,12 +2052,12 @@ p > strong:first-child {
   position: sticky;
   top: 0;
   z-index: 100;
-  background: rgba($cream-bg, 0.92);
+  background: var(--bt-page-bg);
   backdrop-filter: blur(8px) brightness(1.05);
   -webkit-backdrop-filter: blur(8px) brightness(1.05);
   padding: 0.6rem 0.75rem;
   margin: 0 -0.5rem 1.5rem;
-  border-bottom: 1px solid $cream-border;
+  border-bottom: 1px solid var(--bt-border-soft);
   transition: box-shadow 0.25s ease;
 
   // Subtle shadow when stuck (IntersectionObserver not needed —
@@ -1974,7 +2121,7 @@ p > strong:first-child {
   text-decoration: none !important;
   color: $white-soft !important;
   background: $forest-dark;
-  border: 1px solid $forest-mid;
+  border: 1px solid var(--bt-border-strong);
   border-radius: 999px;
   cursor: pointer;
   transition: background-color 0.2s ease,
@@ -1985,20 +2132,20 @@ p > strong:first-child {
   &:hover,
   &:focus-visible {
     background: $accent-gold;
-    border-color: $accent-gold-hover;
+    border-color: var(--bt-link-hover);
     color: $white-soft !important;
     box-shadow: 0 2px 6px rgba($accent-gold, 0.3);
   }
 
   &:focus-visible {
-    outline: 2px solid $accent-gold-hover;
+    outline: 2px solid var(--bt-accent-gold-hover);
     outline-offset: 2px;
   }
 
   // Active / current category
   &.doc-jump-pill--active {
     background: $accent-gold;
-    border-color: $accent-gold-hover;
+    border-color: var(--bt-link-hover);
     color: $white-soft !important;
     box-shadow: 0 2px 6px rgba($accent-gold, 0.25);
   }
@@ -2274,7 +2421,7 @@ p > strong:first-child {
 
     figcaption {
       font-size: 0.85rem;
-      color: $bark-light;
+      color: var(--bt-text-caption);
       margin-top: 0.35rem;
       font-style: italic;
       line-height: 1.4;
@@ -2338,13 +2485,13 @@ p > strong:first-child {
   text-align: center;
   margin-bottom: 2.5rem;
   padding-bottom: 1.5rem;
-  border-bottom: 1px solid $cream-border;
+  border-bottom: 1px solid var(--bt-border-soft);
 }
 
 .tax-terms-title {
   font-family: 'Cinzel', 'Lora', Georgia, serif;
   font-size: clamp(1.6rem, 4vw, 2.2rem);
-  color: $forest-dark;
+  color: var(--bt-text-heading);
   margin-bottom: 0.3rem;
   letter-spacing: 0.04em;
   border-bottom: none;
@@ -2354,7 +2501,7 @@ p > strong:first-child {
 .tax-terms-subtitle {
   font-family: 'Cinzel', serif;
   font-size: clamp(0.85rem, 2vw, 1rem);
-  color: $accent-gold;
+  color: var(--bt-link);
   letter-spacing: 0.06em;
   margin-bottom: 1rem;
   font-style: italic;
@@ -2363,7 +2510,7 @@ p > strong:first-child {
 .tax-terms-intro {
   font-size: 0.95rem;
   line-height: 1.7;
-  color: $bark-mid;
+  color: var(--bt-text-secondary);
   max-width: 38rem;
   margin: 0 auto;
 }
@@ -2387,24 +2534,24 @@ p > strong:first-child {
   justify-content: center;
   align-items: center;
   padding: 1.5rem 1rem;
-  background: rgba(255, 255, 255, 0.6);
-  border: 1px solid $cream-border;
-  border-left: 4px solid $forest-mid;
+  background: var(--bt-card-bg);
+  border: 1px solid var(--bt-border-soft);
+  border-left: 4px solid var(--bt-border-strong);
   border-radius: 4px;
   text-decoration: none;
   color: inherit;
   transition: border-left-color 0.2s, box-shadow 0.2s, transform 0.2s;
 
   &:hover {
-    border-left-color: $accent-gold;
-    box-shadow: 0 3px 12px rgba(0, 0, 0, 0.08);
+    border-left-color: var(--bt-link);
+    box-shadow: 0 3px 12px rgba(0, 0, 0, 0.15);
     transform: translateY(-2px);
     text-decoration: none;
     color: inherit;
   }
 
   &:focus-visible {
-    outline: 2px solid $forest-mid;
+    outline: 2px solid var(--bt-border-strong);
     outline-offset: 2px;
   }
 }
@@ -2413,7 +2560,7 @@ p > strong:first-child {
   font-family: 'Cinzel', serif;
   font-size: 1.05rem;
   font-weight: 600;
-  color: $forest-dark;
+  color: var(--bt-text-heading);
   letter-spacing: 0.03em;
   margin-bottom: 0.3rem;
   text-align: center;
@@ -2421,7 +2568,7 @@ p > strong:first-child {
 
 .tax-term-count {
   font-size: 0.8rem;
-  color: $bark-light;
+  color: var(--bt-text-caption);
   font-style: italic;
 }
 
@@ -2429,19 +2576,19 @@ p > strong:first-child {
 .tax-term-header {
   margin-bottom: 2rem;
   padding-bottom: 1rem;
-  border-bottom: 1px solid $cream-border;
+  border-bottom: 1px solid var(--bt-border-soft);
 }
 
 .tax-term-back {
   display: inline-block;
   font-family: 'Source Serif 4', serif;
   font-size: 0.85rem;
-  color: $accent-gold;
+  color: var(--bt-link);
   margin-bottom: 0.5rem;
   text-decoration: none;
 
   &:hover {
-    color: $accent-gold-hover;
+    color: var(--bt-link-hover);
     text-decoration: underline;
   }
 }
@@ -2449,7 +2596,7 @@ p > strong:first-child {
 .tax-term-title {
   font-family: 'Cinzel', 'Lora', Georgia, serif;
   font-size: clamp(1.4rem, 3.5vw, 2rem);
-  color: $forest-dark;
+  color: var(--bt-text-heading);
   margin-bottom: 0.2rem;
   letter-spacing: 0.04em;
   border-bottom: none;
@@ -2458,7 +2605,7 @@ p > strong:first-child {
 
 .tax-term-count-label {
   font-size: 0.9rem;
-  color: $bark-light;
+  color: var(--bt-text-caption);
   font-style: italic;
 }
 
@@ -2470,8 +2617,8 @@ p > strong:first-child {
 .tax-term-section-heading {
   font-family: 'Cinzel', serif;
   font-size: 1.1rem;
-  color: $forest-dark;
-  border-bottom: 1px solid $cream-border;
+  color: var(--bt-text-heading);
+  border-bottom: 1px solid var(--bt-border-soft);
   padding-bottom: 0.3rem;
   margin-bottom: 0.8rem;
   letter-spacing: 0.04em;
@@ -2479,7 +2626,7 @@ p > strong:first-child {
 
 .tax-term-section-count {
   font-weight: 400;
-  color: $bark-light;
+  color: var(--bt-text-caption);
   font-size: 0.85rem;
 }
 
@@ -2495,21 +2642,21 @@ p > strong:first-child {
   padding: 0.6rem 1rem;
   background: rgba(255, 255, 255, 0.4);
   border: 1px solid transparent;
-  border-left: 3px solid $cream-border;
+  border-left: 3px solid var(--bt-border-soft);
   border-radius: 3px;
   text-decoration: none;
   color: inherit;
   transition: border-left-color 0.15s, background 0.15s;
 
   &:hover {
-    border-left-color: $forest-mid;
+    border-left-color: var(--bt-border-strong);
     background: rgba(255, 255, 255, 0.7);
     text-decoration: none;
     color: inherit;
   }
 
   &:focus-visible {
-    outline: 2px solid $forest-mid;
+    outline: 2px solid var(--bt-border-strong);
     outline-offset: 1px;
   }
 }
@@ -2518,13 +2665,13 @@ p > strong:first-child {
   font-family: 'Cinzel', serif;
   font-size: 0.92rem;
   font-weight: 600;
-  color: $forest-dark;
+  color: var(--bt-text-heading);
   letter-spacing: 0.02em;
 }
 
 .tax-term-item-desc {
   font-size: 0.8rem;
-  color: $bark-light;
+  color: var(--bt-text-caption);
   line-height: 1.4;
   margin-top: 0.15rem;
 }
@@ -2534,10 +2681,10 @@ p > strong:first-child {
   margin-top: 2.5rem;
   text-align: center;
   font-size: 0.75rem;
-  color: $bark-light;
+  color: var(--bt-text-caption);
   font-style: italic;
   padding-top: 1rem;
-  border-top: 1px solid $cream-border;
+  border-top: 1px solid var(--bt-border-soft);
 }
 
 // -- Discovery banner (periods link on tags page) --
@@ -2551,7 +2698,7 @@ p > strong:first-child {
   gap: 1rem;
   padding: 1rem 1.25rem;
   background: rgba($forest-dark, 0.06);
-  border: 1px solid $forest-mid;
+  border: 1px solid var(--bt-border-strong);
   border-radius: 4px;
   text-decoration: none;
   color: inherit;
@@ -2559,13 +2706,13 @@ p > strong:first-child {
 
   &:hover {
     background: rgba($forest-dark, 0.12);
-    border-color: $accent-gold;
+    border-color: var(--bt-link);
     text-decoration: none;
     color: inherit;
   }
 
   &:focus-visible {
-    outline: 2px solid $forest-mid;
+    outline: 2px solid var(--bt-border-strong);
     outline-offset: 2px;
   }
 }
@@ -2583,20 +2730,20 @@ p > strong:first-child {
   strong {
     font-family: 'Cinzel', serif;
     font-size: 0.95rem;
-    color: $forest-dark;
+    color: var(--bt-text-heading);
     letter-spacing: 0.03em;
   }
 
   span {
     font-size: 0.82rem;
-    color: $bark-mid;
+    color: var(--bt-text-secondary);
     line-height: 1.4;
   }
 }
 
 .tax-discovery-arrow {
   font-size: 1.2rem;
-  color: $accent-gold;
+  color: var(--bt-link);
   flex-shrink: 0;
 }
 
@@ -2724,4 +2871,131 @@ p > strong:first-child {
   padding: 0.3rem 1rem;
   background: rgba(0, 0, 0, 0.5);
   border-radius: 4px;
+}
+
+// =============================================================
+// THEME TOGGLE — Light/Dark Mode Switch
+// Owner: Lila + Kate
+// Lantern icon: flame on = dark mode, flame off = light mode
+// =============================================================
+
+// Override Hugo Book theme variables that use bare :root.
+// html:root has specificity (0,1,1) which beats the theme's :root (0,1,0).
+html:root, html[data-theme="light"] {
+  --color-link: #1a8a1a;
+  --color-visited-link: #cc4400;
+}
+html[data-theme="dark"] {
+  --color-link: #c8a84b;
+  --color-visited-link: #a89060;
+}
+
+// Smooth color transitions when switching themes
+body,
+.book-page,
+.book-menu .book-menu-content,
+.book-toc .book-toc-content,
+.book-header,
+.ancestor-profile,
+.ancestor-chain,
+.child-entry,
+.census-summary,
+.tree-link,
+blockquote,
+table th,
+table td,
+hr {
+  transition: background-color 0.3s ease, color 0.3s ease, border-color 0.3s ease;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  body,
+  .book-page,
+  .book-menu .book-menu-content,
+  .book-toc .book-toc-content,
+  .book-header,
+  .ancestor-profile,
+  .ancestor-chain,
+  .child-entry,
+  .census-summary,
+  .tree-link,
+  blockquote,
+  table th,
+  table td,
+  hr {
+    transition: none;
+  }
+}
+
+// Book theme icon filter — invert icons in dark mode
+.book-icon {
+  filter: var(--bt-icon-filter);
+}
+
+// -- Toggle Button --
+.theme-toggle {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  padding: 4px;
+  border-radius: 4px;
+  transition: background-color 0.2s;
+  vertical-align: middle;
+
+  &:hover {
+    background-color: rgba(255, 255, 255, 0.12);
+  }
+
+  &:focus-visible {
+    outline: 2px solid var(--bt-accent-gold);
+    outline-offset: 2px;
+  }
+
+  svg {
+    width: 30px;
+    height: 30px;
+    display: block;
+  }
+
+  // Show/hide the correct lantern based on theme
+  .lantern-lit  { display: none; }
+  .lantern-out  { display: block; }
+
+  &.theme-toggle--dark {
+    .lantern-lit  { display: block; }
+    .lantern-out  { display: none; }
+  }
+}
+
+// Desktop sidebar toggle
+.theme-toggle-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  padding: 0.5rem 0 0.9rem;
+  border-bottom: 1px solid var(--bt-border-soft);
+  margin-bottom: 0.5rem;
+
+  .theme-toggle-label {
+    font-family: 'Source Serif 4', serif;
+    font-size: 0.8rem;
+    color: var(--bt-text-caption);
+    letter-spacing: 0.03em;
+    cursor: pointer;
+  }
+}
+
+// Mobile header toggle — match icon sizing
+.book-header .theme-toggle {
+  padding: 6px;
+  z-index: 10;
+
+  svg {
+    width: 24px;
+    height: 24px;
+  }
 }

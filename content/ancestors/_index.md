@@ -20,7 +20,6 @@ Individual profiles for ancestors in the Robert and Elizabeth Cate Berry family 
 - [Robert Berry (PAC)](/ancestors/robert-berry-pac/) — Princess Anne County, Virginia
 - [Roger Williamson (PAC)](/ancestors/roger-williamson-pac/)
 - [Robert Berry (OC)](/ancestors/robert-berry-oc/) — Orange County, North Carolina
-- [Robert & Elizabeth's Children](/ancestors/robert-elizabeth-berrys-children/) — The ten children
 - [Robert Berry OC — 9798](/ancestors/robert-berry-oc-9798/)
 
 ## Generation 3 — Children of Robert & Elizabeth
