@@ -347,6 +347,7 @@ hr {
     background: transparent;
     color: $forest-mid;
     font-size: 0.85em;
+    font-family: "Segoe UI Symbol", "Apple Symbols", "Noto Sans Symbols", sans-serif;
   }
 }
 
@@ -793,6 +794,26 @@ p > strong:first-child {
       flex: 1;
       margin: 0;
       color: $bark-brown;
+    }
+  }
+
+  .profile-timeline-link {
+    margin-top: 0.8rem;
+    font-size: 0.85rem;
+
+    a {
+      color: $forest-mid;
+      text-decoration: none;
+      font-style: italic;
+
+      &:hover {
+        color: $forest-dark;
+        text-decoration: underline;
+      }
+
+      &::before {
+        content: "⟳ ";
+      }
     }
   }
 }

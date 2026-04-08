@@ -3,7 +3,7 @@ title: "Fiddleton Cemetery"
 description: "Records and photographs from the Fiddleton Cemetery visitation on July 21, 2007, the burial site of Robert Berry and Elizabeth Cate Berry."
 tags: ["biography", "census", "cemetery"]
 last_updated: 2026-04-07
-qc_owner:
+qc_owner: 2026-04-08
 qc_webteam:
 qc_genealogy: 2026-04-08
 content_source: "wp-export"
@@ -13,7 +13,7 @@ content_source: "wp-export"
 
 The Fiddleton Cemetery was the site of a historic family gathering on July 21, 2007, the first visit to our ancestors' graves for many of the descendants. They came from 14 states and from as far away as California. The photograph at the top of the page was taken that day at the Robert Berry Cemetery.
 
-[Cemetery Census record: cemeterycensus.com/nc/orng/cem233.htm](http://cemeterycensus.com/nc/orng/cem233.htm)
+[Cemetery Census record: cemeterycensus.com/nc/orng/cem233.htm](https://cemeterycensus.com/nc/orng/cem233.htm)
 
 ---
 

@@ -6,7 +6,7 @@ families: ["Joshua Berry", "John Berry", "Thomas Berry", "Isaac Berry", "Mary Be
 periods: ["Colonial", "Revolutionary"]
 tags: ["book-chapter", "orange-county-nc", "deed", "will"]
 last_updated: 2026-04-07
-qc_owner:
+qc_owner: 2026-04-08
 qc_webteam:
 qc_genealogy:
 content_source: "book"
@@ -659,7 +659,7 @@ All of their food was raised without chemical fertilizers or genetically modifie
 
 The URL for the FIDDLETON cemetery:
 
-[**http://cemeterycensus.com/nc/org/cem233.htm**](http://cemeterycensus.com/nc/org/cem233.htm)
+[**https://cemeterycensus.com/nc/orng/cem233.htm**](https://cemeterycensus.com/nc/orng/cem233.htm)
 
 Many of Robert Berry's neighbors came to America from Scotland. There have been researchers who have tried to say that Robert Berry was from Scotland also.
 
@@ -667,7 +667,7 @@ There was a Presbyterian Church formed very early in the Little River community 
 
 Many of Robert Berry's Scot-Irish neighbors are buried in the Little River Presbyterian Church Cemetery. There is no record of Robert Berry or any of his children ever belonging to this church. These two facts are added reasons for me to believe that Robert's ancestors came from England. I feel certain, if Robert Berry had come from Scotland, he would have been a member of the Little River Presbyterian Church and he would have been buried there. I have Scott-Irish ancestors on the Wilson side of my family who are buried there.
 
-URL for Little River Presbyterian Church: http://cemeterycensus.com/nc/orng/cem039.htm
+URL for Little River Presbyterian Church: https://cemeterycensus.com/nc/orng/cem039.htm
 
 Robert Berry OC was very likely the first person to be buried at Fiddleton Cemetery. Elizabeth Cate Berry was very likely the second. If Robert and Elizabeth had any young children who died they could have been buried there before any of our adult ancestors. Although we cannot identify the graves, Robert and Elizabeth are probably buried beside each other. Isaac Berry is probably the third adult member of the family to be buried there. If Joshua Berry is buried there, he would probably have been the fourth. We counted 23 graves and six of them can be identified. The rest of the stones have no markings remaining on them. Originally, information may have been scratched onto the field stones but time has eroded all of this information. Henry Berry died in 1855, Hannah Berry died in 1858. Thomas Person Berry's son, William H Berry, died in 1858. Joshua Berry's son, Lewis Berry, also died in 1858. Lewis Berry may not be buried there but Henry, Hannah, and William H Berry are almost certain to have been buried there. Members of the King family are definitely buried there and that probably includes Fanny Ashley. There is only one fieldstone that is hand-shaped into a headstone. (**See Fig: 33, Page 99 and the headstone comparison on page 134**)
 

@@ -565,7 +565,7 @@ John Berry born cir 1764...
 
 ### **[Fiddleton Cemetery](/ancestors/fiddletoncemetery/)**
 Fiddleton Cemetery Visitation July 21. 2007
- http://cemeterycensus.com/nc/orng/cem233.htm
+ https://cemeterycensus.com/nc/orng/cem233.htm
 
 THIS IS THE FIRST VISIT TO OUR ANCESTORS GRAVES FOR MANY OF THE DESCENDANTS  There was a great turnout of Robert Berry and Elizabeth Cate Berry's descendants...
 

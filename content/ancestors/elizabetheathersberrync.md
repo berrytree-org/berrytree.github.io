@@ -6,7 +6,7 @@ families: ["David J Berry"]
 periods: ["Revolutionary", "Early Settlement"]
 tags: ["biography", "orange-county-nc", "census"]
 last_updated: 2026-04-07
-qc_owner:
+qc_owner: 2026-04-08
 qc_webteam:
 qc_genealogy:
 content_source: "wp-export"
@@ -29,7 +29,7 @@ content_source: "wp-export"
 
 ## **Elizabeth Leathers Berry, Was The Daughter Of Mary Blalock**
 
-Elizabeth Berry was born before [David J. Berry](/ancestors/david-j-berry-sr/) married Mary Blalock. She is not blood related to the Berry family but [David J. Berry](/ancestors/david-j-berry-sr/) adopted his step daughter and she was raised with his own children. As far as I know there is no knowledge of who she married or what kind of life she was able to make for herself after [David J. Berry](/ancestors/david-j-berry-sr/) and her mother, Mary Blalock, died. Elizabeth was the Illegitimate daughter of William Riley who was brought to court about the matter. A bastardy bond was placed on him. <!-- UNSOURCED -->
+Elizabeth Berry was born before [David J. Berry](/ancestors/david-j-berry-sr/) married Mary Blalock. She is not blood related to the Berry family but [David J. Berry](/ancestors/david-j-berry-sr/) adopted his step daughter and she was raised with his own children. As far as I know there is no knowledge of who she married or what kind of life she was able to make for herself after [David J. Berry](/ancestors/david-j-berry-sr/) and her mother, Mary Blalock, died. Elizabeth was the illegitimate daughter of William Riley, who was brought to court about the matter. A bastardy bond was placed on him. This is the same William Riley against whom [Elizabeth Berry](/ancestors/elizabeth-berry/) (daughter of Robert and Elizabeth Cate Berry) also filed a bastardy bond in August 1791. <!-- UNSOURCED -->
 
 **Elizabeth** was born about 1791 <!-- UNSOURCED -->
 

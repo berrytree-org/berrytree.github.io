@@ -12,7 +12,7 @@ periods: ["Colonial"]
 tags: ["biography", "census", "land-grant", "deed", "military", "cemetery"]
 families: ["Joshua Berry", "John Berry", "Thomas Berry", "Isaac Berry", "Mary Berry", "William Berry", "Henry Berry", "Elizabeth Berry", "David J Berry", "Robert Berry Jr"]
 last_updated: 2026-04-07
-qc_owner:
+qc_owner: 2026-04-08
 qc_webteam:
 qc_genealogy: 2026-04-08
 content_source: "wp-export"

@@ -11,10 +11,10 @@
   Usage:
     {{< breadcrumb trail="Home|/|Ancestors|/ancestors/|David J. Berry Sr." />}}
 */}}
+{{- $items := split (.Get "trail") "|" }}
+{{- $len := len $items }}
 <nav class="page-breadcrumb" aria-label="You are here">
   <ol>
-    {{- $items := split (.Get "trail") "|" }}
-    {{- $len := len $items }}
     {{- range $i, $item := $items }}
       {{- if eq (mod $i 2) 0 }}
         {{- if lt (add $i 1) $len }}
@@ -27,3 +27,24 @@
     {{- end }}
   </ol>
 </nav>
+{{ safeHTML "<!-- Schema.org BreadcrumbList -->" }}
+{{ safeHTML "<script type=\"application/ld+json\">" }}
+{{ safeHTML "{" }}
+{{ safeHTML "  \"@context\": \"https://schema.org\"," }}
+{{ safeHTML "  \"@type\": \"BreadcrumbList\"," }}
+{{ safeHTML "  \"itemListElement\": [" }}
+{{- $pos := 0 }}
+{{- range $i, $item := $items }}
+  {{- if eq (mod $i 2) 0 }}
+    {{- $pos = add $pos 1 }}
+    {{- if lt (add $i 1) $len }}
+      {{- $url := index $items (add $i 1) }}
+{{ printf "    {\"@type\": \"ListItem\", \"position\": %d, \"name\": %s, \"item\": \"https://berrytree.org%s\"}" $pos ($item | jsonify) $url | safeHTML }}{{ if lt (add $i 2) $len }}{{ safeHTML "," }}{{ end }}
+    {{- else }}
+{{ printf "    {\"@type\": \"ListItem\", \"position\": %d, \"name\": %s}" $pos ($item | jsonify) | safeHTML }}
+    {{- end }}
+  {{- end }}
+{{- end }}
+{{ safeHTML "  ]" }}
+{{ safeHTML "}" }}
+{{ safeHTML "</script>" }}
