@@ -168,7 +168,7 @@ table {
   border-collapse: collapse;
   width: 100%;
   margin: 1.5em 0;
-  font-size: 0.9rem;
+  font-size: 0.95rem;
 
   th {
     background-color: $forest-dark;
@@ -316,7 +316,7 @@ code, pre {
     text-align: center;
 
     .hero-sub {
-      font-size: 0.78rem;
+      font-size: 0.85rem;
       font-family: 'Source Serif 4', serif;
       font-style: italic;
       color: rgba(248, 245, 239, 0.72);
@@ -531,7 +531,7 @@ p > strong:first-child {
 
   // Hero banner adjustments for small screens
   .site-hero .hero-caption {
-    font-size: 0.78rem;
+    font-size: 0.85rem;
   }
 
   .book-menu .book-menu-content {
@@ -1172,6 +1172,7 @@ p > strong:first-child {
     display: inline-block;
     transform: rotateY(-4deg);
     transform-origin: left center;
+    will-change: transform;
 
     // The cover image
     img {
@@ -1367,6 +1368,10 @@ p > strong:first-child {
           color: $accent-gold;
           text-decoration: underline;
           text-underline-offset: 2px;
+
+          &:visited {
+            color: $bark-brown;
+          }
 
           &:hover, &:focus {
             color: $accent-gold-hover;
@@ -1617,6 +1622,7 @@ p > strong:first-child {
     box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.4);
     transform: rotateY(-8deg);
     transition: transform 0.3s ease;
+    will-change: transform;
   }
 
   &:hover img {

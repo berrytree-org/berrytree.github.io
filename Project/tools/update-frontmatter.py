@@ -271,10 +271,14 @@ def apply_update(fm_lines, field, value, fmt):
     formatted = format_value(value, fmt)
     pat = field_split_pattern(field, fmt)
     m = pat.match(fm_lines[idx])
+    sep = ': ' if fmt == 'yaml' else ' = '
     if m:
-        fm_lines[idx] = f"{field}{m.group(1)}{formatted}"
+        # Normalize separator to ensure valid YAML/TOML spacing
+        raw_sep = m.group(1)
+        if fmt == 'yaml' and ':' in raw_sep and not raw_sep.endswith(' '):
+            raw_sep = ': '
+        fm_lines[idx] = f"{field}{raw_sep}{formatted}"
     else:
-        sep = ': ' if fmt == 'yaml' else ' = '
         fm_lines[idx] = f"{field}{sep}{formatted}"
     return fm_lines
 

@@ -7,7 +7,7 @@ tags: ["biography", "census"]
 last_updated: 2026-04-07
 qc_owner:
 qc_webteam:
-qc_genealogy:
+qc_genealogy: 2026-04-08
 content_source: "wp-export"
 ---
 
@@ -56,9 +56,15 @@ Individual profiles for ancestors in the Robert and Elizabeth Cate Berry family 
 - [Roann Frances Berry](/ancestors/roann-frances-berry/)
 - [Robert Berry Jr. — Detail](/ancestors/robert-berry-jr-detail/)
 - [Robert Berry (PAC) — Detail](/ancestors/robert-berry-pac-detail/)
+- [Robert Berry, Son of David J.](/ancestors/robertdjberry/)
 - [Robert C. Berry (Alabama)](/ancestors/robert-c-berry-alabama/)
 - [Robert Clark Berry (GA)](/ancestors/robert-clark-berry-ga/)
 - [Sarah Cate — Detail](/ancestors/sarah-cate-detail/)
+- [Sarah Berry Cates (GA)](/ancestors/sarahberrycatesga/)
 - [Shelby Dale Berry](/ancestors/shelby-dale-berry/)
 - [Thomas Euart Berry (NC)](/ancestors/thomas-euart-berry-nc/)
+- [Thomas Person Berry](/ancestors/thomas-person-berry/)
 - [William Aaron Turley (GA)](/ancestors/william-aaron-turley-ga/)
+- [William Clarence Berry (NC)](/ancestors/william-clarence-berry-nc/)
+- [Joshua Berry (GA)](/ancestors/joshuaberryga/)
+- [Mary Berry Barton (GA)](/ancestors/maryberrybartonga/)

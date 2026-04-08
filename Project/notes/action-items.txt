@@ -1,5 +1,5 @@
 Berrytree.org — Action Items (Ranked)
-Updated: 2026-04-08 — Full Staff Meeting (Session 2, updated mid-session)
+Updated: 2026-04-08 — Session 3 (qc_genealogy pass completed)
 
 Priority Scale: HIGH | MEDIUM | LOW | MEH
 
@@ -15,9 +15,6 @@ Priority Scale: HIGH | MEDIUM | LOW | MEH
 
   ┌───────────────────────────┬──────────────────────┬──────────┬──────────────────────────────────────────────────────────────────────────────────────────┐
   │           Item            │        Owner         │ Priority │                                      Description                                       │
-  ├───────────────────────────┼──────────────────────┼──────────┼──────────────────────────────────────────────────────────────────────────────────────────┤
-  │ sources_verified pass     │ Martha               │ MEDIUM   │ Systematic review of Gen 3+ ancestor pages to verify source citations and mark         │
-  │ (Gen 3 pages)             │                      │          │ sources_verified: true in front matter. In progress, carried over from 2026-04-07.     │
   ├───────────────────────────┼──────────────────────┼──────────┼──────────────────────────────────────────────────────────────────────────────────────────┤
   │ PLAN list (24 items)      │ Pam (coordination)   │ MEDIUM   │ Quality-of-life improvements: Open Graph tags, TOC visited state, back-to-top button,  │
   │                           │ Aaron (decisions)    │ (batch)  │ etc. None urgent individually, but collectively they polish the site. Propose          │
@@ -64,6 +61,8 @@ Priority Scale: HIGH | MEDIUM | LOW | MEH
 
   COMPLETED (for reference)
   ─────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  - qc_genealogy source review             — Done 2026-04-08 (194 pages reviewed; 72 passed/stamped, 122 failures logged in
+                                            Project/testing/qc-genealogy-failures.csv; update-frontmatter.py YAML bug fixed)
   - QC report script                      — Done 2026-04-08 (Project/tools/qc-report.py; --detail, --section, --flagged)
   - US Conflicts page QC                  — Done 2026-04-08 (Aaron confirmed complete)
   - Family-line tree pages                — Done 2026-04-08 (Joshua Sr., Thomas, William, Elizabeth all built)

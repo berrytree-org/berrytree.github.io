@@ -2,6 +2,42 @@
 
 ---
 
+## 2026-04-08 (Session 3) — Genealogy Source Review, PLAN List Audit & Fixes, Font Size Improvements
+
+### Summary
+Full team session focused on completing Martha's qc_genealogy source verification pass across all 194 ancestor and family-lines pages. Reviewed every page for source citations, stamped 72 as passing, logged 122 failures to a CSV for future remediation. Then audited the 24-item PLAN list from the April 2nd bug hunt, found 10 already fixed or partially fixed, and knocked out 8 more in-session. Closed with font-size improvements for elderly visitors.
+
+### qc_genealogy Source Review
+- **194 pages reviewed** (183 ancestors + 11 family-lines, after 11 Bucket 1 index pages stamped immediately)
+- **72 pages passed** and stamped with `qc_genealogy: 2026-04-08`
+- **122 pages failed** — logged to `Project/testing/qc-genealogy-failures.csv` with file, section, issue type, severity, and notes
+- **Severity breakdown:** ~35 HIGH, ~65 MEDIUM, ~22 LOW
+- **Key finding:** Ben's direct NC line is well-sourced; GA/AL branch pages are weakest; many pages have evidence on-page (census images, headstones) but don't formally cite it in the narrative
+
+### PLAN List Audit
+Verified all 24 items from the April 2nd bug hunt against current codebase:
+- **Previously fixed (4):** S42 (Shelby DNA consent), V10 (chapter nav), V16 (back-to-top), A20 (documents section)
+- **Fixed this session (8):** V18 (will-change on book covers), V8 (book TOC :visited state), R14 (semantic header for book-banner), A24 (lastmod mapping in hugo.toml), M13/M14 (missing _index.md child links), T1 (flexbox gap closed as acceptable risk), R10 (hero subtitle font 0.78→0.85rem), R17 (table font 0.9→0.95rem)
+- **Still open (11):** R19, R22, S23/S37, V15, A5, A14, M6, M7, M8
+
+### Files Modified
+- `assets/_custom.scss` — will-change on book covers, :visited state on book TOC links, hero-sub font 0.78→0.85rem, table font 0.9→0.95rem
+- `layouts/_shortcodes/book-banner.html` — `<div>` changed to `<header role="banner">`
+- `hugo.toml` — Added `[frontmatter] lastmod = ['last_updated', ':fileModTime']`
+- `content/ancestors/_index.md` — Added 7 missing child page links (M13/M14)
+- `Project/tools/update-frontmatter.py` — Fixed YAML spacing bug in `apply_update` (was writing `key:value` instead of `key: value` for blank fields)
+- `Project/testing/qc-genealogy-failures.csv` — Created, 122 entries
+- `Project/notes/action-items.txt` — Moved sources_verified pass to completed
+- `Project/notes/mac-shortcuts.md` — Created, Safari responsive design mode shortcut
+
+### Decisions Made
+1. Three-bucket approach for qc_genealogy review: index pages stamped immediately, source pages get light review, biography pages get full review
+2. Failures tracked in CSV at Project/testing/ per audit report conventions
+3. T1 (flexbox gap) closed as acceptable risk — Safari 14.1 is 5+ years old
+4. Font-size bumps approved by Aaron after visual inspection on desktop and mobile
+
+---
+
 ## 2026-04-08 (Session 2) — QC System Overhaul, Front Matter Tooling, Action Items Refresh
 
 ### Summary

@@ -11,9 +11,9 @@
   Usage:
     {{< book-banner title="Our Berrys in Frontier America" author="Benjamin Berry Henderson Sr." url="/books/frontier-america/" >}}
 */}}
-<div class="book-banner">
+<header class="book-banner" role="banner">
   <a href="{{ .Get "url" }}">
     <span class="book-banner-title">{{ .Get "title" }}</span>
     <span class="book-banner-author">by {{ .Get "author" }}</span>
   </a>
-</div>
+</header>
