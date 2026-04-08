@@ -3,10 +3,11 @@ title: "Census Pages"
 description: "Index of US Census data pages for the Berry family and related families."
 periods: ["Revolutionary", "Early Settlement"]
 tags: ["census-page", "census"]
-qc_status: "needs-review"
 last_updated: 2026-04-07
+qc_owner:
+qc_webteam:
+qc_genealogy:
 content_source: "wp-export"
-sources_verified: false
 ---
 
 {{< info-banner title="Census Pages" subtitle="US Census Data for the Berry Family and Related Families" >}}

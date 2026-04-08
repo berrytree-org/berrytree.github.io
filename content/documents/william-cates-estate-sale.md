@@ -12,10 +12,11 @@ tags:
   - document
   - estate
   - orange-county-nc
-qc_status: "needs-review"
 last_updated: 2026-04-07
+qc_owner:
+qc_webteam:
+qc_genealogy:
 content_source: "wp-export"
-sources_verified: false
 ---
 
 {{< info-banner title="William Cate's Estate Sale — 1803" subtitle="Items purchased by Robert Berry Sr. and family at the estate sale of their father-in-law, William Cate." >}}

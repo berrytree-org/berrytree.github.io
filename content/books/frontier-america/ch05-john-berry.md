@@ -5,10 +5,11 @@ bookToc: true
 families: ["John Berry"]
 periods: ["Revolutionary"]
 tags: ["book-chapter", "orange-county-nc", "marriage-bond", "will"]
-qc_status: "needs-review"
 last_updated: 2026-04-07
+qc_owner:
+qc_webteam:
+qc_genealogy:
 content_source: "book"
-sources_verified: false
 ---
 
 <div class="ancestor-page">

@@ -4,10 +4,11 @@ description: "Albert Edgar Berry (1881-1964), son of Jesse Lee and Nancy Ann Hen
 periods: ["Reconstruction", "Modern"]
 tags: ["biography", "census", "cemetery"]
 families: ["David J Berry"]
-qc_status: "needs-review"
 last_updated: 2026-04-07
+qc_owner:
+qc_webteam:
+qc_genealogy:
 content_source: "wp-export"
-sources_verified: false
 ---
 
 ## **Albert Edgar Berry, son of Jesse Lee and Nancy Ann Henry Berry**

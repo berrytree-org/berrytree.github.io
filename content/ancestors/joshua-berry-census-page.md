@@ -4,10 +4,11 @@ description: "Census records for Joshua Berry Sr. in Orange County, North Caroli
 periods: ["Revolutionary", "Early Settlement"]
 tags: ["census-page", "census"]
 families: ["Joshua Berry"]
-qc_status: "needs-review"
 last_updated: 2026-04-07
+qc_owner:
+qc_webteam:
+qc_genealogy:
 content_source: "wp-export"
-sources_verified: false
 ---
 
 {{< info-banner title="Joshua Berry Sr. — Census Records" subtitle="Orange County, NC Census Listings, 1790–1830" >}}

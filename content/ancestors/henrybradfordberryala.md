@@ -6,10 +6,11 @@ bookToc: true
 families: ["Robert Berry Jr"]
 periods: ["Early Settlement", "Antebellum"]
 tags: ["biography", "alabama", "census", "will", "cemetery"]
-qc_status: "needs-review"
 last_updated: 2026-04-07
+qc_owner:
+qc_webteam:
+qc_genealogy:
 content_source: "wp-export"
-sources_verified: false
 ---
 
 <div class="ancestor-page">

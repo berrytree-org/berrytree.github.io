@@ -4,10 +4,11 @@ description: "Alfred Walter Berry (1833–1909), son of David Middleton and Dida
 periods: ["Early Settlement", "Antebellum"]
 tags: ["biography", "alabama", "census"]
 families: ["Robert Berry Jr"]
-qc_status: "needs-review"
 last_updated: 2026-04-07
+qc_owner:
+qc_webteam:
+qc_genealogy:
 content_source: "wp-export"
-sources_verified: false
 ---
 
 ## **Alfred Walter Berry, Son of David Middleton and Didama Box Berry**

@@ -3,10 +3,11 @@ title: "USA Conflicts"
 description: "A reference timeline of major wars, Indian Wars, and economic downturns spanning the lifetimes of Berry family ancestors."
 periods: ["Colonial", "Revolutionary"]
 tags: ["biography", "military"]
-qc_status: "needs-review"
 last_updated: 2026-04-07
+qc_owner:
+qc_webteam:
+qc_genealogy:
 content_source: "wp-export"
-sources_verified: false
 ---
 
 {{< info-banner title="USA Conflicts & Economic Downturns" subtitle="Historical context for Berry family events: the wars they fought in and the economic forces that shaped their migrations." >}}

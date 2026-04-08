@@ -7,10 +7,11 @@ aliases:
 periods: ["Early Settlement"]
 tags: ["biography", "ohio", "census", "cemetery"]
 families: ["Joshua Berry"]
-qc_status: "needs-review"
 last_updated: 2026-04-07
+qc_owner:
+qc_webteam:
+qc_genealogy:
 content_source: "wp-export"
-sources_verified: false
 ---
 
 {{< info-banner title="Joshua Berry Jr. (1801–1879)" subtitle="Son of Joshua and Nancy Ellison Berry, migrated from Orange County, NC, to Ohio, Indiana, and Iowa." >}}

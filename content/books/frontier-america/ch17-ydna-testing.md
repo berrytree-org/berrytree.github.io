@@ -4,10 +4,11 @@ weight: 17
 bookToc: true
 periods: ["Modern"]
 tags: ["book-chapter", "dna"]
-qc_status: "needs-review"
 last_updated: 2026-04-07
+qc_owner:
+qc_webteam:
+qc_genealogy:
 content_source: "book"
-sources_verified: false
 ---
 
 <div class="ancestor-page">

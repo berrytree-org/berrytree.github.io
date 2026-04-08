@@ -4,10 +4,11 @@ description: "Biographical detail and census records for Joshua Berry Jr., son o
 periods: ["Early Settlement"]
 tags: ["census-page", "census", "cemetery"]
 families: ["Joshua Berry"]
-qc_status: "needs-review"
 last_updated: 2026-04-07
+qc_owner:
+qc_webteam:
+qc_genealogy:
 content_source: "wp-export"
-sources_verified: false
 ---
 
 {{< info-banner title="Joshua Berry Jr. — Ohio Detail" subtitle="Biography and Census Records, Orange County NC to Benton County Iowa" >}}

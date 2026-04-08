@@ -4,10 +4,11 @@ description: "Thompson Berry (1801–1871), son of Robert Berry Jr. and Mary Cam
 periods: ["Early Settlement"]
 tags: ["biography", "alabama", "census"]
 families: ["Robert Berry Jr"]
-qc_status: "needs-review"
 last_updated: 2026-04-07
+qc_owner:
+qc_webteam:
+qc_genealogy:
 content_source: "wp-export"
-sources_verified: false
 ---
 
 ## **Thompson Berry, Son of Robert Berry Jr. and Mary Camp Berry**

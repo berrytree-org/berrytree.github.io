@@ -4,10 +4,11 @@ description: "Census records for Robert Berry Jr. from 1790 Orange County, NC th
 periods: ["Revolutionary", "Early Settlement"]
 tags: ["census-page", "census"]
 families: ["Robert Berry Jr"]
-qc_status: "needs-review"
 last_updated: 2026-04-07
+qc_owner:
+qc_webteam:
+qc_genealogy:
 content_source: "wp-export"
-sources_verified: false
 ---
 
 {{< info-banner title="Robert Berry Jr. — Census Records" subtitle="Census Listings from North Carolina and Alabama, 1790–1840" >}}

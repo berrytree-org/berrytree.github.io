@@ -4,10 +4,11 @@ description: "Emanuel Patton Berry (1849-1938), son of Robert and Elizabeth Ever
 periods: ["Antebellum", "Civil War"]
 tags: ["biography", "census", "cemetery"]
 families: ["David J Berry"]
-qc_status: "needs-review"
 last_updated: 2026-04-07
+qc_owner:
+qc_webteam:
+qc_genealogy:
 content_source: "wp-export"
-sources_verified: false
 ---
 
 **Ancestors:**

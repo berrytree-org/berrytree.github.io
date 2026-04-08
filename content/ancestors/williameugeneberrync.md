@@ -6,10 +6,11 @@ aliases:
 periods: ["Reconstruction", "Modern"]
 tags: ["biography", "orange-county-nc", "census"]
 families: ["William Berry"]
-qc_status: "needs-review"
 last_updated: 2026-04-07
+qc_owner:
+qc_webteam:
+qc_genealogy:
 content_source: "wp-export"
-sources_verified: false
 ---
 
 {{< info-banner title="William Eugene Berry (1896–1984)" subtitle="Son of Wiley P. and Ida Ann Wilson Berry, Orange County, North Carolina." >}}

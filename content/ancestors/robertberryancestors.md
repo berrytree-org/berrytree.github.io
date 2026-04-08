@@ -5,10 +5,11 @@ bookToc: true
 periods: ["Colonial"]
 tags: ["biography"]
 families: ["Joshua Berry", "John Berry", "Thomas Berry", "Isaac Berry", "Mary Berry", "William Berry", "Henry Berry", "Elizabeth Berry", "David J Berry", "Robert Berry Jr"]
-qc_status: "needs-review"
 last_updated: 2026-04-07
+qc_owner:
+qc_webteam:
+qc_genealogy:
 content_source: "wp-export"
-sources_verified: false
 ---
 
 <div class="ancestor-page">

@@ -4,10 +4,11 @@ weight: 12
 description: "Meet the researchers behind berrytree.org, honoring the legacy of Benjamin Berry Henderson Sr., who spent two decades documenting the Robert and Elizabeth Cate Berry family."
 tags:
   - biography
-qc_status: "needs-review"
 last_updated: 2026-04-07
+qc_owner:
+qc_webteam:
+qc_genealogy:
 content_source: "new"
-sources_verified: false
 ---
 
 # About Us

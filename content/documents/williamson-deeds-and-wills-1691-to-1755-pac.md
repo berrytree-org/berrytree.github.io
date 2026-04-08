@@ -8,10 +8,11 @@ tags:
   - will
   - deed
   - prince-anne-county-va
-qc_status: "needs-review"
 last_updated: 2026-04-07
+qc_owner:
+qc_webteam:
+qc_genealogy:
 content_source: "wp-export"
-sources_verified: false
 ---
 
 {{< info-banner title="Williamson Family Deeds & Wills — Princess Anne County, Virginia" subtitle="Over 50 abstracts from deed books 1–7 covering the Williamson family from 1691 to 1755. Abstracted by Anne Mailing." >}}

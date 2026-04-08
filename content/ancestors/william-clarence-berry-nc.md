@@ -6,10 +6,11 @@ bookToc: true
 families: ["William Berry"]
 periods: ["Early Settlement"]
 tags: ["biography", "orange-county-nc", "census", "land-grant", "deed", "marriage-bond", "military", "cemetery"]
-qc_status: "needs-review"
 last_updated: 2026-04-07
+qc_owner:
+qc_webteam:
+qc_genealogy:
 content_source: "wp-export"
-sources_verified: false
 ---
 
 <div class="ancestor-page">

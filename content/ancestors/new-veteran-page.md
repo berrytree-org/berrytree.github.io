@@ -2,10 +2,11 @@
 title: "Veterans Page"
 description: "Portraits honoring Berry family veterans who served in America's conflicts, organized by family line."
 tags: ["biography", "military"]
-qc_status: "needs-review"
 last_updated: 2026-04-07
+qc_owner:
+qc_webteam:
+qc_genealogy:
 content_source: "wp-export"
-sources_verified: false
 ---
 
 {{< info-banner title="Berry Family Veterans" subtitle="Honoring the men and women of the Berry family who served their country, from the American Revolution to the modern era." >}}

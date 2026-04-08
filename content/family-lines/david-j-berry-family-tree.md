@@ -5,10 +5,11 @@ aliases:
 families: ["David J Berry"]
 periods: ["Revolutionary", "Early Settlement"]
 tags: ["family-tree", "orange-county-nc", "georgia"]
-qc_status: "needs-review"
 last_updated: 2026-04-07
+qc_owner:
+qc_webteam:
+qc_genealogy:
 content_source: "wp-export"
-sources_verified: false
 ---
 
 {{< ancestor-chain gen3="David J. Berry × Mary Blalock" loc3="Orange County, NC → Fayette County GA" link3="/ancestors/david-j-berry-sr/" />}}

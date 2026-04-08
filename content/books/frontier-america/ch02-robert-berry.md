@@ -5,10 +5,11 @@ bookToc: true
 families: ["Joshua Berry", "John Berry", "Thomas Berry", "Isaac Berry", "Mary Berry", "William Berry", "Henry Berry", "Elizabeth Berry", "David J Berry", "Robert Berry Jr"]
 periods: ["Colonial", "Revolutionary"]
 tags: ["book-chapter", "orange-county-nc", "deed", "will"]
-qc_status: "needs-review"
 last_updated: 2026-04-07
+qc_owner:
+qc_webteam:
+qc_genealogy:
 content_source: "book"
-sources_verified: false
 ---
 
 <div class="ancestor-page">

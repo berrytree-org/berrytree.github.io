@@ -9,10 +9,11 @@ tags:
   - deed
   - prince-anne-county-va
   - pac-to-oc
-qc_status: "needs-review"
 last_updated: 2026-04-07
+qc_owner:
+qc_webteam:
+qc_genealogy:
 content_source: "wp-export"
-sources_verified: false
 ---
 
 {{< info-banner title="Berry Wills & Deeds — Princess Anne County, Virginia" subtitle="12 Berry family entries from deed books 1–7, 1691–1755. Abstracted by Anne Mailing." >}}

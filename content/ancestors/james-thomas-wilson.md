@@ -3,10 +3,11 @@ title: "James Thomas Wilson NC"
 periods: ["Antebellum", "Civil War"]
 tags: ["biography", "census", "cemetery"]
 families: ["William Berry"]
-qc_status: "needs-review"
 last_updated: 2026-04-07
+qc_owner:
+qc_webteam:
+qc_genealogy:
 content_source: "wp-export"
-sources_verified: false
 ---
 
 {{< info-banner title="James Thomas Wilson (1857–1929)" subtitle="Father-in-law of Pattie Swiney Berry, Orange County, North Carolina." >}}

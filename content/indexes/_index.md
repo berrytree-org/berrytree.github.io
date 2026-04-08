@@ -5,10 +5,11 @@ bookCollapseSection: true
 description: "Alphabetical, family tree, name, and site map indexes for navigating the Berry family genealogy on berrytree.org."
 tags:
   - index-page
-qc_status: "needs-review"
 last_updated: 2026-04-07
+qc_owner:
+qc_webteam:
+qc_genealogy:
 content_source: "wp-export"
-sources_verified: false
 ---
 
 # Site Indexes

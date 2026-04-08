@@ -4,10 +4,11 @@ description: "Addie Lena Berry Maners (1884-1975), daughter of Jesse Lee and Nan
 periods: ["Reconstruction", "Modern"]
 tags: ["biography", "cemetery"]
 families: ["David J Berry"]
-qc_status: "needs-review"
 last_updated: 2026-04-07
+qc_owner:
+qc_webteam:
+qc_genealogy:
 content_source: "wp-export"
-sources_verified: false
 ---
 
 **Ancestors:**

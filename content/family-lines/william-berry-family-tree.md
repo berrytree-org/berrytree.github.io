@@ -5,10 +5,11 @@ aliases:
 families: ["William Berry"]
 periods: ["Revolutionary", "Early Settlement"]
 tags: ["family-tree", "orange-county-nc", "tennessee"]
-qc_status: "needs-review"
 last_updated: 2026-04-07
+qc_owner:
+qc_webteam:
+qc_genealogy:
 content_source: "wp-export"
-sources_verified: false
 ---
 
 {{< ancestor-chain gen3="William Berry × Hannah Cate" loc3="Orange County, NC → Wayne County, TN" link3="/ancestors/william-berry/" />}}

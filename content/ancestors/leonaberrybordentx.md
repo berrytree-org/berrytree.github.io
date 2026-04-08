@@ -5,10 +5,11 @@ bookToc: true
 families: ["Robert Berry Jr"]
 periods: ["Reconstruction", "Modern"]
 tags: ["biography", "alabama", "orange-county-nc", "texas", "census", "cemetery"]
-qc_status: "needs-review"
 last_updated: 2026-04-07
+qc_owner:
+qc_webteam:
+qc_genealogy:
 content_source: "wp-export"
-sources_verified: false
 ---
 
 <div class="ancestor-page">

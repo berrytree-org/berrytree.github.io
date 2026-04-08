@@ -3,10 +3,11 @@ title: "Fiddleton 1891 Map"
 description: "An 1891 map of northern Orange County, NC, showing Berry family landmarks including Fiddleton Plantation, John Robert Berry's homestead, and Berry's Grove Church."
 periods: ["Reconstruction", "Modern"]
 tags: ["biography"]
-qc_status: "needs-review"
 last_updated: 2026-04-07
+qc_owner:
+qc_webteam:
+qc_genealogy:
 content_source: "wp-export"
-sources_verified: false
 ---
 
 {{< info-banner title="Fiddleton — The 1891 Orange County Map" subtitle="An 1891 map showing Berry family landmarks in northern Orange County, North Carolina." >}}
