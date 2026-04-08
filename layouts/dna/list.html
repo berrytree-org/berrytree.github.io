@@ -66,6 +66,10 @@
     align-items: center;
     gap: 10px;
     cursor: default;
+
+    &:has(.toggle-icon) {
+      cursor: pointer;
+    }
   }
 
   .dna-section-header .toggle-icon {
@@ -723,10 +727,10 @@
      ═══════════════════════════════════════════════════════════════════ -->
 <div class="dna-section">
   <div class="dna-section-header">
-    <span class="toggle-icon" data-target="primerContent" aria-label="Toggle section">&#9660;</span>
+    <span class="toggle-icon collapsed" data-target="primerContent" aria-label="Toggle section">&#9660;</span>
     Understanding Y-DNA Testing
   </div>
-  <div class="dna-collapsible" id="primerContent">
+  <div class="dna-collapsible collapsed" id="primerContent" style="max-height:0">
     <div class="dna-primer">
       <h3>What Is Y-DNA?</h3>
       <p>Every person inherits DNA from both parents, but <span class="key-term">Y-DNA</span> is special: it passes only from father to son, virtually unchanged, generation after generation. This makes it a direct window into your <span class="key-term">paternal line</span> &mdash; your father, his father, his father's father, and so on back through centuries.</p>
@@ -763,10 +767,10 @@
      ═══════════════════════════════════════════════════════════════════ -->
 <div class="dna-section">
   <div class="dna-section-header">
-    <span class="toggle-icon" data-target="projectContent" aria-label="Toggle section">&#9660;</span>
+    <span class="toggle-icon collapsed" data-target="projectContent" aria-label="Toggle section">&#9660;</span>
     The Berry Y-DNA Project
   </div>
-  <div class="dna-collapsible" id="projectContent">
+  <div class="dna-collapsible collapsed" id="projectContent" style="max-height:0">
     <div class="dna-primer">
       <p>The Berry Y-DNA project was started by <span class="key-term">Carolyn (Cookie) Paulson</span>, who had spent years trying to locate the ancestors of her John Berry, born in North Carolina in 1815 and found in Rusk County, Texas, by the 1860 census. She had built a solid archival trail from John and Mary Howell Berry down to herself, but couldn't find who John's parents were.</p>
       <p>Cookie convinced her cousin (participant #8) to take a Y-DNA test and became the project administrator. When Ben Henderson's uncle, <span class="key-term">W.P. Berry Jr.</span> (participant #18), also tested, the results came back on <span class="key-term">July 20, 2004</span>: they matched. The announcement was made that very day at the Wiley P. Berry family reunion.</p>
@@ -926,8 +930,10 @@ let selectedState = 'all';
 let expandedRows = new Set();
 
 // ── Collapsible sections ────────────────────────────────────────────
-document.querySelectorAll('.toggle-icon').forEach(function(icon) {
-  icon.addEventListener('click', function() {
+document.querySelectorAll('.dna-section-header').forEach(function(header) {
+  var icon = header.querySelector('.toggle-icon');
+  if (!icon) return;
+  header.addEventListener('click', function() {
     var target = document.getElementById(icon.dataset.target);
     if (!target) return;
     icon.classList.toggle('collapsed');
