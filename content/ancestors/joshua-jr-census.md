@@ -4,10 +4,11 @@ description: "Census records for Joshua Berry Jr. from 1830 Gallia County, Ohio 
 periods: ["Early Settlement", "Antebellum"]
 tags: ["census-page", "census"]
 families: ["Joshua Berry"]
-qc_status: "needs-review"
 last_updated: 2026-04-07
+qc_owner:
+qc_webteam:
+qc_genealogy:
 content_source: "wp-export"
-sources_verified: false
 ---
 
 {{< info-banner title="Joshua Berry Jr. — Census Records" subtitle="Census Listings from Ohio, Indiana, and Iowa, 1830–1880" >}}

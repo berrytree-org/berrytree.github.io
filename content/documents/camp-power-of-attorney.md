@@ -10,10 +10,11 @@ tags:
   - estate
   - georgia
   - orange-county-nc
-qc_status: "needs-review"
 last_updated: 2026-04-07
+qc_owner:
+qc_webteam:
+qc_genealogy:
 content_source: "wp-export"
-sources_verified: false
 ---
 
 {{< info-banner title="Camp Power of Attorney (1815)" subtitle="Power of attorney granted by Mary Berry Camp’s children to Joseph Camp regarding Robert Berry’s estate." >}}

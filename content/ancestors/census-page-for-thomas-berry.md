@@ -6,10 +6,11 @@ bookToc: true
 periods: ["Colonial", "Revolutionary"]
 tags: ["census-page", "census"]
 families: ["Thomas Berry"]
-qc_status: "needs-review"
 last_updated: 2026-04-07
+qc_owner:
+qc_webteam:
+qc_genealogy:
 content_source: "wp-export"
-sources_verified: false
 ---
 
 {{< info-banner title="Census Records — Thomas Berry" subtitle="1800 and 1810 Census Data for Thomas Berry, Orange County, NC" >}}

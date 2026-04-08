@@ -4,10 +4,11 @@ description: "Francis Marion Berry (1861-1943), son of John Berry and Mary Howel
 periods: ["Antebellum", "Civil War"]
 tags: ["biography", "census"]
 families: ["Robert Berry Jr"]
-qc_status: "needs-review"
 last_updated: 2026-04-07
+qc_owner:
+qc_webteam:
+qc_genealogy:
 content_source: "wp-export"
-sources_verified: false
 ---
 
 - **Gen 1** Robert Berry × Mary Williamson — Princess Anne County, Virginia

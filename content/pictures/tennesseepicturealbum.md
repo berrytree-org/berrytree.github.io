@@ -6,10 +6,11 @@ tags:
   - photograph
   - cemetery
   - tennessee
-qc_status: "needs-review"
 last_updated: 2026-04-07
+qc_owner:
+qc_webteam:
+qc_genealogy:
 content_source: "wp-export"
-sources_verified: false
 ---
 
 {{< info-banner title="Tennessee Picture Album" subtitle="Photographs of the Thomas and Sarah Cate Berry family in Tennessee." >}}

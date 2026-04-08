@@ -2,10 +2,11 @@
 title: "Fiddleton Cemetery"
 description: "Records and photographs from the Fiddleton Cemetery visitation on July 21, 2007, the burial site of Robert Berry and Elizabeth Cate Berry."
 tags: ["biography", "census", "cemetery"]
-qc_status: "needs-review"
 last_updated: 2026-04-07
+qc_owner:
+qc_webteam:
+qc_genealogy:
 content_source: "wp-export"
-sources_verified: false
 ---
 
 {{< info-banner title="Fiddleton Cemetery Visitation — July 21, 2007" subtitle="The Berry family burial ground in Orange County, NC, final resting place of Robert and Elizabeth Cate Berry." >}}

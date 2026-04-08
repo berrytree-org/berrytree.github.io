@@ -3,10 +3,11 @@ title: "Page Updates"
 description: "Running log of new pages, content additions, and research updates on berrytree.org."
 periods: ["Reconstruction", "Modern"]
 tags: ["index-page", "census", "deed"]
-qc_status: "needs-review"
 last_updated: 2026-04-07
+qc_owner:
+qc_webteam:
+qc_genealogy:
 content_source: "wp-export"
-sources_verified: false
 ---
 
 {{< info-banner title="Site Update History" subtitle="A running log of new pages, content additions, and research updates. Latest entries are at the top." >}}

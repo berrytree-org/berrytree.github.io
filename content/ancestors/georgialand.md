@@ -3,10 +3,11 @@ title: "Georgia Land Document"
 description: "The story of David J. and Mary Blalock Berry's migration from Orange County, NC, to Georgia, tracing land transactions through Fayette, Henry, Cobb, and Milton counties."
 tags: ["biography", "census", "deed"]
 families: ["David J Berry"]
-qc_status: "needs-review"
 last_updated: 2026-04-07
+qc_owner:
+qc_webteam:
+qc_genealogy:
 content_source: "wp-export"
-sources_verified: false
 ---
 
 {{< info-banner title="David J. Berry in Georgia" subtitle="Land transactions and migration from Orange County, NC, through Fayette, Henry, Cobb, and Milton Counties, Georgia." >}}

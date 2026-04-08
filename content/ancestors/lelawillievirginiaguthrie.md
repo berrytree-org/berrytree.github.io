@@ -5,10 +5,11 @@ aliases:
   - /documents/lelawillievirginiaguthrie/
 tags: ["biography", "census"]
 families: ["David J Berry"]
-qc_status: "needs-review"
 last_updated: 2026-04-07
+qc_owner:
+qc_webteam:
+qc_genealogy:
 content_source: "wp-export"
-sources_verified: false
 ---
 
 {{< info-banner title="Lela Willie Virginia Guthrie" subtitle="Genealogist and Berry family researcher." >}}

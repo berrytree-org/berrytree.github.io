@@ -4,10 +4,11 @@ description: "John Berry (c. 1762-1803), son of Robert and Elizabeth Cate Berry,
 periods: ["Colonial", "Revolutionary"]
 tags: ["biography", "census", "marriage-bond", "cemetery"]
 families: ["John Berry"]
-qc_status: "needs-review"
 last_updated: 2026-04-07
+qc_owner:
+qc_webteam:
+qc_genealogy:
 content_source: "wp-export"
-sources_verified: false
 ---
 
 ## **John Berry, son of Robert and Elizabeth Cate Berry**

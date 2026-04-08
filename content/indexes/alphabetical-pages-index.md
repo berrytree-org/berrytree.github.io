@@ -5,10 +5,11 @@ aliases:
   - /indexes/alphabetical/
 tags:
   - index-page
-qc_status: "needs-review"
 last_updated: 2026-04-07
+qc_owner:
+qc_webteam:
+qc_genealogy:
 content_source: "new"
-sources_verified: false
 ---
 
 {{< info-banner title="Alphabetical Pages Index" subtitle="Complete A-Z listing of all 229 ancestor, document, and reference pages on berrytree.org." >}}

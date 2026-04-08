@@ -6,10 +6,11 @@ aliases:
 periods: ["Reconstruction"]
 tags: ["biography", "orange-county-nc", "census", "cemetery"]
 families: ["William Berry"]
-qc_status: "needs-review"
 last_updated: 2026-04-07
+qc_owner:
+qc_webteam:
+qc_genealogy:
 content_source: "wp-export"
-sources_verified: false
 ---
 
 {{< info-banner title="Willie Adolphus Berry (1877–1961)" subtitle="Son of John Robert and Elizabeth Frances Bowling Berry, Orange County, North Carolina." >}}

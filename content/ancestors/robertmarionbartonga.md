@@ -4,10 +4,11 @@ description: "Robert Marion Barton, son of Mary Berry and Thomas Howard Barton, 
 bookToc: true
 families: ["David J Berry"]
 tags: ["biography", "georgia", "orange-county-nc", "census"]
-qc_status: "needs-review"
 last_updated: 2026-04-07
+qc_owner:
+qc_webteam:
+qc_genealogy:
 content_source: "wp-export"
-sources_verified: false
 ---
 
 <div class="ancestor-page">

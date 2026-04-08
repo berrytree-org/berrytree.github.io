@@ -6,10 +6,11 @@ tags:
   - document
   - will
   - orange-county-nc
-qc_status: "needs-review"
 last_updated: 2026-04-07
+qc_owner:
+qc_webteam:
+qc_genealogy:
 content_source: "wp-export"
-sources_verified: false
 ---
 
 {{< info-banner title="Robert Berry's Will (1812)" subtitle="Transcript and facsimile images of Robert Berry's Orange County, North Carolina will." >}}

@@ -7,10 +7,11 @@ aliases:
 tags:
   - index-page
   - source-list
-qc_status: "needs-review"
 last_updated: 2026-04-07
+qc_owner:
+qc_webteam:
+qc_genealogy:
 content_source: "wp-export"
-sources_verified: false
 ---
 
 {{< info-banner title="291 Families Connected to Our Berry Line" subtitle="Spanning eight generations from Princess Anne County, Virginia to points across the American South and West." >}}

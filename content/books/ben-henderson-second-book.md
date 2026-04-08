@@ -2,10 +2,11 @@
 title: "Ben Henderson releases second Berry Book!!!"
 weight: 2
 tags: ["book-chapter"]
-qc_status: "needs-review"
 last_updated: 2026-04-07
+qc_owner:
+qc_webteam:
+qc_genealogy:
 content_source: "book"
-sources_verified: false
 ---
 
 {{< info-banner title="Ben Henderson's Second Book" subtitle="Robert Berry Family Tree Index — 300 years and 7 generations of Berry family history." >}}

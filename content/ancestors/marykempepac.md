@@ -4,10 +4,11 @@ description: "Mary Kempe of Princess Anne County, Virginia, daughter of George a
 periods: ["Colonial"]
 tags: ["biography", "prince-anne-county-va"]
 families: ["Joshua Berry", "John Berry", "Thomas Berry", "Isaac Berry", "Mary Berry", "William Berry", "Henry Berry", "Elizabeth Berry", "David J Berry", "Robert Berry Jr"]
-qc_status: "needs-review"
 last_updated: 2026-04-07
+qc_owner:
+qc_webteam:
+qc_genealogy:
 content_source: "wp-export"
-sources_verified: false
 ---
 
 {{< info-banner title="Mary Kempe of Princess Anne County" subtitle="Daughter of George and Mary Hutchinson Kempe, married Richard Williamson." >}}

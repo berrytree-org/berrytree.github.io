@@ -1,10 +1,11 @@
 ---
 title: "Book Preview"
 tags: ["book-chapter"]
-qc_status: "needs-review"
 last_updated: 2026-04-07
+qc_owner:
+qc_webteam:
+qc_genealogy:
 content_source: "book"
-sources_verified: false
 ---
 
 {{< info-banner title="Book Preview" subtitle="Preview pages from Our Berrys in Frontier America." >}}

@@ -4,10 +4,11 @@ description: "Elizabeth Berry Franklin (1812-1895), daughter of John Berry and H
 periods: ["Early Settlement"]
 tags: ["biography", "census", "marriage-bond"]
 families: ["William Berry"]
-qc_status: "needs-review"
 last_updated: 2026-04-07
+qc_owner:
+qc_webteam:
+qc_genealogy:
 content_source: "wp-export"
-sources_verified: false
 ---
 
 ## **Elizabeth Berry Franklin, daughter of John Berry and Hannah Cate**

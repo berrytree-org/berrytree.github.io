@@ -5,10 +5,11 @@ aliases:
   - /documents/william-oscar-berry-ga/
 tags: ["biography", "georgia", "census", "cemetery"]
 families: ["David J Berry"]
-qc_status: "needs-review"
 last_updated: 2026-04-07
+qc_owner:
+qc_webteam:
+qc_genealogy:
 content_source: "wp-export"
-sources_verified: false
 ---
 
 {{< info-banner title="William Oscar Berry" subtitle="Son of Jesse Lee and Nancy Ann Henry Berry, Alabama." >}}

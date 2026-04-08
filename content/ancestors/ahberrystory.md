@@ -3,10 +3,11 @@ title: "Alexander Howard Berry Story"
 description: "The story of A.H. Berry and his family's journey from Oklahoma to Borden County, Texas, as told by Hettie Berry Clark."
 tags: ["biography", "cemetery"]
 families: ["Robert Berry Jr"]
-qc_status: "needs-review"
 last_updated: 2026-04-07
+qc_owner:
+qc_webteam:
+qc_genealogy:
 content_source: "wp-export"
-sources_verified: false
 ---
 
 {{< info-banner title="A.H. Berry's Travels" subtitle="The story of Alexander Howard Berry and his family, from Oklahoma to Berry Flat, Texas, as told by Hettie Berry Clark." >}}
