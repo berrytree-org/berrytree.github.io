@@ -14,7 +14,7 @@ sources_verified: false
 
 ## Benjamin "Ben" Berry Henderson Sr. (1930–2020)
 
-![Ben Henderson](/images/ben-henderson.jpg)
+{{< img-float src="/images/ben-henderson.jpg" alt="Benjamin Berry Henderson Sr." side="left" size="200px" link="/images/ben-henderson.jpg" >}}
 
 Benjamin "Ben" Berry Henderson Sr. dedicated nearly twenty years to researching his maternal Berry family, building a comprehensive database of family member information that became the foundation of this site. Ben passed away on June 6, 2020, at the age of 90, but the work he started lives on through these pages and through the family researchers he brought together.
 
@@ -24,7 +24,7 @@ Ben's first self-published book, *Our Berrys in Frontier America*, was published
 
 ## William Henderson
 
-![William Henderson](/images/william-henderson.jpg)
+{{< img-float src="/images/william-henderson.jpg" alt="William Henderson" side="left" size="200px" link="/images/william-henderson.jpg" >}}
 
 Webmaster and fellow genealogical researcher. Ben and William worked together on the Berry research to further their knowledge of their shared heritage and contribute to the Berry family research effort.
 
