@@ -30,7 +30,7 @@ content_source: "wp-export"
 ## **Mary Berry, was born out of Wedlock to Elizabeth Berry**
 
 **MARY BERRY** who was Elizabeth Berry's only child and whose father was William Riley was born in Orange County, North Carolina. Mary and her mother lived with Mary's grandparents [Robert](/ancestors/robert-berry-pac/) and [Elizabeth Cate Berry](/ancestors/elizaberryfranklin/). Elizabeth and Mary were listed on the [1800 Orange County census](/ancestors/1800-orange-county-nc-census/) of Robert Berry Snr.
-Mary Berry married [Thomas Berry](/ancestors/thomas-berry/) on the 7th of March 1809. Her uncle [Henry Berry](/ancestors/henry-berry/) was the bondsman on that wedding bond. I have been unable to identify Thomas Berry's Parents. <!-- UNSOURCED -->
+Mary Berry married [Thomas Berry](/ancestors/thomas-berry/) on the 7th of March 1809. Her uncle [Henry Berry](/ancestors/henry-berry/) was the bondsman on that wedding bond. I have been unable to identify Thomas Berry's Parents.
 I do know that Thomas and Mary moved into Person County and were listed there when the 1810 Census was taken. They also listed one slave in 1810.
 Elizabeth Berry, Mary's mother must have moved in with Thomas and Mary sometime after 1810 because in 1815 Elizabeth Berry's will was probated in Person County.
 
@@ -48,9 +48,9 @@ Thomas and Mary were listed in Person County in 1820 but I do not know who the e
 
 <h2 class="ancestor-section">Children of Mary Berry</h2>
 
-- **Josiah Berry** date and place unknown <!-- UNSOURCED -->
+- **Josiah Berry** date and place unknown (mentioned in Person County Record Book, 1862)
 
-Thomas and Mary Berry had a grandson named Preston Berry who was in Macon County, Auburn Alabama, listed as an orphan around the time of the Civil War. [Go to Mary's Mother's page](/ancestors/elizabeth/) to view documents sent to Orange County from Alabama about Preston Berry.
+Thomas and Mary Berry had a grandson named Preston Berry who was in Macon County, Auburn Alabama, listed as an orphan around the time of the Civil War. [Go to Mary's Mother's page](/ancestors/elizabeth-berry/) to view documents sent to Orange County from Alabama about Preston Berry.
 
 **Mary Berry was born in Orange County North Carolina and after marriage she lived in Person County**
 

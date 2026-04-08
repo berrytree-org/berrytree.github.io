@@ -45,7 +45,7 @@ Joshua Berry was born about 1867 in Georgia. He was married to a woman named Tom
 
 <h2 class="ancestor-section">Children of Joshua Berry Jr.</h2>
 
-Joshua Berry Jr. was living next door to Joshua Berry his father in the 1900 Census. <!-- UNSOURCED -->
+Joshua Berry Jr. was living next door to Joshua Berry his father in the 1900 Census (1900 Clayton County Georgia Census).
 
 ---
 

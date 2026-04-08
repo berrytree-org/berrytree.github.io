@@ -31,14 +31,14 @@ content_source: "wp-export"
 
 ## **The Story of Hannah Cate Berry**
 
-**Hannah Cate** was born in 1770 and she died in 1858 in Orange County, NC. <!-- UNSOURCED --> Hannah Cate was the daughter of William and Elizabeth Smith (Messersmith) Cate.
+**Hannah Cate** was born in 1770 and she died in 1858 in Orange County, NC (1810 and 1850 Orange County Censuses; William Cate's will, dated November 10, 1775, confirms children). Hannah Cate was the daughter of William and Elizabeth Smith (Messersmith) Cate.
 
 ### **Marriage to William Berry**
 
   {{< img-float src="/images/wbhcmarriage.jpg" alt="William Berry's Marriage Bond to Hannah Cate, August 12, 1799" >}}
   William Berry's Marriage Bond to Hannah Cate — August 12, 1799
 
-Hannah Cate married William Berry. [William and Hannah had three sons and no daughters.](/documents/williamchildren/)
+Hannah Cate married William Berry. [William and Hannah had three sons and no daughters.](/ancestors/william-berry/)
 
 William and [Thomas Berry](/ancestors/thomas-berry/) left their wives and children in North Carolina in the spring of 1808 while they went to Tennessee to locate some land for homesteading. Neither of these two brothers ever lived in Orange County, North Carolina, again. It is uncertain if Thomas died before returning to North Carolina to escort his wife and two children back to Tennessee or if he died and his brother William came back to Orange County, North Carolina, and returned to Tennessee with Sarah Cate Berry and her two children.
 
@@ -47,7 +47,7 @@ Five things did occur:
 1. Someone informed Thomas Berry's father, [Robert Berry](/ancestors/robert-berry-oc/), that Thomas was deceased before Robert wrote his will in 1812.
 2. Hannah Cate listed as head of household in the 1810 Orange County, North Carolina, Census.
 3. William Berry never lived with Hannah and their three boys again.
-4. Hannah had a daughter, Elizabeth Berry, by John Berry in 1812. <!-- UNSOURCED -->
+4. Hannah had a daughter, Elizabeth Berry, by John Berry in 1812 (documented in Temperance Jane Franklin's bible page naming Elizabeth Berry and her father John Berry).
 5. [Sarah Cate Berry](/ancestors/sarah-cate/) and her two children did go to Wayne County, Tennessee.
 
 ### **Life After William**

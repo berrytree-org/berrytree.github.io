@@ -41,7 +41,7 @@ In the 1810 Orange County, North Carolina, Census, [Hannah Cate Berry](/ancestor
   {{< img-float src="/images/tp-berry-family-bible-page-3-enhanced.jpg" alt="Thomas Person Berry's Bible" >}}
   Thomas Person Berry's Bible
 
-Hannah must have learned that William was not planning to return home because in 1812 she had a daughter Elisabeth Berry by an identified John Berry. <!-- UNSOURCED --> Thomas Berry apparently returned home to retrieve his family and take them to Tennessee. After arriving at their new home in Tennessee, Thomas was killed by Indians and his wife was in their new cabin with two pre-teenage children. She was married again in December of 1815 to John Pigg. We also have proof that Thomas was already dead in April 1812 because that is when his Father wrote his will and noted that his son Thomas was deceased.
+Hannah must have learned that William was not planning to return home because in 1812 she had a daughter Elisabeth Berry by an identified John Berry (per Thomas Person Berry's Bible). Thomas Berry apparently returned home to retrieve his family and take them to Tennessee. After arriving at their new home in Tennessee, Thomas was killed by Indians and his wife was in their new cabin with two pre-teenage children. She was married again in December of 1815 to John Pigg. We also have proof that Thomas was already dead in April 1812 because that is when his Father wrote his will and noted that his son Thomas was deceased.
 
 ### **Land and Marriage in Orange County**
 
