@@ -7,6 +7,9 @@ enableRobotsTXT = true
 enableGitInfo = false
 summaryLength = 40
 
+[frontmatter]
+  lastmod = ['last_updated', ':fileModTime']
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
