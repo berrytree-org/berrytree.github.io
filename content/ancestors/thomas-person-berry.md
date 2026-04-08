@@ -87,35 +87,27 @@ Sarah Lunsford was the daughter of William and Edy Cozart Lunsford. <!-- UNSOURC
 <ol class="children-list">
 
 <li class="child-entry">
-  1. William H. Berry
-  Born 1836, Orange County, NC — Died 1858
-
-    Married Sarah Frances King on August 6, 1857. Died in the worldwide flu epidemic of 1858.
-
+  <div class="child-name">1. William H. Berry</div>
+  <div class="child-dates">Born 1836, Orange County, NC — Died 1858</div>
+  <div class="child-details">Married Sarah Frances King on August 6, 1857. Died in the worldwide flu epidemic of 1858.</div>
 </li>
 
 <li class="child-entry">
-  2. Willie Berry
-  Born 1838 — Died unknown
-
-    No further information has been found.
-
+  <div class="child-name">2. Willie Berry</div>
+  <div class="child-dates">Born 1838 — Died unknown</div>
+  <div class="child-details">No further information has been found.</div>
 </li>
 
 <li class="child-entry has-page">
-  [3. John Robert Berry](/ancestors/john-robert-berry/)
-  Born September 25, 1842 — Died October 10, 1917
-
-    Married Elizabeth Frances Bowling on November 30, 1865.
-
+  <div class="child-name"><a href="/ancestors/john-robert-berry/">3. John Robert Berry</a></div>
+  <div class="child-dates">Born September 25, 1842 — Died October 10, 1917</div>
+  <div class="child-details">Married Elizabeth Frances Bowling on November 30, 1865.</div>
 </li>
 
 <li class="child-entry">
-  4. James P. Berry
-  Born April 1847 — Died February 15, 1912
-
-    Married Artelia Wedding on September 11, 1871.
-
+  <div class="child-name">4. James P. Berry</div>
+  <div class="child-dates">Born April 1847 — Died February 15, 1912</div>
+  <div class="child-details">Married Artelia Wedding on September 11, 1871.</div>
 </li>
 
 </ol>
@@ -131,43 +123,33 @@ Thomas Person Berry was 62½ years old when his first wife Sarah Lunsford died. 
 <ol class="children-list">
 
 <li class="child-entry">
-  1. Edna Hannah Berry
-  Born June 1, 1872 — Died April 3, 1929
-
-    Married Cary R. Rogers about 1896. They had 8 children, seven sons and one daughter.
-
+  <div class="child-name">1. Edna Hannah Berry</div>
+  <div class="child-dates">Born June 1, 1872 — Died April 3, 1929</div>
+  <div class="child-details">Married Cary R. Rogers about 1896. They had 8 children, seven sons and one daughter.</div>
 </li>
 
 <li class="child-entry">
-  2. Martha Bowers Berry
-  Born June 27, 1873 — Died December 29, 1939
-
-    Married James Caroway Wrenn. They had ten children, eight sons and two daughters.
-
+  <div class="child-name">2. Martha Bowers Berry</div>
+  <div class="child-dates">Born June 27, 1873 — Died December 29, 1939</div>
+  <div class="child-details">Married James Caroway Wrenn. They had ten children, eight sons and two daughters.</div>
 </li>
 
 <li class="child-entry">
-  3. Della Thomas Berry
-  Born February 8, 1877 — Died unknown
-
-    Married William Cooper Cates Sr. on May 8, 1895. They had 15 children and made their home in Person County, North Carolina. There were 9 daughters and six sons.
-
+  <div class="child-name">3. Della Thomas Berry</div>
+  <div class="child-dates">Born February 8, 1877 — Died unknown</div>
+  <div class="child-details">Married William Cooper Cates Sr. on May 8, 1895. They had 15 children and made their home in Person County, North Carolina. There were 9 daughters and six sons.</div>
 </li>
 
 <li class="child-entry">
-  4. Etta E. "Emma" Berry
-  Born September 11, 1884 — Died unknown
-
-    Went by the name Emma. Married James Madison Clayton. They had seven children, two sons and five daughters. The family made their home in Bushy Fork, Person County, North Carolina.
-
+  <div class="child-name">4. Etta E. "Emma" Berry</div>
+  <div class="child-dates">Born September 11, 1884 — Died unknown</div>
+  <div class="child-details">Went by the name Emma. Married James Madison Clayton. They had seven children, two sons and five daughters. The family made their home in Bushy Fork, Person County, North Carolina.</div>
 </li>
 
 <li class="child-entry">
-  5. Daniel Richmond Berry
-  Born December 23, 1880 — Died May 31, 1957
-
-    His mother died 16 days after he was born. Married first Ella Pucci about 1906 (5 children; Ella died October 8, 1926). Married second Maggie Turner (2 children). Buried between his two wives at Berry's Grove Baptist Church Cemetery. Daniel was John Robert Berry's half-brother.
-
+  <div class="child-name">5. Daniel Richmond Berry</div>
+  <div class="child-dates">Born December 23, 1880 — Died May 31, 1957</div>
+  <div class="child-details">His mother died 16 days after he was born. Married first Ella Pucci about 1906 (5 children; Ella died October 8, 1926). Married second Maggie Turner (2 children). Buried between his two wives at Berry's Grove Baptist Church Cemetery. Daniel was John Robert Berry's half-brother.</div>
 </li>
 
 </ol>

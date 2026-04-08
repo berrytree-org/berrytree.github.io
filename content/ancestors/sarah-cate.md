@@ -75,19 +75,15 @@ Thomas and Sarah had two children, both born in Orange County, North Carolina, b
 <ol class="children-list">
 
 <li class="child-entry has-page">
-  [1. David Berry](/ancestors/davidsonoftom/)
-  Born c. 1801, Orange County, North Carolina
-
-    Son of Thomas and Sarah Cate Berry. David was about one year old at the time of his grandfather William Cate's estate sale in 1803. After Thomas's death, David was raised by his mother Sarah and later by his stepfather John Pigg in Wayne County, Tennessee.
-
+  <div class="child-name"><a href="/ancestors/davidsonoftom/">1. David Berry</a></div>
+  <div class="child-dates">Born c. 1801, Orange County, North Carolina</div>
+  <div class="child-details">Son of Thomas and Sarah Cate Berry. David was about one year old at the time of his grandfather William Cate's estate sale in 1803. After Thomas's death, David was raised by his mother Sarah and later by his stepfather John Pigg in Wayne County, Tennessee.</div>
 </li>
 
 <li class="child-entry has-page">
-  [2. Eleanor Berry Reed](/ancestors/eleanor-reed/)
-  Born c. 1802, Orange County, North Carolina
-
-    Daughter of Thomas and Sarah Cate Berry. Eleanor was about two years old at the time of the 1803 estate sale. She grew up in Wayne County, Tennessee, and married into the Reed family. Her restored cabin near Cypress Inn, Tennessee, still stands after almost 200 years.
-
+  <div class="child-name"><a href="/ancestors/eleanor-reed/">2. Eleanor Berry Reed</a></div>
+  <div class="child-dates">Born c. 1802, Orange County, North Carolina</div>
+  <div class="child-details">Daughter of Thomas and Sarah Cate Berry. Eleanor was about two years old at the time of the 1803 estate sale. She grew up in Wayne County, Tennessee, and married into the Reed family. Her restored cabin near Cypress Inn, Tennessee, still stands after almost 200 years.</div>
 </li>
 
 </ol>

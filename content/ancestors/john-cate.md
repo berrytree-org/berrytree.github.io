@@ -44,40 +44,32 @@ John came to Granville County and claimed a piece of land in 1751. In May of 175
 <ol class="children-list">
 
 <li class="child-entry">
-  1. Joshua Cate
-  Born Virginia
-
-    Came to North Carolina with his father.
-
+  <div class="child-name">1. Joshua Cate</div>
+  <div class="child-dates">Born Virginia</div>
+  <div class="child-details">Came to North Carolina with his father.</div>
 </li>
 
 <li class="child-entry">
-  2. Thomas Cate
-  Born Virginia
-
-    Came to North Carolina with his father. Served as chain carrier for Robert Berry's 1753 Granville Land Grant Survey.
-
+  <div class="child-name">2. Thomas Cate</div>
+  <div class="child-dates">Born Virginia</div>
+  <div class="child-details">Came to North Carolina with his father. Served as chain carrier for Robert Berry's 1753 Granville Land Grant Survey.</div>
 </li>
 
 <li class="child-entry">
-  3. John Cate
-  Born Virginia
+  <div class="child-name">3. John Cate</div>
+  <div class="child-dates">Born Virginia</div>
 </li>
 
 <li class="child-entry has-page">
-  [4. Elizabeth Cate](/ancestors/elizabethcate/)
-  Born Virginia
-
-    Married Robert Berry about 1757 in Orange County, North Carolina. They had ten children.
-
+  <div class="child-name"><a href="/ancestors/elizabethcate/">4. Elizabeth Cate</a></div>
+  <div class="child-dates">Born Virginia</div>
+  <div class="child-details">Married Robert Berry about 1757 in Orange County, North Carolina. They had ten children.</div>
 </li>
 
 <li class="child-entry">
-  5. Margery Cate
-  Born Virginia
-
-    Married Thomas Pryor.
-
+  <div class="child-name">5. Margery Cate</div>
+  <div class="child-dates">Born Virginia</div>
+  <div class="child-details">Married Thomas Pryor.</div>
 </li>
 
 </ol>

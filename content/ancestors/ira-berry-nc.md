@@ -62,36 +62,34 @@ Ira and Nancy had six children, all born in Kentucky. <!-- UNSOURCED -->
 <ol class="children-list">
 
 <li class="child-entry has-page">
-  [1. Franklin Pierce Berry](/ancestors/franklinberryky/)
-  Born 1855, Kentucky
-
-    **DNA DONOR LINE.** Franklin Pierce Berry is the ancestor through whom our family's Y-DNA line has been tested and confirmed.
-
+  <div class="child-name"><a href="/ancestors/franklinberryky/">1. Franklin Pierce Berry</a></div>
+  <div class="child-dates">Born 1855, Kentucky</div>
+  <div class="child-details"><strong>DNA DONOR LINE.</strong> Franklin Pierce Berry is the ancestor through whom our family's Y-DNA line has been tested and confirmed.</div>
 </li>
 
 <li class="child-entry">
-  2. Thomas Berry
-  Born 1857, Kentucky
+  <div class="child-name">2. Thomas Berry</div>
+  <div class="child-dates">Born 1857, Kentucky</div>
 </li>
 
 <li class="child-entry">
-  3. Edward Berry
-  Born 1859, Kentucky
+  <div class="child-name">3. Edward Berry</div>
+  <div class="child-dates">Born 1859, Kentucky</div>
 </li>
 
 <li class="child-entry">
-  4. William Berry
-  Born 1862, Kentucky
+  <div class="child-name">4. William Berry</div>
+  <div class="child-dates">Born 1862, Kentucky</div>
 </li>
 
 <li class="child-entry">
-  5. James Berry
-  Born 1865, Kentucky
+  <div class="child-name">5. James Berry</div>
+  <div class="child-dates">Born 1865, Kentucky</div>
 </li>
 
 <li class="child-entry">
-  6. Decator Berry
-  Born 1867, Kentucky
+  <div class="child-name">6. Decator Berry</div>
+  <div class="child-dates">Born 1867, Kentucky</div>
 </li>
 
 </ol>

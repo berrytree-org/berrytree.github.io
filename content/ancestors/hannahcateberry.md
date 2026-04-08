@@ -84,21 +84,19 @@ William Cate died after 1800 because the inventory of his estate sale was regist
 <ol class="children-list">
 
 <li class="child-entry has-page">
-  [1. William Clarence Berry](/ancestors/william-clarence-berry-nc/)
-  Born October 17, 1803 — Died September 8, 1878
+  <div class="child-name"><a href="/ancestors/william-clarence-berry-nc/">1. William Clarence Berry</a></div>
+  <div class="child-dates">Born October 17, 1803 — Died September 8, 1878</div>
 </li>
 
 <li class="child-entry">
-  2. Robert C. Berry
-  Born April 14, 1805 �� Died 1888
-
-    Settled in Fayette County, Alabama. Married for the first time about 1838.
-
+  <div class="child-name">2. Robert C. Berry</div>
+  <div class="child-dates">Born April 14, 1805 — Died 1888</div>
+  <div class="child-details">Settled in Fayette County, Alabama. Married for the first time about 1838.</div>
 </li>
 
 <li class="child-entry has-page">
-  [3. Thomas Person Berry](/ancestors/thomas-person-berry/)
-  Born June 1, 1808 — Died April 30, 1884
+  <div class="child-name"><a href="/ancestors/thomas-person-berry/">3. Thomas Person Berry</a></div>
+  <div class="child-dates">Born June 1, 1808 — Died April 30, 1884</div>
 </li>
 
 </ol>

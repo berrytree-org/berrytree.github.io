@@ -111,26 +111,20 @@ After Robert Berry (OC) was granted his Granville Land Grant, he named his new p
 <ol class="children-list">
 
 <li class="child-entry">
-  1. Richard Berry
-  Born Princess Anne County, Virginia
-
-    We think he remained in Virginia. Richard Berry married Catherine. Deed records confirm he was still in Princess Anne County as late as January 10, 1787. For more detail, see the [Richard Berry section](/ancestors/robert-berry-oc/#roberts-brother-richard-berry) on the Robert Berry (OC) page.
-
+  <div class="child-name">1. Richard Berry</div>
+  <div class="child-dates">Born Princess Anne County, Virginia</div>
+  <div class="child-details">We think he remained in Virginia. Richard Berry married Catherine. Deed records confirm he was still in Princess Anne County as late as January 10, 1787. For more detail, see the <a href="/ancestors/robert-berry-oc/#roberts-brother-richard-berry">Richard Berry section</a> on the Robert Berry (OC) page.</div>
 </li>
 
 <li class="child-entry has-page">
-  [2. Robert Berry (OC)](/ancestors/robert-berry-oc/)
-  Born c. 1729, Princess Anne County, Virginia — Died 1814, Orange County, North Carolina
-
-    Married **Elizabeth Cate** c. 1759 in Orange County, North Carolina. Robert left Virginia in 1751 and established Fiddleton Plantation in what became Orange County, NC. He and Elizabeth had ten children, all born in Orange County. Robert served as a Private in the North Carolina Continental Line during the Revolutionary War.
-
+  <div class="child-name"><a href="/ancestors/robert-berry-oc/">2. Robert Berry (OC)</a></div>
+  <div class="child-dates">Born c. 1729, Princess Anne County, Virginia — Died 1814, Orange County, North Carolina</div>
+  <div class="child-details">Married <strong>Elizabeth Cate</strong> c. 1759 in Orange County, North Carolina. Robert left Virginia in 1751 and established Fiddleton Plantation in what became Orange County, NC. He and Elizabeth had ten children, all born in Orange County. Robert served as a Private in the North Carolina Continental Line during the Revolutionary War.</div>
 </li>
 
 <li class="child-entry">
-  3. Daughters (names unknown)
-
-    The will references "all my children in the estate," indicating there were likely additional children beyond the two named sons. None of the daughters' names are known at this time.
-
+  <div class="child-name">3. Daughters (names unknown)</div>
+  <div class="child-details">The will references "all my children in the estate," indicating there were likely additional children beyond the two named sons. None of the daughters' names are known at this time.</div>
 </li>
 
 </ol>
