@@ -342,6 +342,10 @@
   <div>
     <label>Category</label>
     <div class="category-toggles" id="catToggles"></div>
+    <div style="display:inline-flex;gap:4px;margin-left:2px;">
+      <button class="cat-btn active" id="catAll" style="padding:3px 8px;font-size:0.68rem;">All</button>
+      <button class="cat-btn" id="catNone" style="padding:3px 8px;font-size:0.68rem;">None</button>
+    </div>
   </div>
 </div>
 
@@ -436,6 +440,23 @@ Object.entries(CATS).forEach(([key, label]) => {
     renderEvents();
   });
   catContainer.appendChild(btn);
+});
+
+// ── All / None category toggles ─────────────────────────────────────
+document.getElementById('catAll').addEventListener('click', () => {
+  activeCategories = new Set(Object.keys(CATS));
+  document.querySelectorAll('.cat-btn[data-cat]').forEach(b => b.classList.add('active'));
+  document.getElementById('catAll').classList.add('active');
+  document.getElementById('catNone').classList.remove('active');
+  renderEvents();
+});
+
+document.getElementById('catNone').addEventListener('click', () => {
+  activeCategories.clear();
+  document.querySelectorAll('.cat-btn[data-cat]').forEach(b => b.classList.remove('active'));
+  document.getElementById('catNone').classList.add('active');
+  document.getElementById('catAll').classList.remove('active');
+  renderEvents();
 });
 
 // ── Wheel ──────────────────────────────────────────────────────────

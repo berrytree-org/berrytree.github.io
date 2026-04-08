@@ -380,7 +380,13 @@
 </div>
 
 <!-- TYPE TOGGLE PILLS -->
-<div class="doc-type-toggles" id="docTypeToggles"></div>
+<div style="display:flex;align-items:center;flex-wrap:wrap;gap:6px;margin-bottom:4px;">
+  <div class="doc-type-toggles" id="docTypeToggles" style="margin-bottom:0;"></div>
+  <span style="display:inline-flex;gap:4px;margin-left:4px;font-size:0.75rem;font-family:'Source Serif 4',serif;">
+    <button class="doc-type-btn active" id="docToggleAll" style="padding:4px 10px;font-size:0.72rem;">All</button>
+    <button class="doc-type-btn" id="docToggleNone" style="padding:4px 10px;font-size:0.72rem;">None</button>
+  </span>
+</div>
 
 <!-- RESULTS -->
 <div class="doc-results-header">
@@ -500,6 +506,29 @@ function buildTypeToggles() {
     container.appendChild(btn);
   });
 }
+
+// ── All / None toggle ────────────────────────────────────────────────
+document.getElementById('docToggleAll').addEventListener('click', function() {
+  activeTypes = new Set(Object.keys(TYPE_NAMES));
+  document.querySelectorAll('.doc-type-btn[data-type]').forEach(function(btn) {
+    btn.classList.add('active');
+    btn.setAttribute('aria-pressed', 'true');
+  });
+  document.getElementById('docToggleAll').classList.add('active');
+  document.getElementById('docToggleNone').classList.remove('active');
+  renderDocuments();
+});
+
+document.getElementById('docToggleNone').addEventListener('click', function() {
+  activeTypes.clear();
+  document.querySelectorAll('.doc-type-btn[data-type]').forEach(function(btn) {
+    btn.classList.remove('active');
+    btn.setAttribute('aria-pressed', 'false');
+  });
+  document.getElementById('docToggleNone').classList.add('active');
+  document.getElementById('docToggleAll').classList.remove('active');
+  renderDocuments();
+});
 
 // ── Filter + Sort ───────────────────────────────────────────────────
 function getFilteredDocuments() {
