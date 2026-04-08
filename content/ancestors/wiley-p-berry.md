@@ -76,61 +76,49 @@ In 1932 Grandpa was elected County Commissioner for Orange County, North Carolin
 <ol class="children-list">
 
 <li class="child-entry has-page">
-  [1. William Eugene Berry](/ancestors/williameugeneberrync/)
-  Born September 1, 1896, Orange County, NC — Died September 30, 1984
-
-    Married **Pattie Alma McAdams** on June 6, 1921. Grandpa died at the home of his oldest son, Eugene Berry, on May 12, 1965.
-
+  <div class="child-name"><a href="/ancestors/williameugeneberrync/">1. William Eugene Berry</a></div>
+  <div class="child-dates">Born September 1, 1896, Orange County, NC — Died September 30, 1984</div>
+  <div class="child-details">Married <strong>Pattie Alma McAdams</strong> on June 6, 1921. Grandpa died at the home of his oldest son, Eugene Berry, on May 12, 1965.</div>
 </li>
 
 <li class="child-entry">
-  2. Mary Elizabeth (Maye) Berry
-  Born August 23, 1899 — Died November 13, 1957
-
-    Married **Brodie Shakespeare Carr** on September 17, 1925. Known as Aunt Maye.
-
+  <div class="child-name">2. Mary Elizabeth (Maye) Berry</div>
+  <div class="child-dates">Born August 23, 1899 — Died November 13, 1957</div>
+  <div class="child-details">Married <strong>Brodie Shakespeare Carr</strong> on September 17, 1925. Known as Aunt Maye.</div>
 </li>
 
 <li class="child-entry">
-  3. Thomas Young Berry
-  Born May 11, 1903 — Died June 8, 1925
-
-    Died of typhoid fever at age 22. Thomas and Hattie Davis were planning to be married later that same month.
-
+  <div class="child-name">3. Thomas Young Berry</div>
+  <div class="child-dates">Born May 11, 1903 — Died June 8, 1925</div>
+  <div class="child-details">Died of typhoid fever at age 22. Thomas and Hattie Davis were planning to be married later that same month.</div>
 </li>
 
 <li class="child-entry has-page">
-  [4. Sally Malena Berry](/ancestors/sallymalenaberrync/)
-  Born July 20, 1908 — Died March 19, 2002
-
-    Married **Jesse Clyde Henderson** on September 22, 1928. Ben Henderson's mother.
-
+  <div class="child-name"><a href="/ancestors/sallymalenaberrync/">4. Sally Malena Berry</a></div>
+  <div class="child-dates">Born July 20, 1908 — Died March 19, 2002</div>
+  <div class="child-details">Married <strong>Jesse Clyde Henderson</strong> on September 22, 1928. Ben Henderson's mother.</div>
 </li>
 
 <li class="child-entry has-page">
-  [5. Woodrow Wilson Berry](/ancestors/woodrowwilsonberrync/)
-  Born April 3, 1912 — Died May 3, 1989
-
-    Married **Ora Mae Murray** on July 7, 1936.
-
+  <div class="child-name"><a href="/ancestors/woodrowwilsonberrync/">5. Woodrow Wilson Berry</a></div>
+  <div class="child-dates">Born April 3, 1912 — Died May 3, 1989</div>
+  <div class="child-details">Married <strong>Ora Mae Murray</strong> on July 7, 1936.</div>
 </li>
 
 <li class="child-entry has-page">
-  [6. Wiley Harold Berry](/ancestors/wileyharoldberrync/)
-  Born March 9, 1914 — Died June 24, 2006
-
-    Married **Hilda Elizabeth Nichols** on December 27, 1934.
-
+  <div class="child-name"><a href="/ancestors/wileyharoldberrync/">6. Wiley Harold Berry</a></div>
+  <div class="child-dates">Born March 9, 1914 — Died June 24, 2006</div>
+  <div class="child-details">Married <strong>Hilda Elizabeth Nichols</strong> on December 27, 1934.</div>
 </li>
 
 <li class="child-entry">
-  7. Infant Son
-  Born September 23, 1916 — Died September 23, 1916
+  <div class="child-name">7. Infant Son</div>
+  <div class="child-dates">Born September 23, 1916 — Died September 23, 1916</div>
 </li>
 
 <li class="child-entry has-page">
-  [8. Wiley P. Berry Jr.](/ancestors/wileypberryjrnc/)
-  Born September 1, 1919 — Died August 18, 2007
+  <div class="child-name"><a href="/ancestors/wileypberryjrnc/">8. Wiley P. Berry Jr.</a></div>
+  <div class="child-dates">Born September 1, 1919 — Died August 18, 2007</div>
 </li>
 
 </ol>

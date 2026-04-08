@@ -57,35 +57,27 @@ In a very few years after Eleanor arrived in Tennessee she met and married John 
 <ol class="children-list">
 
 <li class="child-entry">
-  1. George Washington Reed
-  Born Wayne County, Tennessee
-
-    Oldest son. About fifteen years old when his father John Reed died.
-
+  <div class="child-name">1. George Washington Reed</div>
+  <div class="child-dates">Born Wayne County, Tennessee</div>
+  <div class="child-details">Oldest son. About fifteen years old when his father John Reed died.</div>
 </li>
 
 <li class="child-entry">
-  2. John W. Reed
-  Born Wayne County, Tennessee
-
-    About twelve years old when his father died.
-
+  <div class="child-name">2. John W. Reed</div>
+  <div class="child-dates">Born Wayne County, Tennessee</div>
+  <div class="child-details">About twelve years old when his father died.</div>
 </li>
 
 <li class="child-entry">
-  3. Wilson Mack Reed
-  Born Wayne County, Tennessee
-
-    About ten years old when his father died.
-
+  <div class="child-name">3. Wilson Mack Reed</div>
+  <div class="child-dates">Born Wayne County, Tennessee</div>
+  <div class="child-details">About ten years old when his father died.</div>
 </li>
 
 <li class="child-entry">
-  4. Mary Reed
-  Born Wayne County, Tennessee
-
-    Only daughter. About six years old when her father died.
-
+  <div class="child-name">4. Mary Reed</div>
+  <div class="child-dates">Born Wayne County, Tennessee</div>
+  <div class="child-details">Only daughter. About six years old when her father died.</div>
 </li>
 
 </ol>

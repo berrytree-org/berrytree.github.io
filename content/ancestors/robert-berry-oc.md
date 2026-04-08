@@ -277,83 +277,63 @@ Robert and Elizabeth had ten children, all born in Orange County, North Carolina
 <ol class="children-list">
 
 <li class="child-entry has-page">
-  [1. Mary Berry](/ancestors/mary-berry/)
-  Born c. 1760, Orange County, NC — Died 1812
-
-    First married **George Waggoner** c. 1775 in Orange County. George was the son of Henry Waggoner. George was mortally wounded in the Battle of Guilford Courthouse and died about a month later in 1781. They had 2 children. Mary married second **James Kemp/Camp** about December 1781 in Orange County. They had 5 children: John Camp (b. c. 1783), Sarah Camp Humphries (b. November 9, 1785), Robert Berry Camp (b. c. 1787), Stirling Camp (b. October 22, 1793), and Joseph Camp (b. c. 1795). Mary Berry Camp died in South Carolina before 1800.
-
+  <div class="child-name"><a href="/ancestors/mary-berry/">1. Mary Berry</a></div>
+  <div class="child-dates">Born c. 1760, Orange County, NC — Died 1812</div>
+  <div class="child-details">First married <strong>George Waggoner</strong> c. 1775 in Orange County. George was the son of Henry Waggoner. George was mortally wounded in the Battle of Guilford Courthouse and died about a month later in 1781. They had 2 children. Mary married second <strong>James Kemp/Camp</strong> about December 1781 in Orange County. They had 5 children: John Camp (b. c. 1783), Sarah Camp Humphries (b. November 9, 1785), Robert Berry Camp (b. c. 1787), Stirling Camp (b. October 22, 1793), and Joseph Camp (b. c. 1795). Mary Berry Camp died in South Carolina before 1800.</div>
 </li>
 
 <li class="child-entry has-page">
-  [2. Robert Berry Jr.](/ancestors/robert-berry-jr/)
-  Born c. 1762, Orange County, NC — Died after 1840, Fayette County, Berry, Alabama
-
-    Married **Mary Waggoner** c. 1784 in Orange County, NC. Mary was the daughter of Henry Waggoner. They had 6 children: [Catherine Berry Pickle](/ancestors/catherineberrync/) (b. October 1785), [George Berry](/ancestors/georgeberrytx/) (b. c. 1790), John Berry, Henry G. Berry (b. 1794, d. December 26, 1866, Drew, Arkansas), [Thompson Berry](/ancestors/thompsonberryala/) (b. December 18, 1801, d. January 8, 1871, Fayette County, AL), and [David Middleton Berry](/ancestors/davidmiddletonberryala/) (b. April 14, 1805, d. May 7, 1880, Fayette County, AL).
-
+  <div class="child-name"><a href="/ancestors/robert-berry-jr/">2. Robert Berry Jr.</a></div>
+  <div class="child-dates">Born c. 1762, Orange County, NC — Died after 1840, Fayette County, Berry, Alabama</div>
+  <div class="child-details">Married <strong>Mary Waggoner</strong> c. 1784 in Orange County, NC. Mary was the daughter of Henry Waggoner. They had 6 children: <a href="/ancestors/catherineberrync/">Catherine Berry Pickle</a> (b. October 1785), <a href="/ancestors/georgeberrytx/">George Berry</a> (b. c. 1790), John Berry, Henry G. Berry (b. 1794, d. December 26, 1866, Drew, Arkansas), <a href="/ancestors/thompsonberryala/">Thompson Berry</a> (b. December 18, 1801, d. January 8, 1871, Fayette County, AL), and <a href="/ancestors/davidmiddletonberryala/">David Middleton Berry</a> (b. April 14, 1805, d. May 7, 1880, Fayette County, AL).</div>
 </li>
 
 <li class="child-entry has-page">
-  [3. John Berry](/ancestors/john-berry/)
-  Born c. 1764, Orange County, NC — Died 1804, Jackson County, GA
-
-    Married **Martha Stepp** on September 16, 1793, in Person County, NC. They had 5 children: Polly Berry, Betsie Berry, Joshua Berry (b. 1797), Robert Berry (b. 1798), and William Berry (b. 1802).
-
+  <div class="child-name"><a href="/ancestors/john-berry/">3. John Berry</a></div>
+  <div class="child-dates">Born c. 1764, Orange County, NC — Died 1804, Jackson County, GA</div>
+  <div class="child-details">Married <strong>Martha Stepp</strong> on September 16, 1793, in Person County, NC. They had 5 children: Polly Berry, Betsie Berry, Joshua Berry (b. 1797), Robert Berry (b. 1798), and William Berry (b. 1802).</div>
 </li>
 
 <li class="child-entry has-page">
-  [4. Isaac Berry](/ancestors/isaac-berry/)
-  Born c. 1766, Orange County, NC — Died after 1840, Orange County, NC
-
-    Had a daughter **Mary Berry** (b. 1815, d. after 1880, Person County, NC) by **Lydia Berry**. It is not known if they were married.
-
+  <div class="child-name"><a href="/ancestors/isaac-berry/">4. Isaac Berry</a></div>
+  <div class="child-dates">Born c. 1766, Orange County, NC — Died after 1840, Orange County, NC</div>
+  <div class="child-details">Had a daughter <strong>Mary Berry</strong> (b. 1815, d. after 1880, Person County, NC) by <strong>Lydia Berry</strong>. It is not known if they were married.</div>
 </li>
 
 <li class="child-entry has-page">
-  [5. Joshua Berry](/ancestors/joshua-berry-sr/)
-  Born c. 1769, Orange County, NC — Died October 8, 1838, Orange County, NC
-
-    Married **Nancy Ellison** on January 28, 1792. Nancy was born c. 1775, daughter of John Ellison, and died after 1850 in Orange County, NC. They had 9 children: [Robert Berry](/ancestors/robert-berry-joshuas-son-nc/), Dicey Berry, James Berry, [Joshua Berry Jr.](/ancestors/joshua-berry-ohio/), Delilah Berry, [Lewis Berry](/ancestors/lewisberrync/), Nancy Berry, Charlotte Berry, and [Eli Berry](/ancestors/eli-berry-nc/).
-
+  <div class="child-name"><a href="/ancestors/joshua-berry-sr/">5. Joshua Berry</a></div>
+  <div class="child-dates">Born c. 1769, Orange County, NC — Died October 8, 1838, Orange County, NC</div>
+  <div class="child-details">Married <strong>Nancy Ellison</strong> on January 28, 1792. Nancy was born c. 1775, daughter of John Ellison, and died after 1850 in Orange County, NC. They had 9 children: <a href="/ancestors/robert-berry-joshuas-son-nc/">Robert Berry</a>, Dicey Berry, James Berry, <a href="/ancestors/joshua-berry-ohio/">Joshua Berry Jr.</a>, Delilah Berry, <a href="/ancestors/lewisberrync/">Lewis Berry</a>, Nancy Berry, Charlotte Berry, and <a href="/ancestors/eli-berry-nc/">Eli Berry</a>.</div>
 </li>
 
 <li class="child-entry has-page">
-  [6. Elizabeth Berry](/ancestors/elizabeth-berry/)
-  Born c. 1770, Orange County, NC — Died c. 1815, Person County, NC
-
-    Never married. Had a daughter **Mary Berry** (b. c. 1792) by William Riley. Robert Berry allowed Elizabeth to live in his home until her daughter Mary was grown and married. A bastardy bond was placed on William Riley.
-
+  <div class="child-name"><a href="/ancestors/elizabeth-berry/">6. Elizabeth Berry</a></div>
+  <div class="child-dates">Born c. 1770, Orange County, NC — Died c. 1815, Person County, NC</div>
+  <div class="child-details">Never married. Had a daughter <strong>Mary Berry</strong> (b. c. 1792) by William Riley. Robert Berry allowed Elizabeth to live in his home until her daughter Mary was grown and married. A bastardy bond was placed on William Riley.</div>
 </li>
 
 <li class="child-entry has-page">
-  [7. Thomas Berry](/ancestors/thomas-berry/)
-  Born c. 1772, Orange County, NC — Died before 1812, Tennessee
-
-    Married **[Sarah Cate](/ancestors/sarah-cate/)** on August 12, 1800, in Orange County, NC. Sarah was born December 27, 1782, daughter of William and Elizabeth Messersmith Cate, and died March 7, 1875, in Wayne County, Tennessee. They had 2 children: [David Berry](/ancestors/davidsonoftom/) and [Eleanor Berry Reed](/ancestors/eleanor-reed/). Thomas died while searching for land in the west. There is a folklore story by the descendants who live in Tennessee today that Thomas was killed by Indians while searching for land.
-
+  <div class="child-name"><a href="/ancestors/thomas-berry/">7. Thomas Berry</a></div>
+  <div class="child-dates">Born c. 1772, Orange County, NC — Died before 1812, Tennessee</div>
+  <div class="child-details">Married <strong><a href="/ancestors/sarah-cate/">Sarah Cate</a></strong> on August 12, 1800, in Orange County, NC. Sarah was born December 27, 1782, daughter of William and Elizabeth Messersmith Cate, and died March 7, 1875, in Wayne County, Tennessee. They had 2 children: <a href="/ancestors/davidsonoftom/">David Berry</a> and <a href="/ancestors/eleanor-reed/">Eleanor Berry Reed</a>. Thomas died while searching for land in the west. There is a folklore story by the descendants who live in Tennessee today that Thomas was killed by Indians while searching for land.</div>
 </li>
 
 <li class="child-entry has-page">
-  [8. David J. Berry](/ancestors/david-j-berry-sr/)
-  Born c. 1774, Orange County, NC — Died after 1830, Fayette County, Georgia
-
-    Married **Mary Blalock** on February 27, 1797, in Orange County, NC. Mary was born c. 1772 in Orange County. They had 11 children, all born in North Carolina before the family moved to Georgia: [Elizabeth Leathers Berry](/ancestors/elizabetheathersberrync/), Sarah "Sally" Berry, Winifred Berry, David J. Berry Jr., Mary Berry, Henry Berry, George N. Berry, [Robert Berry](/ancestors/robertdjberry/), William G. Berry, Thomas Berry, and [Joshua M. Berry](/ancestors/joshuaberryga/). David was the last of Robert and Elizabeth Cate Berry's children to leave home.
-
+  <div class="child-name"><a href="/ancestors/david-j-berry-sr/">8. David J. Berry</a></div>
+  <div class="child-dates">Born c. 1774, Orange County, NC — Died after 1830, Fayette County, Georgia</div>
+  <div class="child-details">Married <strong>Mary Blalock</strong> on February 27, 1797, in Orange County, NC. Mary was born c. 1772 in Orange County. They had 11 children, all born in North Carolina before the family moved to Georgia: <a href="/ancestors/elizabetheathersberrync/">Elizabeth Leathers Berry</a>, Sarah "Sally" Berry, Winifred Berry, David J. Berry Jr., Mary Berry, Henry Berry, George N. Berry, <a href="/ancestors/robertdjberry/">Robert Berry</a>, William G. Berry, Thomas Berry, and <a href="/ancestors/joshuaberryga/">Joshua M. Berry</a>. David was the last of Robert and Elizabeth Cate Berry's children to leave home.</div>
 </li>
 
 <li class="child-entry has-page">
-  [9. William Berry](/ancestors/william-berry/)
-  Born c. 1775, Orange County, NC — Died 1860, Franklin County, TN
-
-    Married **[Hannah Cate](/ancestors/hannahcateberry/)** on August 11, 1799, in Orange County, NC. Hannah was born 1770 in Person County, NC, daughter of William and Elizabeth Messersmith Cate, and died February 25, 1858, in Orange County, NC. They had 3 children: William Clarence Berry (b. October 17, 1803), [Robert C. Berry](/ancestors/robert-c-berry-alabama/) (b. April 14, 1805), and [Thomas Person Berry](/ancestors/thomas-person-berry/) (b. June 1, 1808, d. April 30, 1884, Orange County, NC).
-
+  <div class="child-name"><a href="/ancestors/william-berry/">9. William Berry</a></div>
+  <div class="child-dates">Born c. 1775, Orange County, NC — Died 1860, Franklin County, TN</div>
+  <div class="child-details">Married <strong><a href="/ancestors/hannahcateberry/">Hannah Cate</a></strong> on August 11, 1799, in Orange County, NC. Hannah was born 1770 in Person County, NC, daughter of William and Elizabeth Messersmith Cate, and died February 25, 1858, in Orange County, NC. They had 3 children: William Clarence Berry (b. October 17, 1803), <a href="/ancestors/robert-c-berry-alabama/">Robert C. Berry</a> (b. April 14, 1805), and <a href="/ancestors/thomas-person-berry/">Thomas Person Berry</a> (b. June 1, 1808, d. April 30, 1884, Orange County, NC).</div>
 </li>
 
 <li class="child-entry has-page">
-  [10. Henry Berry](/ancestors/henry-berry/)
-  Born 1776, Orange County, NC — Died 1855, Orange County, NC
-
-    Had a daughter **Mary Ashley Berry** by **Fanny Ashley**, but they were never married. This is known because Fanny Ashley was living with her daughter Mary Ashley Berry King in 1850. Henry inherited the Plantation Home and left it to his daughter Mary Ashley Berry and her husband Thomas King in 1855.
-
+  <div class="child-name"><a href="/ancestors/henry-berry/">10. Henry Berry</a></div>
+  <div class="child-dates">Born 1776, Orange County, NC — Died 1855, Orange County, NC</div>
+  <div class="child-details">Had a daughter <strong>Mary Ashley Berry</strong> by <strong>Fanny Ashley</strong>, but they were never married. This is known because Fanny Ashley was living with her daughter Mary Ashley Berry King in 1850. Henry inherited the Plantation Home and left it to his daughter Mary Ashley Berry and her husband Thomas King in 1855.</div>
 </li>
 
 </ol>
