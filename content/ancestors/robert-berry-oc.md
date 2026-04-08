@@ -271,9 +271,6 @@ The document listed below proves that Richard Berry was still in Princess Anne C
 
 Robert and Elizabeth had ten children, all born in Orange County, North Carolina, between about 1760 and 1776. Below you will find what is known about each child. Children with more detailed records have their own pages, look for the arrow (&rarr;) next to their name.
 
-  {{< img-float src="/images/tbb640.jpg" alt="W.P. Berry and Brothers" >}}
-  W.P. Berry and Brothers
-
 <ol class="children-list">
 
 <li class="child-entry has-page">
