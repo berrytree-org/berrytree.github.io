@@ -537,6 +537,11 @@ p > strong:first-child {
   .book-menu .book-menu-content {
     background-color: rgba(245, 240, 232, 0.98);
   }
+
+  // Gold hamburger icon on subpages (not homepage)
+  body:not(.book-kind-home) .book-header label[for="menu-control"] .book-icon {
+    filter: invert(43%) sepia(50%) saturate(500%) hue-rotate(10deg) brightness(85%);
+  }
 }
 
 // =============================================================
