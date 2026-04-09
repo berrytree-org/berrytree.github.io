@@ -44,7 +44,6 @@ Individual profiles for ancestors in the Robert and Elizabeth Cate Berry family 
 - [Emma G. Berry (NC)](/ancestors/emma-g-berry-nc/)
 - [George Rufus Berry (NC)](/ancestors/george-rufus-berry-nc/)
 - [Ira Berry (NC) — Detail](/ancestors/ira-berry-nc-detail/)
-- [John Berry — Detail](/ancestors/john-berry-detail/)
 - [John Berry (TX)](/ancestors/john-berry-tx/)
 - [John Berry (TX) — Detail](/ancestors/john-berry-tx/)
 - [John Robert Berry](/ancestors/john-robert-berry/)

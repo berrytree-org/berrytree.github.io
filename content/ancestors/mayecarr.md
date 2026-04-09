@@ -16,7 +16,7 @@ content_source: "wp-export"
 
 {{< breadcrumb trail="Home|/|Ancestors|/ancestors/|Family Lines|/family-lines/|Mary Elizabeth Berry" >}}
 
-{{< ancestor-chain gen3="William Berry × Hannah Cate" loc3="Orange County, NC" link3="/ancestors/william-berry/" gen4="Thomas Person Berry × Sarah Lunsford" loc4="Orange County, NC" link4="/ancestors/thomas-person-berry/" gen5="John Robert Berry × Elizabeth Bowling" loc5="Orange County, NC" link5="/ancestors/john-berry-detail/" gen6="Wiley P. Berry × Ida Ann Wilson" loc6="Orange County, NC" link6="/ancestors/wiley-p-berry/" gen7="Mary Elizabeth Berry × Brodie Carr" loc7="Orange County, NC → Hillsborough, NC" />}}
+{{< ancestor-chain gen3="William Berry × Hannah Cate" loc3="Orange County, NC" link3="/ancestors/william-berry/" gen4="Thomas Person Berry × Sarah Lunsford" loc4="Orange County, NC" link4="/ancestors/thomas-person-berry/" gen5="John Robert Berry × Elizabeth Bowling" loc5="Orange County, NC" link5="/ancestors/john-robert-berry/" gen6="Wiley P. Berry × Ida Ann Wilson" loc6="Orange County, NC" link6="/ancestors/wiley-p-berry/" gen7="Mary Elizabeth Berry × Brodie Carr" loc7="Orange County, NC → Hillsborough, NC" />}}
 
 {{< ancestor-profile
   name="Mary Elizabeth Berry"

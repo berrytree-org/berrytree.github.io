@@ -18,12 +18,12 @@ content_source: "wp-export"
 - **Gen 3** David J. Berry × Mary Blalock — Orange County, NC → Georgia
 - **Gen 4** Robert Berry × Elizabeth Everett — Georgia
 - **Gen 5** Robert Riley Berry × Martha “Mattie” Starke — Georgia
-- **Gen 6 **[Horace Prather Berry](/ancestors/horacepratherberryga/) November 18 1870 - January 18 1958
+- **Gen 6** [Horace Prather Berry](/ancestors/horacepratherberryga/) November 18 1870 - January 18 1958
 - **Gen 6** William Riley Berry died 1873 <!-- UNSOURCED -->
-- **Gen 6 **[Robert Clark Berry](/ancestors/robertclarkberryga/)
-- **Gen 6 **Sarah Francis Leola Berry
-- **Gen 6 **[Emma Ailene Berry](/ancestors/williamaaronturleyga/) 1878-19??
-- **Gen 6 **Jason Miles Berry died 1880 <!-- UNSOURCED -->
+- **Gen 6** [Robert Clark Berry](/ancestors/robertclarkberryga/)
+- **Gen 6** Sarah Francis Leola Berry
+- **Gen 6** [Emma Ailene Berry](/ancestors/williamaaronturleyga/) 1878-19??
+- **Gen 6** Jason Miles Berry died 1880 <!-- UNSOURCED -->
 - **Gen 6**[Enoch Meril Berry 1881 - 1961](/ancestors/enoch-m-berry-page/)
 - **Gen 6**Mary Elizabeth Berry 1886 - 1887 <!-- UNSOURCED -->
 **Gen 6** Generation Enoch M. and Mary Edna Stuart Cullman Alabama.
@@ -45,7 +45,7 @@ L-R: Chester Berry,Enoch Merrill Berry, Winfred (Shorty) Berry, Lewis Berry, Bue
 
 {{< img-float src="/images/mary-edna-stuart-1900cullman-ala.jpg" alt="Mary Edna Stuart 1900Cullman Ala" >}}
 
-**Jasper B. Stuart Family 1900 Cullman ****Alabama**
+**Jasper B. Stuart Family 1900 Cullman** **Alabama**
 
 - Jasper B. Stuart, M, W  Age 47  Jan. 1853
 - Sarah E. Stuart, F, W  Age 47, Apr. 1853

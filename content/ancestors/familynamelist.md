@@ -21,7 +21,7 @@ content_source: "wp-export"
 **Robert & Elizabeth Cate Berry's Children:**
 **3 rd Generation:**
 1. **[Mary Berry](/ancestors/maryberry/)**
-2. **[Robert Berry Jr.](/ancestors/robertberryjr/) **
+2. **[Robert Berry Jr.](/ancestors/robertberryjr/)**
 3. **[John Berry](/ancestors/johnberry/)**
 4. **[IsaacBerry](/ancestors/isaacberry/)**
 5. **[Joshua Berry](/ancestors/joshuaberry/)**
@@ -34,7 +34,7 @@ content_source: "wp-export"
 **William & Hannah Cate Berry's Children**
 **4th Generation:**
 1. **[William C. Berry](/documents/williamchildren/)**
-2. **[Robert C. Berry](/documents/williamchildren/) **
+2. **[Robert C. Berry](/documents/williamchildren/)**
 3. **[Thomas Person Berry](/documents/williamchildren/)**
 
 **William & Hannah Cate Berry's Grandchildren**
@@ -42,9 +42,9 @@ content_source: "wp-export"
 
 **William Clarence & Sally Bowles Berry's Children**
 1. **[Roann Frances Berry](/ancestors/roannfrances/)**
-2. **[George Rufus Berry](/ancestors/georgerufusberrync/) **
+2. **[George Rufus Berry](/ancestors/georgerufusberrync/)**
 3. **[Elizabeth Jane Berry](/ancestors/williamclarenceberrync/) William Clarence & Massa Thompkins Berry's Children**
-1. ** [John Thomas Berry](/ancestors/williamclarenceberrync/)**
+1. **[John Thomas Berry](/ancestors/williamclarenceberrync/)**
 2. **[Henry Thompkins Berry](/ancestors/williamclarenceberrync/)**
 3. **[Lucenda Temperance Berry](/ancestors/williamclarenceberrync/)**
 4. **[Sarah Catherine Berry](/ancestors/williamclarenceberrync/)**
@@ -58,7 +58,7 @@ content_source: "wp-export"
 1. **William H Berry**
 2. **Willie Berry**
 3. **John Robert Berry**
-4. **James P. Berry **
+4. **James P. Berry**
 
 **Thomas Person & Lucy Brown Berry's Children**
 1. **Edna H. Berry**
@@ -90,7 +90,7 @@ content_source: "wp-export"
 11. **[George N. Berry](/ancestors/david-j-berry-sr/)**
 12. **[Robert Berry](/ancestors/david-j-berry-sr/)**
 13. **[William G. Berry](/ancestors/david-j-berry-sr/)**
-14. **Thomas G.Berry **
+14. **Thomas G.Berry**
 15. **[Joshua M.Berry](/ancestors/david-j-berry-sr/) Thomas & Sarah Cate Berry's Children**
 **4th Generation:**
 1. **[David II Berry](/ancestors/thomasberrync/)**
@@ -175,13 +175,13 @@ content_source: "wp-export"
 3. **William Henry Berry**
 4. **Sarah A. Berry**
 5. **Robert Riley Berry**
-6. **John Allmon Berry **
-7. **David Northern Berry **
-8. **Jesse Lee Berry **
-9. **Emanuel Patton Berry **
-10. **Martha N. Berry **
-11. **Basil Manley Berry **
-12. **William G.Berry **
+6. **John Allmon Berry**
+7. **David Northern Berry**
+8. **Jesse Lee Berry**
+9. **Emanuel Patton Berry**
+10. **Martha N. Berry**
+11. **Basil Manley Berry**
+12. **William G.Berry**
 13. **[Thomas Berry](/ancestors/david-j-berry-sr/) Joshua M. & Elizabeth J. Cates Berry's Children**
 1. **[Graham Berry](/ancestors/joshuaberryga/)**
 2. **[Robert I. Berry](/ancestors/joshuaberryga/)**
@@ -215,13 +215,13 @@ content_source: "wp-export"
 1. **[Caroline Berry](/ancestors/thompsonberryala/)**
 2. **[Henry Bradford Berry](/ancestors/thompsonberryala/)**
 3. **[Eliza Berry](/ancestors/thompsonberryala/)**
-4. **[Frances M. Berry](thompsonberryala)**
+4. **[Frances M. Berry](/ancestors/thompsonberryala/)**
 5. **[Elizabeth Berry](/ancestors/thompsonberryala/)**
 6. **[Mary Berry](/ancestors/thompsonberryala/)**
 7. **[Palatine P. Berry](/ancestors/thompsonberryala/) David M. & Didama Box Berry's Children**
 1. **[John H. Berry](/ancestors/davidmiddletonberryala/)**
-2. **[Thomas Berry](davidmiddletonberryala)**
+2. **[Thomas Berry](/ancestors/davidmiddletonberryala/)**
 3. **[William W.Berry](/ancestors/davidmiddletonberryala/)**
 4. **[Alfred W. Berry](/ancestors/davidmiddletonberryala/)**
 5. **[Mary J.Berry](/ancestors/davidmiddletonberryala/)**
-6. **[Robert B.F. Berry](davidmiddletonberryala)**
+6. **[Robert B.F. Berry](/ancestors/davidmiddletonberryala/)**

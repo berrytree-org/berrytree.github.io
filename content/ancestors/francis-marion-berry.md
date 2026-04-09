@@ -41,8 +41,8 @@ Francis Marion Berry and  Fannie Lillie Hudspeth below
 - Children
 - **Jefferson Greenwood Berry** b: 07 Aug 1891 Lexington Oklahoma, d: Sep 1973 Corpus Christi TX
 - **Mary Frances Berry** b: 22 Feb 1893  Lexington Oklahoma, d: 23 Sep 1974 Pawnee Oklahoma
-- **Frank William Berry **b: 25 Mar 1895 Lexington Oklahoma, d:04 Dec 1895 Tribble Oklahoma** Died Young**
-- **Marion Alexander Berry **b: 22 Sep 1896 Lexington Oklahoma, d: 06 Aug 1978 Cushing Oklahoma
+- **Frank William Berry** b: 25 Mar 1895 Lexington Oklahoma, d:04 Dec 1895 Tribble Oklahoma** Died Young**
+- **Marion Alexander Berry** b: 22 Sep 1896 Lexington Oklahoma, d: 06 Aug 1978 Cushing Oklahoma
 - **Robert Alonzo Berry** ( Lonnie) b: 23 May 1899 Lexington Oklahoma, d: 31 Jul 1983 P0nca City Oklahoma
 - Carrie Melinda Berry b: 21 Dec 1900 Lexington Oklahoma., d: 26 May 1972 Sunray Texas
 - Clarence Emory Berry b: 26 Jan 1903 Lexington Oklahoma

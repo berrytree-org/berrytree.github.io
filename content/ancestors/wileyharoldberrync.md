@@ -16,7 +16,7 @@ content_source: "wp-export"
 
 {{< breadcrumb trail="Home|/|Ancestors|/ancestors/|Family Lines|/family-lines/|Wiley Harold Berry" >}}
 
-{{< ancestor-chain gen3="William Berry × Hannah Cate" loc3="Orange County, NC" link3="/ancestors/william-berry/" gen4="Thomas Person Berry × Sarah Lunsford" loc4="Orange County, NC" link4="/ancestors/thomas-person-berry/" gen5="John Robert Berry × Elizabeth Bowling" loc5="Orange County, NC" link5="/ancestors/john-berry-detail/" gen6="Wiley P. Berry × Ida Ann Wilson" loc6="Orange County, NC" link6="/ancestors/wiley-p-berry/" gen7="Wiley Harold Berry × Hilda Elizabeth Nichols" loc7="Orange County, NC → Durham, NC" />}}
+{{< ancestor-chain gen3="William Berry × Hannah Cate" loc3="Orange County, NC" link3="/ancestors/william-berry/" gen4="Thomas Person Berry × Sarah Lunsford" loc4="Orange County, NC" link4="/ancestors/thomas-person-berry/" gen5="John Robert Berry × Elizabeth Bowling" loc5="Orange County, NC" link5="/ancestors/john-robert-berry/" gen6="Wiley P. Berry × Ida Ann Wilson" loc6="Orange County, NC" link6="/ancestors/wiley-p-berry/" gen7="Wiley Harold Berry × Hilda Elizabeth Nichols" loc7="Orange County, NC → Durham, NC" />}}
 
 {{< ancestor-profile
   name="Wiley Harold Berry"
@@ -40,7 +40,7 @@ The picture on the left was a {{< img-float src="/images/wharoldberrync.jpg" alt
 
 Harold and Hilda Berry had two daughters and one son.
 
-Hilda Nichols Berry died on August 2, 2002 and Wiley Harold Berry died on June 24, 2006. Both were living in Durham, North Carolina at the time of their deaths and both are buried in the Berrys Grove Baptist Church Cemetery in land that was donated by [John Robert](/ancestors/john-berry-detail/) and Elizabeth Frances Bowling Berry, my Great grandparents.
+Hilda Nichols Berry died on August 2, 2002 and Wiley Harold Berry died on June 24, 2006. Both were living in Durham, North Carolina at the time of their deaths and both are buried in the Berrys Grove Baptist Church Cemetery in land that was donated by [John Robert](/ancestors/john-robert-berry/) and Elizabeth Frances Bowling Berry, my Great grandparents.
 
 ---
 

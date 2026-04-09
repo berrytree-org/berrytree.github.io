@@ -82,8 +82,8 @@ content_source: "wp-export"
 - 11/05/2015 Completed [Shelby Dale Berry](/ancestors/shelby-dale-berry/) page
 - 11/4/2015 Updated [John Berry](/ancestors/johnberry/)  and [John Berry Family tree](/family-lines/john-berry-family-tree/) page.
 - 11/2/2015 Working on the Name index pages and made a few changes on [Robert Pickle](/ancestors/robertpicklenc/) page
-- 10/29/2015 Added ** [Alphabetical Name Index](/indexes/alphabetical/)** search button to home page
-- 10/29/2015 Added ** [By Family Line](/family-lines/)** search button to home page
+- 10/29/2015 Added **[Alphabetical Name Index](/indexes/alphabetical/)** search button to home page
+- 10/29/2015 Added **[By Family Line](/family-lines/)** search button to home page
 - 10/28/2015 Added names to Name Index  & Updated [Mary Berry's](/ancestors/maryberry/) (OC) page
 - 10/27/2015 finished work on [Robert Berry Jr.](/ancestors/robertberryjr/)page and added some more names to the [Name Index](/indexes/name-index/) page
 - 10/26/2015 Started work on  [Robert Berry Jr.](/ancestors/robertberryjr/) Page
@@ -110,7 +110,7 @@ content_source: "wp-export"
 - 10/17/2015 Created [Hannah Cate](/ancestors/1810-hannah-cate-census/) Berry's 1810 Census page
 - 10/17/2015 updated [Dora Ellen Turley](/ancestors/doraellenturleyga/) Pace Page.
 - 10/17/2015 Updated **[David Lee Berry Ohio](/ancestors/davidleeberryohio/)**Page and removed broken links
-- 10/17/2015 I have started the **[Picture Directory](/pictures/) **Page this morning
+- 10/17/2015 I have started the **[Picture Directory](/pictures/)** Page this morning
 - Week of 10/11/15 to 10/15/15
 - This Week I have created a page for **[James Berry](/ancestors/jamesberrytenn/)** who migrated from Orange County NC to  Smith County Tennessee between 1836 and 1839.
 - I have Updated the Home page so you can see the**[Family Surnames](/indexes/berry-inlaw-surnames/)** of Berry Spouses
