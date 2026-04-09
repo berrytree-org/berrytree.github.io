@@ -18,7 +18,7 @@ content_source: "wp-export"
 
 {{< breadcrumb trail="Home|/|Ancestors|/ancestors/|Family Lines|/family-lines/|Thomas Euart Berry" >}}
 
-{{< ancestor-chain gen3="William Berry × Hannah Cate" loc3="Orange County, NC" link3="/ancestors/william-berry/" gen4="Thomas Person Berry × Sarah Lunsford" loc4="Orange County, NC" link4="/ancestors/thomas-person-berry/" gen5="John Robert Berry × Elizabeth Francis Bowling" loc5="Orange County, NC" link5="/ancestors/john-berry-detail/" gen6="Thomas Euart Berry × Mary Ella Tilley" loc6="Orange County, NC → Durham, NC" />}}
+{{< ancestor-chain gen3="William Berry × Hannah Cate" loc3="Orange County, NC" link3="/ancestors/william-berry/" gen4="Thomas Person Berry × Sarah Lunsford" loc4="Orange County, NC" link4="/ancestors/thomas-person-berry/" gen5="John Robert Berry × Elizabeth Francis Bowling" loc5="Orange County, NC" link5="/ancestors/john-robert-berry/" gen6="Thomas Euart Berry × Mary Ella Tilley" loc6="Orange County, NC → Durham, NC" />}}
 
 {{< ancestor-profile
   name="Thomas Euart Berry"

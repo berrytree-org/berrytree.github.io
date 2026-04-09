@@ -19,7 +19,7 @@ content_source: "wp-export"
 
 {{< breadcrumb trail="Home|/|Ancestors|/ancestors/|Family Lines|/family-lines/|Cora Dena Berry" >}}
 
-{{< ancestor-chain gen3="William Berry × Hannah Cate" loc3="Orange County, NC" link3="/ancestors/william-berry/" gen4="Thomas Person Berry × Sarah Lunsford" loc4="Orange County, NC" link4="/ancestors/thomas-person-berry/" gen5="John Robert Berry × Elizabeth Francis Bowling" loc5="Orange County, NC" link5="/ancestors/john-berry-detail/" gen6="Cora Dena Berry × Asahel Frank Breeze" loc6="Orange County, NC" />}}
+{{< ancestor-chain gen3="William Berry × Hannah Cate" loc3="Orange County, NC" link3="/ancestors/william-berry/" gen4="Thomas Person Berry × Sarah Lunsford" loc4="Orange County, NC" link4="/ancestors/thomas-person-berry/" gen5="John Robert Berry × Elizabeth Francis Bowling" loc5="Orange County, NC" link5="/ancestors/john-robert-berry/" gen6="Cora Dena Berry × Asahel Frank Breeze" loc6="Orange County, NC" />}}
 
 {{< ancestor-profile
   name="Cora Dena Berry"
@@ -109,8 +109,8 @@ Asahel Frank Breeze and Cora D. Berry are buried at Berrys Grove Baptist Church 
 
 - Ashel Frank Breeze and **Cora D. Berry Breeze** are in the **1900** Orange County Census
 - **Cora** and Frank Breeze were living on the next farm beside [Emma](/ancestors/emma-g-berry-nc/) and John Sanders Berry in **1910**
-- **Cora Berry Breeze** inherited her father [John Robert Berry's](/ancestors/john-berry-detail/) home when he died in 1917. Cora and Frank moved to Little River Township in **1920.** Cora Berry Breeze was now living between two of her brothers
-- Ashel Frank and **Cora Berry Breeze** in the **1930** Orange County Census. Their Son Robert Breeze was living beside them in [John Robert Berry's](/ancestors/john-berry-detail/) House. John Robert Berry died in 1917
+- **Cora Berry Breeze** inherited her father [John Robert Berry's](/ancestors/john-robert-berry/) home when he died in 1917. Cora and Frank moved to Little River Township in **1920.** Cora Berry Breeze was now living between two of her brothers
+- Ashel Frank and **Cora Berry Breeze** in the **1930** Orange County Census. Their Son Robert Breeze was living beside them in [John Robert Berry's](/ancestors/john-robert-berry/) House. John Robert Berry died in 1917
 
 ---
 

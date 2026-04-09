@@ -16,7 +16,7 @@ content_source: "wp-export"
 
 {{< breadcrumb trail="Home|/|Ancestors|/ancestors/|Family Lines|/family-lines/|Pattie Swiney Berry" >}}
 
-{{< ancestor-chain gen3="William Berry × Hannah Cate" loc3="Orange County, NC" link3="/ancestors/william-berry/" gen4="Thomas Person Berry × Sarah Lunsford" loc4="Orange County, NC" link4="/ancestors/thomas-person-berry/" gen5="John Robert Berry × Elizabeth Francis Bowling" loc5="Orange County, NC" link5="/ancestors/john-berry-detail/" gen6="Pattie Swiney Berry × Felix Curry Wilson" loc6="Orange County, NC" />}}
+{{< ancestor-chain gen3="William Berry × Hannah Cate" loc3="Orange County, NC" link3="/ancestors/william-berry/" gen4="Thomas Person Berry × Sarah Lunsford" loc4="Orange County, NC" link4="/ancestors/thomas-person-berry/" gen5="John Robert Berry × Elizabeth Francis Bowling" loc5="Orange County, NC" link5="/ancestors/john-robert-berry/" gen6="Pattie Swiney Berry × Felix Curry Wilson" loc6="Orange County, NC" />}}
 
 {{< ancestor-profile
   name="Pattie Swiney Berry"
@@ -31,7 +31,7 @@ content_source: "wp-export"
 
 **PATTIE SWINEY BERRY** was born on August 8, 1886, in Orange County, North Carolina. She {{< img-float src="/images/pattyberryncsmall.jpg" alt="Portrait of Pattie Swiney Berry" side="left" >}} only lived for 29 years because she died on December 12, 1915, in Red Springs, Robeson County, NC. She is buried at Berry's Grove Baptist Church Cemetery, Little River Township, Orange County, NC. <!-- UNSOURCED -->
 
-She married Felix Curry "Bob" Wilson on December 20, 1910. Her son was born in September 1912. My mother was 7 years old when her aunt Pattie died. She told me there was snow on the ground when they buried Patty Berry Wilson. Mother said she remembered following the wagon in the snow on the way to the Church Cemetery. On the right you see a picture of Patty S. Berry who was one of four daughters of [John Robert](/ancestors/john-berry-detail/) and Elizabeth Francis Bowling Berry. You may **CLICK** in the picture to view a larger Image
+She married Felix Curry "Bob" Wilson on December 20, 1910. Her son was born in September 1912. My mother was 7 years old when her aunt Pattie died. She told me there was snow on the ground when they buried Patty Berry Wilson. Mother said she remembered following the wagon in the snow on the way to the Church Cemetery. On the right you see a picture of Patty S. Berry who was one of four daughters of [John Robert](/ancestors/john-robert-berry/) and Elizabeth Francis Bowling Berry. You may **CLICK** in the picture to view a larger Image
 
 ### **Spouse**
 

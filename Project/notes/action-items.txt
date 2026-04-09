@@ -1,5 +1,5 @@
 Berrytree.org — Action Items (Ranked)
-Updated: 2026-04-08 — Session 4 (PLAN list 24/24 complete)
+Updated: 2026-04-08 — Session 5 (MEH items cleared)
 
 Priority Scale: HIGH | MEDIUM | LOW | MEH
 
@@ -45,20 +45,15 @@ Priority Scale: HIGH | MEDIUM | LOW | MEH
   PRIORITY: MEH
   ─────────────────────────────────────────────────────────────────────────────────────────────────────────────
 
-  ┌───────────────────────────┬──────────────────────┬──────────┬──────────────────────────────────────────────────────────────────────────────────────────┐
-  │           Item            │        Owner         │ Priority │                                      Description                                       │
-  ├───────────────────────────┼──────────────────────┼──────────┼──────────────────────────────────────────────────────────────────────────────────────────┤
-  │ .old backup cleanup       │ Terry                │ MEH      │ Files are gitignored so they're not hurting anything, just dead weight in repo history.│
-  │                           │                      │          │ A quick git rm --cached pass when we feel like it. Unless repo size becomes an issue.  │
-  ├───────────────────────────┼──────────────────────┼──────────┼──────────────────────────────────────────────────────────────────────────────────────────┤
-  │ page-updates &            │ Terry                │ MEH      │ WordPress housekeeping artifacts. Not much value in migrating. Terry recommends        │
-  │ announcements pages       │                      │          │ leaving them parked or retiring them entirely.                                         │
-  └───────────────────────────┴──────────────────────┴──────────┴──────────────────────────────────────────────────────────────────────────────────────────┘
+  (No active MEH items. All prior MEH items completed or resolved.)
 
 ═══════════════════════════════════════════════════════════════════════════════════════════════════════════════
 
   COMPLETED (for reference)
   ─────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  - .old backup cleanup                    — Done 2026-04-08 Session 5 (5 files archived to Project/archived/meh-cleanup-2026-04-08/,
+                                            5 public build artifacts deleted)
+  - page-updates & announcements pages     — Kept as-is 2026-04-08 (shows cousins when content was added; no action needed)
   - PLAN list (24/24 items)                — Done 2026-04-08 Session 4 (all items resolved; A5 deferred by Aaron)
   - qc_genealogy source review             — Done 2026-04-08 (194 pages reviewed; 72 passed/stamped, 122 failures logged in
                                             Project/testing/qc-genealogy-failures.csv; update-frontmatter.py YAML bug fixed)

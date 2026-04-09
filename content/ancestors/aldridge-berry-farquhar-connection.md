@@ -44,7 +44,7 @@ NOTE: **Uncertain of birth order NOTE:** Robert Berry Sr. Sold  William Stagg 20
 
 **1800 Person County, North Carolina Census. {{< img-float src="/images/1800-waggoner-children-person-county.jpg" alt="1800 Waggoner Children Person County" >}} 1810 Person County, North Carolina Census  {{< img-float src="/images/p-county-1810-waggoners.jpg" alt="P County 1810 Waggoners" >}}**
 
-In Henry Waggoner’s will he listed his daughter as 1. **Susanna Smith**, 2. **John**, 3. **Henry**, 4. **George Waggner  **(Dec)  as his sons.  **Catherine Waggoner** in the census above was married to James Waggoner who was not listed as one of his sons. However the fact that all four of the families are living so close to each other indicates that they are related to each other. We know that 5. **Judith Waggoner** married Peter Aldridge and 6. **Mary Waggoner** married Robert Berry Jr. This accounts for 6 of Henry Sr.and Ketriana Waggoner’s 11 Children named in his 1784 will.**  All five of the living children named above were living in Person County in 1810 **
+In Henry Waggoner’s will he listed his daughter as 1. **Susanna Smith**, 2. **John**, 3. **Henry**, 4. **George Waggner** (Dec)  as his sons.  **Catherine Waggoner** in the census above was married to James Waggoner who was not listed as one of his sons. However the fact that all four of the families are living so close to each other indicates that they are related to each other. We know that 5. **Judith Waggoner** married Peter Aldridge and 6. **Mary Waggoner** married Robert Berry Jr. This accounts for 6 of Henry Sr.and Ketriana Waggoner’s 11 Children named in his 1784 will.**  All five of the living children named above were living in Person County in 1810 **
 
 [Robert Berry Jr](/ancestors/robert-berry-jr/) was the bondsman for Peter Aldridge  marriage to Judith Waggoner on February 4th 1786
 
@@ -60,11 +60,11 @@ Peter and Judith Waggoner Aldridge’s Children:
 
 - **Catherine Aldridge** *Her Maternal Grand Parents  Henry and Ketriana Waggoner, *
 
-- **Joseph Aldridge, **
+- **Joseph Aldridge,**
 
-- **Peter Aldridge Jr., **
+- **Peter Aldridge Jr.,**
 
-- **Jenny Aldridge, **
+- **Jenny Aldridge,**
 
 - **Uley Aldridge**
 

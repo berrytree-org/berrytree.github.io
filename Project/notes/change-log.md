@@ -2,6 +2,53 @@
 
 ---
 
+## 2026-04-08 (Session 5) — MEH Cleanup, Bug Fixes, LOW Severity Citation Sweep
+
+### Summary
+Full staff session with Todd (contractor, first session). Cleared MEH action items, fixed 3 bugs found during Todd's 18-page click-through audit, completed Martha's citation sweep on 9 LOW-severity genealogy pages, and updated the qc-genealogy-failures CSV.
+
+### MEH Cleanup
+- **5 `.old` backup files** archived from `content/ancestors/` to `Project/archived/meh-cleanup-2026-04-08/`
+- **5 `.old` build artifacts** deleted from `public/ancestors/`
+- **page-updates.md** — initially archived, then restored at Aaron's request (shows cousins when their content was added)
+
+### Bug Fixes (Todd's Click-Through)
+- **hannahcateberry.md** — Updated legacy link from `/documents/williamchildren/` to canonical `/ancestors/william-berry/`
+- **maryaberrync.md** — Removed dead WordPress placeholder "CLICK HERE TO VIEW A PICTURE OF MARY."
+- **maryelizabethsdaughternc.md** — Fixed broken link `/ancestors/elizabeth/` → `/ancestors/elizabeth-berry/`
+- **data/documents.json** — Updated stale `/documents/williamchildren/` link to `/ancestors/william-berry/`
+
+### Genealogy Citation Fixes (Martha's Quick-Win Sweep)
+9 LOW-severity pages reviewed from qc-genealogy-failures.csv:
+- **4 RESOLVED** (all UNSOURCED tags cited from on-page evidence): hannahcateberry, joshuaberry2ga, maryaberrync, maryelizabethsdaughternc
+- **1 PARTIAL** (1 of 3 tags resolved): thomas-person-berry (Lunsford/Cossart ancestry tags remain, no on-page evidence)
+- **2 REVIEWED — confirmed clean** (no changes needed): johnberryncjrbson, william-oscar-berry-ga
+- **2 REVIEWED — tags retained** (no on-page evidence): census-page-for-thomas-berry, mayecarr
+
+### Citations Added
+- hannahcateberry.md — Birth/death cited from 1810/1850 censuses + William Cate will; Elizabeth Berry cited from Temperance Jane Franklin bible page
+- joshuaberry2ga.md — 1900 Census proximity cited from 1900 Clayton County Georgia Census
+- maryaberrync.md — Birth/death cited from 1900, 1910, 1920 Orange County Censuses
+- maryelizabethsdaughternc.md — Thomas parentage UNSOURCED removed (negative claim); Josiah cited from Person County Record Book 1862
+- thomas-person-berry.md — Elisabeth Berry/John Berry cited from Thomas Person Berry's Bible
+
+### Files Modified
+- `content/ancestors/hannahcateberry.md` — Link fix + 2 citation fixes
+- `content/ancestors/joshuaberry2ga.md` — 1 citation fix
+- `content/ancestors/maryaberrync.md` — Placeholder removal + 1 citation fix
+- `content/ancestors/maryelizabethsdaughternc.md` — Link fix + 2 citation fixes
+- `content/ancestors/thomas-person-berry.md` — 1 citation fix
+- `data/documents.json` — Link update
+- `Project/testing/qc-genealogy-failures.csv` — 9 entries updated with resolution status
+
+### Decisions Made
+1. `.old` files archived rather than deleted (Aaron's call)
+2. page-updates.md kept live — shows cousins when content was added
+3. UNSOURCED tags only removed when on-page evidence supports the citation
+4. Lunsford/Cossart and absence-of-evidence tags retained — Martha won't fabricate
+
+---
+
 ## 2026-04-08 (Session 4) — PLAN List Complete: All 24 Items Resolved
 
 ### Summary
