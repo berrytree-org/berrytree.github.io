@@ -5,6 +5,7 @@
 /Project/
 start_webserver.sh
 CLAUDE.md
+README.md
 /resources/_gen/
 /.hugo_build.lock
 /.claude
