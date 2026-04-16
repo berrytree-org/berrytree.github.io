@@ -39,7 +39,6 @@ Individual profiles for ancestors in the Robert and Elizabeth Cate Berry family 
 
 - [Aldridge, Berry, Farquhar Connection](/ancestors/aldridge-berry-farquhar-connection/)
 - [Benjamin Berry Henderson Sr.](/ancestors/benjamin-berry-henderson-sr/)
-- [Census — Thomas Berry](/ancestors/census-thomas-berry/)
 - [Eleanor Reed](/ancestors/eleanor-reed/)
 - [Emma G. Berry (NC)](/ancestors/emma-g-berry-nc/)
 - [George Rufus Berry (NC)](/ancestors/george-rufus-berry-nc/)

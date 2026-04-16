@@ -91,7 +91,7 @@ Only one child is known.
 ---
 
 <div class="tree-link">
-  <a href="/family-lines/henry-berry-family-tree/">
+  <a href="/ancestors/henry-berry-tree/">
     View the Henry Berry Family Tree
     <span class="tree-link-sub">Mary Ashley Berry King and the King family descendants in Orange County</span>
   </a>

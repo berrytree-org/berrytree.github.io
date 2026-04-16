@@ -30,8 +30,6 @@ content_source: "wp-export"
 
 - [Aldridge Berry Farquhar Waggoner Connection](/ancestors/aldridge-berry-farquhar-connection/)
 
-- [Alexander Howard Berry Story](/ancestors/ahberrystory/)
-
 - [Alexander Howard Berry Tx](/ancestors/alexhberrytx/)
 
 - [Alfred Walter Berry Ala](/ancestors/alfordwberryala/)
@@ -142,8 +140,6 @@ content_source: "wp-export"
 - [Emma G. Berry NC](/ancestors/emmagberrync/)
 
 - [Enoch M. Berry page](/ancestors/enoch-m-berry-page/)
-
-- [Enoch Meril Berry Ga](/ancestors/enochmerilberryga/)
 
 - [Ernest John Berry Tenn](/ancestors/ernesttenn/)
 

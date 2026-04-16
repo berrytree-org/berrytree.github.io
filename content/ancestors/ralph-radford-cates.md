@@ -65,7 +65,7 @@ Ralph Radford Cates married Esta Era Collins on the 7th of October 1920 in Marsh
 ---
 
 <div class="tree-link">
-  <a href="/family-lines/david-j-berry-family-tree/">
+  <a href="/ancestors/david-j-berry-sr/">
     View the Full David J. Berry Family Line
     <span class="tree-link-sub">Descendants of David J. Berry and Mary Blalock through the Cates branch</span>
   </a>

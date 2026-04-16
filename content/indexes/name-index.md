@@ -64,7 +64,7 @@ content_source: "wp-export"
 
 - [Berry, George W.](/ancestors/john-berry-tx/) **Gen 5** George and Susanna Aldridge Berry's son Ala & Rusk Tx
 
-- [Berry, Henry](/family-lines/henry-berry-family-tree/)  **Gen 3**** **unmarried** **son of Robert and Elizabeth Cate Berry NC
+- [Berry, Henry](/ancestors/henry-berry-tree/)  **Gen 3**** **unmarried** **son of Robert and Elizabeth Cate Berry NC
 
 - [Berry, Henry Bradford.](/ancestors/henrybradfordberryala/) **Gen 5** son of Thompson P. Berry Ala.
 
