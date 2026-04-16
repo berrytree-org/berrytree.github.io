@@ -1,11 +1,13 @@
 ---
 title: "Henry Berry Tree"
+aliases:
+  - /family-lines/henry-berry-family-tree/
 weight: 50
 bookToc: true
 families: ["Henry Berry"]
 periods: ["Revolutionary"]
 tags: ["family-tree", "orange-county-nc"]
-last_updated: 2026-04-07
+last_updated: 2026-04-16
 qc_owner:
 qc_webteam:
 qc_genealogy:

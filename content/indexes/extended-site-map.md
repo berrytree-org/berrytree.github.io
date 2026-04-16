@@ -90,18 +90,6 @@ From Henry Waggoners 1784 Will  (Orange County NC Deed Book A Page 231 ) Henry a
 	Henry Waggoner Jr.
 ...
 
-### **[Alexander Howard Berry Story](/ancestors/ahberrystory/)**
-A. H. Berry's Travels
-A Story about Alexander Howard Berry and most of his family
-Ancestors:
-Generation 1 Robert and Mary Williamson Berry
-
-Generation 2 Robert and Elizabeth Cate Berry
-
-Generation 3 Robert Jr and Mary Camp Berry
-
-Generation...
-
 ### **[Alexander Howard Berry Tx](/ancestors/alexhberrytx/)**
 Alexander Howard Berry, son of John Berry and Mary Howell Berry
 Ancestors:
@@ -505,18 +493,6 @@ Ancestors:
 	Generation Robert and Marry Williamson Berry, Princess Anne County, Georgia.
 	Generation Robert and Elizabeth Cate Berry, Orange County, North Carolina.
 	Generation David J. and Mary Blalock Berry, Orange County, North Carolina, and...
-
-### **[Enoch Meril Berry Ga](/ancestors/enochmerilberryga/)**
-Enoch Meril Berry, Son Of Robert Riley And Martha "Mattie"Stark Berry
-ANCESTORS
-
-Generation 1 Robert and Elizabeth Cate Berry
-
-Generation 2 David J. and Mary Blalock Berry
-
-Generation 3 Robert and Elizabeth Everitt Berry Berry
-
-Generation 4...
 
 ### **[Ernest John Berry Tenn](/ancestors/ernesttenn/)**
 Ernest John Berry , son of Ode and Emma Lee Stuits Berry

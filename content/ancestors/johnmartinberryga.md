@@ -72,7 +72,7 @@ To be Researched
 ---
 
 <div class="tree-link">
-  <a href="/family-lines/david-j-berry-family-tree/">
+  <a href="/ancestors/david-j-berry-sr/">
     View the Full David J. Berry Family Line
     <span class="tree-link-sub">Descendants of David J. and Mary Blalock Berry</span>
   </a>

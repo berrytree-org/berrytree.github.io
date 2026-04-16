@@ -64,7 +64,7 @@ Mary Ellen Anderson was born on March 13th 1832 and died on August 29th 1919 in 
 ---
 
 <div class="tree-link">
-  <a href="/family-lines/david-j-berry-family-tree/">
+  <a href="/ancestors/david-j-berry-sr/">
     View the Full David J. Berry Family Line
     <span class="tree-link-sub">David J. and Mary Blalock Berry descendants</span>
   </a>

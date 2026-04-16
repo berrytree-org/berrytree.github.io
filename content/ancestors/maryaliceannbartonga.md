@@ -56,7 +56,7 @@ Mary died on January 3rd 1899 in Rusk County Texas. <!-- UNSOURCED --> Joshua Cr
 ---
 
 <div class="tree-link">
-  <a href="/family-lines/david-j-berry-family-tree/">
+  <a href="/ancestors/david-j-berry-sr/">
     View the Full David J. Berry Family Line
     <span class="tree-link-sub">David J. and Mary Blalock Berry descendants</span>
   </a>

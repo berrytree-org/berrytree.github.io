@@ -55,7 +55,7 @@ Source Citation: Year: 1860; Census Place: Northen District, Clayton, Georgia; R
 ---
 
 <div class="tree-link">
-  <a href="/family-lines/david-j-berry-family-tree/">
+  <a href="/ancestors/david-j-berry-sr/">
     View the Full David J. Berry Family Line
     <span class="tree-link-sub">David J. Berry descendants</span>
   </a>
