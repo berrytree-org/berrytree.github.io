@@ -285,6 +285,7 @@
     text-align: center;
     font-style: italic;
   }
+
 </style>
 
 <div class="wheel-page">
@@ -664,6 +665,51 @@ function renderEvents() {
   `).join('');
 }
 
+// ── Dark-mode SVG color swap ──────────────────────────────────────
+const WHEEL_COLORS = {
+  light: {
+    outerFill: '#2a1a0a', outerStroke: '#8a6a2a',
+    innerStroke: '#6a4a1a', hubFill: '#3a2a0a', hubStroke: '#c8a84b',
+    spokeStroke: '#6a4a1a', boltFill: '#c8a84b',
+    namesFill: '#c8a84b', dateFill: '#8a6a2a', labelFill: '#f0e8d0'
+  },
+  dark: {
+    outerFill: '#1a2e1a', outerStroke: '#c8a84b',
+    innerStroke: '#4a6a4a', hubFill: '#0e1a0e', hubStroke: '#c8a84b',
+    spokeStroke: '#4a6a4a', boltFill: '#c8a84b',
+    namesFill: '#c8a84b', dateFill: '#8faf6f', labelFill: '#f0e8d0'
+  }
+};
+
+function applyWheelTheme() {
+  const theme = document.documentElement.getAttribute('data-theme') || 'light';
+  const c = WHEEL_COLORS[theme] || WHEEL_COLORS.light;
+  const svg = document.getElementById('wheelGroup');
+  if (!svg) return;
+  const circles = svg.querySelectorAll('circle');
+  // outer ring (r=148)
+  if (circles[0]) { circles[0].setAttribute('fill', c.outerFill); circles[0].setAttribute('stroke', c.outerStroke); }
+  // inner ring (r=120)
+  if (circles[1]) { circles[1].setAttribute('stroke', c.innerStroke); }
+  // hub (r=38)
+  if (circles[2]) { circles[2].setAttribute('fill', c.hubFill); circles[2].setAttribute('stroke', c.hubStroke); }
+  // bolts (r=5)
+  for (let i = 3; i < circles.length; i++) { circles[i].setAttribute('fill', c.boltFill); }
+  // spokes
+  svg.querySelectorAll('line').forEach(l => l.setAttribute('stroke', c.spokeStroke));
+  // hub text
+  const texts = svg.querySelectorAll(':scope > text');
+  if (texts[0]) texts[0].setAttribute('fill', c.namesFill);
+  if (texts[1]) texts[1].setAttribute('fill', c.namesFill);
+  if (texts[2]) texts[2].setAttribute('fill', c.dateFill);
+  // century labels
+  svg.querySelectorAll('.century-label').forEach(t => t.setAttribute('fill', c.labelFill));
+}
+
+// Watch for theme toggle
+const themeObserver = new MutationObserver(() => applyWheelTheme());
+themeObserver.observe(document.documentElement, { attributes: true, attributeFilter: ['data-theme'] });
+
 // ── Init: open on 1700s ────────────────────────────────────────────
 currentRotation = SNAP_ANGLES[1];
 setWheelAngle(currentRotation);
@@ -671,5 +717,6 @@ selectedCentury = CENTURIES[1];
 centLabel.textContent = `— ${selectedCentury.label} —`;
 buildDecadeNav();
 renderEvents();
+applyWheelTheme();
 </script>
 {{ end }}
