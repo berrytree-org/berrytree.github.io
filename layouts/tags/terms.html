@@ -1,0 +1,435 @@
+{{ define "main" }}
+{{/* Browse by Topic — Production
+     Web Team: Kate (JS/interaction), Terry (QA), Vincent (visual design)
+     Supervised by: Lila
+     Promoted from browse-test 2026-04-17
+*/}}
+<article class="markdown book-article">
+<div class="browse-redesign">
+
+  {{/* ── Header ── */}}
+  <div class="browse-header">
+    <h1 class="browse-title">Browse by Topic</h1>
+    <p class="browse-subtitle">Records, Locations, and Historical Periods</p>
+    <p class="browse-intro">
+      Explore the site by topic. Find census records, land grants, military service, and more, organized by the type of content and the places where the Berry family lived.
+    </p>
+  </div>
+
+  {{/* ── Records & Documents ── */}}
+  {{ $records := slice
+    (dict "name" "Biography"        "tag" "biography"      "icon" "quill"    "desc" "Life stories and family narratives")
+    (dict "name" "Census"           "tag" "census"          "icon" "scroll"   "desc" "Census records and full transcriptions")
+    (dict "name" "Cemetery"         "tag" "cemetery"        "icon" "stone"    "desc" "Burial sites and grave markers")
+    (dict "name" "Book Chapter"     "tag" "book-chapter"    "icon" "book"     "desc" "Chapters from Our Berrys in Frontier America")
+    (dict "name" "Military"         "tag" "military"        "icon" "shield"   "desc" "Military service and pension records")
+    (dict "name" "Deed"             "tag" "deed"            "icon" "deed"     "desc" "Property deeds and transfers")
+    (dict "name" "Family Tree"      "tag" "family-tree"     "icon" "tree"     "desc" "Descendant lines and family charts")
+    (dict "name" "Land Grant"       "tag" "land-grant"      "icon" "map"      "desc" "Colonial and frontier land grants")
+    (dict "name" "Marriage Bond"    "tag" "marriage-bond"    "icon" "rings"    "desc" "Marriage bonds and licenses")
+    (dict "name" "Index Page"       "tag" "index-page"      "icon" "index"    "desc" "Reference lists and finding aids")
+    (dict "name" "Will"             "tag" "will"            "icon" "seal"     "desc" "Last wills and estate records")
+    (dict "name" "Source List"      "tag" "source-list"     "icon" "index"    "desc" "Compiled source references")
+    (dict "name" "DNA"              "tag" "dna"             "icon" "dna"      "desc" "DNA research and results")
+    (dict "name" "Obituary"         "tag" "obituary"        "icon" "notice"   "desc" "Death notices and memorial tributes")
+    (dict "name" "Photograph"       "tag" "photograph"      "icon" "camera"   "desc" "Historical photographs")
+  }}
+
+  {{/* ── Locations ── */}}
+  {{ $locations := slice
+    (dict "name" "Orange County, NC" "tag" "orange-county-nc"    "desc" "The Berry homeland in North Carolina")
+    (dict "name" "Georgia"           "tag" "georgia"             "desc" "Berry families in Georgia")
+    (dict "name" "Alabama"           "tag" "alabama"             "desc" "Berry families in Alabama")
+    (dict "name" "Tennessee"         "tag" "tennessee"           "desc" "Berry families in Tennessee")
+    (dict "name" "Texas"             "tag" "texas"               "desc" "Berry families in Texas")
+    (dict "name" "Prince Anne Co, VA" "tag" "prince-anne-county-va" "desc" "The Virginia origins")
+    (dict "name" "Ohio"              "tag" "ohio"                "desc" "Berry families in Ohio")
+    (dict "name" "Kentucky"          "tag" "kentucky"            "desc" "Berry families in Kentucky")
+    (dict "name" "Iowa"              "tag" "iowa"                "desc" "Berry families in Iowa")
+  }}
+
+  {{/* ── Records Section ── */}}
+  <div class="browse-section">
+    <div class="browse-section-header">
+      <img class="browse-section-icon-img section-records" src="/images/browse-topics/section-records.png" alt="Records">
+      <div>
+        <h2 class="browse-section-title">Records &amp; Documents</h2>
+        <p class="browse-section-desc">Primary sources, narratives, and research materials</p>
+      </div>
+    </div>
+    <div class="browse-cards">
+      {{ range $records }}
+        {{ $tax := index $.Site.Taxonomies.tags .tag }}
+        {{ if $tax }}
+        {{ $sketches := dict "biography" true "cemetery" true "orange-county-nc" true "census" true "military" true "deed" true "land-grant" true "marriage-bond" true "georgia" true "book-chapter" true "family-tree" true "index-page" true "will" true "source-list" true "dna" true "obituary" true "photograph" true "alabama" true "tennessee" true "texas" true "prince-anne-county-va" true "ohio" true "kentucky" true "iowa" true }}
+        {{ $hasSk := index $sketches .tag }}
+        <a href="/tags/{{ .tag }}/" class="browse-card"{{ if $hasSk }} data-has-sketch style="--card-bg-img: url('/images/browse-topics/{{ .tag }}.png'); --card-bg-img-dark: url('/images/browse-topics/{{ .tag }}-dark.png')"{{ end }}>
+          <div class="browse-card-top">
+            <span class="browse-card-badge">{{ len $tax }}</span>
+          </div>
+          <span class="browse-card-name">{{ .name }}</span>
+          <span class="browse-card-desc">{{ .desc }}</span>
+        </a>
+        {{ end }}
+      {{ end }}
+    </div>
+  </div>
+
+  {{/* ── Locations Section ── */}}
+  <div class="browse-section">
+    <div class="browse-section-header">
+      <img class="browse-section-icon-img section-locations" src="/images/browse-topics/section-locations.png" alt="Locations">
+      <div>
+        <h2 class="browse-section-title">Locations</h2>
+        <p class="browse-section-desc">Where the Berry family lived, from colonial Virginia to the western frontier</p>
+      </div>
+    </div>
+    <div class="browse-cards browse-cards--locations">
+      {{ range $locations }}
+        {{ $tax := index $.Site.Taxonomies.tags .tag }}
+        {{ if $tax }}
+        {{ $sketches := dict "biography" true "cemetery" true "orange-county-nc" true "census" true "military" true "deed" true "land-grant" true "marriage-bond" true "georgia" true "book-chapter" true "family-tree" true "index-page" true "will" true "source-list" true "dna" true "obituary" true "photograph" true "alabama" true "tennessee" true "texas" true "prince-anne-county-va" true "ohio" true "kentucky" true "iowa" true }}
+        {{ $hasSk := index $sketches .tag }}
+        <a href="/tags/{{ .tag }}/" class="browse-card browse-card--location"{{ if $hasSk }} data-has-sketch style="--card-bg-img: url('/images/browse-topics/{{ .tag }}.png'); --card-bg-img-dark: url('/images/browse-topics/{{ .tag }}-dark.png')"{{ end }}>
+          <div class="browse-card-top">
+            <span class="browse-card-badge">{{ len $tax }}</span>
+          </div>
+          <span class="browse-card-name">{{ .name }}</span>
+          <span class="browse-card-desc">{{ .desc }}</span>
+        </a>
+        {{ end }}
+      {{ end }}
+    </div>
+  </div>
+
+  {{/* ── Historical Periods ── */}}
+  {{ $periods := slice
+    (dict "name" "Colonial"          "key" "colonial"           "slug" "colonial"          "desc" "Virginia origins and the colonial era")
+    (dict "name" "Revolutionary"     "key" "revolutionary"      "slug" "revolutionary"     "desc" "Independence and the birth of a nation")
+    (dict "name" "Early Settlement"  "key" "early settlement"   "slug" "early-settlement"  "desc" "Westward expansion and frontier life")
+    (dict "name" "Antebellum"        "key" "antebellum"         "slug" "antebellum"        "desc" "The plantation South before the war")
+    (dict "name" "Civil War"         "key" "civil war"          "slug" "civil-war"         "desc" "Conflict that divided a nation and families")
+    (dict "name" "Reconstruction"    "key" "reconstruction"     "slug" "reconstruction"    "desc" "Rebuilding in the post-war South")
+    (dict "name" "Modern"            "key" "modern"             "slug" "modern"            "desc" "The twentieth century and beyond")
+  }}
+
+  <div class="browse-section">
+    <div class="browse-section-header">
+      <img class="browse-section-icon-img section-periods" src="/images/browse-topics/section-periods.png" alt="Historical Periods">
+      <div>
+        <h2 class="browse-section-title">Historical Periods</h2>
+        <p class="browse-section-desc">Colonial through Modern, explore the Berry family story by era</p>
+      </div>
+    </div>
+    <div class="browse-cards browse-cards--periods">
+      {{ range $periods }}
+        {{ $tax := index $.Site.Taxonomies.periods .key }}
+        {{ if $tax }}
+        {{ $pSketches := dict "colonial" true "revolutionary" true "early-settlement" true "antebellum" true "civil-war" true "reconstruction" true "modern" true }}
+        {{ $hasSk := index $pSketches .slug }}
+        <a href="/periods/{{ .slug }}/" class="browse-card browse-card--period"{{ if $hasSk }} data-has-sketch style="--card-bg-img: url('/images/browse-topics/{{ .slug }}.png'); --card-bg-img-dark: url('/images/browse-topics/{{ .slug }}-dark.png')"{{ end }}>
+          <div class="browse-card-top">
+            <span class="browse-card-badge">{{ len $tax }}</span>
+          </div>
+          <span class="browse-card-name">{{ .name }}</span>
+          <span class="browse-card-desc">{{ .desc }}</span>
+        </a>
+        {{ end }}
+      {{ end }}
+    </div>
+  </div>
+
+  {{/* ── Explore Link ── */}}
+  <div class="browse-explore-link">
+    <a href="/explore/">
+      Looking for something specific? Try <strong>Explore the Site</strong> for full search and filtering &rarr;
+    </a>
+  </div>
+
+  <div class="browse-footer">
+    berrytree.org &mdash; Robert &amp; Elizabeth Cate Berry &mdash; Orange County, NC
+  </div>
+
+</div>
+</article>
+
+<style>
+/* ================================================================
+   Browse by Topic — Production
+   Authors: Kate (interaction), Vincent (visual), Terry (QA)
+   Promoted from browse-test 2026-04-17
+   ================================================================ */
+
+.browse-redesign {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 0 1rem 3rem;
+}
+
+/* ── Header ── */
+.browse-header {
+  text-align: center;
+  margin-bottom: 2.5rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid var(--bt-border-soft);
+}
+
+.browse-title {
+  font-family: 'Cinzel', 'Lora', Georgia, serif;
+  font-size: clamp(1.6rem, 4vw, 2.2rem);
+  color: var(--bt-text-heading);
+  margin-bottom: 0.3rem;
+  letter-spacing: 0.04em;
+  border-bottom: none;
+  padding-bottom: 0;
+}
+
+.browse-subtitle {
+  font-family: 'Cinzel', serif;
+  font-size: clamp(0.85rem, 2vw, 1rem);
+  color: var(--bt-link);
+  letter-spacing: 0.06em;
+  margin-bottom: 1rem;
+  font-style: italic;
+}
+
+.browse-intro {
+  font-size: 0.95rem;
+  line-height: 1.7;
+  color: var(--bt-text-secondary);
+  max-width: 38rem;
+  margin: 0 auto;
+}
+
+/* ── Section Headers ── */
+.browse-section {
+  margin-bottom: 2.5rem;
+}
+
+.browse-section-header {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  margin-bottom: 1.25rem;
+  padding-bottom: 0.75rem;
+  border-bottom: 2px solid var(--bt-border-strong);
+}
+
+.browse-section-icon-img {
+  width: 52px;
+  height: 52px;
+  flex-shrink: 0;
+  object-fit: contain;
+  opacity: 1;
+}
+
+.browse-section-title {
+  font-family: 'Cinzel', serif;
+  font-size: 1.2rem;
+  color: var(--bt-text-heading);
+  letter-spacing: 0.04em;
+  margin: 0;
+  border-bottom: none;
+  padding-bottom: 0;
+}
+
+.browse-section-desc {
+  font-size: 0.85rem;
+  color: var(--bt-text-caption);
+  margin: 0.15rem 0 0;
+  line-height: 1.4;
+}
+
+/* ── Card Grid ── */
+.browse-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 14px;
+}
+
+.browse-cards--locations {
+  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+}
+
+/* ── Individual Cards ── */
+.browse-card {
+  display: flex;
+  flex-direction: column;
+  padding: 1.1rem 1rem 1rem;
+  background: var(--bt-card-bg);
+  border: 1px solid var(--bt-border-soft);
+  border-radius: 8px;
+  text-decoration: none;
+  color: inherit;
+  transition: box-shadow 0.25s ease, transform 0.2s ease, border-color 0.2s ease;
+  position: relative;
+  overflow: hidden;
+}
+
+/* Translucent pencil sketch background — only on cards with images */
+.browse-card[data-has-sketch]::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background-image: var(--card-bg-img);
+  background-size: 55%;
+  background-position: bottom right;
+  background-repeat: no-repeat;
+  opacity: 0.55;
+  pointer-events: none;
+  transition: opacity 0.3s ease;
+}
+
+.browse-card[data-has-sketch]:hover::before {
+  opacity: 0.75;
+}
+
+/* Dark mode: swap to white line art variants */
+[data-theme="dark"] .browse-card[data-has-sketch]::before {
+  background-image: var(--card-bg-img-dark);
+}
+
+/* Dark mode: gold section icons */
+[data-theme="dark"] .browse-section-icon-img.section-records {
+  content: url('/images/browse-topics/section-records-dark.png');
+}
+
+[data-theme="dark"] .browse-section-icon-img.section-locations {
+  content: url('/images/browse-topics/section-locations-dark.png');
+}
+
+[data-theme="dark"] .browse-section-icon-img.section-periods {
+  content: url('/images/browse-topics/section-periods-dark.png');
+}
+
+.browse-card:hover {
+  box-shadow: 0 4px 16px rgba(45, 74, 45, 0.12);
+  transform: translateY(-3px);
+  border-color: var(--bt-border-strong);
+  text-decoration: none;
+  color: inherit;
+}
+
+.browse-card:focus-visible {
+  outline: 2px solid var(--bt-border-strong);
+  outline-offset: 2px;
+}
+
+.browse-card-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 0.6rem;
+}
+
+.browse-card-badge {
+  font-family: 'Source Serif 4', serif;
+  font-size: 0.72rem;
+  font-weight: 600;
+  background: var(--bt-badge-bg);
+  color: var(--bt-badge-text);
+  padding: 2px 8px;
+  border-radius: 10px;
+  letter-spacing: 0.03em;
+}
+
+.browse-card-name {
+  font-family: 'Cinzel', serif;
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: var(--bt-text-heading);
+  letter-spacing: 0.02em;
+  margin-bottom: 0.25rem;
+}
+
+.browse-card-desc {
+  font-size: 0.78rem;
+  color: var(--bt-text-caption);
+  line-height: 1.45;
+}
+
+/* Period card variant */
+.browse-card--period {
+  border-left: 3px solid var(--bt-text-caption, #888);
+}
+
+.browse-card--period:hover {
+  border-left-color: var(--bt-link);
+}
+
+.browse-cards--periods {
+  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+}
+
+/* Location card variant */
+.browse-card--location {
+  border-left: 3px solid var(--bt-accent-gold, #b8860b);
+}
+
+.browse-card--location:hover {
+  border-left-color: var(--bt-link);
+}
+
+/* ── Explore cross-link ── */
+.browse-explore-link {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.browse-explore-link a {
+  font-size: 0.88rem;
+  color: var(--bt-text-secondary);
+  text-decoration: none;
+  transition: color 0.2s;
+}
+
+.browse-explore-link a:hover {
+  color: var(--bt-link);
+}
+
+.browse-explore-link strong {
+  color: var(--bt-link);
+}
+
+/* ── Footer ── */
+.browse-footer {
+  margin-top: 2.5rem;
+  text-align: center;
+  font-size: 0.75rem;
+  color: var(--bt-text-caption);
+  font-style: italic;
+  padding-top: 1rem;
+  border-top: 1px solid var(--bt-border-soft);
+}
+
+/* ── Responsive ── */
+@media (max-width: 600px) {
+  .browse-cards {
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+  }
+
+  .browse-cards--locations {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .browse-section-header {
+    flex-wrap: wrap;
+  }
+
+  .browse-card {
+    padding: 0.9rem 0.75rem;
+  }
+
+  .browse-card-desc {
+    display: none;
+  }
+}
+
+@media (max-width: 380px) {
+  .browse-cards {
+    grid-template-columns: 1fr;
+  }
+}
+</style>
+{{ end }}
