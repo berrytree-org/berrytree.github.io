@@ -1,0 +1,374 @@
+{{ define "menu-container" }}{{ end }}
+{{ define "toc-container" }}{{ end }}
+{{ define "main" }}
+{{/* Changelog — Internal reference page for Aaron
+     Data from data/changelog.json
+     Author: Lila
+*/}}
+<style>
+  .changelog-page {
+    font-family: 'Source Serif 4', Georgia, serif;
+    background: var(--bt-page-bg, rgba(245, 240, 232, 0.95));
+    color: var(--bt-text-primary, #4a3728);
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 24px 20px;
+    width: 100%;
+  }
+
+  .changelog-page h1 {
+    font-family: 'Cinzel', serif;
+    font-size: clamp(1.4rem, 3vw, 1.8rem);
+    color: var(--bt-text-heading, #2d4a2d);
+    text-align: center;
+    margin-bottom: 6px;
+    letter-spacing: 0.05em;
+  }
+
+  .changelog-tagline {
+    font-family: 'Cinzel', serif;
+    font-size: clamp(0.9rem, 2vw, 1.05rem);
+    font-style: italic;
+    color: var(--bt-text-caption, #5a7a3a);
+    letter-spacing: 0.04em;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+
+  /* ── Stats Bar ── */
+  .changelog-stats {
+    display: flex;
+    gap: 16px;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 100%;
+    max-width: 50rem;
+    margin-bottom: 20px;
+  }
+
+  .changelog-stat {
+    text-align: center;
+    padding: 8px 16px;
+    background: var(--bt-card-bg, #fffdf8);
+    border: 1px solid var(--bt-border-soft, #c8bda8);
+    border-radius: 8px;
+    min-width: 80px;
+  }
+
+  .changelog-stat-number {
+    font-family: 'Cinzel', serif;
+    font-size: 1.4rem;
+    font-weight: 700;
+    color: var(--bt-text-heading, #2d4a2d);
+    display: block;
+  }
+
+  .changelog-stat-label {
+    font-size: 0.72rem;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--bt-text-caption, #8a7a6a);
+  }
+
+  /* ── Filter Pills ── */
+  .changelog-filters {
+    display: flex;
+    gap: 6px;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    max-width: 50rem;
+    margin-bottom: 20px;
+  }
+
+  .changelog-filter-label {
+    font-size: 0.78rem;
+    color: var(--bt-text-caption, #8a7a6a);
+    margin-right: 2px;
+  }
+
+  .changelog-pill {
+    padding: 5px 14px;
+    border: 1px solid var(--bt-border-soft, #c8bda8);
+    border-radius: 20px;
+    font-family: 'Source Serif 4', Georgia, serif;
+    font-size: 0.8rem;
+    cursor: pointer;
+    background: var(--bt-card-bg, #fffdf8);
+    color: var(--bt-text-primary, #4a3728);
+    transition: all 0.15s;
+    white-space: nowrap;
+  }
+
+  .changelog-pill:hover {
+    border-color: var(--bt-border-accent, #2d4a2d);
+    color: var(--bt-text-heading, #2d4a2d);
+  }
+
+  .changelog-pill.active {
+    background: var(--bt-badge-bg, #2d4a2d);
+    color: var(--bt-badge-text, #f8f5ef);
+    border-color: var(--bt-badge-bg, #2d4a2d);
+  }
+
+  /* ── Category colors ── */
+  .cat-feature     { border-left: 4px solid #2d6a2d; }
+  .cat-content     { border-left: 4px solid #4a7ab5; }
+  .cat-bugfix      { border-left: 4px solid #b54a4a; }
+  .cat-design      { border-left: 4px solid #8a5ab5; }
+  .cat-qc          { border-left: 4px solid #b58a2d; }
+  .cat-tooling     { border-left: 4px solid #2d8a8a; }
+  .cat-infrastructure { border-left: 4px solid #6b6b6b; }
+
+  /* ── Date groups ── */
+  .changelog-date-group {
+    width: 100%;
+    max-width: 50rem;
+    margin-bottom: 24px;
+  }
+
+  .changelog-date-heading {
+    font-family: 'Cinzel', serif;
+    font-size: 1rem;
+    color: var(--bt-text-heading, #2d4a2d);
+    letter-spacing: 0.04em;
+    padding-bottom: 6px;
+    border-bottom: 2px solid var(--bt-border-soft, #c8bda8);
+    margin-bottom: 10px;
+  }
+
+  .changelog-date-count {
+    font-family: 'Source Serif 4', Georgia, serif;
+    font-size: 0.78rem;
+    font-weight: 400;
+    color: var(--bt-text-caption, #8a7a6a);
+    margin-left: 8px;
+  }
+
+  /* ── Entry cards ── */
+  .changelog-entry {
+    background: var(--bt-card-bg, #fffdf8);
+    border: 1px solid var(--bt-border-soft, #c8bda8);
+    border-radius: 6px;
+    padding: 10px 14px;
+    margin-bottom: 8px;
+    transition: box-shadow 0.15s;
+  }
+
+  .changelog-entry:hover {
+    box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+  }
+
+  .changelog-entry-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 4px;
+  }
+
+  .changelog-category-badge {
+    font-family: 'Cinzel', serif;
+    font-size: 0.65rem;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    padding: 2px 10px;
+    border-radius: 10px;
+    font-weight: 600;
+  }
+
+  .badge-feature     { background: #e8f5e8; color: #1a4a1a; }
+  .badge-content     { background: #e8eff5; color: #2a4a6a; }
+  .badge-bugfix      { background: #f5e8e8; color: #6a2a2a; }
+  .badge-design      { background: #f0e8f5; color: #4a2a6a; }
+  .badge-qc          { background: #f5f0e0; color: #5a4a1a; }
+  .badge-tooling     { background: #e0f0f0; color: #1a4a4a; }
+  .badge-infrastructure { background: #efefef; color: #3a3a3a; }
+
+  .changelog-scope {
+    font-size: 0.78rem;
+    color: var(--bt-text-caption, #8a7a6a);
+    font-style: italic;
+  }
+
+  .changelog-summary {
+    font-size: 0.92rem;
+    line-height: 1.5;
+    color: var(--bt-text-primary, #4a3728);
+  }
+
+  /* ── Results count ── */
+  .changelog-results {
+    width: 100%;
+    max-width: 50rem;
+    font-size: 0.82rem;
+    color: var(--bt-text-caption, #8a7a6a);
+    margin-bottom: 14px;
+    text-align: right;
+  }
+
+  /* ── Dark mode ── */
+  [data-theme="dark"] .changelog-page {
+    background: var(--bt-page-bg, #1a1a1a);
+    color: var(--bt-text-primary, #d4c8b8);
+  }
+  [data-theme="dark"] .changelog-page h1 { color: var(--bt-text-heading, #c8d8c8); }
+  [data-theme="dark"] .changelog-tagline { color: var(--bt-text-caption, #8aaa6a); }
+  [data-theme="dark"] .changelog-stat {
+    background: var(--bt-card-bg, #2a2a2a);
+    border-color: var(--bt-border-soft, #444);
+  }
+  [data-theme="dark"] .changelog-stat-number { color: var(--bt-text-heading, #c8d8c8); }
+  [data-theme="dark"] .changelog-entry {
+    background: var(--bt-card-bg, #2a2a2a);
+    border-color: var(--bt-border-soft, #444);
+  }
+  [data-theme="dark"] .changelog-entry:hover { box-shadow: 0 2px 8px rgba(0,0,0,0.3); }
+  [data-theme="dark"] .changelog-date-heading {
+    color: var(--bt-text-heading, #c8d8c8);
+    border-color: var(--bt-border-soft, #444);
+  }
+  [data-theme="dark"] .changelog-pill {
+    background: var(--bt-card-bg, #2a2a2a);
+    border-color: var(--bt-border-soft, #444);
+    color: var(--bt-text-primary, #d4c8b8);
+  }
+  [data-theme="dark"] .changelog-pill:hover {
+    border-color: var(--bt-border-accent, #6a9a6a);
+    color: var(--bt-text-heading, #c8d8c8);
+  }
+  [data-theme="dark"] .changelog-pill.active {
+    background: var(--bt-badge-bg, #3a6a3a);
+    color: #f0ede6;
+    border-color: var(--bt-badge-bg, #3a6a3a);
+  }
+  [data-theme="dark"] .badge-feature     { background: #1a3a1a; color: #a8d8a8; }
+  [data-theme="dark"] .badge-content     { background: #1a2a3a; color: #a8c8e8; }
+  [data-theme="dark"] .badge-bugfix      { background: #3a1a1a; color: #e8a8a8; }
+  [data-theme="dark"] .badge-design      { background: #2a1a3a; color: #c8a8e8; }
+  [data-theme="dark"] .badge-qc          { background: #3a2a0a; color: #e8d8a8; }
+  [data-theme="dark"] .badge-tooling     { background: #0a2a2a; color: #a8d8d8; }
+  [data-theme="dark"] .badge-infrastructure { background: #2a2a2a; color: #b8b8b8; }
+
+  /* ── Responsive ── */
+  @media (max-width: 600px) {
+    .changelog-entry-header { flex-direction: column; align-items: flex-start; gap: 4px; }
+    .changelog-stats { gap: 8px; }
+    .changelog-stat { min-width: 60px; padding: 6px 10px; }
+    .changelog-stat-number { font-size: 1.1rem; }
+  }
+</style>
+
+<div class="changelog-page">
+  <h1>Site Changelog</h1>
+  <div class="changelog-tagline">What we've built, fixed, and improved</div>
+
+  <!-- Stats bar (populated by JS) -->
+  <div class="changelog-stats" id="stats-bar"></div>
+
+  <!-- Filter pills -->
+  <div class="changelog-filters">
+    <span class="changelog-filter-label">Filter:</span>
+    <button class="changelog-pill active" data-filter="all" onclick="filterChangelog('all', this)">All</button>
+    <button class="changelog-pill" data-filter="Feature" onclick="filterChangelog('Feature', this)">Features</button>
+    <button class="changelog-pill" data-filter="Content" onclick="filterChangelog('Content', this)">Content</button>
+    <button class="changelog-pill" data-filter="Bug Fix" onclick="filterChangelog('Bug Fix', this)">Bug Fixes</button>
+    <button class="changelog-pill" data-filter="Design" onclick="filterChangelog('Design', this)">Design</button>
+    <button class="changelog-pill" data-filter="QC" onclick="filterChangelog('QC', this)">QC</button>
+    <button class="changelog-pill" data-filter="Tooling" onclick="filterChangelog('Tooling', this)">Tooling</button>
+    <button class="changelog-pill" data-filter="Infrastructure" onclick="filterChangelog('Infrastructure', this)">Infrastructure</button>
+  </div>
+
+  <!-- Results count -->
+  <div class="changelog-results" id="results-count"></div>
+
+  <!-- Entries container -->
+  <div id="changelog-entries" style="width: 100%; max-width: 50rem;"></div>
+</div>
+
+<script>
+(function() {
+  const data = {{ $.Site.Data.changelog | jsonify | safeJS }};
+  let activeFilter = 'all';
+
+  function catClass(cat) {
+    return 'cat-' + cat.toLowerCase().replace(/\s+/g, '');
+  }
+
+  function badgeClass(cat) {
+    return 'badge-' + cat.toLowerCase().replace(/\s+/g, '');
+  }
+
+  function formatDate(dateStr) {
+    const d = new Date(dateStr + 'T12:00:00');
+    return d.toLocaleDateString('en-US', { weekday: 'short', month: 'short', day: 'numeric', year: 'numeric' });
+  }
+
+  function buildStats(items) {
+    const cats = {};
+    items.forEach(function(e) {
+      cats[e.category] = (cats[e.category] || 0) + 1;
+    });
+    const dates = [...new Set(items.map(function(e) { return e.date; }))];
+    const bar = document.getElementById('stats-bar');
+    bar.innerHTML =
+      '<div class="changelog-stat"><span class="changelog-stat-number">' + items.length + '</span><span class="changelog-stat-label">Total Items</span></div>' +
+      '<div class="changelog-stat"><span class="changelog-stat-number">' + dates.length + '</span><span class="changelog-stat-label">Active Days</span></div>' +
+      '<div class="changelog-stat"><span class="changelog-stat-number">' + (cats['Feature'] || 0) + '</span><span class="changelog-stat-label">Features</span></div>' +
+      '<div class="changelog-stat"><span class="changelog-stat-number">' + (cats['Content'] || 0) + '</span><span class="changelog-stat-label">Content</span></div>' +
+      '<div class="changelog-stat"><span class="changelog-stat-number">' + (cats['Bug Fix'] || 0) + '</span><span class="changelog-stat-label">Bug Fixes</span></div>' +
+      '<div class="changelog-stat"><span class="changelog-stat-number">' + (cats['QC'] || 0) + '</span><span class="changelog-stat-label">QC</span></div>';
+  }
+
+  function render() {
+    var filtered = activeFilter === 'all' ? data : data.filter(function(e) { return e.category === activeFilter; });
+
+    buildStats(filtered);
+
+    document.getElementById('results-count').textContent = 'Showing ' + filtered.length + ' of ' + data.length + ' items';
+
+    // Group by date (reverse chronological)
+    var groups = {};
+    var dateOrder = [];
+    filtered.forEach(function(e) {
+      if (!groups[e.date]) {
+        groups[e.date] = [];
+        dateOrder.push(e.date);
+      }
+      groups[e.date].push(e);
+    });
+    dateOrder.sort(function(a, b) { return b.localeCompare(a); });
+
+    var html = '';
+    dateOrder.forEach(function(date) {
+      var items = groups[date];
+      html += '<div class="changelog-date-group">';
+      html += '<div class="changelog-date-heading">' + formatDate(date) + '<span class="changelog-date-count">' + items.length + ' item' + (items.length !== 1 ? 's' : '') + '</span></div>';
+      items.forEach(function(entry) {
+        html += '<div class="changelog-entry ' + catClass(entry.category) + '">';
+        html += '<div class="changelog-entry-header">';
+        html += '<span class="changelog-category-badge ' + badgeClass(entry.category) + '">' + entry.category + '</span>';
+        html += '<span class="changelog-scope">' + entry.scope + '</span>';
+        html += '</div>';
+        html += '<div class="changelog-summary">' + entry.summary + '</div>';
+        html += '</div>';
+      });
+      html += '</div>';
+    });
+
+    document.getElementById('changelog-entries').innerHTML = html;
+  }
+
+  window.filterChangelog = function(cat, btn) {
+    activeFilter = cat;
+    document.querySelectorAll('.changelog-pill').forEach(function(p) { p.classList.remove('active'); });
+    btn.classList.add('active');
+    render();
+  };
+
+  render();
+})();
+</script>
+{{ end }}

@@ -1,0 +1,386 @@
+[
+  {
+    "date": "2026-04-06",
+    "category": "Infrastructure",
+    "summary": "Homepage landing page redesign — full-bleed hero + restored sidebar + responsive hamburger nav",
+    "scope": "4 files"
+  },
+  {
+    "date": "2026-04-06",
+    "category": "Tooling",
+    "summary": "WP-to-Markdown conversion tools built (wp-to-markdown.py + fix-nested-images.py + img-float shortcode)",
+    "scope": "5 files"
+  },
+  {
+    "date": "2026-04-06",
+    "category": "Content",
+    "summary": "Batch 1 WP conversion — 10 ancestor/document pages cleaned (~9200 HTML artifacts removed)",
+    "scope": "10 pages"
+  },
+  {
+    "date": "2026-04-06",
+    "category": "Content",
+    "summary": "Batch 2A WP conversion — 15 pages cleaned (~43400 HTML artifacts removed)",
+    "scope": "15 pages"
+  },
+  {
+    "date": "2026-04-06",
+    "category": "Design",
+    "summary": "Design criteria established — three page types defined + info-banner standard + bold heading convention",
+    "scope": "Project/design/design_criteria.md"
+  },
+  {
+    "date": "2026-04-06",
+    "category": "Design",
+    "summary": "Design criteria applied retroactively to all 25 converted pages (banners + gen chains + book refs)",
+    "scope": "25 pages"
+  },
+  {
+    "date": "2026-04-06",
+    "category": "QC",
+    "summary": "Full team migration review — 30 suggestions triaged across 4 priority tiers",
+    "scope": "All 25 converted pages"
+  },
+  {
+    "date": "2026-04-06",
+    "category": "Content",
+    "summary": "Stub retirement — 11 WordPress leftover pages archived",
+    "scope": "11 pages"
+  },
+  {
+    "date": "2026-04-06",
+    "category": "Content",
+    "summary": "Duplicate merges — 4 duplicate pages merged into canonical versions with aliases",
+    "scope": "8 pages"
+  },
+  {
+    "date": "2026-04-06",
+    "category": "Content",
+    "summary": "Stubs folded — 12 stub pages merged into parent ancestor pages",
+    "scope": "12 pages"
+  },
+  {
+    "date": "2026-04-06",
+    "category": "Content",
+    "summary": "Census pages formatted — 9 census companion pages given info-banners and cleanup",
+    "scope": "9 pages"
+  },
+  {
+    "date": "2026-04-06",
+    "category": "Feature",
+    "summary": "img-float shortcode extended with size parameter for max-width control",
+    "scope": "1 shortcode"
+  },
+  {
+    "date": "2026-04-06",
+    "category": "Content",
+    "summary": "110 ancestor pages converted through WP-to-Markdown pipeline",
+    "scope": "110 pages"
+  },
+  {
+    "date": "2026-04-06",
+    "category": "Design",
+    "summary": "76 pages upgraded to full design criteria format (ancestor-chain + profile + breadcrumb)",
+    "scope": "76 pages"
+  },
+  {
+    "date": "2026-04-06",
+    "category": "Feature",
+    "summary": "Info-banner shortcode created — reusable forest/gold banner replacing inline HTML",
+    "scope": "1 shortcode + 12 pages"
+  },
+  {
+    "date": "2026-04-06",
+    "category": "Feature",
+    "summary": "Ancestor-chain shortcode extended from Gen 3-only to Gen 3-9",
+    "scope": "1 shortcode"
+  },
+  {
+    "date": "2026-04-07",
+    "category": "Content",
+    "summary": "WP-to-Markdown conversion COMPLETE — all 229 triaged + 27 remaining pages converted",
+    "scope": "256 pages"
+  },
+  {
+    "date": "2026-04-07",
+    "category": "Content",
+    "summary": "14 biographical documents moved from /documents/ to /ancestors/ with aliases",
+    "scope": "14 pages"
+  },
+  {
+    "date": "2026-04-07",
+    "category": "Content",
+    "summary": "4 document page merges (william-berry + williamchildren + joshua-berry-oc + richardwilliamsonpac)",
+    "scope": "8 pages"
+  },
+  {
+    "date": "2026-04-07",
+    "category": "Content",
+    "summary": "12 Phase 2 GEN prototypes archived to Project/archived/prototypes/",
+    "scope": "12 pages"
+  },
+  {
+    "date": "2026-04-07",
+    "category": "Content",
+    "summary": "21 marriage bonds added to timeline_events.json (308 total)",
+    "scope": "1 data file"
+  },
+  {
+    "date": "2026-04-07",
+    "category": "Tooling",
+    "summary": "CSV inventory tool created (update-csv-inventory.py) — 254-page site inventory",
+    "scope": "2 files"
+  },
+  {
+    "date": "2026-04-07",
+    "category": "Feature",
+    "summary": "Taxonomy system — 3 taxonomies (families/periods/tags) across all 254 pages + custom landing pages",
+    "scope": "254 pages + 4 templates"
+  },
+  {
+    "date": "2026-04-07",
+    "category": "Feature",
+    "summary": "Homepage updated — Pictures card restored + Browse by Topic card added (8-card grid)",
+    "scope": "1 file"
+  },
+  {
+    "date": "2026-04-07",
+    "category": "Feature",
+    "summary": "Lightbox — pure CSS/JS full-resolution image viewer + 30 image upgrades from our family archive",
+    "scope": "22 pages + 30 images"
+  },
+  {
+    "date": "2026-04-07",
+    "category": "Infrastructure",
+    "summary": "Project folder reorganization — 10 folders codified + naming conventions + filing enforcement directive",
+    "scope": "CLAUDE.md + ~20 files moved"
+  },
+  {
+    "date": "2026-04-07",
+    "category": "Content",
+    "summary": "Children list markup cleanup — 9 pages with broken HTML lists converted to proper div structure",
+    "scope": "9 pages"
+  },
+  {
+    "date": "2026-04-08",
+    "category": "Feature",
+    "summary": "Mobile polish — gold hamburger icon + DNA collapsible sections + explorer toggles",
+    "scope": "3 commits"
+  },
+  {
+    "date": "2026-04-08",
+    "category": "Design",
+    "summary": "About Us portraits — 200px floated thumbnails with text wrap and click-to-enlarge",
+    "scope": "1 page"
+  },
+  {
+    "date": "2026-04-08",
+    "category": "QC",
+    "summary": "QC system overhaul — three-lane review (owner/webteam/genealogy) + front matter migration across 254 pages",
+    "scope": "254 pages + 2 tools"
+  },
+  {
+    "date": "2026-04-08",
+    "category": "Tooling",
+    "summary": "QC report script (qc-report.py) — status reports by lane/section/structural issues",
+    "scope": "1 tool"
+  },
+  {
+    "date": "2026-04-08",
+    "category": "Tooling",
+    "summary": "Front matter updater (update-frontmatter.py) — generic YAML/TOML field operations with dry-run",
+    "scope": "1 tool"
+  },
+  {
+    "date": "2026-04-08",
+    "category": "QC",
+    "summary": "Genealogy source review — 194 pages reviewed; 72 passed; 122 failures logged to CSV",
+    "scope": "194 pages"
+  },
+  {
+    "date": "2026-04-08",
+    "category": "Bug Fix",
+    "summary": "PLAN list items — Schema.org breadcrumbs + alt text + CSS fallback font + external link fixes",
+    "scope": "11 files"
+  },
+  {
+    "date": "2026-04-08",
+    "category": "Content",
+    "summary": "Elizabeth Berry page expanded from 65 to ~90 lines with bastardy bond + will + descendants",
+    "scope": "1 page"
+  },
+  {
+    "date": "2026-04-08",
+    "category": "Content",
+    "summary": "Citation sweep — 9 LOW-severity pages reviewed; 4 resolved; 1 partial",
+    "scope": "9 pages"
+  },
+  {
+    "date": "2026-04-08",
+    "category": "Bug Fix",
+    "summary": "Click-through audit — 3 broken links fixed + 1 dead placeholder removed",
+    "scope": "4 files"
+  },
+  {
+    "date": "2026-04-08",
+    "category": "Content",
+    "summary": "MEH cleanup — 5 .old backup files archived + 5 build artifacts deleted",
+    "scope": "10 files"
+  },
+  {
+    "date": "2026-04-08",
+    "category": "QC",
+    "summary": "PLAN list 24/24 complete (A5 Open Graph deferred)",
+    "scope": "All 24 items"
+  },
+  {
+    "date": "2026-04-08",
+    "category": "Feature",
+    "summary": "Light/dark theme toggle — lantern icons + CSS custom properties + taxonomy card dark mode fix",
+    "scope": "Site-wide"
+  },
+  {
+    "date": "2026-04-09",
+    "category": "Infrastructure",
+    "summary": "External sources freeze directive issued — all external dirs off limits without per-request permission",
+    "scope": "CLAUDE.md + memory"
+  },
+  {
+    "date": "2026-04-09",
+    "category": "Bug Fix",
+    "summary": "Gen 5 ancestor-chain fix — 9 pages had wrong GG-grandfather link corrected",
+    "scope": "9 pages + 2 deleted"
+  },
+  {
+    "date": "2026-04-09",
+    "category": "Content",
+    "summary": "Markdown whitespace cleanup — trailing spaces + broken links + genthree.md restructured",
+    "scope": "6 pages"
+  },
+  {
+    "date": "2026-04-09",
+    "category": "Bug Fix",
+    "summary": "Regex cleanup script regression caught — 6 dense-prose files reverted before commit",
+    "scope": "6 files reverted"
+  },
+  {
+    "date": "2026-04-11",
+    "category": "Tooling",
+    "summary": "Disposition tracker upgrade — word_count + QC + disposition columns added to CSV inventory tool",
+    "scope": "1 tool + 1 CSV"
+  },
+  {
+    "date": "2026-04-11",
+    "category": "Infrastructure",
+    "summary": "Ready Room established — Conference A renamed for all staff meetings",
+    "scope": "Memory"
+  },
+  {
+    "date": "2026-04-11",
+    "category": "Infrastructure",
+    "summary": "Joe's Java Shack reference doc synced and symlinked to canonical repo",
+    "scope": "1 symlink"
+  },
+  {
+    "date": "2026-04-16",
+    "category": "Feature",
+    "summary": "Tuple ID system — human-readable IDs (ANC-G3-DJB format) for all 252 pages",
+    "scope": "252 pages + 1 CSV"
+  },
+  {
+    "date": "2026-04-16",
+    "category": "Feature",
+    "summary": "SQLite + JSON pipeline — build-db.py: CSV to berrytree.db + data/site_pages.json",
+    "scope": "3 files"
+  },
+  {
+    "date": "2026-04-16",
+    "category": "Feature",
+    "summary": "Explore page — search + multi-select pills + cards/table views + print + dark mode",
+    "scope": "2 files"
+  },
+  {
+    "date": "2026-04-16",
+    "category": "Infrastructure",
+    "summary": "Git cleanup — 7 Project/ files untracked from repo index",
+    "scope": "7 files"
+  },
+  {
+    "date": "2026-04-16",
+    "category": "Infrastructure",
+    "summary": "README.md created (local-only; gitignored)",
+    "scope": "1 file"
+  },
+  {
+    "date": "2026-04-16",
+    "category": "Content",
+    "summary": "CSV merge pass — 5 pages archived + 4 keepers updated + 28 inbound links fixed",
+    "scope": "~33 files"
+  },
+  {
+    "date": "2026-04-16",
+    "category": "Design",
+    "summary": "GEN formatting applied to 2 pages (census-specific + full ancestor format)",
+    "scope": "2 pages"
+  },
+  {
+    "date": "2026-04-17",
+    "category": "Design",
+    "summary": "Browse by Topic redesign — 3-section layout + 68 pencil sketch watermark images + redirect",
+    "scope": "5 templates + 68 images"
+  },
+  {
+    "date": "2026-04-17",
+    "category": "Feature",
+    "summary": "Dark mode: Timelines (Wheel of Time) — full theme support + SVG wheel color swap via MutationObserver",
+    "scope": "2 files"
+  },
+  {
+    "date": "2026-04-17",
+    "category": "Feature",
+    "summary": "Dark mode: DNA Research Center — all 10+ component types themed",
+    "scope": "1 file (SCSS)"
+  },
+  {
+    "date": "2026-04-17",
+    "category": "Feature",
+    "summary": "Dark mode: Documents Explorer — cards + badges + filters + 9 type-specific border colors",
+    "scope": "1 file (SCSS)"
+  },
+  {
+    "date": "2026-04-17",
+    "category": "Feature",
+    "summary": "Dark mode: Gen-tree pages + all 43 taxonomy term pages — Hugo Book theme var overrides",
+    "scope": "1 file (SCSS) + 1 reference doc"
+  },
+  {
+    "date": "2026-04-17",
+    "category": "Bug Fix",
+    "summary": "Dark mode table fix — alternating row contrast site-wide via Hugo Book theme selector override",
+    "scope": "1 file (SCSS)"
+  },
+  {
+    "date": "2026-04-17",
+    "category": "Feature",
+    "summary": "Custom 404 page — trail sign image + hurricane lantern SVG + firefly animations + nav cards",
+    "scope": "3 files"
+  },
+  {
+    "date": "2026-04-17",
+    "category": "Content",
+    "summary": "Name Index archived — superseded by Explore page; all site references cleaned",
+    "scope": "6 files"
+  },
+  {
+    "date": "2026-04-17",
+    "category": "Tooling",
+    "summary": "Custom slash commands created (/ready + /joes + /cleanup)",
+    "scope": "3 command files"
+  },
+  {
+    "date": "2026-04-17",
+    "category": "Infrastructure",
+    "summary": "Two sources of truth codified — content CSV (252) + generated-pages.md (48) in CLAUDE.md",
+    "scope": "CLAUDE.md + 1 new doc"
+  }
+]
