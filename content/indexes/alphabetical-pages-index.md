@@ -202,7 +202,6 @@ content_source: "new"
 
 ### **N**
 
-- [Name Index](/indexes/name-index/)
 - [Nancy Berry (Joshua's Daughter)](/ancestors/nancy-berry-spinster-joshuas-daughter/)
 - [Nathaniel Arie Turley (GA)](/ancestors/nathanielarieturleyga/)
 

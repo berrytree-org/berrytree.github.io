@@ -84,13 +84,12 @@ content_source: "wp-export"
 - 11/2/2015 Working on the Name index pages and made a few changes on [Robert Pickle](/ancestors/robertpicklenc/) page
 - 10/29/2015 Added **[Alphabetical Name Index](/indexes/alphabetical/)** search button to home page
 - 10/29/2015 Added **[By Family Line](/family-lines/)** search button to home page
-- 10/28/2015 Added names to Name Index  & Updated [Mary Berry's](/ancestors/maryberry/) (OC) page
-- 10/27/2015 finished work on [Robert Berry Jr.](/ancestors/robertberryjr/)page and added some more names to the [Name Index](/indexes/name-index/) page
+- 10/28/2015 Updated [Mary Berry's](/ancestors/maryberry/) (OC) page
+- 10/27/2015 finished work on [Robert Berry Jr.](/ancestors/robertberryjr/) page
 - 10/26/2015 Started work on  [Robert Berry Jr.](/ancestors/robertberryjr/) Page
 - 10/26/2015 Updated [David J Berry](/ancestors/david-j-berry-sr/) Page, son of Robert & Elizabeth Cate Berry
-- 10/25/2015 Adding Robert and Elizabeth Cate Berry's grandchildren to the[Name Index Page](/indexes/name-index/)
+- 10/25/2015 Adding Robert and Elizabeth Cate Berry's grandchildren
 - 10/25/2015 Working on [Catherine Berry](/ancestors/catherineberrync/)Pickle's page Robert Berry Junior's daughter.
-- 10/23/2005) Added  Name Index Page to the Home Page and will add names to this page as time permits and they will also linked to the named persons page.
 - 10/23/2005 Updated[Robert Berry](/ancestors/robert-berry-joshuas-son-nc/) son of Joshua and Nancy Ellison Berry Page
 - 10/22/2015 Updated [Hannah Cate's Page](/ancestors/hannahcateberry/)
 - 10/21/2015 Added [Joshua Berry Jr.](/ancestors/joshua-jr-census/)Census Page

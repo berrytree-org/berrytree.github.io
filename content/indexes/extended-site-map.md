@@ -1339,11 +1339,6 @@ ANCESTORS
 	Generation  Robert and Elizabeth Cate Berry: Orange County, North Carolina.
 	Generation ...
 
-### **[Name Index](/indexes/name-index/)**
-
-
-This Page is under construction  and will never be  complete.  Names will be added alphabetically by surname as I rework berrytree web pages. Gen "X" denotes Generation of the individual starting with generation # 1 being Robert and Mary Wi...
-
 ### **[Nancy Berry Spinster Joshua's daughter](/ancestors/nancy-berry-spinster-joshuas-daughter/)**
 
 	Generation Robert and Mary Williamson Berry: Princess Anne County, Virginia
