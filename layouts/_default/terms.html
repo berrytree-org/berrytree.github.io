@@ -34,20 +34,6 @@
     {{ with $intro }}<p class="tax-terms-intro">{{ . }}</p>{{ end }}
   </div>
 
-  {{/* On the tags page, add a discovery link to Historical Periods */}}
-  {{ if eq $taxName "tags" }}
-  <div class="tax-discovery-banner">
-    <a href="/periods/" class="tax-discovery-link">
-      <span class="tax-discovery-icon">&#9202;</span>
-      <span class="tax-discovery-text">
-        <strong>Browse by Historical Period</strong>
-        <span>Colonial through Modern — explore the Berry family story by era</span>
-      </span>
-      <span class="tax-discovery-arrow">&rarr;</span>
-    </a>
-  </div>
-  {{ end }}
-
   {{/* Render term cards */}}
   <div class="tax-terms-grid{{ if eq $taxName "tags" }} tax-terms-grid--compact{{ end }}">
     {{ range .Pages }}
