@@ -3129,3 +3129,415 @@ hr {
 
   .wheel-footer { color: #4a6a4a; }
 }
+
+// =============================================================
+// DNA Research Center — Dark Mode
+// Owner: Lila
+// Light mode base styles live in layouts/dna/list.html.
+// Dark mode overrides here so they compile into book.min.css
+// alongside all other [data-theme="dark"] rules.
+// =============================================================
+
+[data-theme="dark"] {
+  .dna-page {
+    background: rgba(26, 46, 26, 0.95);
+    color: #f0e8d0;
+
+    h1 { color: #c8a84b; }
+  }
+
+  .dna-tagline { color: #8faf6f; }
+
+  .dna-intro { color: #c8b99a; }
+
+  // Section headers
+  .dna-section-header {
+    color: #c8a84b;
+    border-bottom-color: #4a6a4a;
+  }
+
+  // Educational primer & project info
+  .dna-primer {
+    background: rgba(30, 50, 30, 0.5);
+    border-color: #4a6a4a;
+    color: #c8b99a;
+
+    h3 { color: #c8a84b; }
+    .key-term { color: #daba5f; }
+    a { color: #c8a84b; &:hover { color: #daba5f; } }
+  }
+
+  // Family line cards
+  .family-line-card {
+    background: rgba(30, 50, 30, 0.7);
+    border-color: #4a6a4a;
+    border-left-color: #5a8a5a;
+
+    &:hover {
+      border-left-color: #8faf6f;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+    }
+
+    &.active {
+      background: rgba(45, 74, 45, 0.3);
+      border-left-color: #c8a84b;
+      border-color: #c8a84b;
+    }
+
+    &.not-tested {
+      border-left-color: #4a6a4a;
+      opacity: 0.5;
+    }
+
+    .fl-name { color: #c8a84b; }
+    .fl-spouse { color: #8faf6f; }
+    .fl-location { color: #c8b99a; }
+  }
+
+  .fl-status.tested {
+    background: rgba(90, 143, 90, 0.2);
+    color: #8faf6f;
+    border-color: rgba(90, 143, 90, 0.35);
+  }
+
+  .fl-status.not-tested {
+    background: rgba(74, 106, 74, 0.2);
+    color: #6a8a6a;
+    border-color: rgba(74, 106, 74, 0.3);
+  }
+
+  .family-lines-legend { color: #6a8a6a; }
+
+  // Filters & dropdowns
+  .dna-filter-group label { color: #c8a84b; }
+
+  .dna-filter-group select {
+    background: rgba(36, 52, 36, 0.8);
+    color: #f0e8d0;
+    border-color: #4a6a4a;
+
+    &:focus {
+      outline-color: #c8a84b;
+      border-color: #c8a84b;
+    }
+  }
+
+  // Participant table
+  .participant-table th {
+    color: #c8a84b;
+    border-bottom-color: #4a6a4a;
+    background: rgba(42, 62, 42, 0.5);
+  }
+
+  .participant-table td {
+    border-bottom-color: rgba(74, 106, 74, 0.4);
+  }
+
+  .participant-table tr:hover td {
+    background: rgba(90, 143, 90, 0.1);
+  }
+
+  .participant-table .p-name { color: #c8a84b; }
+  .participant-table .p-number { color: #6a8a6a; }
+
+  .p-line-badge {
+    background: rgba(200, 168, 75, 0.15);
+    color: #daba5f;
+    border-color: rgba(200, 168, 75, 0.3);
+  }
+
+  .expand-markers-btn {
+    border-color: #4a6a4a;
+    color: #c8a84b;
+
+    &:hover { background: rgba(90, 143, 90, 0.15); }
+  }
+
+  // Marker detail grid
+  .marker-detail-row td { border-bottom-color: #4a6a4a; }
+
+  .marker-grid { background: rgba(30, 50, 30, 0.5); }
+
+  .marker-cell {
+    border-color: #4a6a4a;
+    background: rgba(36, 52, 36, 0.6);
+
+    .m-pos { color: #6a8a6a; }
+    .m-val { color: #f0e8d0; }
+  }
+
+  .marker-cell.mutation {
+    background: rgba(192, 80, 0, 0.2);
+    border-color: #aa6a20;
+
+    .m-val { color: #e89040; }
+  }
+
+  .marker-cell.missing {
+    background: rgba(42, 62, 42, 0.3);
+    border-color: #3a5a3a;
+
+    .m-val { color: #4a6a4a; }
+  }
+
+  .marker-cell.match {
+    background: rgba(90, 143, 90, 0.2);
+    border-color: #5a8a5a;
+  }
+
+  .marker-cell.mismatch {
+    background: rgba(170, 90, 90, 0.2);
+    border-color: #aa5a5a;
+
+    .m-val { color: #e08080; }
+  }
+
+  // Compare tool
+  .compare-tool {
+    background: rgba(30, 50, 30, 0.5);
+    border-color: #4a6a4a;
+  }
+
+  .compare-instructions { color: #c8b99a; }
+
+  .compare-input-group label { color: #c8a84b; }
+
+  .compare-input-group textarea {
+    background: rgba(36, 52, 36, 0.8);
+    color: #f0e8d0;
+    border-color: #4a6a4a;
+
+    &:focus {
+      outline-color: #c8a84b;
+      border-color: #c8a84b;
+    }
+
+    &::placeholder { color: #6a8a6a; }
+  }
+
+  .compare-btn {
+    background: #c8a84b;
+    color: #1a2e1a;
+
+    &:hover { background: #daba5f; }
+
+    &.secondary {
+      background: none;
+      color: #c8a84b;
+      border-color: #c8a84b;
+
+      &:hover { background: rgba(200, 168, 75, 0.15); }
+    }
+  }
+
+  .compare-summary {
+    background: rgba(42, 62, 42, 0.4);
+    border-color: rgba(74, 106, 74, 0.4);
+
+    h4 { color: #c8a84b; }
+    .match-score { color: #c8a84b; }
+    .match-label { color: #c8b99a; }
+  }
+
+  .compare-line-result {
+    background: rgba(30, 50, 30, 0.7);
+    border-color: #4a6a4a;
+
+    .clr-name { color: #c8a84b; }
+  }
+
+  .distance-good { color: #5aaa8a; }
+  .distance-moderate { color: #daba5f; }
+  .distance-far { color: #aa5a5a; }
+
+  // Mystery card
+  .mystery-card {
+    background: rgba(30, 50, 30, 0.7);
+    border-color: #4a6a4a;
+    border-left-color: #daba5f;
+
+    h3 { color: #daba5f; }
+
+    .mystery-highlight {
+      background: rgba(200, 168, 75, 0.1);
+      border-color: rgba(200, 168, 75, 0.25);
+      color: #c8b99a;
+    }
+
+    .vital-label { color: #c8a84b; }
+    .vital-value { color: #c8b99a; }
+
+    .sons-table th {
+      border-bottom-color: #4a6a4a;
+      color: #c8a84b;
+    }
+
+    .sons-table td {
+      border-bottom-color: rgba(74, 106, 74, 0.3);
+      color: #c8b99a;
+    }
+  }
+
+  // Origins card
+  .origins-card {
+    background: rgba(30, 50, 30, 0.7);
+    border-color: #4a6a4a;
+    border-left-color: #5a8aaa;
+    color: #c8b99a;
+
+    .origins-stat { color: #c8a84b; }
+    .key-term { color: #daba5f; }
+  }
+
+  // Resource cards
+  .resource-card {
+    background: rgba(30, 50, 30, 0.7);
+    border-color: #4a6a4a;
+
+    &:hover {
+      border-color: #c8a84b;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+    }
+
+    .rc-name { color: #c8a84b; }
+    .rc-desc { color: #c8b99a; }
+  }
+
+  // Footer
+  .dna-footer { color: #4a6a4a; }
+}
+
+// =============================================================
+// Documents Explorer — Dark Mode
+// Owner: Lila
+// Light mode base styles live in layouts/documents/list.html.
+// Dark mode overrides here so they compile into book.min.css
+// alongside all other [data-theme="dark"] rules.
+// =============================================================
+
+[data-theme="dark"] {
+  .doc-explorer {
+    background: rgba(26, 46, 26, 0.95);
+    color: #f0e8d0;
+
+    h1 { color: #c8a84b; }
+  }
+
+  .doc-explorer-tagline { color: #8faf6f; }
+
+  .doc-explorer-intro { color: #c8b99a; }
+
+  // Filters & dropdowns
+  .doc-filter-group label { color: #c8a84b; }
+
+  .doc-filter-group select {
+    background: rgba(36, 52, 36, 0.8);
+    color: #f0e8d0;
+    border-color: #4a6a4a;
+
+    &:focus {
+      outline-color: #c8a84b;
+      border-color: #c8a84b;
+    }
+  }
+
+  // Type toggle pills
+  .doc-type-btn {
+    background: rgba(42, 62, 42, 0.4);
+    color: #c8b99a;
+    border-color: #4a6a4a;
+
+    &.active {
+      background: #c8a84b;
+      color: #1a2e1a;
+      border-color: #c8a84b;
+    }
+
+    &:hover {
+      background: rgba(90, 143, 90, 0.2);
+      color: #c8b99a;
+    }
+
+    &.active:hover {
+      background: #daba5f;
+      color: #1a2e1a;
+    }
+
+    .pill-count {
+      background: rgba(90, 143, 90, 0.2);
+      color: #8faf6f;
+    }
+
+    &.active .pill-count {
+      background: rgba(26, 46, 26, 0.3);
+      color: #1a2e1a;
+    }
+  }
+
+  // Results header
+  .doc-results-header { border-bottom-color: #4a6a4a; }
+
+  .doc-results-title { color: #c8a84b; }
+  .doc-results-count { color: #6a8a6a; }
+
+  .doc-results-sort {
+    background: rgba(36, 52, 36, 0.8);
+    color: #f0e8d0;
+    border-color: #4a6a4a;
+
+    &:focus {
+      outline-color: #c8a84b;
+      border-color: #c8a84b;
+    }
+  }
+
+  // Document cards
+  .doc-result-card {
+    background: rgba(30, 50, 30, 0.7);
+    border-color: #4a6a4a;
+
+    &:hover {
+      border-left-color: #c8a84b;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+    }
+  }
+
+  .doc-result-title { color: #c8a84b; }
+  .doc-result-date { color: #6a8a6a; }
+  .doc-result-summary { color: #c8b99a; }
+
+  // Category left-border colors — brighter for dark bg
+  .doc-result-card[data-type="will"]       { border-left-color: #ba7aba; }
+  .doc-result-card[data-type="deed"]       { border-left-color: #daba5f; }
+  .doc-result-card[data-type="estate"]     { border-left-color: #ba9a6a; }
+  .doc-result-card[data-type="census"]     { border-left-color: #5aaaaa; }
+  .doc-result-card[data-type="marriage"]   { border-left-color: #ba6a8a; }
+  .doc-result-card[data-type="military"]   { border-left-color: #8a6aaa; }
+  .doc-result-card[data-type="legal"]      { border-left-color: #6a8aaa; }
+  .doc-result-card[data-type="collection"] { border-left-color: #8aaa6a; }
+  .doc-result-card[data-type="document"]   { border-left-color: #8a8a8a; }
+
+  // Badges
+  .doc-badge-type   { background: rgba(90, 143, 90, 0.15); color: #8faf6f; border-color: rgba(90, 143, 90, 0.3); }
+  .doc-badge-family { background: rgba(200, 168, 75, 0.15); color: #daba5f; border-color: rgba(200, 168, 75, 0.3); }
+  .doc-badge-loc    { background: rgba(90, 130, 170, 0.15); color: #7aaaca; border-color: rgba(90, 130, 170, 0.3); }
+  .doc-badge-gen    { background: rgba(170, 90, 170, 0.15); color: #ba7aba; border-color: rgba(170, 90, 170, 0.3); }
+  .doc-badge-images { background: rgba(140, 140, 110, 0.15); color: #aaaaaa; border-color: rgba(140, 140, 110, 0.3); }
+
+  // No results
+  .doc-no-results { color: #6a8a6a; }
+
+  // Clear filters button
+  .doc-clear-filters {
+    border-color: #c8a84b;
+    color: #c8a84b;
+
+    &:hover {
+      background: #c8a84b;
+      color: #1a2e1a;
+    }
+  }
+
+  // Footer
+  .doc-explorer-footer { color: #4a6a4a; }
+}
