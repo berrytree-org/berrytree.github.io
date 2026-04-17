@@ -2999,3 +2999,133 @@ hr {
     height: 24px;
   }
 }
+
+// =============================================================
+// Timelines / Wheel of Time — Dark Mode
+// Owner: Lila
+// Light mode base styles live in layouts/timelines/list.html.
+// Dark mode overrides here so they compile into book.min.css
+// alongside all other [data-theme="dark"] rules.
+// =============================================================
+
+[data-theme="dark"] {
+  .wheel-page {
+    background: rgba(26, 46, 26, 0.95);
+    color: #f0e8d0;
+
+    h1 { color: #c8a84b; }
+  }
+
+  .wheel-subtitle { color: #8faf6f; }
+  .selected-century { color: #c8a84b; }
+
+  // Filters
+  .whl-filters label { color: #c8a84b; }
+
+  .whl-filters select {
+    background: rgba(36, 52, 36, 0.8);
+    color: #f0e8d0;
+    border-color: #4a6a4a;
+
+    &:focus {
+      outline-color: #c8a84b;
+      border-color: #c8a84b;
+    }
+  }
+
+  .cat-btn {
+    background: rgba(42, 62, 42, 0.4);
+    color: #c8b99a;
+    border-color: #4a6a4a;
+
+    &.active {
+      background: #c8a84b;
+      color: #1a2e1a;
+      border-color: #c8a84b;
+    }
+  }
+
+  // Decade nav
+  .decade-btn {
+    background: rgba(42, 62, 42, 0.4);
+    color: #c8b99a;
+    border-color: #4a6a4a;
+
+    &.active, &:hover {
+      background: #c8a84b;
+      color: #1a2e1a;
+      border-color: #c8a84b;
+    }
+  }
+
+  // Events
+  .events-header {
+    color: #c8a84b;
+    border-bottom-color: #4a6a4a;
+  }
+
+  .event-count { color: #8faf6f; }
+
+  .event-card {
+    background: rgba(30, 50, 30, 0.7);
+    border-color: #4a6a4a;
+    border-left-color: #4a6a4a;
+
+    &:hover { border-left-color: #c8a84b; }
+  }
+
+  .event-year { color: #c8a84b; }
+  .event-text { color: #c8b99a; }
+
+  // Category left-border colors — brighter for dark bg contrast
+  .event-card[data-cat="birth"]       { border-left-color: #5aaa8a; }
+  .event-card[data-cat="death"]       { border-left-color: #aa5a5a; }
+  .event-card[data-cat="marriage"]    { border-left-color: #aa8a5a; }
+  .event-card[data-cat="military"]    { border-left-color: #8a5aaa; }
+  .event-card[data-cat="land"]        { border-left-color: #8aaa5a; }
+  .event-card[data-cat="court"]       { border-left-color: #5a8aaa; }
+  .event-card[data-cat="historical"]  { border-left-color: #7a7a7a; }
+  .event-card[data-cat="migration"]   { border-left-color: #aaaa5a; }
+  .event-card[data-cat="census"]      { border-left-color: #5aaaaa; }
+  .event-card[data-cat="will_estate"] { border-left-color: #aa5aaa; }
+  .event-card[data-cat="church"]      { border-left-color: #d8b840; }
+
+  // Badge colors
+  .badge-line     { background: rgba(200, 168, 75, 0.15); color: #daba5f; border-color: rgba(200, 168, 75, 0.3); }
+  .badge-cat      { background: rgba(143, 175, 111, 0.15); color: #8faf6f; border-color: rgba(143, 175, 111, 0.3); }
+  .badge-uncertain{ background: rgba(200, 120, 60, 0.15); color: #d09060; border-color: rgba(200, 120, 60, 0.3); }
+
+  a.badge-ancestor {
+    background: rgba(143, 175, 111, 0.15);
+    color: #8faf6f !important;
+    border-color: rgba(143, 175, 111, 0.3);
+
+    &:hover {
+      background: rgba(143, 175, 111, 0.25);
+      color: #a0c080 !important;
+      border-color: rgba(143, 175, 111, 0.45);
+    }
+  }
+
+  span.badge-person {
+    background: rgba(200, 185, 154, 0.15);
+    color: #c8b99a;
+    border-color: rgba(200, 185, 154, 0.3);
+  }
+
+  a.badge-line {
+    color: #daba5f !important;
+
+    &:hover {
+      background: rgba(200, 168, 75, 0.25);
+      color: #daba5f !important;
+      border-color: rgba(200, 168, 75, 0.45);
+    }
+  }
+
+  .no-events { color: #8faf6f; }
+
+  .pointer { border-top-color: #c8a84b; }
+
+  .wheel-footer { color: #4a6a4a; }
+}
