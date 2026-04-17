@@ -322,8 +322,6 @@ content_source: "wp-export"
 
 - [Mattie Lee Strickland Ala](/ancestors/mattielstricklandala/)
 
-- [Name Index](/indexes/name-index/)
-
 - [Nancy Berry Spinster Joshua’s daughter](/ancestors/nancy-berry-spinster-joshuas-daughter/)
 
 - [Nathaniel Arie Turley Ga](/ancestors/nathanielarieturleyga/)
