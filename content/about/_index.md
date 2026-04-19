@@ -23,9 +23,9 @@ Ben's first self-published book, *Our Berrys in Frontier America*, was published
 
 ---
 
-## William Henderson
+## Aaron Henderson
 
-{{< img-float src="/images/william-henderson.jpg" alt="William Henderson" side="left" size="200px" link="/images/william-henderson.jpg" >}}
+{{< img-float src="/images/william-henderson.jpg" alt="Aaron Henderson" side="left" size="200px" link="/images/william-henderson.jpg" >}}
 
 Webmaster and fellow genealogical researcher. Ben and William worked together on the Berry research to further their knowledge of their shared heritage and contribute to the Berry family research effort.
 

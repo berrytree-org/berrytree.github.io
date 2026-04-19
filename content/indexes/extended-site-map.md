@@ -1793,7 +1793,7 @@ ANCESTORS:
 	Generation  David J. and Mary Blaylock Berry, Orange County, North Carolina. &a...
 
 ### **[Service W A Henderson NC](/ancestors/servicewahendersonnc/)**
-W. Aaron Henderson Served In The U S Navy From 1979 Until 1982
+Aaron Henderson Served In The U S Navy From 1979 Until 1982
 
 
 ANCESTORS
