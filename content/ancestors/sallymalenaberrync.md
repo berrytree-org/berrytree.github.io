@@ -93,7 +93,7 @@ This picture was taken at Mary Atkinson Girl Scout Camp in 1962. Jesse Clyde Hen
 
 {{< img-float src="/images/henderson-berry-gathering-girl-scout-camp.jpg" alt="Henderson Berry gathering at Girl Scout Camp 1962" >}}
 
-Left to Right back row: Jesse Clyde Henderson holding William Aaron Henderson, Thelma Guest (Bill) Henderson Uncle Bryant's wife, Dorothy Laryce (Pete) Henderson McDonald, Eugene James (Jimmy) McDonald Sr. Virginia Lee Henderson Carroll, Joe Watson Carroll, Enos Brown Henderson, Dorothy Alice Padgett Henderson, Patricia Sue Arnette Henderson, William Jennings Bryan Henderson, Benjamin Berry Henderson Sr. Pattie Alma McAdams Berry, William Eugene Berry.
+Left to Right back row: Jesse Clyde Henderson holding Aaron Henderson, Thelma Guest (Bill) Henderson Uncle Bryant's wife, Dorothy Laryce (Pete) Henderson McDonald, Eugene James (Jimmy) McDonald Sr. Virginia Lee Henderson Carroll, Joe Watson Carroll, Enos Brown Henderson, Dorothy Alice Padgett Henderson, Patricia Sue Arnette Henderson, William Jennings Bryan Henderson, Benjamin Berry Henderson Sr. Pattie Alma McAdams Berry, William Eugene Berry.
 
 Left to Right front row: Wanda Sue Carroll, Seated; Wiley P Berry Sr., Brenda Sue Henderson, Benjamin Berry Henderson Jr. Connie Jo Carroll, Eugene James (Mac) McDonald Jr., Enos Carl McDonald
 
