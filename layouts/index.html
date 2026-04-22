@@ -533,37 +533,25 @@
     line-height: 1.5;
   }
 
-  /* ── Homestead band ── */
-  .home-homestead {
-    position: relative;
-    height: 320px;
-    overflow: hidden;
+  /* ── Cabin sketch ── */
+  .home-cabin-sketch {
+    text-align: center;
+    padding: 40px 20px 20px;
+    background-color: #1a2e1a;
     transition: opacity 1s ease;
   }
 
-  .js-enabled .home-homestead {
+  .js-enabled .home-cabin-sketch {
     opacity: 0;
   }
 
-  .home-homestead.visible { opacity: 1; }
+  .home-cabin-sketch.visible { opacity: 1; }
 
-  .home-homestead__img {
+  .home-cabin-sketch__img {
+    max-width: 360px;
     width: 100%;
-    height: 100%;
-    object-fit: cover;
-    object-position: center 55%;
-    filter: brightness(0.85) sepia(0.10);
-  }
-
-  .home-homestead__caption {
-    position: absolute;
-    bottom: 18px;
-    right: 24px;
-    font-size: 0.75rem;
-    color: #c8a84b;
-    font-style: italic;
-    letter-spacing: 0.05em;
-    text-shadow: 0 1px 4px rgba(0,0,0,0.8);
+    height: auto;
+    background: #1a2e1a !important;
   }
 
   /* ── Footer ── */
@@ -825,12 +813,11 @@
   </div>
 </section>
 
-<!-- ── HOMESTEAD IMAGE BAND ── -->
-<div class="home-homestead js-scroll">
-  <img class="home-homestead__img"
-       src="/images/robert_berry_homestead.jpeg"
-       alt="Robert Berry homestead, Orange County, North Carolina">
-  <span class="home-homestead__caption">Robert Berry Homestead — Orange County, North Carolina</span>
+<!-- ── CABIN SKETCH ── -->
+<div class="home-cabin-sketch js-scroll">
+  <img class="home-cabin-sketch__img"
+       src="/images/cabin-sketch.png"
+       alt="">
 </div>
 
 <!-- ── FOOTER ── -->
