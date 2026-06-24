@@ -388,7 +388,7 @@ content_source: "wp-export"
 
 - [Robert Berry’s older Brother, Richard Berry](/ancestors/robert-berry-had-a-brother-named-richard-berry/)
 
-- [Robert C. Berry NC Ala](/ancestors/robertcberryalabama/)
+- [Robert C. Berry NC Ala](/ancestors/robert-c-berry-alabama/)
 
 - [Robert Clark Berry Ga](/ancestors/robertclarkberryga/)
 

@@ -1,7 +1,9 @@
 ---
-title: "Robert C. Berry NC Ala"
-description: "Robert C. Berry, son of William and Hannah Cate Berry, born 1805 in Orange County NC, settled in Fayette County Alabama."
+title: "Robert Cates Berry NC Ala"
+description: "Robert Cates Berry, son of William and Hannah Cate Berry, born 1805 in Orange County NC, settled in Fayette County Alabama."
 bookToc: true
+aliases:
+  - /ancestors/robertcberryalabama/
 families: ["William Berry"]
 periods: ["Early Settlement"]
 tags: ["biography", "alabama", "orange-county-nc", "census", "land-grant", "deed", "military", "cemetery"]
@@ -14,15 +16,15 @@ content_source: "wp-export"
 
 <div class="ancestor-page">
 
-{{< breadcrumb trail="Home|/|Ancestors|/ancestors/|Family Lines|/family-lines/|Robert C. Berry" >}}
+{{< breadcrumb trail="Home|/|Ancestors|/ancestors/|Family Lines|/family-lines/|Robert Cates Berry" >}}
 
-{{< ancestor-chain gen3="William Berry × Hannah Cate" loc3="Orange County, North Carolina" link3="/ancestors/william-berry/" gen4="Robert C. Berry × Sarah Chappell" loc4="Orange County, NC → Fayette County, Alabama" />}}
+{{< ancestor-chain gen3="William Berry × Hannah Cate" loc3="Orange County, North Carolina" link3="/ancestors/william-berry/" gen4="Robert Cates Berry × Sarah Chappell" loc4="Orange County, NC → Fayette County, Alabama" />}}
 
 {{< ancestor-profile
-  name="Robert C. Berry"
+  name="Robert Cates Berry"
   gen="4"
   born="April 14, 1805, Orange County, North Carolina"
-  died="Fayette County (Berry), Alabama"
+  died="May 7, 1881, Berry, Fayette County, Alabama"
   spouse="Sarah Chappell (married c. 1839, Fayette County, Alabama)"
   parents="William Berry and Hannah Cate Berry, Orange County, NC"
 >}}
@@ -70,9 +72,19 @@ All of Robert C. Berry and William Clarence Berry's children are much closer rel
 - **Montgrelia Catherine Berry** Born 1853 Fayette County Alabama died May 1929 Fayette Co., AL <!-- UNSOURCED -->
 - **George Washington Berry** 19 Sep 1857 Berry Station, Fayette Co., AL died 03 Apr 1944 Texhoma, Texas Co., Oklahoma, USA <!-- UNSOURCED -->
 
+> **Research note (2026):** The 1860 Fayette County, Alabama census (see Census Records below) confirms six children living in Robert and Sarah's household — Miles (~1840), William (~1844), Valutia (~1847), John (~1850), Catherine/Montgrelia (~1853), and George W. (~1858), all born in Alabama. Older children may already have left home before 1860.
+
 **Robert C. Berry was born in Orange County NC and died in Berry Alabama, Fayette County.**
 
 **July 20, 2008**
+
+---
+
+<h2 class="ancestor-section">Death and Burial</h2>
+
+Robert C. Berry died on May 7, 1881, in Berry, Fayette County, Alabama, at the age of 76. He is buried at **Pleasant Hill Cemetery** in Berry, Fayette County, Alabama.
+
+> Death date taken from his Find a Grave headstone record (Memorial #37827086) and the Find a Grave Index on FamilySearch. Earlier pages on this site give 1888 or "after 1889"; the 1881 headstone date is used here pending a primary death record.
 
 ---
 
@@ -81,11 +93,18 @@ All of Robert C. Berry and William Clarence Berry's children are much closer rel
 {{< census-summary summary="Robert C. Berry was listed on his mother's 1810 NC Census, then appeared in Fayette County, Alabama censuses from 1840 through 1880." >}}
 
 - **1810** — Robert C Berry was listed in his mother's 1810 NC Census. Hannah Cate Berry, [Sarah Cate Berry](/ancestors/sarah-cate/), and their children are listed on this census.
-- **1840** — Robert C. Berry listed in the 1840 Fayette County, Alabama Census
-- **1850** — Robert C. Berry listed in the 1850 Fayette County, Alabama Census
-- **1860** — Robert C. Berry listed in the 1860 Fayette County, Alabama Census
-- **1870** — Robert C. Berry listed in the 1870 Fayette County, Alabama Census
-- **1880** — Robert C. Berry listed in the 1880 Fayette County, Alabama Census
+- **1840** — Robert Berry listed as head of household, Fayette County, Alabama. (Source: FamilySearch image group 005154492, image 1126; ark:/61903/3:1:33SQ-GYY6-BF1)
+
+  {{< img-float src="/images/1840-census-robert-c-berry-fayette-al.jpg" alt="Robert Berry, 1840 Fayette County, Alabama Census" link="/images/1840-census-robert-c-berry-fayette-al.jpg" >}}
+  Robert Berry, 1840 Fayette County, Alabama Census (click to enlarge)
+
+- **1850** — Robert C. Berry listed in the 1850 Fayette County, Alabama Census <!-- UNSOURCED -->
+- **1860** — East District, Fayette County, AL, enumerated June 19, 1860 (page 41, dwelling 275 / family 277). Household: Robert Berry 54 (b. NC), Sarah 45 (b. TN), Miles 20, Wm 16, Valutia 13, John 10, Catherine M. 7, George W. 2 — all children born in Alabama; Robert held $800 in real estate. (Source: FamilySearch image ark:/61903/3:1:33SQ-GYBZ-9SX1; indexed entry ark:/61903/1:1:MHDG-F2H)
+
+  {{< img-float src="/images/1860-census-robert-c-berry-fayette-al.jpg" alt="Robert Berry household, 1860 Fayette County, Alabama Census" link="/images/1860-census-robert-c-berry-fayette-al.jpg" >}}
+  Robert Berry household, 1860 Fayette County, Alabama Census (click to enlarge)
+- **1870** — Township 16, Fayette County, AL (FamilySearch ark:/61903/1:1:MHK7-PM6)
+- **1880** — Holly Springs, Fayette County, AL (FamilySearch ark:/61903/1:1:M4JJ-HN7)
 
 ---
 

@@ -89,9 +89,9 @@ William Cate died after 1800 because the inventory of his estate sale was regist
   <div class="child-dates">Born October 17, 1803 — Died September 8, 1878</div>
 </li>
 
-<li class="child-entry">
-  <div class="child-name">2. Robert C. Berry</div>
-  <div class="child-dates">Born April 14, 1805 — Died 1888</div>
+<li class="child-entry has-page">
+  <div class="child-name"><a href="/ancestors/robert-c-berry-alabama/">2. Robert C. Berry</a></div>
+  <div class="child-dates">Born April 14, 1805 — Died May 7, 1881</div>
   <div class="child-details">Settled in Fayette County, Alabama. Married for the first time about 1838.</div>
 </li>
 

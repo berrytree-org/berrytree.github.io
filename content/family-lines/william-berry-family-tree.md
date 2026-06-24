@@ -260,7 +260,7 @@ content_source: "wp-export"
 
 ### Robert C. Berry Line
 
-<div class="gen gen-4"><span class="gen-label">Gen 4</span> Robert C. Berry 1805 - d: 1888 in Berry, Fayette County, Alabama</div>
+<div class="gen gen-4"><span class="gen-label">Gen 4</span> Robert C. Berry 1805 - d: 7 May 1881 in Berry, Fayette County, Alabama</div>
 <div class="gen gen-4 gen-spouse">+Sarah Chappell 1815 - d: 13 Mar 1883 in Fayett County Alabama</div>
 <div class="gen gen-5"><span class="gen-label">Gen 5</span> Miles Berry 1840 -</div>
 <div class="gen gen-5 gen-spouse">+Martha 1845 - m: 1866</div>

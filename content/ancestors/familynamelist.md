@@ -68,12 +68,12 @@ content_source: "wp-export"
 5. **Daniel R. Berry**
 
 **Robert C. & Sarah Chappell Berry's Children**
-1. **[Miles Berry](/ancestors/robertcberryalabama/)**
-2. **[William Berry](/ancestors/robertcberryalabama/)**
-3. **[Valutia Virginia Berry](/ancestors/robertcberryalabama/)**
-4. **[John Berry](/ancestors/robertcberryalabama/)**
-5. **[Catherine M. Berry](/ancestors/robertcberryalabama/)**
-6. **[George Washington Berry](/ancestors/robertcberryalabama/)**
+1. **[Miles Berry](/ancestors/robert-c-berry-alabama/)**
+2. **[William Berry](/ancestors/robert-c-berry-alabama/)**
+3. **[Valutia Virginia Berry](/ancestors/robert-c-berry-alabama/)**
+4. **[John Berry](/ancestors/robert-c-berry-alabama/)**
+5. **[Catherine M. Berry](/ancestors/robert-c-berry-alabama/)**
+6. **[George Washington Berry](/ancestors/robert-c-berry-alabama/)**
 
 **Joshua & Nancy Ellison Berry's Children**
 **4th Generation:**

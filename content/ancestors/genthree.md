@@ -84,7 +84,7 @@ content_source: "wp-export"
 **3. [William Berry](/ancestors/william-berry/)** - Born Orange County North Carolina about 1775 <!-- UNSOURCED -->
 3 Children with **Hannah Cate**
 ..4. William Clarence Berry - **born Orange NC Oct. 17, 1803 * Fayette Co. Ala 1836 to 1875 * died Burnet Co. Tx Sept. 8, 1878**
-..4. [Robert C. Berry](/ancestors/robertcberryalabama/) - **born Orange County North Carolina Apr 14, 1805 died Fayette County Alabama After 1889**
+..4. [Robert C. Berry](/ancestors/robert-c-berry-alabama/) - **born Orange County North Carolina Apr 14, 1805 died Berry, Fayette County, Alabama May 7, 1881**
 ..4. Thomas Person Berry - **born June 1, 1808 Orange County North Carolina died Apr 30, 1884 Orange County North Carolina**
 
 **3. [Henry Berry](/ancestors/henryberry/)** - Born Orange County North Carolina 1776 died Orange County North Carolina 1855

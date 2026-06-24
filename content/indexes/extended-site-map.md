@@ -1641,7 +1641,7 @@ Known Ancestors
 
 Robert Berry's older brother, Richard Berry married...
 
-### **[Robert C. Berry NC Ala](/ancestors/robertcberryalabama/)**
+### **[Robert C. Berry NC Ala](/ancestors/robert-c-berry-alabama/)**
  Son of William and Hannah Cate Berry
 ANCESTORS
 

@@ -272,7 +272,7 @@ Hannah Cate listed as head of household in this 1810 census.
 - Sarah Cate Berry — born: 27 Dec 1781, married 11 Aug 1800, died: Mar 1875
 - David II Berry — born: 1802, married 1826, died: 1882
 - William Clarence Berry — born: 17 Oct 1803, married 20 Nov 1826, died: 08 Sep 1878
-- Robert C. Berry — born: 14 Apr 1805, married 1839, died: 1888
+- Robert C. Berry — born: 14 Apr 1805, married 1839, died: 7 May 1881
 - Thomas Person Berry — born: 01 Jun 1808, married 28 Sep 1831, died: 30 Apr 1884
 - Eleanor Berry — born: 1801, married 1824, died: 1880
 
