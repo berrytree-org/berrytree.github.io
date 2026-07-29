@@ -87,7 +87,47 @@ Susan Berry's Estate, alongside George Berry's Estate. Fayette County, Alabama P
 
 Her son-in-law **James H. Brasher** administered her estate, as he had been guardian to her youngest son. She left **minor heirs**, and she left **land**.
 
-*Source: "Fayette, Alabama, United States records," images, FamilySearch, image 271 of 735, Minutes of Probate Court, March Term 1855, p. 570, "Susan Berry's Estate"; Alabama, Probate Court (Fayette County). FamilySearch image group number 007651696. ARK 3:1:3Q9M-C95W-47B7-C. Accessed 13 July 2026.*
+*Source: "Fayette, Alabama, United States records," images, FamilySearch (https://www.familysearch.org/ark:/61903/3:1:3Q9M-C95W-47B7-C?view=fullText : accessed 13 July 2026), image 271 of 735; Alabama. Probate Court (Fayette County). Image Group Number: 007651696. Entry: "Susan Berry's Estate," Minutes of Probate Court, March Term 1855, 12 March 1855. (The page number in the top corner of this image is illegible in the scan; cited by image.)*
+
+---
+
+<h2 class="ancestor-section">What She Left: The Final Settlement, 23 April 1855</h2>
+
+{{< img-float src="/images/susan-berry-estate-distribution-fayette-al-1855.jpg" alt="Susan Berry's Estate, final settlement and distribution, Fayette County Alabama Probate Court, 23 April 1855" link="/images/susan-berry-estate-distribution-fayette-al-1855.jpg" >}}
+Susan Berry's Estate, in final settlement, 23 April 1855. Fayette County, Alabama Probate Court, p. 559 (click to enlarge)
+
+On **23 April 1855**, the court settled the account of James H. Brasher, administrator, and ordered the estate distributed. Notice had been advertised in the **Fayette Banner**, *"a newspaper printed in the Town of Fayetteville."* **Elliott B. Jones** served as guardian ad litem for the minor heirs and raised no objection to the account.
+
+| | |
+|---|---|
+| Proceeds of her real estate | **$107.62** |
+| Less expenses of administration | **$40.00** |
+| **Left to divide among her children** | **$67.62** |
+
+Her six children each received **$11.27**. The court named them one by one.
+
+| Heir | Share | As the record describes them |
+|---|---|---|
+| **[John Berry](/ancestors/john-berry-tx/)** | $11.27 | "one of the heirs of said Estate" |
+| **Henry Berry** | $11.27 | "one of the heirs" |
+| **George Berry** | $11.27 | "one of the heirs" |
+| **James Berry** | $11.27 | "one of the heirs... or his legal representative" |
+| **Susan Ray** | $11.27 | "Consort of Moses Ray... **her** distributive share... pay over to the said **Susan Ray**" |
+| **James H. Brasher** | $11.27 | "**in right of his wife**... which he may retain in his hands" |
+
+A further **$15.00** went to the Judge of Probate in fees.
+
+**One small thing worth noticing.** In her husband's estate, four years earlier, her daughter Susan's share was decreed to *"Moses Ray, the husband of Susan"* and paid **to him**. In her mother's estate it is decreed as **her** distributive share and paid **to Susan Ray**. The phrase "Consort of Moses Ray" is only the clerk's standard way of identifying a married woman heir, the same formula he used twice on the facing page in an unrelated estate. But the change of payee between the two settlements is real.
+
+### The measure of it
+
+Her husband's estate paid each of these same six children **$1,087.94**.
+
+Hers paid each of them **$11.27**.
+
+**Her entire gross estate, $107.62, came to about one and a half percent of what his distributed.** That is not a comment on her. It is what a married woman owned in her own name in Alabama in 1855, and what she did own was land she had inherited from her own father and carried a thousand miles from Person County, North Carolina.
+
+*Sources: "Fayette, Alabama, United States records," images, FamilySearch (https://www.familysearch.org/ark:/61903/3:1:3Q9M-C95W-47BS-5?view=fullText : accessed 13 July 2026), image 295 of 735; Alabama. Probate Court (Fayette County). Image Group Number: 007651696. Entry: "Susan Berry's Estate, in final settlement," Minutes of Probate Court, April Term 1855, p. 559, 23 April 1855. Continued at "Fayette, Alabama, United States records," images, FamilySearch (https://www.familysearch.org/ark:/61903/3:1:3Q9M-C95W-47YR-B?view=fullText : accessed 13 July 2026), image 296 of 735; Alabama. Probate Court (Fayette County). Image Group Number: 007651696. pp. 560-561.*
 
 ---
 
@@ -146,9 +186,9 @@ Her son-in-law **James H. Brasher** administered her estate, as he had been guar
 - **Exact death date.** Bracketed to between the 1850 census and 12 March 1855. The **letters of administration** on her estate would tighten this considerably and have not been located.
 - **Burial.** No burial place is known. Most of Robert Berry Jr.'s family in Fayette County are associated with Pleasant Hill Methodist Church Cemetery in Berry, Alabama.
 - **The Fayette Banner.** Her settlement was ordered advertised there in March and April 1855. Surviving issues may carry the notice, and such notices frequently name the heirs.
-- **The 6 April 1855 settlement** itself, which should record the final distribution of her real estate proceeds and name who received them.
-- **Her exact birth date and place.** Only the year, 1792, derived from her census age. Person County, North Carolina is inferred from her father's residence.
-- **James Ray.** Guardian to her son George. His relationship to Moses Ray, who married her daughter Susan, is not established.
+- **Her birth year may be 1791 rather than 1792.** She was aged **58** in the 1850 census, and census day was **1 June 1850**. That places her birth between **2 June 1791 and 1 June 1792**. Both years remain open; "1792" should not be treated as fixed.
+- **Her exact birth date and place.** Person County, North Carolina is inferred from her father's residence, not documented.
+- **James Ray.** Guardian to her son George W. His relationship to Moses Ray, who married her daughter Susan, is not established.
 
 ---
 

@@ -92,7 +92,7 @@ Every heir was paid between April 1852 and January 1853, except **John Berry**, 
 
 Two clauses in the decree are worth noting. George and James, both minors, were to be paid *"or his legal representative."* And **Moses Ray could not write his name**; he signed the receipt with his mark, attested by the judge.
 
-*Source: "Fayette, Alabama, United States records," images, FamilySearch, image 16 of 735, Minutes of Probate Court, September Term 1851, pp. 2-3, "George Berry's Estate, in final settlement continued"; Alabama, Probate Court (Fayette County). FamilySearch image group number 007651696. ARK 3:1:3Q9M-C95W-471K-7. Accessed 13 July 2026.*
+*Source: "Fayette, Alabama, United States records," images, FamilySearch (https://www.familysearch.org/ark:/61903/3:1:3Q9M-C95W-471K-7?view=fullText : accessed 13 July 2026), image 16 of 735; Alabama. Probate Court (Fayette County). Image Group Number: 007651696. Entry: "George Berry's Estate, in final settlement continued," Minutes of Probate Court, September Term 1851, pp. 2-3.*
 
 > **Note on this citation.** Benjamin Berry Henderson Sr. transcribed this record by hand at the Fayette County courthouse and cited it in his research as "Fayette County Ala Probate Records p 263," without a repository reference. **The record has now been located in a digitized image, and his transcription of the heirs is confirmed in every particular, six for six.** His page number does not match this volume's pagination and may refer to a final record book or to a published abstract; that remains unreconciled.
 
@@ -107,7 +107,7 @@ Guardian's account, George Berry's Estate. Fayette County, Alabama Probate Court
 
 The account was examined, approved, and ordered filed and recorded. Because Brasher was already accounting as guardian for **1850**, the estate was in administration by that year at the latest, which supports a death before 1850.
 
-*Source: "Fayette, Alabama, United States records," images, FamilySearch, image 64 of 735, Minutes of Probate Court, September Term 1852, p. 98; Alabama, Probate Court (Fayette County). FamilySearch image group number 007651696. ARK 3:1:3Q9M-C95W-471Z-M. Accessed 13 July 2026.*
+*Source: "Fayette, Alabama, United States records," images, FamilySearch (https://www.familysearch.org/ark:/61903/3:1:3Q9M-C95W-471Z-M?view=fullText : accessed 13 July 2026), image 64 of 735; Alabama. Probate Court (Fayette County). Image Group Number: 007651696. Entry: "George Berry's Estate," Minutes of Probate Court, September Term 1852, p. 98, 9 September 1852.*
 
 ---
 
@@ -124,7 +124,51 @@ Two entries, side by side, both filed on 12 March 1855.
 
 Both matters were set for 6 April 1855, both were ordered advertised in the **Fayette Banner**, and **Elliott B. Jones** was appointed guardian ad litem.
 
-*Source: "Fayette, Alabama, United States records," images, FamilySearch, image 271 of 735, Minutes of Probate Court, March Term 1855, p. 570; Alabama, Probate Court (Fayette County). FamilySearch image group number 007651696. ARK 3:1:3Q9M-C95W-47B7-C. Accessed 13 July 2026.*
+*Source: "Fayette, Alabama, United States records," images, FamilySearch (https://www.familysearch.org/ark:/61903/3:1:3Q9M-C95W-47B7-C?view=fullText : accessed 13 July 2026), image 271 of 735; Alabama. Probate Court (Fayette County). Image Group Number: 007651696. Entries: "George Berry's Estate" and "Susan Berry's Estate," Minutes of Probate Court, March Term 1855, 12 March 1855. (The page number in the top corner of this image is illegible in the scan; cited by image.)*
+
+---
+
+### The Guardianship Closed, 23 April 1855
+
+{{< img-float src="/images/susan-berry-distribution-and-guardianship-fayette-al-1855.jpg" alt="George Berry's Estate, final settlement of the guardianship of James Berry, Fayette County Alabama Probate Court, 23 April 1855" link="/images/susan-berry-distribution-and-guardianship-fayette-al-1855.jpg" >}}
+Susan Berry's Estate distributed, and the guardianship of James Berry closed. Fayette County, Alabama Probate Court, 23 April 1855, pp. 560-561 (click to enlarge)
+
+On **23 April 1855**, James H. Brasher made final settlement of his guardianship over the youngest son, **James Berry**.
+
+| | |
+|---|---|
+| Brasher chargeable with | **$1,669.15** |
+| Less credits allowed | **$172.15** |
+| **Balance in his hands for the ward** | **$1,497.00** |
+
+James's inheritance from his father had been **$1,087.94** in June 1852. By April 1855 the fund had grown to $1,669.15, an increase of **$581.21 in under three years**. That is more than legal interest alone would produce, so Brasher was receiving something else on the boy's behalf. Rents, hires, we do not yet know.
+
+**And the guardian ad litem earned his appointment.** Elliott B. Jones, put there by the court to protect a nineteen-year-old's interest against his own brother-in-law, read the account and challenged one item:
+
+> *"the said Elliott B Jones, Guardian as aforesaid, **objected to the allowance of voucher No. 1 for thirty dollars, which objection was sustained by the court, and the allowance of said voucher rejected**"*
+
+Had that voucher passed, James would have received $1,467.00. Because it was rejected, he received **$1,497.00**. **Jones's objection was worth exactly thirty dollars to him.**
+
+James turned 21 on 3 August 1856, so the guardianship closed **fifteen months early**. He married Mary Elizabeth McClure in Rusk County, Texas that same year, in the county where his eldest brother John was living. A boy settling his accounts and leaving for Texas is a plausible reading of it, but it is not proven.
+
+*Source: "Fayette, Alabama, United States records," images, FamilySearch (https://www.familysearch.org/ark:/61903/3:1:3Q9M-C95W-47YR-B?view=fullText : accessed 13 July 2026), image 296 of 735; Alabama. Probate Court (Fayette County). Image Group Number: 007651696. Entries: "Susan Berry's Estate, in final settlement continued" and "George Berry's Estate, in final settlement with his Ward," Minutes of Probate Court, April Term 1855, pp. 560-561, 23 April 1855.*
+
+---
+
+### What Each Child Finally Received
+
+From their father, **$1,087.94** each. From their mother, **$11.27** each. **$1,099.21** apiece, from two estates settled four years apart.
+
+| Heir | From George, 1851 | Receipted | From [Susanna](/ancestors/susanna-aldridge-berry/), 1855 |
+|---|---|---|---|
+| **John Berry** | $1,087.94 | 24 Feb 1855, from Texas | $11.27 |
+| **Henry Berry** | $1,087.94 | retained; he was administrator | $11.27 |
+| **George W. Berry** | $1,087.94 | 7 Apr 1852, by James Ray, guardian | $11.27 |
+| **James Berry** | $1,087.94 | 23 Jun 1852, by J. H. Brasher, guardian | $11.27 |
+| **Susan Berry Ray** | $1,087.94 | 4 Jan 1853, by Moses Ray, his mark | $11.27, paid to her |
+| **Mary Berry Brasher** | $1,087.94 | 23 Jun 1852, by J. H. Brasher | $11.27, retained by him |
+
+George's estate distributed **$6,527.64**. Susanna's distributed **$67.62**.
 
 ---
 

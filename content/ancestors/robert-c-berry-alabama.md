@@ -84,7 +84,11 @@ All of Robert C. Berry and William Clarence Berry's children are much closer rel
 
 Robert C. Berry died on May 7, 1881, in Berry, Fayette County, Alabama, at the age of 76. He is buried at **Pleasant Hill Cemetery** in Berry, Fayette County, Alabama.
 
-> Death date taken from his Find a Grave headstone record (Memorial #37827086) and the Find a Grave Index on FamilySearch. Earlier pages on this site give 1888 or "after 1889"; the 1881 headstone date is used here pending a primary death record.
+> Death date taken from his **Find a Grave memorial** (Memorial #37827086) and the Find a Grave Index on FamilySearch. No photograph of a grave marker has been seen, so the date rests on the memorial record rather than on a marker we have examined. Earlier pages on this site give 1888 or "after 1889"; the 1881 date is used here pending a primary death record. A Geneanet-derived entry on FamilySearch gives **7 May 1880**, which is superseded here, and which was for a time carried in error on [David Middleton Berry's](/ancestors/davidmiddletonberryala/) page.
+
+> **Note on his birth date (July 2026).** The birth date of **14 April 1805 is unsourced**, and it is **shared with his first cousin [David Middleton Berry](/ancestors/davidmiddletonberryala/)**, son of Robert Berry Jr. *Our Berrys in Frontier America*, Chapter 18, gives both men a birth of 14 April 1805 on two consecutive lines of the same timeline, which looks like a copy slip but leaves it unclear which man owns the date. Robert C. is the likelier owner, having the stronger external support, but this is not settled.
+>
+> The 1860 census adds a further wrinkle. Enumerated 19 June 1860, it gives his age as **54**, which points to a birth between mid-1805 and mid-1806. Had he been born on 14 April 1805 he would have been **55** that day. Census ages are commonly off by a year, so this is a flag rather than a contradiction, but the date should not be treated as established.
 
 ---
 
