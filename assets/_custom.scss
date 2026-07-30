@@ -1157,6 +1157,28 @@ p > strong:first-child {
   }
 }
 
+// Size variants — make a plate sit smaller on the page (still click-through to
+// full size). We constrain the block-level .photo-feature WRAPPER, not the <img>:
+// a percentage max-width on the image is ambiguous inside the shrink-wrapped
+// inline-block <a>, whereas the block wrapper has a definite width. Doubling the
+// class (0,2,0) also keeps us clear of the theme's content-image rules.
+.photo-feature.photo-feature-half {
+  max-width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.photo-feature.photo-feature-quarter {
+  max-width: 25%;
+  margin-left: auto;
+  margin-right: auto;
+}
+@media (max-width: 40rem) {
+  .photo-feature.photo-feature-half,
+  .photo-feature.photo-feature-quarter {
+    max-width: 100%;   // don't shrink to a thumbnail on phones
+  }
+}
+
 // Photo gallery — multiple images side by side on desktop
 .photo-gallery {
   display: flex;
