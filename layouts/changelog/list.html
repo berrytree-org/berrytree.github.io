@@ -290,7 +290,7 @@
 
 <script>
 (function() {
-  const data = {{ $.Site.Data.changelog | jsonify | safeJS }};
+  const data = {{ hugo.Data.changelog | jsonify | safeJS }};
   let activeFilter = 'all';
 
   function catClass(cat) {

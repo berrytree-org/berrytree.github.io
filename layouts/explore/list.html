@@ -714,12 +714,12 @@
   // Data built at Hugo build time — only public fields, delete-disposition filtered out
   const DATA = {
     filters: {
-      types: {{ $.Site.Data.site_pages.filters.types | jsonify | safeJS }},
-      generations: {{ $.Site.Data.site_pages.filters.generations | jsonify | safeJS }},
-      family_lines: {{ $.Site.Data.site_pages.filters.family_lines | jsonify | safeJS }}
+      types: {{ hugo.Data.site_pages.filters.types | jsonify | safeJS }},
+      generations: {{ hugo.Data.site_pages.filters.generations | jsonify | safeJS }},
+      family_lines: {{ hugo.Data.site_pages.filters.family_lines | jsonify | safeJS }}
     },
     pages: [
-      {{- range $i, $p := $.Site.Data.site_pages.pages -}}
+      {{- range $i, $p := hugo.Data.site_pages.pages -}}
         {{- if ne $p.disposition "delete" -}}
           {{ if $i }},{{ end }}
           {"title":{{ $p.title | jsonify | safeJS }},"url":{{ $p.url | jsonify | safeJS }},"type":{{ $p.type | jsonify | safeJS }},"generation":{{ $p.generation | jsonify | safeJS }},"family_line":{{ $p.family_line | jsonify | safeJS }},"has_image":{{ $p.has_image }}{{ with $p.referers }},"referers":{{ . }}{{ end }}{{ with $p.outbound_links }},"outbound_links":{{ . }}{{ end }}}

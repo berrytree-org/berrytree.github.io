@@ -25,7 +25,7 @@ jobs:
         # Find SHA at: https://github.com/peaceiris/actions-hugo/releases
         uses: peaceiris/actions-hugo@v3
         with:
-          hugo-version: '0.155.2'  # pinned — do not change to 'latest'
+          hugo-version: '0.166.0'  # pinned — do not change to 'latest'
           extended: true           # required for SCSS processing (forest skin)
 
       - name: Build site
