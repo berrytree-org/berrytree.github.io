@@ -138,6 +138,13 @@ The fact that Robert and Elizabeth Cate Berry named their first daughter Mary in
 
 William Churton signed the survey and the chain carriers were Henry Gold and Thomas Cate. Thomas was the youngest brother of Elizabeth Cate, the future bride of young Robert Berry. Nobody knows exactly when Robert and Elizabeth were married, but from the ages of their children one can presume it was around 1759. The Granville Grant was issued on May 12, 1757, in Orange County, NC.
 
+### **The 1757 Granville Land Grant — Patent Book Record**
+
+  {{< img-float src="/images/patent-book-14-page-334-robert-berry.png" alt="Patent Book 14, page 334, Robert Berry land grant entry" >}}
+  Patent Book 14, page 334 — Grant No. 38, File No. 336. The Granville Grant to Robert Berry, dated 12 May 1757, in his own words: "Two hundred and Sixty acres of land in Orange County on both sides of Lick Creek, Beginning at a white Oak in Thomas Bradford's line, then Running South 40 chains to a white Oak, then West crossing Lick Creek 65 chains to a Black Oak, then North Crossing a fork of Lick Creek 40 chains on the said Bradford's line to a hickory, then along Bradford's line Crossing Lick Creek 65 cha: to the first station."
+
+**Citation:** State Archives of North Carolina, MARS database, via NC Land Grants Images and Data (nclandgrants.com) — Grant No. 38, Patent Book 14 page 334, File No. 336, Box SSLG 84F, MARS 12.13.84.22 / 12.14.95.333. https://nclandgrants.com/grant/?mars=12.14.95.333&qid=1328841&rn=1
+
 ### **Fiddleton Plantation**
 
   {{< img-float src="/images/fiddleton-plantation-scene.jpg" alt="Model of Robert Berry's Fiddleton Plantation" >}}
@@ -161,7 +168,7 @@ The location of the Plantation House, which was built in 1766, was about 200 yar
 
 Robert Berry was a great business person, which is substantiated by the fact that he accumulated about 1,002.25 acres of land in his lifetime:
 
-1. Original Granville Land Grant for 263 acres on December 3, 1753.
+1. Original Granville Land Grant for 260 acres on December 3, 1753.
 2. In 1785 he purchased 200 acres from John McCullough for 25 pounds 4 shillings Proclamation Money.
 3. In 1787 he purchased the Patrick Rutherford property of 247.25 acres adjoining the southern boundary of the land grant property from Patrick's three sons, William, James, and Thomas Rutherford. Orange County Deed Book 4, Page 518.
 4. Robert Berry was granted another 293 acres of land adjoining his east boundary on March 13, 1780. Orange County Deed Book 42, Page 19.
