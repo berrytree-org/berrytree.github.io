@@ -44,7 +44,6 @@ content_source: "wp-export"
 
 - [Basil Manley Berry Ga](/ancestors/basilmanleyberryga/)
 
-- [Ben’s Blog](/ancestors/bens-blog/)
 
 - [Benjamin Berry Henderson Sr.](/ancestors/benjamin-berry-henderson-sr/)
 

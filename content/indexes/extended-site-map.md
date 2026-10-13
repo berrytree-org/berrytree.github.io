@@ -162,11 +162,6 @@ Generation 3 Robert and Elizabeth Everitt Berry Berry
 
 Basil Manley Berry ...
 
-### **[Ben's Blog](/ancestors/bens-blog/)**
-
-
-I plan to add my thoughts to this page from time to time to keep you informed on what is new on our berrytree web page and also any news about our family. I suggest that you take a minute to check my Blog anytime you visit our Berrytree website. I ...
-
 ### **[Benjamin Berry Henderson Sr.](/ancestors/benjamin-berry-henderson-sr/)**
 
 
