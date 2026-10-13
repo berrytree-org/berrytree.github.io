@@ -388,5 +388,23 @@
     "category": "Infrastructure",
     "summary": "Two sources of truth codified — content CSV (252) + generated-pages.md (48) in CLAUDE.md",
     "scope": "CLAUDE.md + 1 new doc"
+  },
+  {
+    "date": "2026-10-13",
+    "category": "Bug Fix",
+    "summary": "Back-to-top button restored — legacy layouts/partials footer was ignored by current Hugo; merged into live _partials footer",
+    "scope": "2 files"
+  },
+  {
+    "date": "2026-10-13",
+    "category": "Infrastructure",
+    "summary": "Hugo deprecations resolved (locale + Language.Direction + hugo.Data) and deploy workflow pinned to Hugo 0.166.0",
+    "scope": "5 files"
+  },
+  {
+    "date": "2026-10-13",
+    "category": "Content",
+    "summary": "Ben's Blog entry removed from both site maps (page no longer exists)",
+    "scope": "2 files"
   }
 ]

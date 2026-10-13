@@ -8,7 +8,9 @@ CLAUDE.md
 README.md
 /resources/_gen/
 /.hugo_build.lock
-/.claude
+/.claude/
+/.archived/
+/memory/
 
 # OS
 .DS_Store
@@ -17,10 +19,30 @@ Thumbs.db
 # Large files (hosted externally)
 static/documents/Our_Berrys_In_Frontier_America.pdf
 static/documents/Wagons_South_Wagons_West.pdf
-Projects/larg_files/
+/Project/large_files/
 
 # Backup files
 *.old
+*.bak
+*.orig
+
+# Secrets and keys
+.env
+.env.*
+*.pem
+*.key
+id_*
+
+# Python
+__pycache__/
+*.pyc
+
+# Internal project files that must never reach the public repo
+/Projects/
+/CLAUDE*.md
+/README*.md
+/start_webserver*.sh
+/*.local.*
 
 # Editor
 .vscode/
