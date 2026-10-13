@@ -34,7 +34,7 @@ content_source: "book"
 
 The book carries its own bibliography of 34 sourced works, cited throughout the text by roman numeral (for example, "(III; p.4)"). That bibliography is reproduced here first, since the in-text citations don't make sense without it.
 
-This digital edition is being prepared for berrytree.org from a 2021 OCR scan of the original manuscript, and chapters are being added as they are checked. **We are searching for the descendants of Glenn Berry and for anyone who holds the rights to this book.** If that is you, or if you know the family, we would love to hear from you through our [Contact page](/contact/) so we can talk about including the book on this site.
+This digital edition is being prepared for berrytree.org from a 2021 OCR scan of the original manuscript, and chapters are being added as they are checked. **We are searching for the descendants of Glenn Berry and for anyone who holds the rights to this book.** If that is you, or if you know the family, we would love to hear from you through our [Contact page](/contact/) so we can talk about continuing to include the book on this site.
 
 <div class="book-begin">
   <a href="/books/wagons-south-wagons-west/bibliography/">Begin Reading</a>
